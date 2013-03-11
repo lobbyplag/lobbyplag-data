@@ -30,6 +30,10 @@ The file `directive.json` contains the textual parts of the GDPR in 23 languages
 }]
 ````
 
+### Languages
+
+The file `lang.json` contains an object of the official languages used in EU documents
+
 ### Countries
 
 The file `countries.json` contains the country names of EU member states.
