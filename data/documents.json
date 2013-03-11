@@ -1,0 +1,1750 @@
+[
+	{
+		"uid": "9cdc01733bb27c9b2a35a38e283a6fc0be0d5a7d",
+		"filename": "ACCIS-DP-Amendments-Position-Paper_FINAL.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 542518,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Barbara Ghizzoni",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1354876548,
+				"modified": 1354876548
+			},
+			"pages": 10
+		},
+		"id": 9,
+		"lobbyist": "accis",
+		"imported": true
+	},
+	{
+		"uid": "9c4d4c749cc9fbb9ba8a5e01c044ce0a1bbe1542",
+		"filename": "1212_EuroISPA_contribution.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 263917,
+		"data": {
+			"meta": {
+				"title": "Public Affairs proposal for NOC",
+				"author": ".",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1358770477,
+				"modified": null
+			},
+			"pages": 24
+		},
+		"id": 4,
+		"lobbyist": "euroispa",
+		"imported": true
+	},
+	{
+		"uid": "44c03fecef0704d8c41f9b0b2d62e40c8ed24c2c",
+		"filename": "20121026_Drafting-recommendations_IMCO-draft-opinion_final.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 247062,
+		"data": {
+			"meta": {
+				"title": "Facebook recommendations on the Internal Market and Consumer Affairs draft opinion on the European Commission’s proposal for a General Data Protection Regulation “on the protection of individuals with regard to the processing of personal data and on the",
+				"author": "Abtin Kronold",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1359397963,
+				"modified": null
+			},
+			"pages": 59
+		},
+		"id": 25,
+		"lobbyist": "facebook",
+		"imported": false
+	},
+	{
+		"uid": "9e7a02ac190149b19a7ad64733a4ea52310c7f32",
+		"filename": "D2153B-2012-EBF position onJURI draft opinion on EC Proposal for a Regulation on Data Protection.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 350202,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Alexa Steinmetz",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1353949052,
+				"modified": 1353949052
+			},
+			"pages": 15
+		},
+		"id": 26,
+		"lobbyist": "ebf",
+		"imported": false
+	},
+	{
+		"uid": "d64b261fbb8e1e4801a95621cb39a9d7b2f9de33",
+		"filename": "DDV_Änderungsvorschläge Redline 1 - 21.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 802694,
+		"data": {
+			"meta": {
+				"title": "_",
+				"author": " ",
+				"subject": " ",
+				"keywords": " "
+			},
+			"date": {
+				"created": 1360928710,
+				"modified": 1360930719
+			},
+			"pages": 22
+		},
+		"id": 27,
+		"lobbyist": "ddv",
+		"imported": false
+	},
+	{
+		"uid": "7db184415b3859700b4494280312657ace239d23",
+		"filename": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 249485,
+		"data": {
+			"meta": {
+				"title": "COCIR Amendments on the General Data Protection Regulation _ Final_25 October 2012",
+				"author": "IPK",
+				"subject": "",
+				"keywords": ""
+			},
+			"date": {
+				"created": 1351159986,
+				"modified": 1351159986
+			},
+			"pages": 15
+		},
+		"id": 28,
+		"lobbyist": "cocir",
+		"imported": false
+	},
+	{
+		"uid": "02e3fa6ee42d2d6dc35bde1580fb2e7da9e513ad",
+		"filename": "COM-Rapporteur-Bits of Freedom.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 257961,
+		"data": {
+			"meta": {
+				"title": "COM/Rapporteur/Bits of Freedom",
+				"author": "",
+				"subject": "",
+				"keywords": ""
+			},
+			"date": {
+				"created": 1360580013,
+				"modified": 1360580013
+			},
+			"pages": 20
+		},
+		"id": 23,
+		"lobbyist": "bof",
+		"imported": true
+	},
+	{
+		"uid": "b58bf51abd36659a2c3c3115ade5ea3838ef828a",
+		"filename": "CLOUD-Amendments-Telefónica-Nov.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 76419,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Telefonica",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1358772420,
+				"modified": null
+			},
+			"pages": 15
+		},
+		"id": 29,
+		"lobbyist": "telefonica",
+		"imported": false
+	},
+	{
+		"uid": "fbc66df791d956ef38c70e20295aefeddf009543",
+		"filename": "BT-Amendments-DP-Regulation-08112012-FIN.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 171468,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Gibbs",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1358775747,
+				"modified": null
+			},
+			"pages": 13
+		},
+		"id": 30,
+		"lobbyist": "bt",
+		"imported": false
+	},
+	{
+		"uid": "8df826028e366bdd0b9b6b497144c0a80ba1b364",
+		"filename": "BITKOM_Ams.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 297595,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": null,
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360253937,
+				"modified": 1360253937
+			},
+			"pages": 14
+		},
+		"id": 31,
+		"lobbyist": "bitkom",
+		"imported": false
+	},
+	{
+		"uid": "39d0a3ddfb2e81beca49cdc8d73d7f351772939e",
+		"filename": "BDIU_Stellungnahme_EU-DatenschutzGrundverordnung.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 274329,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Manfred Wirth",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1336732925,
+				"modified": 1336732925
+			},
+			"pages": 8
+		},
+		"id": 32,
+		"lobbyist": "bdiu",
+		"imported": false
+	},
+	{
+		"uid": "fddf74e061f3b8defaa4943498cf92e0f44de773",
+		"filename": "BITKOM_Amendments GDPR_final.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 298659,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": null,
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360928639,
+				"modified": 1360928639
+			},
+			"pages": 14
+		},
+		"id": 33,
+		"lobbyist": "bitkom",
+		"imported": false
+	},
+	{
+		"uid": "a4ed3b21474e353365fcc9a7aa9e6a68f0d2f328",
+		"filename": "Adobe_EU Vorschlag zur Datenschutz Grundverordnung Änderungsvorschläge 20120713.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 78409,
+		"data": {
+			"meta": {
+				"title": "Position on the COM (2008) 809 Recast",
+				"author": "jlageard",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1342184161,
+				"modified": 1342184174
+			},
+			"pages": 11
+		},
+		"id": 34,
+		"lobbyist": "adobe",
+		"imported": false
+	},
+	{
+		"uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"filename": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 212411,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "TechAmerica",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360928474,
+				"modified": 1360928474
+			},
+			"pages": 15
+		},
+		"id": 35,
+		"lobbyist": "agoria",
+		"imported": false
+	},
+	{
+		"uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"filename": "Amendments DP Regulation Bits of Freedom.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 243978,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Ot Daalen",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360580132,
+				"modified": 1360580132
+			},
+			"pages": 28
+		},
+		"id": 22,
+		"lobbyist": "bof",
+		"imported": false
+	},
+	{
+		"uid": "3406fd3682bfc999758ebf0e6d12e91615d0089c",
+		"filename": "D1391E-2012-EBF-Amendments-to-EC-Proposal-for-a-Regulation-on-Data-Protection-31.10.12.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 658175,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Alexa Steinmetz",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1352283406,
+				"modified": 1352283419
+			},
+			"pages": 67
+		},
+		"id": 5,
+		"lobbyist": "ebf",
+		"imported": true
+	},
+	{
+		"uid": "b23d078f2caa07170ad8ca9bebece7d8a89aaf81",
+		"filename": "BITKOM Self regulation.docx",
+		"lang": "de",
+		"mime": "application/msword",
+		"size": 388202,
+		"data": {
+			"meta": {
+				"title": "Stellungnahme",
+				"author": null,
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1361518288,
+				"modified": null
+			},
+			"pages": 12
+		},
+		"id": 11,
+		"lobbyist": "bitkom",
+		"imported": true
+	},
+	{
+		"uid": "cbe3b870cf86e0abb9dd763650583d052b0437d2",
+		"filename": "BITKOM Amendments.docx",
+		"lang": "en",
+		"mime": "application/msword",
+		"size": 70302,
+		"data": {
+			"meta": {
+				"title": "Stellungnahme",
+				"author": null,
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1361518285,
+				"modified": null
+			},
+			"pages": 12
+		},
+		"id": 10,
+		"lobbyist": "bitkom",
+		"imported": true
+	},
+	{
+		"uid": "1e62fa2267aa0812028a972edcd2d25aa6a41638",
+		"filename": "AMAZON-amendments.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 228396,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "mbon8887",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1358777851,
+				"modified": null
+			},
+			"pages": 41
+		},
+		"id": 1,
+		"lobbyist": "amazon",
+		"imported": true
+	},
+	{
+		"uid": "af1b507e6623544b936d5eb6d609c721432961de",
+		"filename": "ACCIS_Position Paper on Proposed Data Protection Regulation May 2012.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 467897,
+		"data": {
+			"meta": {
+				"title": "Microsoft Word - ACCIS Position Paper on Proposed Data Protection Regulation May 2012.doc",
+				"author": "axs56",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1336654184,
+				"modified": 1352798219
+			},
+			"pages": 44
+		},
+		"id": 36,
+		"lobbyist": "accis",
+		"imported": false
+	},
+	{
+		"uid": "ade3348fef6b5da3f2c63a13c618298f88759072",
+		"filename": "AmCham_EU_Proposed_Amendments_on_Data_Protection.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 1058810,
+		"data": {
+			"meta": {
+				"title": "AmCham EU Proposed Amendments on the ",
+				"author": "Roger Coehlo",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360084279,
+				"modified": 1360084279
+			},
+			"pages": 89
+		},
+		"id": 3,
+		"lobbyist": "amcham",
+		"imported": false
+	},
+	{
+		"uid": "9b7b9afc1615688d0d43b2e4d6cb753992a62011",
+		"filename": "Future of Privacy Forum White Paper on Jurisdiction.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 208596,
+		"data": {
+			"meta": {
+				"title": "FINAL Future of Privacy Forum White Paper on Jurisdiction and Applicable Law January 2013",
+				"author": "Omer Tene",
+				"subject": "",
+				"keywords": ""
+			},
+			"date": {
+				"created": 1358509253,
+				"modified": 1358509253
+			},
+			"pages": 10
+		},
+		"id": 18,
+		"lobbyist": "fpf",
+		"imported": false
+	},
+	{
+		"uid": "988ea126c87722fe556ad3a95ba34e5e72f799e0",
+		"filename": "Facebook.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 185539,
+		"data": {
+			"meta": {
+				"title": "20120423_FB-comments-data-protection-regulation_final",
+				"author": "Melina Violari",
+				"subject": "",
+				"keywords": ""
+			},
+			"date": {
+				"created": 1335361518,
+				"modified": 1335361518
+			},
+			"pages": 12
+		},
+		"id": 14,
+		"lobbyist": "facebook",
+		"imported": false
+	},
+	{
+		"uid": "1141b3217faa32bc7fb26929d48fe286f93aca50",
+		"filename": "FEAMSummaryDPR_ProposedAmendmentsNovember-2012.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 422187,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "intern",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1354790095,
+				"modified": 1354790095
+			},
+			"pages": 9
+		},
+		"id": 37,
+		"lobbyist": "feam",
+		"imported": false
+	},
+	{
+		"uid": "3059a3449e3fa1361d4f68f7ced7269e6d4283db",
+		"filename": "Future of Privacy Forum White Paper on De-Id.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 191340,
+		"data": {
+			"meta": {
+				"title": "FINAL Future of Privacy Forum White Paper on De-Id January 2013",
+				"author": "Omer Tene",
+				"subject": "",
+				"keywords": ""
+			},
+			"date": {
+				"created": 1358506999,
+				"modified": 1358506999
+			},
+			"pages": 7
+		},
+		"id": 17,
+		"lobbyist": "fpf",
+		"imported": false
+	},
+	{
+		"uid": "db7a983458127133a9f516ae9f90b489c960caa5",
+		"filename": "FEAM-proposed-amendments-on-the-EC-Data-Protection-Regulation.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 247264,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "intern",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1354884661,
+				"modified": 1354884661
+			},
+			"pages": 6
+		},
+		"id": 38,
+		"lobbyist": "feam",
+		"imported": false
+	},
+	{
+		"uid": "bf5a2ec9c7e7163177f416c071c153ef62b87870",
+		"filename": "Equifax_Proposed Amendments.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 765272,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Vincenzo Conforti",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360929017,
+				"modified": 1360931097
+			},
+			"pages": 10
+		},
+		"id": 39,
+		"lobbyist": "equifax",
+		"imported": false
+	},
+	{
+		"uid": "ea9cc7eb2e75ad914db5773186095855478a3e97",
+		"filename": "Eurofinas-amendments-final.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 771133,
+		"data": {
+			"meta": {
+				"title": "Eurofinas proposals for amendments on the IMCO draft report on a new strategy for Consumer Policy (2011/2149(INI))",
+				"author": "Delava  Anke (Eurofinas)",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1352143447,
+				"modified": 1352143447
+			},
+			"pages": 61
+		},
+		"id": 6,
+		"lobbyist": "eurofinas",
+		"imported": true
+	},
+	{
+		"uid": "e1c0378d2e9ec590f0260a69cd49f390ed1014e0",
+		"filename": "ESBA - ACT Position Paper.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 400477,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "GPA staff laptop 1",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1354118037,
+				"modified": 1354118037
+			},
+			"pages": 3
+		},
+		"id": 13,
+		"lobbyist": "esba",
+		"imported": false
+	},
+	{
+		"uid": "ebd58d5ccb629b6e9be6243ff47308957aad5903",
+		"filename": "ESBA - ACT Amendments.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 662517,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "ESBA Laptop 2012",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1354118049,
+				"modified": 1354118049
+			},
+			"pages": 15
+		},
+		"id": 12,
+		"lobbyist": "esba",
+		"imported": false
+	},
+	{
+		"uid": "e8006ef149d7a5f24b7cbbce29b4ba0c0d1aa946",
+		"filename": "GDV_Stellungnahme Art. 73 bis 78.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 730876,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Mathes, Hanna",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1358256667,
+				"modified": 1360931611
+			},
+			"pages": 5
+		},
+		"id": 40,
+		"lobbyist": "gdv",
+		"imported": false
+	},
+	{
+		"uid": "d0c1fc7c93faee57711ee480da4e03ab4c41861f",
+		"filename": "Equifax_kontaktdaten.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 387633,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Vincenzo Conforti",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360929005,
+				"modified": 1360932269
+			},
+			"pages": 10
+		},
+		"id": 41,
+		"lobbyist": "equifax",
+		"imported": false
+	},
+	{
+		"uid": "308698917a345d2ccf4e7109dd717072560c3444",
+		"filename": "DIGITALEUROPE_Amendments-to-Data-Protection-Regulation_final.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 1291830,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Anna-Verena Naether",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1351764426,
+				"modified": 1351764426
+			},
+			"pages": 104
+		},
+		"id": 7,
+		"lobbyist": "digitaleurope",
+		"imported": false
+	},
+	{
+		"uid": "4b9d1cbb73631703ac54f9966d1b4ccd23b65df6",
+		"filename": "Future of Privacy Forum White Paper on Consent.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 209449,
+		"data": {
+			"meta": {
+				"title": "FINAL Future of Privacy Forum White Paper on Consent January 2013",
+				"author": "Omer Tene",
+				"subject": "",
+				"keywords": ""
+			},
+			"date": {
+				"created": 1358507017,
+				"modified": 1358507017
+			},
+			"pages": 11
+		},
+		"id": 16,
+		"lobbyist": "fpf",
+		"imported": false
+	},
+	{
+		"uid": "44115df3772c4d466a2296186edd698823e1ee26",
+		"filename": "DGB_Ergänzg _EMPL-ÄndAntr_DS-GVO-E_2012-12-03.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 37052,
+		"data": {
+			"meta": {
+				"title": "(Microsoft Word - v-hy-DGB-Erg\\344nzg _EMPL-\\304ndAntr_DS-GVO-E_2012-12-03.doc)",
+				"author": "zdemir",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1354531374,
+				"modified": 1354531374
+			},
+			"pages": 3
+		},
+		"id": 42,
+		"lobbyist": "dgb",
+		"imported": false
+	},
+	{
+		"uid": "f05bc166d96350f62f1326d24297f3cb8d6cfddb",
+		"filename": "DGRI_120220-stellungnahme-dgri.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 132251,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": null,
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1329903757,
+				"modified": 1329903757
+			},
+			"pages": 5
+		},
+		"id": 43,
+		"lobbyist": "dgri",
+		"imported": false
+	},
+	{
+		"uid": "bd28a84688aa1eb7f83872a6e86155528516efde",
+		"filename": "First Data.docx",
+		"lang": "en",
+		"mime": "application/msword",
+		"size": 41959,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": null,
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1361518289,
+				"modified": null
+			},
+			"pages": 13
+		},
+		"id": 15,
+		"lobbyist": "firstdata",
+		"imported": false
+	},
+	{
+		"uid": "ba5f2f5abe0f4d1dab6c99c57645ce6326da659b",
+		"filename": "Position-paper_eBay-Inc_ITRE-opinion-on-data-protection-regulation.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 153072,
+		"data": {
+			"meta": {
+				"title": "Position paper_eBay Inc_ITRE opinion on data protection regulation",
+				"author": "cvasile",
+				"subject": "",
+				"keywords": ""
+			},
+			"date": {
+				"created": 1355760937,
+				"modified": 1355760937
+			},
+			"pages": 9
+		},
+		"id": 44,
+		"lobbyist": "ebay",
+		"imported": false
+	},
+	{
+		"uid": "3ae793ceeaa71d43fda22d818fdcaeb51000abde",
+		"filename": "Opower_position_EU-Data-Privacy-Reform_October_2012_final.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 427302,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Mars Hanna",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1350066923,
+				"modified": 1350066923
+			},
+			"pages": 3
+		},
+		"id": 45,
+		"lobbyist": "opower",
+		"imported": false
+	},
+	{
+		"uid": "75aac5a3ef2033854319c41788ff33f9e3dd194b",
+		"filename": "Eurofinas-position-on-ITRE-draft-opinion.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 153297,
+		"data": {
+			"meta": {
+				"title": "26 October 2011 FSB Report on Consumer Finance Protection with particular focus on credit",
+				"author": "jn",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1358766025,
+				"modified": null
+			},
+			"pages": 6
+		},
+		"id": 46,
+		"lobbyist": "eurofinas",
+		"imported": false
+	},
+	{
+		"uid": "5c98e0f7cd9a1fb724f2f840deb8dd727b255bf8",
+		"filename": "Microsoft_final Änderungsvorschläge EU-Datenschutzgrundverordnung.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 1026783,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Fink, David",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1358786853,
+				"modified": 1360932368
+			},
+			"pages": 30
+		},
+		"id": 47,
+		"lobbyist": "microsoft",
+		"imported": false
+	},
+	{
+		"uid": "543464bca75d49739099858917cc9c415f20ab59",
+		"filename": "Kirchen_Data Protection Suggestions.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 216874,
+		"data": {
+			"meta": {
+				"title": "Microsoft Word - 120110 Data Protection Suggestions.doc",
+				"author": "Alessandro Calcagno",
+				"subject": null,
+				"keywords": ""
+			},
+			"date": {
+				"created": 1326298556,
+				"modified": 1360932194
+			},
+			"pages": 5
+		},
+		"id": 48,
+		"lobbyist": "comece",
+		"imported": false
+	},
+	{
+		"uid": "4884bd83eee5305a14a6842d24f940665c8c7332",
+		"filename": "Kirchen_StellungnahmeEU Datenschutzgrundverordnung 09 11 2012endg.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 574956,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Uta",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1352724848,
+				"modified": 1360932227
+			},
+			"pages": 9
+		},
+		"id": 49,
+		"lobbyist": "ekd-dbk",
+		"imported": false
+	},
+	{
+		"uid": "360ab94fce0e4a2700244c0213ce744775023340",
+		"filename": "HDE_Stellungnahme Datenschutz-VO-final-Sept.2012.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 264778,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Schneider",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1347632075,
+				"modified": 1347632075
+			},
+			"pages": 15
+		},
+		"id": 50,
+		"lobbyist": "hde",
+		"imported": false
+	},
+	{
+		"uid": "59457eefa239b3316ca4c714b3afc082da2afbb8",
+		"filename": "International Chamber of Commerce.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 144153,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "rmn",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1358352006,
+				"modified": 1358352006
+			},
+			"pages": 6
+		},
+		"id": 19,
+		"lobbyist": "icc",
+		"imported": false
+	},
+	{
+		"uid": "cc2c774538b686821f35a94d826afa600aeaada4",
+		"filename": "Gesetzl Krankenkassen_Stellungnahme DS-GVO.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 171733,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": null,
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360930130,
+				"modified": 1360930134
+			},
+			"pages": 9
+		},
+		"id": 51,
+		"lobbyist": "gkv",
+		"imported": false
+	},
+	{
+		"uid": "9e54ef516a1a737a2748af8b4e6c7dc388762452",
+		"filename": "EDRi Amendments.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 11236476,
+		"data": {
+			"meta": {
+				"title": "position paper - en",
+				"author": "Konteas Ilias",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360959282,
+				"modified": 1360959282
+			},
+			"pages": 122
+		},
+		"id": 24,
+		"lobbyist": "edri",
+		"imported": true
+	},
+	{
+		"uid": "96fdae5f214f61dd126ecb7867f476aa8e5ad1f0",
+		"filename": "GDV_Tabelle_Datenschutz-Grundverordnung_Anmerkungen und Änderungsvorschläge_(Art  1-10).pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 951286,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "heberho",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360929401,
+				"modified": 1360931615
+			},
+			"pages": 16
+		},
+		"id": 52,
+		"lobbyist": "gdv",
+		"imported": false
+	},
+	{
+		"uid": "51f7f74e5e4dcb26d95520925bed44d916e9f698",
+		"filename": "GDV_Tabelle Datenschutzgrundverordnung_Anmerkungen und Änderungsvor....pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 708237,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Mathes, Hanna",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360929334,
+				"modified": 1360931613
+			},
+			"pages": 4
+		},
+		"id": 53,
+		"lobbyist": "gdv",
+		"imported": false
+	},
+	{
+		"uid": "be954b6d8f3e699b1594e433f8c0df9a94ef0d46",
+		"filename": "GDV_Tabelle_Datenschutz.Grundverordnung_Anmerkungen und Änderungsvorschläge (Art 22-37).pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 918295,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Geraldine Carrara",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360929379,
+				"modified": 1360931614
+			},
+			"pages": 20
+		},
+		"id": 54,
+		"lobbyist": "gdv",
+		"imported": false
+	},
+	{
+		"uid": "d57d0e93d1ff3f9f05c263bd19d886cfb07deae4",
+		"filename": "INTEL_Amendments_Data Protection_Tech neutrality and lawfulness of processing.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 371132,
+		"data": {
+			"meta": {
+				"title": "PR_COD_1amCom",
+				"author": "rgrima",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360929651,
+				"modified": 1360932021
+			},
+			"pages": 8
+		},
+		"id": 55,
+		"lobbyist": "intel",
+		"imported": false
+	},
+	{
+		"uid": "a7d71f9283e20d2abc9f25f5c6ebfa16120db8c3",
+		"filename": "GDV_Tabelle Datenschutzgrundverordnung_Anmerkungen und Änderungsvo....pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 802462,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Mathes, Hanna",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360929303,
+				"modified": 1360931613
+			},
+			"pages": 10
+		},
+		"id": 56,
+		"lobbyist": "gdv",
+		"imported": false
+	},
+	{
+		"uid": "770b6246dd4e40aa745a9d3508fe3e4c93359037",
+		"filename": "ITRE-submission.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 186984,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Maeve Butler",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1355476541,
+				"modified": 1355476541
+			},
+			"pages": 3
+		},
+		"id": 57,
+		"lobbyist": "leaseurope",
+		"imported": false
+	},
+	{
+		"uid": "b755e31f612caabe063e65be961bde77c9d33f9a",
+		"filename": "DGB_Änderungsvorschläge zum DS-GVO-E_2012-12-07.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 71224,
+		"data": {
+			"meta": {
+				"title": "(Microsoft Word - s-hy-DGB-\\304nderungsvorschl\\344ge zum DS-GVO-E_2012-12-07.doc)",
+				"author": "RHayen",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1355488243,
+				"modified": 1355488243
+			},
+			"pages": 11
+		},
+		"id": 58,
+		"lobbyist": "dgb",
+		"imported": false
+	},
+	{
+		"uid": "08ceb39645eb9b7775ba08d4b902b5d668b14af9",
+		"filename": "Microsoft_final DP amendments.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 995296,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Fink, David",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1358843732,
+				"modified": 1360932403
+			},
+			"pages": 27
+		},
+		"id": 59,
+		"lobbyist": "microsoft",
+		"imported": false
+	},
+	{
+		"uid": "cdc881eb28cf5ac9cc81c193e97ed3d081c42e2a",
+		"filename": "Insurance-Europe-suggested-amendments-on-Data-Protection-draft-Regulation.docx",
+		"lang": "en",
+		"mime": "application/msword",
+		"size": 27164,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Dorota Boruc",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1361518289,
+				"modified": null
+			},
+			"pages": 3
+		},
+		"id": 60,
+		"lobbyist": "insuranceeurope",
+		"imported": false
+	},
+	{
+		"uid": "56dbb0f5056e77e4e019f5bd7a8b2d6e3b4f26f9",
+		"filename": "Microsoft.docx",
+		"lang": "en",
+		"mime": "application/msword",
+		"size": 62826,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": null,
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1361518287,
+				"modified": null
+			},
+			"pages": 23
+		},
+		"id": 20,
+		"lobbyist": "microsoft",
+		"imported": true
+	},
+	{
+		"uid": "5e7ffbd769634520981d2e87b82c91bda5eb26a0",
+		"filename": "GDV_Tabelle_Datenschutz.Grundverordnung_Anmerkungen und Änderungsvorschläge (Art 11-21).pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 902255,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Geraldine Carrara",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360929358,
+				"modified": 1360931613
+			},
+			"pages": 17
+		},
+		"id": 61,
+		"lobbyist": "gdv",
+		"imported": false
+	},
+	{
+		"uid": "97c52f2b7274ebae08871e6d56f48031fcf39c90",
+		"filename": "GDV_Stellungnahme Artikel 79.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 799424,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Mathes, Hanna",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1357664976,
+				"modified": 1360931611
+			},
+			"pages": 5
+		},
+		"id": 62,
+		"lobbyist": "gdv",
+		"imported": false
+	},
+	{
+		"uid": "612208c44b5bc1e173035b5426d38a944a2cfeed",
+		"filename": "eBay-recommendation-ahead-of-IMCO-vote.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 509399,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Agata",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1359461087,
+				"modified": 1359461087
+			},
+			"pages": 6
+		},
+		"id": 63,
+		"lobbyist": "ebay",
+		"imported": false
+	},
+	{
+		"uid": "4bf85fcd7df23be09260019a5377b9da5458d7cd",
+		"filename": "facebook_imco.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 819896,
+		"data": {
+			"meta": {
+				"title": "Facebook recommendations on the Internal Market and Consumer Affairs draft opinion on the European Commission’s proposal for a General Data Protection Regulation “on the protection of individuals with regard to the processing of personal data and on the",
+				"author": "Abtin Kronold",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1359460987,
+				"modified": 1359460987
+			},
+			"pages": 51
+		},
+		"id": 64,
+		"lobbyist": "facebook",
+		"imported": false
+	},
+	{
+		"uid": "e2c9f316e46088edfd325d47f98dff4a7f444ba7",
+		"filename": "bvh_SN_EU-DSGVO_v2.0.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 259908,
+		"data": {
+			"meta": {
+				"title": "121101_bvh_SN_EU-DSGVO_v2.0",
+				"author": "sschulz",
+				"subject": "",
+				"keywords": ""
+			},
+			"date": {
+				"created": 1352285534,
+				"modified": 1352285534
+			},
+			"pages": 21
+		},
+		"id": 65,
+		"lobbyist": "bvh",
+		"imported": false
+	},
+	{
+		"uid": "61da5630772d346177a519ba8e16574d4a7ea2f9",
+		"filename": "bmi_auskunft.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 298611,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": null,
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360928618,
+				"modified": 1360928618
+			},
+			"pages": 14
+		},
+		"id": 66,
+		"lobbyist": "bitkom",
+		"imported": false
+	},
+	{
+		"uid": "f931c7c1708e22f3d70bf7b9b399e726ba4575f7",
+		"filename": "Yahoo on Pseudonymous Data.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 88707,
+		"data": {
+			"meta": {
+				"title": "Microsoft Word - Yahoo! Rationale for Pseudonymous Data December 2012.docx",
+				"author": "sherwooc",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1356093519,
+				"modified": 1356093519
+			},
+			"pages": 5
+		},
+		"id": 21,
+		"lobbyist": "yahoo",
+		"imported": false
+	},
+	{
+		"uid": "1bebffa9ff7312b611c597f5cdaa718fd09fbee5",
+		"filename": "ZDH_Änderungsanträge.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 122235,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Peifer, Dr. Markus",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360934148,
+				"modified": 1360934209
+			},
+			"pages": 3
+		},
+		"id": 67,
+		"lobbyist": "zdh",
+		"imported": false
+	},
+	{
+		"uid": "729a8f3034f8b031805fc9d1175cab9b5b0571b1",
+		"filename": "ZAW_Änderungsanträge Artikel 17-18-21+.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 346217,
+		"data": {
+			"meta": {
+				"title": "Artikel 4",
+				"author": "Nitsche",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360933966,
+				"modified": 1360934112
+			},
+			"pages": 29
+		},
+		"id": 68,
+		"lobbyist": "zaw",
+		"imported": false
+	},
+	{
+		"uid": "665f3a28dbe103b107261b4dc9d155fd15d6ecac",
+		"filename": "amendment_proposals_draft_general-data_protection_regulation_20120831.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 789313,
+		"data": {
+			"meta": {
+				"title": "amendment_proposals_draft_general-data_protection_regulation_2012083",
+				"author": "...",
+				"subject": "...",
+				"keywords": "..."
+			},
+			"date": {
+				"created": null,
+				"modified": null
+			},
+			"pages": 22
+		},
+		"id": 69,
+		"lobbyist": null,
+		"imported": false
+	},
+	{
+		"uid": "884a97091b1d815bb0c6fae323dd8bd0828d97cd",
+		"filename": "VdH_Stellungnahme_EU-DSGVO.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 104385,
+		"data": {
+			"meta": {
+				"title": "Microsoft Word - 2012_04_23_Stellungnahme_VdH_Voss",
+				"author": "steppenh",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1335279736,
+				"modified": 1335279736
+			},
+			"pages": 8
+		},
+		"id": 70,
+		"lobbyist": "vdh",
+		"imported": false
+	},
+	{
+		"uid": "4bf06d58bd4bfcf3640bd7abfefc1f37e3c6ec30",
+		"filename": "Proposals for amendments_Anonymous Data and Pseudonymous Data.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 141223,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "trainee",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360933751,
+				"modified": 1360933751
+			},
+			"pages": 3
+		},
+		"id": 71,
+		"lobbyist": null,
+		"imported": false
+	},
+	{
+		"uid": "1c48b1259f552095c1c46ca78f6e923b16faf3af",
+		"filename": "amazon_letter_26_1.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 230642,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "mbon8887",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1358777851,
+				"modified": 1359317164
+			},
+			"pages": 41
+		},
+		"id": 72,
+		"lobbyist": "amazon",
+		"imported": false
+	},
+	{
+		"uid": "f18c0232e09d744b8c4ac80217f5c0e142b88fab",
+		"filename": "Proposals for amendments_Aggregate Data Reports.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 280422,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": null,
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360933689,
+				"modified": 1360933689
+			},
+			"pages": 5
+		},
+		"id": 73,
+		"lobbyist": null,
+		"imported": false
+	},
+	{
+		"uid": "39a04b82ed098701ce98ac9a8f6f03eea8cc92c2",
+		"filename": "Position-paper_eBay-Inc_JURI-opinion-on-data-protection-regulation.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 180506,
+		"data": {
+			"meta": {
+				"title": "Position paper_eBay Inc_JURI opinion on data protection regulation",
+				"author": "cvasile",
+				"subject": "",
+				"keywords": ""
+			},
+			"date": {
+				"created": 1353419179,
+				"modified": 1353419179
+			},
+			"pages": 13
+		},
+		"id": 8,
+		"lobbyist": "ebay",
+		"imported": true
+	},
+	{
+		"uid": "f63f2dfb5a3ba40b726c8ac5467b9a148b35d603",
+		"filename": "VDZ_endg Formulierungsvorschläge_DSVO.pdf",
+		"lang": "de",
+		"mime": "application/pdf",
+		"size": 598036,
+		"data": {
+			"meta": {
+				"title": "Politik, Wirtschaft und Gesellschaft",
+				"author": "Nitsche",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1360933775,
+				"modified": 1360933816
+			},
+			"pages": 35
+		},
+		"id": 74,
+		"lobbyist": "vdz",
+		"imported": false
+	},
+	{
+		"uid": "d9168848dec7c9ef437b1488bb0222cf45d71ce0",
+		"filename": "eBay-recommendation-ahead-of-IMCO-vote.doc",
+		"lang": "en",
+		"mime": "application/msword",
+		"size": 69120,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Agata",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1361518289,
+				"modified": null
+			},
+			"pages": 6
+		},
+		"id": 2,
+		"lobbyist": "ebay",
+		"imported": false
+	},
+	{
+		"uid": "b1131b7ebef5a39c6650162366259e0fe3b66db7",
+		"filename": "Set-of-Amendments-implementing-the-Accountability-Principle-into-Law-Nov-2012-3pdf.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 486195,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Baumann Leo (Nokia/Brussels)",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1352213889,
+				"modified": 1359898287
+			},
+			"pages": 21
+		},
+		"id": 75,
+		"lobbyist": "nokia",
+		"imported": false
+	},
+	{
+		"uid": "51e24e71bb73bf155c6bafc915d3474ea30c0d3b",
+		"filename": "Telefonica-Amendments-on-GDPR-Proposal.pdf",
+		"lang": "en",
+		"mime": "application/pdf",
+		"size": 232169,
+		"data": {
+			"meta": {
+				"title": null,
+				"author": "Fernando Herrera González",
+				"subject": null,
+				"keywords": null
+			},
+			"date": {
+				"created": 1358772538,
+				"modified": null
+			},
+			"pages": 53
+		},
+		"id": 76,
+		"lobbyist": "telefonica",
+		"imported": false
+	}
+]
