@@ -15,19 +15,20 @@ The folfer `data` contains the pretty and usable open data.
 The file `directive.json` contains the textual parts of the GDPR in 23 languages and in structured form.
 
 ```` javascript
-[{
-	"id": "h1", 		// the id of the element
-	"type": "title",	// title, recital, chapter, section, article, paragraph, point or text
-	"literal": null,	// the "a" in "point a)" or "I" in "Chapter I", null if none
-	"parent": "_",		// the id of the parent, "_" for top level elements
-	"children": [],		// an array of the ids of all children elements
-	"text": {			// object contaning the texts
-		"en": "...",	// key is the language
-		"de": "..."		// value is the text
-	}
-},{
-	// another element
-}]
+[
+	{
+		"id": "h1", 		// the id of the element
+		"type": "title",	// title, recital, chapter, section, article, paragraph, point or text
+		"literal": null,	// the "a" in "point a)" or "I" in "Chapter I", null if none
+		"parent": "_",		// the id of the parent, "_" for top level elements
+		"children": [],		// an array of the ids of all children elements
+		"text": {			// object contaning the texts
+			"en": "...",	// key is the language
+			"de": "..."		// value is the text
+		}
+	},
+	// ...
+]
 ````
 
 ### Members of the European Parliament
@@ -43,9 +44,7 @@ The file `mep.json` contains all currently active members of the European Parlia
 		"lqdn": "http://...",	// Link to LQDN Memopol or null
 		"agw": "http://..."		// Link to Abgeordnetenwatch or null
 	},
-	"id": {
-		// ...
-	}
+	// ...
 }
 ````
 
@@ -90,7 +89,8 @@ The file `groups.json` contains the an object of groups in the EU Parliament.
 		"short": "EPP",						// short name
 		"long": "European People's Party",	// long name
 		"mep": 271							// number of MEPs
-	}
+	},
+	// ...
 }
 ````
 
