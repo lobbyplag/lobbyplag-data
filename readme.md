@@ -36,7 +36,7 @@ The file `mep.json` contains all currently active members of the European Parlia
 
 ```` javascript
 {
-	"id": {						// ID
+	"id": {						// ID (name with upper-case family names, as used by the EU)
 		"name": "Name",			// Name
 		"country": "de",		// [Country Code](countries.json)
 		"group": "ecr",			// [Group](groups.json)
@@ -62,10 +62,35 @@ The file `mep.aliases.json` contains Name variants used in EU Documents and rela
 
 The file `lang.json` contains an object of the official languages used in EU documents
 
+```` javascript
+{
+	"de": "Deutsch", 	// iso-639-1 code ➔ languages own name
+	// ...
+}
+````
+
 ### Countries
 
-The file `countries.json` contains the country names of EU member states.
+The file `countries.json` contains the country names of EU member states. Please note that Great Britain uses UK.
+
+```` javascript
+{
+	"de": "Germany", 	// iso-3166-1 alpha-2 code ➔ country name (english)
+	// ...
+}
+````
 
 ### Groups
 
 The file `groups.json` contains the an object of groups in the EU Parliament.
+
+```` javascript
+{
+	"epp": {								// id (lower-case ascii representation of short name)
+		"short": "EPP",						// short name
+		"long": "European People's Party",	// long name
+		"mep": 271							// number of MEPs
+	}
+}
+````
+
