@@ -1,0 +1,42 @@
+{
+	"epp": {
+		"short": "EPP",
+		"long": "European People's Party",
+		"mep": 271
+	},
+	"sd": {
+		"short": "S&D",
+		"long": "Progressive Alliance of Socialists and Democrats",
+		"mep": 189
+	},
+	"alde": {
+		"short": "ALDE",
+		"long": "Alliance of Liberals and Democrats for Europe",
+		"mep": 85
+	},
+	"greens-efa": {
+		"short": "Greens/EFA",
+		"long": "The Greens – European Free Alliance ",
+		"mep": 59
+	},
+	"ecr": {
+		"short": "ECR",
+		"long": "European Conservatives and Reformists",
+		"mep": 52
+	},
+	"efd": {
+		"short": "EFD",
+		"long": "Europe of Freedom and Democracy",
+		"mep": 34
+	},
+	"gue-ngl": {
+		"short": "GUE/NGL",
+		"long": "European United Left – Nordic Green Left",
+		"mep": 34
+	},
+	"ni": {
+		"short": "NI",
+		"long": "Non-Inscrits",
+		"mep": 30
+	}
+}
