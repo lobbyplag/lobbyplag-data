@@ -4,7 +4,7 @@ This repository contains all the data [LobbyPlag](http://www.lobbyplag.eu/) is b
 
 ## Raw data
 
-The folder `raw` contains the data sources like lobby papers or EU documents in arbitrary formats.
+The folder `raw` contains the data sources like lobby papers in arbitrary formats.
 
 ## Open Data
 
