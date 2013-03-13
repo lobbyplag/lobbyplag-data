@@ -42,10 +42,10 @@ The file `proposals.json` contains proposals by [Lobbyists](#lobbyists) entities
 		"doc_uid": "d0c1d...",		// uid of the proposals source [Document](#documents)
 		"page": "2",				// the proposals page number in the source [Document](#documents)
 		"text": {
-			"old": "(1) old text",	// the original text in the directive written in the [Document](#documents)
+			"old": "(1) old text",	// the original text of the directive written in the [Document](#documents)
 			"new": "(1) new text",	// the proposed text
 			"del": ["old"],			// array of deleted bits of text
-			"ins": ["new"]			// array of iserted bits of text
+			"ins": ["new"]			// array of inserted bits of text
 		},
 		"diff": "<span>(1) </span><del>old</del><ins>new</ins><span> text</span>", // diff with html markup
 		"relations": ["a4i1"]		// which parts of the [Directive](#directive) the proposal relates to
