@@ -1,0 +1,455 @@
+[
+	{
+		"id": "accis",
+		"title": "ACCIS",
+		"url": "http://www.accis.eu/",
+		"description": {
+			"en": "Association of Consumer Credit Information Suppliers. Established in Dublin in 1990, it currently brings together 37 consumer credit reference agencies in 27 European countries and 5 associate members from all other continents. ACCIS IVZW is since 2006 a registered International non-profit association under Belgian law.",
+			"de": "Association of Consumer Credit Information Suppliers. Gegründet in Dublin im Jahr 1990, seit 2006 registriert als nicht gewinnorientierte Vereinigung in Belgien. Vereinigt derzeit 37 Kreditauskunft-Dienste in 27 europäischen Staaten und fünf assoziierte Mitglieder aus dem Rest der Welt."
+		},
+		"relations": []
+	},
+	{
+		"id": "amazon",
+		"title": "Amazon",
+		"url": "http://www.amazon.com/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "amcham",
+		"title": "American Chamber of Commerce",
+		"url": "http://www.amchameu.eu/",
+		"description": {
+			"en": "The American Chamber of Commerce represents the interest of US businesses in the United States and abroad. It represents about 3 million businesses",
+			"de": "Die US-Handelskammer (American Chamber of Commerce, AmCham) vertritt die Interessen von etwa 3 Mio. US-Unternehmen in aller Welt."
+		},
+		"relations": []
+	},
+	{
+		"id": "bitkom",
+		"title": "BITKOM",
+		"url": "http://www.bitkom.org/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "bof",
+		"title": "Bits of Freedom",
+		"url": "https://www.bof.nl/",
+		"description": {
+			"en": "Bits of Freedom is a digital rights organizations from the Netherlands and associated with European Digital Rights (EDRi)",
+			"de": "Bits of Freedom is a digital rights organizations from the Netherlands and associated with European Digital Rights (EDRi)"
+		},
+		"relations": [
+			"edri"
+		]
+	},
+	{
+		"id": "digitaleurope",
+		"title": "DIGITALEUROPE",
+		"url": "http://www.digitaleurope.org/",
+		"description": {
+			"en": "Represents IT Industry operating in Europe, many members are US or Asian technology companies like Microsoft, Apple, Dell, Samsung or LG.",
+			"de": "Vertritt Technologie-Konzerne, die in Europa tätig sind, viele davon aus den USA und Asien. Mitglieder sind zum Beispiel Microsoft, Apple, Dell, Samsung und LG."
+		},
+		"relations": [
+			"microsoft",
+			"nokia"
+		]
+	},
+	{
+		"id": "euroispa",
+		"title": "EuroISPA",
+		"url": "http://www.euroispa.org/",
+		"description": {
+			"en": "Represents European associations of Internet Service Providers (ISP), but also companies like Google, Facebook, Microsoft or eBay",
+			"de": "Europäische Vereinigung von Internet-Providern, vertritt aber auch Firmen wie Google, Facebook, Microsoft und eBay"
+		},
+		"relations": [
+			"facebook",
+			"microsoft",
+			"ebay",
+			"amazon",
+			"yahoo"
+		]
+	},
+	{
+		"id": "ebf",
+		"title": "European Banking Federation",
+		"url": "http://www.ebf-fbe.eu/",
+		"description": {
+			"en": "The European Banking Federation claims to be \"the voice of European banks\" and represents 4.500 banks in Brussels.",
+			"de": "Die European Banking Federation sieht sich als  \"die Stimme der europäischen Banken\" und vertritt in Brüssel 4.500 Geldhäuser."
+		},
+		"relations": []
+	},
+	{
+		"id": "eurofinas",
+		"title": "eurofinas",
+		"url": "http://www.eurofinas.org/",
+		"description": {
+			"en": "Eurofinas claims to be the voice of the specialized consumer credit providers in Europe.",
+			"de": "Eurofinas vertritt spezialiserte Kreditauskunft-Dienste in Europa."
+		},
+		"relations": []
+	},
+	{
+		"id": "edri",
+		"title": "European Digital Rights",
+		"url": "http://www.edri.org/",
+		"description": {
+			"en": "European Digital Rights (EDRi) is an association of 32 privacy and civil rights organisations in Europe.",
+			"de": "European Digital Rights (EDRi) ist ein Zusammenschluss von 32 Datenschutz- und Bürgerrechtsorganisationen in Europa"
+		},
+		"relations": [
+			"bof"
+		]
+	},
+	{
+		"id": "ebay",
+		"title": "eBay",
+		"url": "http://www.ebayinc.com/",
+		"description": {
+			"en": "Operator and owner of the worlds biggest online auctions platform",
+			"de": "Betreiber des weltweit größten Internet-Ausktionshauses"
+		},
+		"relations": []
+	},
+	{
+		"id": "esba",
+		"title": "European Small Business Alliance",
+		"url": "http://www.esba-europe.org/",
+		"description": {
+			"en": "Federatin of european small business organisations",
+			"de": "Vereinigung europäischer Mittelstands-Verbände."
+		},
+		"relations": []
+	},
+	{
+		"id": "facebook",
+		"title": "Facebook",
+		"url": "http://www.facebook.com/facebook",
+		"description": {
+			"en": "Facebook operator and owner of the homonymous social network",
+			"de": "Facebook Betreiber des gleichnamigen soziales Netzwerks"
+		},
+		"relations": []
+	},
+	{
+		"id": "fpf",
+		"title": "Future of Privacy Forum",
+		"url": "http://www.futureofprivacy.org/",
+		"description": {
+			"en": "The Future of Privacy Forum is an economy-supported think tank, arguing for liberal privacy regulations and self-regulation of the industry",
+			"de": "Das Future of Privacy Forum ist ein durch die Wirtschaft unterstützter Think Tank, der für liberale Datenschutzbestimmungen und Selbsregulierung der Industrie eintritt"
+		},
+		"relations": []
+	},
+	{
+		"id": "icc",
+		"title": "International Chamber of Commerce",
+		"url": "http://www.iccwbo.org/",
+		"description": {
+			"en": "The International Chamber of Commerce is an international organisation, representing the interessen of the economy.",
+			"de": "Die International Chamber of Commerce (Internationale Handelskammer) ist eine internationale Organisation, die die Interessen der Wirtschaft vertritt."
+		},
+		"relations": []
+	},
+	{
+		"id": "microsoft",
+		"title": "Microsoft",
+		"url": "http://www.microsoft.com/",
+		"description": {
+			"en": "Microsoft ist the worlds biggest software manufacturer",
+			"de": "Microsoft ist der weltweit größte Software-Hersteller"
+		},
+		"relations": []
+	},
+	{
+		"id": "yahoo",
+		"title": "Yahoo",
+		"url": "http://www.yahoo-inc.com/",
+		"description": {
+			"en": "Yahoo is an Internet Enterprise from California, US",
+			"de": "Yahoo ist ein Internetunternehmen aus Kalifornien, USA"
+		},
+		"relations": []
+	},
+	{
+		"id": "adobe",
+		"title": "Adobe",
+		"url": "http://www.adobe.com/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "agoria",
+		"title": "Agoria",
+		"url": "http://www.agoria.be/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "bdiu",
+		"title": "Bundesverband Deutscher Inkasso-Unternehmen",
+		"url": "http://www.inkasso.de/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "bt",
+		"title": "British Telecommunications",
+		"url": "http://www.bt.com/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "bvh",
+		"title": "Bundesverband des Deutschen Versandhandels",
+		"url": "http://www.bvh.info/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "cocir",
+		"title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry",
+		"url": "http://www.cocir.org/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "comece",
+		"title": "Commission des Episcopats de la Communauté Européenne.",
+		"url": "http://www.comece.org/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "ddv",
+		"title": "Deutscher Dialogmarketing Verband",
+		"url": "http://www.ddv.de/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "dgb",
+		"title": "Deutsche Gewerkschaftsbund",
+		"url": "http://www.dgb.de/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "dgri",
+		"title": "Deutsche Gesellschaft für Recht und Informatik",
+		"url": "http://www.dgri.de/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "ekd-dbk",
+		"title": "Kirchen",
+		"url": "",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "equifax",
+		"title": "Equifax",
+		"url": "http://www.equifax.com/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "feam",
+		"title": "Federation of European Academies of Medicine",
+		"url": "http://www.feam-site.eu/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "firstdata",
+		"title": "First Data",
+		"url": "http://www.firstdata.com/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "gdv",
+		"title": "Gesamtverband der Deutschen Versicherungswirtschaft",
+		"url": "http://www.gdv.de/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "gkv",
+		"title": "GKV-Spitzenverband",
+		"url": "http://www.gkv-spitzenverband.de/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "hde",
+		"title": "Handelsverband Deutschland",
+		"url": "http://www.einzelhandel.de/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "insuranceeurope",
+		"title": "Insurance Europe",
+		"url": "http://www.insuranceeurope.eu/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "intel",
+		"title": "Intel",
+		"url": "http://www.intel.com/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "leaseurope",
+		"title": "European Federation of Leasing Company Associations",
+		"url": "http://www.leaseurope.org/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "nokia",
+		"title": "Nokia",
+		"url": "http://www.nokia.com/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "opower",
+		"title": "Opower",
+		"url": "http://www.opower.com/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "telefonica",
+		"title": "Telefónica",
+		"url": "http://www.telefonica.com/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "vdh",
+		"title": "Verband der Handelsauskunfteien",
+		"url": "http://www.handelsauskunfteien.de/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "vdz",
+		"title": "Verband Deutscher Zeitschriftenverleger",
+		"url": "http://www.vdz.de/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "zdh",
+		"title": "Zentralverband des Deutschen Handwerks",
+		"url": "http://www.zdh.de/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	},
+	{
+		"id": "zaw",
+		"title": "Zentralverband der deutschen Werbewirtschaft",
+		"url": "http://www.zaw.de/",
+		"description": {
+			"en": "",
+			"de": ""
+		},
+		"relations": []
+	}
+]
