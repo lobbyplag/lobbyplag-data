@@ -31,6 +31,51 @@ The file `directive.json` contains the textual parts of the GDPR in 23 languages
 ]
 ````
 
+### Amendments
+
+The file `amendments.json` contains amendments by [MEPs](#members-of-the-european-parliament).
+
+```` javascript
+[
+	{
+		"uid": "a3e2d3e2t..."				// uid of the amendment
+		"committee": "imco",				// [Committee](#committees)
+		"number": "1",						// amendment number
+		"state": 0,							// voting state. 0=undecides, -1=rejected, 1=approved
+		"procedure": {						
+			"type": "cod",					// type of procedure. (cod means prdinary legislative)
+			"year": "2012",					// year the procedure was started
+			"number": "0011"				// number of the procedure
+		},
+		"ids": {
+			"parltrack": "am-0-PE-...",		// id on parltrack 
+			"lobbyplag": "2012.0011..."		// old lobbyplag id
+		},
+		"authors": [						// array of authors
+			"Name NAME",					// should relate to [mep.json](#members-of-the-european-parliament)
+			// ...							// but best use [mep.aliases.json](#aliases)
+		],
+		"relations": [
+			"x1",							// part of the [directive](#directive) the amendment relates to
+			// ...
+		],
+		"text": [							// array of amendment texts in different languages (probably)
+			{
+				"lang": "en",				// iso-639-1 language
+				"old": "xxx",				// the original text of the directive (as the amendment claims)
+				"new": "yyy",				// the directive text the way the amendment wants it
+				"del": ["xxx"],				// array of deleted bits of text
+				"ins": ["yyy"],				// array of inserted bits of text
+				"diff": "<del>xxx</del><ins>yyy</ins>", // diff with html markup
+				"location": "..."			// the meps idea of a relation to the directive
+			},
+			// ...
+		]
+	}
+	// ...
+]
+````
+
 ### Proposals
 
 The file `proposals.json` contains proposals by [Lobbyists](#lobbyists) entities extracted from [Documents](#documents)
