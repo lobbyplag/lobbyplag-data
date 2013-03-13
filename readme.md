@@ -99,6 +99,38 @@ The file `proposals.json` contains proposals by [Lobbyists](#lobbyists) entities
 ]
 ````
 
+### Plags
+
+_does not exist yet_
+
+The file `plags.json` contains matches between proposals and amendments, which we call plags.
+
+[
+	{
+		"uid": "91a6...",		// uid
+		"relations": ["..."],	// parts of the [Directive](#directive) the plag relates to
+		"amendment": "...",		// the uid of the [amendment](#amendments)
+		"proposal": "...",		// the uid of the [proposal](#proposals)
+		"implication": null,	// the uid of the [implication](#implications)
+		"checked": true,		// is the checking process complete?
+		"verified": false		// is it a valid match?
+		"processing": {			// for crowdsourcing
+			"propability": 0,	// propability of a match as determined by the matching algorithm
+			"checks": 0,		// number of checks performed
+			"positive": 0		// number of confirmative checks
+		}
+	},
+	// ...
+]
+
+### Implications
+
+_does not exist yet_
+
+The file `implications.json` contains the possible outcomes of a change in the directive.
+
+_has no structure yet_
+
 ### Documents
 
 The file `documents.json` contains 
@@ -215,4 +247,12 @@ The file `groups.json` contains the an object of groups in the EU Parliament.
 	// ...
 }
 ````
+### Committees
+
+_does not exist yet_
+
+The file `committees.json` will contain data about committees.
+
+_has no structure yet_
+
 
