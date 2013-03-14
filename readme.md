@@ -38,7 +38,7 @@ The file `amendments.json` contains amendments by [MEPs](#members-of-the-europea
 ```` javascript
 [
 	{
-		"uid": "a3e2d3e2t..."				// uid of the amendment
+		"uid": "a3e2d3e2t..."				// uid of the amendment (sha1 of old lobbyplag id)
 		"committee": "imco",				// [Committee](#committees)
 		"number": "1",						// amendment number
 		"state": 0,							// voting state. 0=undecides, -1=rejected, 1=approved
@@ -51,9 +51,13 @@ The file `amendments.json` contains amendments by [MEPs](#members-of-the-europea
 			"parltrack": "am-0-PE-...",		// id on parltrack 
 			"lobbyplag": "2012.0011..."		// old lobbyplag id
 		},
-		"authors": [						// array of authors
-			"Name NAME",					// should relate to [mep.json](#members-of-the-european-parliament)
-			// ...							// but best use [mep.aliases.json](#aliases)
+		"authors": [						// array of author names
+			"Name Name",					// author name for nice print
+			// ...							
+		],
+		"author_ids": [						// array of author ids
+			"a7021d...",					// relates to [mep](#members-of-the-european-parliament)
+			// ...							
 		],
 		"relations": [
 			"x1",							// part of the [directive](#directive) the amendment relates to
