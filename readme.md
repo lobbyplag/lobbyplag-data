@@ -253,10 +253,12 @@ The file `groups.json` contains the an object of groups in the EU Parliament.
 ````
 ### Committees
 
-_does not exist yet_
+The file `committees.json` contains committee names.
 
-The file `committees.json` will contain data about committees.
-
-_has no structure yet_
-
+```` javascript
+{
+	"flac": "Long Name", 	// four letter acronym ➔ comittee name
+	// ...
+}
+````
 
