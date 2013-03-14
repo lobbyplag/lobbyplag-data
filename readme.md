@@ -109,6 +109,7 @@ _does not exist yet_
 
 The file `plags.json` contains matches between proposals and amendments, which we call plags.
 
+```` javascript
 [
 	{
 		"uid": "91a6...",		// uid
@@ -126,6 +127,7 @@ The file `plags.json` contains matches between proposals and amendments, which w
 	},
 	// ...
 ]
+````
 
 ### Implications
 
