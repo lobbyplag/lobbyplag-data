@@ -189,7 +189,7 @@ The file `mep.json` contains all currently active members of the European Parlia
 
 ```` javascript
 {
-	"id": {						// ID (name with upper-case family names, as used by the EU)
+	"id": {						// id (derived from parltrack)
 		"name": "Name",			// Name
 		"country": "de",		// [Country Code](#countries)
 		"group": "ecr",			// [Group](#groups)

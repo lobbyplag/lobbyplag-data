@@ -1,5276 +1,5276 @@
 {
-	"Carmen FRAGA ESTÉVEZ": {
+	"4f1ac817b819f25efd0000c8": {
 		"name": "Carmen Fraga Estévez",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1993/",
 		"agw": null
 	},
-	"Karima DELLI": {
+	"4f1ac789b819f25efd000092": {
 		"name": "Karima Delli",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96868/",
 		"agw": null
 	},
-	"John BUFTON": {
+	"4f1ac69cb819f25efd000050": {
 		"name": "John Bufton",
 		"country": "uk",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96798/",
 		"agw": null
 	},
-	"Joseph DAUL": {
+	"4f1ac772b819f25efd00008a": {
 		"name": "Joseph Daul",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4342/",
 		"agw": null
 	},
-	"Robert DUŠEK": {
+	"4f1ac7b6b819f25efd0000a3": {
 		"name": "Robert Dušek",
 		"country": "cz",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96717/",
 		"agw": null
 	},
-	"Marine LE PEN": {
+	"4f1ad257b819f2759500001c": {
 		"name": "Marine Le Pen",
 		"country": "fr",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28210/",
 		"agw": null
 	},
-	"Mike NATTRASS": {
+	"4f1ad9e3b819f207b3000040": {
 		"name": "Mike Nattrass",
 		"country": "uk",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28506/",
 		"agw": null
 	},
-	"Tarja CRONBERG": {
+	"4f1ac494b819f25896000020": {
 		"name": "Tarja Cronberg",
 		"country": "fi",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/107973/",
 		"agw": null
 	},
-	"Eleni THEOCHAROUS": {
+	"4f1adbe4b819f207b30000ed": {
 		"name": "Eleni Theocharous",
 		"country": "cy",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/25704/",
 		"agw": null
 	},
-	"Georgios TOUSSAS": {
+	"4f1adc04b819f207b30000f8": {
 		"name": "Georgios Toussas",
 		"country": "gr",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28584/",
 		"agw": null
 	},
-	"Kyriacos TRIANTAPHYLLIDES": {
+	"4f1adc10b819f207b30000fc": {
 		"name": "Kyriacos Triantaphyllides",
 		"country": "cy",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28514/",
 		"agw": null
 	},
-	"Ioannis A. TSOUKALAS": {
+	"4f1adc1ab819f207b30000ff": {
 		"name": "Ioannis A. Tsoukalas",
 		"country": "gr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96898/",
 		"agw": null
 	},
-	"Alexander ALVARO": {
+	"4f1ac5e2b819f25efd000008": {
 		"name": "Alexander Alvaro",
 		"country": "de",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28246/",
 		"agw": "http://www.abgeordnetenwatch.de/alexander_alvaro-901-22768.html"
 	},
-	"Raffaele BALDASSARRE": {
+	"4f1ac62ab819f25efd000022": {
 		"name": "Raffaele Baldassarre",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96757/",
 		"agw": null
 	},
-	"Lothar BISKY": {
+	"4f1ac667b819f25efd00003a": {
 		"name": "Lothar Bisky",
 		"country": "de",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96650/",
 		"agw": "http://www.abgeordnetenwatch.de/lothar_bisky-901-22812.html"
 	},
-	"Sharon BOWLES": {
+	"4f1ac688b819f25efd000047": {
 		"name": "Sharon Bowles",
 		"country": "uk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/33570/",
 		"agw": null
 	},
-	"Alain CADEC": {
+	"4f1ac6efb819f25efd000057": {
 		"name": "Alain Cadec",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96849/",
 		"agw": null
 	},
-	"Jürgen CREUTZMANN": {
+	"4f1ac752b819f25efd00007d": {
 		"name": "Jürgen Creutzmann",
 		"country": "de",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96873/",
 		"agw": "http://www.abgeordnetenwatch.de/juergen_creutzmann-901-22772.html"
 	},
-	"Peter van DALEN": {
+	"4f1ac762b819f25efd000084": {
 		"name": "Peter van Dalen",
 		"country": "nl",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96809/",
 		"agw": null
 	},
-	"Paolo DE CASTRO": {
+	"4f1ac782b819f25efd00008f": {
 		"name": "Paolo De Castro",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96891/",
 		"agw": null
 	},
-	"Kinga GÖNCZ": {
+	"4f1ac85ab819f25efd0000e2": {
 		"name": "Kinga Göncz",
 		"country": "hu",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96832/",
 		"agw": null
 	},
-	"Dieter-Lebrecht KOCH": {
+	"4f1ac9a7b819f25efd000148": {
 		"name": "Dieter-Lebrecht Koch",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1852/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_dieter_lebrecht_koch-901-22752.html"
 	},
-	"Hans-Gert PÖTTERING": {
+	"4f1ada8ab819f207b3000078": {
 		"name": "Hans-Gert Pöttering",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1253/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_hans_gert_poettering-901-22724.html"
 	},
-	"Fiorello PROVERA": {
+	"4f1ada98b819f207b300007d": {
 		"name": "Fiorello Provera",
 		"country": "it",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96994/",
 		"agw": null
 	},
-	"Amalia SARTORI": {
+	"4f1adb0cb819f207b30000a4": {
 		"name": "Amalia Sartori",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4423/",
 		"agw": null
 	},
-	"Carl SCHLYTER": {
+	"4f1adb22b819f207b30000ab": {
 		"name": "Carl Schlyter",
 		"country": "se",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28139/",
 		"agw": null
 	},
-	"György SCHÖPFLIN": {
+	"4f1adb34b819f207b30000b0": {
 		"name": "György Schöpflin",
 		"country": "hu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28135/",
 		"agw": null
 	},
-	"Martin SCHULZ": {
+	"4f1adb39b819f207b30000b2": {
 		"name": "Martin Schulz",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1911/",
 		"agw": "http://www.abgeordnetenwatch.de/martin_schulz-901-22789.html"
 	},
-	"Brian SIMPSON": {
+	"4f1adb65b819f207b30000c0": {
 		"name": "Brian Simpson",
 		"country": "uk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1309/",
 		"agw": null
 	},
-	"Bogusław SONIK": {
+	"4f1adb88b819f207b30000cc": {
 		"name": "Bogusław Sonik",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28299/",
 		"agw": null
 	},
-	"Struan STEVENSON": {
+	"4f1adb9eb819f207b30000d4": {
 		"name": "Struan Stevenson",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4546/",
 		"agw": null
 	},
-	"Michèle STRIFFLER": {
+	"4f1adbafb819f207b30000da": {
 		"name": "Michèle Striffler",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96860/",
 		"agw": null
 	},
-	"Silvia-Adriana ŢICĂU": {
+	"4f1adbf3b819f207b30000f2": {
 		"name": "Silvia-Adriana Ţicău",
 		"country": "ro",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/36281/",
 		"agw": null
 	},
-	"Patrizia TOIA": {
+	"4f1adbf8b819f207b30000f4": {
 		"name": "Patrizia Toia",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28340/",
 		"agw": null
 	},
-	"Evžen TOŠENOVSKÝ": {
+	"4f1adc01b819f207b30000f7": {
 		"name": "Evžen Tošenovský",
 		"country": "cz",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96713/",
 		"agw": null
 	},
-	"Pervenche BERÈS": {
+	"4f1ac652b819f25efd000032": {
 		"name": "Pervenche Berès",
 		"country": "fr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1985/",
 		"agw": null
 	},
-	"Luigi BERLINGUER": {
+	"4f1ac659b819f25efd000034": {
 		"name": "Luigi Berlinguer",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97156/",
 		"agw": null
 	},
-	"Sebastian Valentin BODU": {
+	"4f1ac670b819f25efd00003e": {
 		"name": "Sebastian Valentin Bodu",
 		"country": "ro",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/39722/",
 		"agw": null
 	},
-	"Krzysztof LISEK": {
+	"4f1ad267b819f27595000021": {
 		"name": "Krzysztof Lisek",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96788/",
 		"agw": null
 	},
-	"Barbara LOCHBIHLER": {
+	"4f1ad269b819f27595000022": {
 		"name": "Barbara Lochbihler",
 		"country": "de",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96728/",
 		"agw": "http://www.abgeordnetenwatch.de/barbara_lochbihler-901-22779.html"
 	},
-	"Elżbieta Katarzyna ŁUKACIJEWSKA": {
+	"4f1ad93ab819f207b3000004": {
 		"name": "Elżbieta Katarzyna Łukacijewska",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96791/",
 		"agw": null
 	},
-	"Thomas MANN": {
+	"4f1ad962b819f207b3000013": {
 		"name": "Thomas Mann",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1922/",
 		"agw": "http://www.abgeordnetenwatch.de/thomas_mann-901-22753.html"
 	},
-	"Vital MOREIRA": {
+	"4f1ad9ceb819f207b3000038": {
 		"name": "Vital Moreira",
 		"country": "pt",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96930/",
 		"agw": null
 	},
-	"Elisabeth MORIN-CHARTIER": {
+	"4f1ad9d4b819f207b300003a": {
 		"name": "Elisabeth Morin-Chartier",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/38596/",
 		"agw": null
 	},
-	"Juan Andrés NARANJO ESCOBAR": {
+	"4f1ac46ab819f25896000010": {
 		"name": "Juan Andrés Naranjo Escobar",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/5537/",
 		"agw": null
 	},
-	"Rareş-Lucian NICULESCU": {
+	"4f1ada01b819f207b3000049": {
 		"name": "Rareş-Lucian Niculescu",
 		"country": "ro",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/39714/",
 		"agw": null
 	},
-	"Justas Vincas PALECKIS": {
+	"4f1ada31b819f207b300005a": {
 		"name": "Justas Vincas Paleckis",
 		"country": "lt",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28279/",
 		"agw": null
 	},
-	"Jacek SARYUSZ-WOLSKI": {
+	"4f1adb0fb819f207b30000a5": {
 		"name": "Jacek Saryusz-Wolski",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28297/",
 		"agw": null
 	},
-	"Elisabeth SCHROEDTER": {
+	"4f1adb38b819f207b30000b1": {
 		"name": "Elisabeth Schroedter",
 		"country": "de",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1933/",
 		"agw": "http://www.abgeordnetenwatch.de/elisabeth_schroedter-901-22787.html"
 	},
-	"Guy VERHOFSTADT": {
+	"4f1adc60b819f207b3000115": {
 		"name": "Guy Verhofstadt",
 		"country": "be",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97058/",
 		"agw": null
 	},
-	"Corien WORTMANN-KOOL": {
+	"4f1adcaeb819f207b300012f": {
 		"name": "Corien Wortmann-Kool",
 		"country": "nl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28167/",
 		"agw": null
 	},
-	"Anna ZÁBORSKÁ": {
+	"4f1adcb7b819f207b3000132": {
 		"name": "Anna Záborská",
 		"country": "sk",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23894/",
 		"agw": null
 	},
-	"Roberts ZĪLE": {
+	"4f1adcceb819f207b300013c": {
 		"name": "Roberts Zīle",
 		"country": "lv",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28615/",
 		"agw": null
 	},
-	"Tadeusz ZWIEFKA": {
+	"4f1adcd7b819f207b3000140": {
 		"name": "Tadeusz Zwiefka",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28301/",
 		"agw": null
 	},
-	"Gabriele ALBERTINI": {
+	"4f1ac5d5b819f25efd000003": {
 		"name": "Gabriele Albertini",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28367/",
 		"agw": null
 	},
-	"Alfredo ANTONIOZZI": {
+	"4f1ac5f5b819f25efd000010": {
 		"name": "Alfredo Antoniozzi",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28422/",
 		"agw": null
 	},
-	"Richard ASHWORTH": {
+	"4f1ac603b819f25efd000015": {
 		"name": "Richard Ashworth",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28132/",
 		"agw": null
 	},
-	"Jean-Pierre AUDY": {
+	"4f1ac60fb819f25efd000019": {
 		"name": "Jean-Pierre Audy",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/33775/",
 		"agw": null
 	},
-	"Maria BADIA i CUTCHET": {
+	"4f1ac626b819f25efd000020": {
 		"name": "Maria Badia i Cutchet",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28342/",
 		"agw": null
 	},
-	"Paolo BARTOLOZZI": {
+	"4f1ac633b819f25efd000025": {
 		"name": "Paolo Bartolozzi",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/21818/",
 		"agw": null
 	},
-	"Giles CHICHESTER": {
+	"4f1ac71fb819f25efd00006a": {
 		"name": "Giles Chichester",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2097/",
 		"agw": null
 	},
-	"William (The Earl of) DARTMOUTH": {
+	"4f1ac76db819f25efd000088": {
 		"name": "William (The Earl of) Dartmouth",
 		"country": "uk",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96958/",
 		"agw": null
 	},
-	"Monika FLAŠÍKOVÁ BEŇOVÁ": {
+	"4f1ac802b819f25efd0000c0": {
 		"name": "Monika Flašíková Beňová",
 		"country": "sk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23868/",
 		"agw": null
 	},
-	"Ildikó GÁLL-PELCZ": {
+	"4f1ac4b7b819f2589600002d": {
 		"name": "Ildikó Gáll-Pelcz",
 		"country": "hu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/102886/",
 		"agw": null
 	},
-	"Lena KOLARSKA-BOBIŃSKA": {
+	"4f1ac9afb819f25efd00014b": {
 		"name": "Lena Kolarska-Bobińska",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96785/",
 		"agw": null
 	},
-	"Jean-Marie LE PEN": {
+	"4f1ad255b819f2759500001b": {
 		"name": "Jean-Marie Le Pen",
 		"country": "fr",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1023/",
 		"agw": null
 	},
-	"Vladko Todorov PANAYOTOV": {
+	"4f1ada3ab819f207b300005d": {
 		"name": "Vladko Todorov Panayotov",
 		"country": "bg",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/38602/",
 		"agw": null
 	},
-	"Emilio MENÉNDEZ del VALLE": {
+	"4f1ad9a5b819f207b300002a": {
 		"name": "Emilio Menéndez del Valle",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4348/",
 		"agw": null
 	},
-	"László SURJÁN": {
+	"4f1adbb5b819f207b30000dc": {
 		"name": "László Surján",
 		"country": "hu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23820/",
 		"agw": null
 	},
-	"Jan BŘEZINA": {
+	"4f1ac692b819f25efd00004c": {
 		"name": "Jan Březina",
 		"country": "cz",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28354/",
 		"agw": null
 	},
-	"Jerzy BUZEK": {
+	"4f1ac6ecb819f25efd000055": {
 		"name": "Jerzy Buzek",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28269/",
 		"agw": null
 	},
-	"Saïd EL KHADRAOUI": {
+	"4f1ac7bcb819f25efd0000a7": {
 		"name": "Saïd El Khadraoui",
 		"country": "be",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/25718/",
 		"agw": null
 	},
-	"Adam GIEREK": {
+	"4f1ac842b819f25efd0000d9": {
 		"name": "Adam Gierek",
 		"country": "pl",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28379/",
 		"agw": null
 	},
-	"Esther HERRANZ GARCÍA": {
+	"4f1ac90bb819f25efd000109": {
 		"name": "Esther Herranz García",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/22418/",
 		"agw": null
 	},
-	"Jan KOZŁOWSKI": {
+	"4f1ac48eb819f2589600001e": {
 		"name": "Jan Kozłowski",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/101954/",
 		"agw": null
 	},
-	"Gay MITCHELL": {
+	"4f1ad9c5b819f207b3000035": {
 		"name": "Gay Mitchell",
 		"country": "ir",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28112/",
 		"agw": null
 	},
-	"Oreste ROSSI": {
+	"4f1adae0b819f207b3000096": {
 		"name": "Oreste Rossi",
 		"country": "it",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97196/",
 		"agw": null
 	},
-	"Sergio Paolo Francesco SILVESTRIS": {
+	"4f1adb5fb819f207b30000be": {
 		"name": "Sergio Paolo Francesco Silvestris",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96755/",
 		"agw": null
 	},
-	"Csanád SZEGEDI": {
+	"4f1adbc3b819f207b30000e2": {
 		"name": "Csanád Szegedi",
 		"country": "hu",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96855/",
 		"agw": null
 	},
-	"Rafał TRZASKOWSKI": {
+	"4f1adc16b819f207b30000fe": {
 		"name": "Rafał Trzaskowski",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96773/",
 		"agw": null
 	},
-	"Åsa WESTLUND": {
+	"4f1adc92b819f207b3000125": {
 		"name": "Åsa Westlund",
 		"country": "se",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28130/",
 		"agw": null
 	},
-	"Jacek PROTASIEWICZ": {
+	"4f1ada95b819f207b300007c": {
 		"name": "Jacek Protasiewicz",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23782/",
 		"agw": null
 	},
-	"Heide RÜHLE": {
+	"4f1adaefb819f207b300009b": {
 		"name": "Heide Rühle",
 		"country": "de",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4294/",
 		"agw": "http://www.abgeordnetenwatch.de/heide_ruehle-901-22777.html"
 	},
-	"László TŐKÉS": {
+	"4f1adbfbb819f207b30000f5": {
 		"name": "László Tőkés",
 		"country": "ro",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/39726/",
 		"agw": null
 	},
-	"John Stuart AGNEW": {
+	"4f1ac5d1b819f25efd000002": {
 		"name": "John Stuart Agnew",
 		"country": "uk",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96897/",
 		"agw": null
 	},
-	"Jan Philipp ALBRECHT": {
+	"4f1ac5d6b819f25efd000004": {
 		"name": "Jan Philipp Albrecht",
 		"country": "de",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96736/",
 		"agw": "http://www.abgeordnetenwatch.de/jan_philipp_albrecht-901-22786.html"
 	},
-	"François ALFONSI": {
+	"4f1ac5dcb819f25efd000006": {
 		"name": "François Alfonsi",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96750/",
 		"agw": null
 	},
-	"Luís Paulo ALVES": {
+	"4f1ac5e3b819f25efd000009": {
 		"name": "Luís Paulo Alves",
 		"country": "pt",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96976/",
 		"agw": null
 	},
-	"Marta ANDREASEN": {
+	"4f1ac5e7b819f25efd00000a": {
 		"name": "Marta Andreasen",
 		"country": "uk",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96954/",
 		"agw": null
 	},
-	"Josefa ANDRÉS BAREA": {
+	"4f1ac5e9b819f25efd00000b": {
 		"name": "Josefa Andrés Barea",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96986/",
 		"agw": null
 	},
-	"Laima Liucija ANDRIKIENĖ": {
+	"4f1ac5eab819f25efd00000c": {
 		"name": "Laima Liucija Andrikienė",
 		"country": "lt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28276/",
 		"agw": null
 	},
-	"Roberta ANGELILLI": {
+	"4f1ac5ecb819f25efd00000d": {
 		"name": "Roberta Angelilli",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1941/",
 		"agw": null
 	},
-	"Elena Oana ANTONESCU": {
+	"4f1ac5f2b819f25efd00000f": {
 		"name": "Elena Oana Antonescu",
 		"country": "ro",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96702/",
 		"agw": null
 	},
-	"Pablo ARIAS ECHEVERRÍA": {
+	"4f1ac5f8b819f25efd000011": {
 		"name": "Pablo Arias Echeverría",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96808/",
 		"agw": null
 	},
-	"Pino ARLACCHI": {
+	"4f1ac5feb819f25efd000013": {
 		"name": "Pino Arlacchi",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97228/",
 		"agw": null
 	},
-	"Sir Robert ATKINS": {
+	"4f1ac604b819f25efd000016": {
 		"name": "Sir Robert Atkins",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4537/",
 		"agw": null
 	},
-	"Sophie AUCONIE": {
+	"4f1ac60ab819f25efd000018": {
 		"name": "Sophie Auconie",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96862/",
 		"agw": null
 	},
-	"Inés AYALA SENDER": {
+	"4f1ac616b819f25efd00001b": {
 		"name": "Inés Ayala Sender",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28292/",
 		"agw": null
 	},
-	"Liam AYLWARD": {
+	"4f1ac617b819f25efd00001c": {
 		"name": "Liam Aylward",
 		"country": "ir",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28114/",
 		"agw": null
 	},
-	"Pilar AYUSO": {
+	"4f1ac61cb819f25efd00001d": {
 		"name": "Pilar Ayuso",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4319/",
 		"agw": null
 	},
-	"Johannes Cornelis van BAALEN": {
+	"4f1ac61eb819f25efd00001e": {
 		"name": "Johannes Cornelis van Baalen",
 		"country": "nl",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96937/",
 		"agw": null
 	},
-	"Georges BACH": {
+	"4f1ac622b819f25efd00001f": {
 		"name": "Georges Bach",
 		"country": "lu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97293/",
 		"agw": null
 	},
-	"Zoltán BAGÓ": {
+	"4f1ac449b819f25896000002": {
 		"name": "Zoltán Bagó",
 		"country": "hu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23813/",
 		"agw": null
 	},
-	"Zigmantas BALČYTIS": {
+	"4f1ac627b819f25efd000021": {
 		"name": "Zigmantas Balčytis",
 		"country": "lt",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96680/",
 		"agw": null
 	},
-	"Francesca BALZANI": {
+	"4f1ac62fb819f25efd000024": {
 		"name": "Francesca Balzani",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96979/",
 		"agw": null
 	},
-	"Regina BASTOS": {
+	"4f1ac637b819f25efd000027": {
 		"name": "Regina Bastos",
 		"country": "pt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/5956/",
 		"agw": null
 	},
-	"Gerard BATTEN": {
+	"4f1ac63ab819f25efd000028": {
 		"name": "Gerard Batten",
 		"country": "uk",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28497/",
 		"agw": null
 	},
-	"Catherine BEARDER": {
+	"4f1ac63db819f25efd00002a": {
 		"name": "Catherine Bearder",
 		"country": "uk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96955/",
 		"agw": null
 	},
-	"Bastiaan BELDER": {
+	"4f1ac641b819f25efd00002c": {
 		"name": "Bastiaan Belder",
 		"country": "nl",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4507/",
 		"agw": null
 	},
-	"Ivo BELET": {
+	"4f1ac643b819f25efd00002d": {
 		"name": "Ivo Belet",
 		"country": "be",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28257/",
 		"agw": null
 	},
-	"Sandrine BÉLIER": {
+	"4f1ac646b819f25efd00002e": {
 		"name": "Sandrine Bélier",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96738/",
 		"agw": null
 	},
-	"Bendt BENDTSEN": {
+	"4f1ac64cb819f25efd000030": {
 		"name": "Bendt Bendtsen",
 		"country": "dk",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96705/",
 		"agw": null
 	},
-	"Jean-Luc BENNAHMIAS": {
+	"4f1ac64fb819f25efd000031": {
 		"name": "Jean-Luc Bennahmias",
 		"country": "fr",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28214/",
 		"agw": null
 	},
-	"Sergio BERLATO": {
+	"4f1ac655b819f25efd000033": {
 		"name": "Sergio Berlato",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4746/",
 		"agw": null
 	},
-	"Thijs BERMAN": {
+	"4f1ac65ab819f25efd000035": {
 		"name": "Thijs Berman",
 		"country": "nl",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28174/",
 		"agw": null
 	},
-	"Jean-Paul BESSET": {
+	"4f1ac65cb819f25efd000036": {
 		"name": "Jean-Paul Besset",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96699/",
 		"agw": null
 	},
-	"Izaskun BILBAO BARANDICA": {
+	"4f1ac661b819f25efd000038": {
 		"name": "Izaskun Bilbao Barandica",
 		"country": "es",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96922/",
 		"agw": null
 	},
-	"Slavi BINEV": {
+	"4f1ac664b819f25efd000039": {
 		"name": "Slavi Binev",
 		"country": "bg",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/38610/",
 		"agw": null
 	},
-	"Mara BIZZOTTO": {
+	"4f1ac669b819f25efd00003b": {
 		"name": "Mara Bizzotto",
 		"country": "it",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97198/",
 		"agw": null
 	},
-	"Vilija BLINKEVIČIŪTĖ": {
+	"4f1ac66ab819f25efd00003c": {
 		"name": "Vilija Blinkevičiūtė",
 		"country": "lt",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96681/",
 		"agw": null
 	},
-	"Godfrey BLOOM": {
+	"4f1ac66db819f25efd00003d": {
 		"name": "Godfrey Bloom",
 		"country": "uk",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28513/",
 		"agw": null
 	},
-	"Reimer BÖGE": {
+	"4f1ac673b819f25efd00003f": {
 		"name": "Reimer Böge",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1037/",
 		"agw": "http://www.abgeordnetenwatch.de/reimer_boege-901-22721.html"
 	},
-	"Mario BORGHEZIO": {
+	"4f1ac67cb819f25efd000042": {
 		"name": "Mario Borghezio",
 		"country": "it",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/21817/",
 		"agw": null
 	},
-	"Rita BORSELLINO": {
+	"4f1ac67fb819f25efd000043": {
 		"name": "Rita Borsellino",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96916/",
 		"agw": null
 	},
-	"Piotr BORYS": {
+	"4f1ac681b819f25efd000044": {
 		"name": "Piotr Borys",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96799/",
 		"agw": null
 	},
-	"Victor BOŞTINARU": {
+	"4f1ac684b819f25efd000045": {
 		"name": "Victor Boştinaru",
 		"country": "ro",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/39711/",
 		"agw": null
 	},
-	"Zuzana BRZOBOHATÁ": {
+	"4f1ac699b819f25efd00004f": {
 		"name": "Zuzana Brzobohatá",
 		"country": "cz",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96716/",
 		"agw": null
 	},
-	"Udo BULLMANN": {
+	"4f1ac69fb819f25efd000051": {
 		"name": "Udo Bullmann",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4267/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_udo_bullmann-901-22796.html"
 	},
-	"Cristian Silviu BUŞOI": {
+	"4f1ac6a2b819f25efd000052": {
 		"name": "Cristian Silviu Buşoi",
 		"country": "ro",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/38420/",
 		"agw": null
 	},
-	"Wim van de CAMP": {
+	"4f1ac6f2b819f25efd000059": {
 		"name": "Wim van de Camp",
 		"country": "nl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96754/",
 		"agw": null
 	},
-	"Antonio CANCIAN": {
+	"4f1ac6f8b819f25efd00005b": {
 		"name": "Antonio Cancian",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96733/",
 		"agw": null
 	},
-	"Maria Da Graça CARVALHO": {
+	"4f1ac702b819f25efd00005f": {
 		"name": "Maria Da Graça Carvalho",
 		"country": "pt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96867/",
 		"agw": null
 	},
-	"David CASA": {
+	"4f1ac703b819f25efd000060": {
 		"name": "David Casa",
 		"country": "mt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28122/",
 		"agw": null
 	},
-	"Michael CASHMAN": {
+	"4f1ac706b819f25efd000061": {
 		"name": "Michael Cashman",
 		"country": "uk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4532/",
 		"agw": null
 	},
-	"Daniel CASPARY": {
+	"4f1ac70db819f25efd000063": {
 		"name": "Daniel Caspary",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28219/",
 		"agw": "http://www.abgeordnetenwatch.de/daniel_caspary-901-22746.html"
 	},
-	"Françoise CASTEX": {
+	"4f1ac710b819f25efd000064": {
 		"name": "Françoise Castex",
 		"country": "fr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28148/",
 		"agw": null
 	},
-	"Pilar del CASTILLO VERA": {
+	"4f1ac713b819f25efd000065": {
 		"name": "Pilar del Castillo Vera",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28390/",
 		"agw": null
 	},
-	"Jean-Marie CAVADA": {
+	"4f1ac716b819f25efd000066": {
 		"name": "Jean-Marie Cavada",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28206/",
 		"agw": null
 	},
-	"Alejandro CERCAS": {
+	"4f1ac719b819f25efd000067": {
 		"name": "Alejandro Cercas",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4337/",
 		"agw": null
 	},
-	"Andrea ČEŠKOVÁ": {
+	"4f1ac71ab819f25efd000068": {
 		"name": "Andrea Češková",
 		"country": "cz",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96719/",
 		"agw": null
 	},
-	"Nessa CHILDERS": {
+	"4f1ac722b819f25efd00006b": {
 		"name": "Nessa Childers",
 		"country": "ir",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96603/",
 		"agw": null
 	},
-	"Ole CHRISTENSEN": {
+	"4f1ac726b819f25efd00006d": {
 		"name": "Ole Christensen",
 		"country": "dk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28154/",
 		"agw": null
 	},
-	"Philip CLAEYS": {
+	"4f1ac727b819f25efd00006e": {
 		"name": "Philip Claeys",
 		"country": "be",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/24030/",
 		"agw": null
 	},
-	"Derek Roland CLARK": {
+	"4f1ac72ab819f25efd00006f": {
 		"name": "Derek Roland Clark",
 		"country": "uk",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28493/",
 		"agw": null
 	},
-	"Yves COCHET": {
+	"4f1ac47fb819f25896000019": {
 		"name": "Yves Cochet",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1202/",
 		"agw": null
 	},
-	"Carlos COELHO": {
+	"4f1ac72db819f25efd000070": {
 		"name": "Carlos Coelho",
 		"country": "pt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1892/",
 		"agw": null
 	},
-	"Sergio Gaetano COFFERATI": {
+	"4f1ac731b819f25efd000071": {
 		"name": "Sergio Gaetano Cofferati",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96915/",
 		"agw": null
 	},
-	"Daniel COHN-BENDIT": {
+	"4f1ac732b819f25efd000072": {
 		"name": "Daniel Cohn-Bendit",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1934/",
 		"agw": null
 	},
-	"Trevor COLMAN": {
+	"4f1ac735b819f25efd000073": {
 		"name": "Trevor Colman",
 		"country": "uk",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/94283/",
 		"agw": null
 	},
-	"Anna Maria CORAZZA BILDT": {
+	"4f1ac73cb819f25efd000075": {
 		"name": "Anna Maria Corazza Bildt",
 		"country": "se",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96674/",
 		"agw": null
 	},
-	"Marije CORNELISSEN": {
+	"4f1ac73fb819f25efd000076": {
 		"name": "Marije Cornelissen",
 		"country": "nl",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96726/",
 		"agw": null
 	},
-	"António Fernando CORREIA DE CAMPOS": {
+	"4f1ac740b819f25efd000077": {
 		"name": "António Fernando Correia de Campos",
 		"country": "pt",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96975/",
 		"agw": null
 	},
-	"Ricardo CORTÉS LASTRA": {
+	"4f1ac744b819f25efd000078": {
 		"name": "Ricardo Cortés Lastra",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96987/",
 		"agw": null
 	},
-	"Silvia COSTA": {
+	"4f1ac747b819f25efd000079": {
 		"name": "Silvia Costa",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96917/",
 		"agw": null
 	},
-	"Andrea COZZOLINO": {
+	"4f1ac74ab819f25efd00007a": {
 		"name": "Andrea Cozzolino",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96880/",
 		"agw": null
 	},
-	"Michael CRAMER": {
+	"4f1ac74db819f25efd00007b": {
 		"name": "Michael Cramer",
 		"country": "de",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28238/",
 		"agw": "http://www.abgeordnetenwatch.de/michael_cramer-901-22780.html"
 	},
-	"Brian CROWLEY": {
+	"4f1ac759b819f25efd00007f": {
 		"name": "Brian Crowley",
 		"country": "ir",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2109/",
 		"agw": null
 	},
-	"George Sabin CUTAŞ": {
+	"4f1ac75cb819f25efd000080": {
 		"name": "George Sabin Cutaş",
 		"country": "ro",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96856/",
 		"agw": null
 	},
-	"Frédéric DAERDEN": {
+	"4f1ac761b819f25efd000083": {
 		"name": "Frédéric Daerden",
 		"country": "be",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97125/",
 		"agw": null
 	},
-	"Vasilica Viorica DĂNCILĂ": {
+	"4f1ac765b819f25efd000085": {
 		"name": "Vasilica Viorica Dăncilă",
 		"country": "ro",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/95281/",
 		"agw": null
 	},
-	"Rachida DATI": {
+	"4f1ac76fb819f25efd000089": {
 		"name": "Rachida Dati",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/72775/",
 		"agw": null
 	},
-	"Mário DAVID": {
+	"4f1ac775b819f25efd00008b": {
 		"name": "Mário David",
 		"country": "pt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96973/",
 		"agw": null
 	},
-	"Chris DAVIES": {
+	"4f1ac778b819f25efd00008c": {
 		"name": "Chris Davies",
 		"country": "uk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4554/",
 		"agw": null
 	},
-	"Francesco DE ANGELIS": {
+	"4f1ac77cb819f25efd00008d": {
 		"name": "Francesco De Angelis",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96887/",
 		"agw": null
 	},
-	"Véronique DE KEYSER": {
+	"4f1ac786b819f25efd000091": {
 		"name": "Véronique De Keyser",
 		"country": "be",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/22097/",
 		"agw": null
 	},
-	"Luigi Ciriaco DE MITA": {
+	"4f1ac78fb819f25efd000094": {
 		"name": "Luigi Ciriaco De Mita",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1746/",
 		"agw": null
 	},
-	"Marielle de SARNEZ": {
+	"4f1ac795b819f25efd000096": {
 		"name": "Marielle de Sarnez",
 		"country": "fr",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4335/",
 		"agw": null
 	},
-	"Albert DESS": {
+	"4f1ac79bb819f25efd000098": {
 		"name": "Albert Dess",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28228/",
 		"agw": "http://www.abgeordnetenwatch.de/albert_dess-901-22759.html"
 	},
-	"Christine DE VEYRAC": {
+	"4f1ac7a0b819f25efd00009b": {
 		"name": "Christine De Veyrac",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4347/",
 		"agw": null
 	},
-	"Agustín DÍAZ DE MERA GARCÍA CONSUEGRA": {
+	"4f1ac7a4b819f25efd00009c": {
 		"name": "Agustín Díaz de Mera García Consuegra",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28397/",
 		"agw": null
 	},
-	"Diane DODDS": {
+	"4f1ac7a7b819f25efd00009d": {
 		"name": "Diane Dodds",
 		"country": "uk",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96951/",
 		"agw": null
 	},
-	"Leonardo DOMENICI": {
+	"4f1ac7aab819f25efd00009e": {
 		"name": "Leonardo Domenici",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96888/",
 		"agw": null
 	},
-	"Leonidas DONSKIS": {
+	"4f1ac7abb819f25efd00009f": {
 		"name": "Leonidas Donskis",
 		"country": "lt",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96692/",
 		"agw": null
 	},
-	"Herbert DORFMANN": {
+	"4f1ac7aeb819f25efd0000a0": {
 		"name": "Herbert Dorfmann",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96787/",
 		"agw": null
 	},
-	"Andrew DUFF": {
+	"4f1ac7b2b819f25efd0000a1": {
 		"name": "Andrew Duff",
 		"country": "uk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4514/",
 		"agw": null
 	},
-	"Christian EHLER": {
+	"4f1ac7b7b819f25efd0000a4": {
 		"name": "Christian Ehler",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28226/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_christian_ehler-901-22728.html"
 	},
-	"Martin EHRENHAUSER": {
+	"4f1ac7b8b819f25efd0000a5": {
 		"name": "Martin Ehrenhauser",
 		"country": "at",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/39769/",
 		"agw": null
 	},
-	"Bas EICKHOUT": {
+	"4f1ac7bbb819f25efd0000a6": {
 		"name": "Bas Eickhout",
 		"country": "nl",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96725/",
 		"agw": null
 	},
-	"Frank ENGEL": {
+	"4f1ac7c4b819f25efd0000aa": {
 		"name": "Frank Engel",
 		"country": "lu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96876/",
 		"agw": null
 	},
-	"Sari ESSAYAH": {
+	"4f1ac7d1b819f25efd0000af": {
 		"name": "Sari Essayah",
 		"country": "fi",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96682/",
 		"agw": null
 	},
-	"Rosa ESTARÀS FERRAGUT": {
+	"4f1ac7d4b819f25efd0000b0": {
 		"name": "Rosa Estaràs Ferragut",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96811/",
 		"agw": null
 	},
-	"Tanja FAJON": {
+	"4f1ac7e1b819f25efd0000b4": {
 		"name": "Tanja Fajon",
 		"country": "si",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96911/",
 		"agw": null
 	},
-	"Nigel FARAGE": {
+	"4f1ac7e4b819f25efd0000b6": {
 		"name": "Nigel Farage",
 		"country": "uk",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4525/",
 		"agw": null
 	},
-	"Göran FÄRM": {
+	"4f1ac7e7b819f25efd0000b7": {
 		"name": "Göran Färm",
 		"country": "se",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4265/",
 		"agw": null
 	},
-	"Diogo FEIO": {
+	"4f1ac7eab819f25efd0000b8": {
 		"name": "Diogo Feio",
 		"country": "pt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96977/",
 		"agw": null
 	},
-	"Markus FERBER": {
+	"4f1ac7eeb819f25efd0000b9": {
 		"name": "Markus Ferber",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1917/",
 		"agw": "http://www.abgeordnetenwatch.de/markus_ferber-901-22755.html"
 	},
-	"José Manuel FERNANDES": {
+	"4f1ac7f1b819f25efd0000ba": {
 		"name": "José Manuel Fernandes",
 		"country": "pt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96899/",
 		"agw": null
 	},
-	"Elisa FERREIRA": {
+	"4f1ac7f4b819f25efd0000bb": {
 		"name": "Elisa Ferreira",
 		"country": "pt",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28308/",
 		"agw": null
 	},
-	"João FERREIRA": {
+	"4f1ac7f7b819f25efd0000bc": {
 		"name": "João Ferreira",
 		"country": "pt",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96706/",
 		"agw": null
 	},
-	"Carlo FIDANZA": {
+	"4f1ac7fab819f25efd0000bd": {
 		"name": "Carlo Fidanza",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96810/",
 		"agw": null
 	},
-	"Santiago FISAS AYXELA": {
+	"4f1ac7fdb819f25efd0000be": {
 		"name": "Santiago Fisas Ayxela",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96729/",
 		"agw": null
 	},
-	"Knut FLECKENSTEIN": {
+	"4f1ac807b819f25efd0000c2": {
 		"name": "Knut Fleckenstein",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96840/",
 		"agw": "http://www.abgeordnetenwatch.de/knut_fleckenstein-901-22806.html"
 	},
-	"Karl-Heinz FLORENZ": {
+	"4f1ac808b819f25efd0000c3": {
 		"name": "Karl-Heinz Florenz",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1038/",
 		"agw": "http://www.abgeordnetenwatch.de/karl_heinz_florenz-901-22730.html"
 	},
-	"Michael GAHLER": {
+	"4f1ac81db819f25efd0000ca": {
 		"name": "Michael Gahler",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2341/",
 		"agw": "http://www.abgeordnetenwatch.de/michael_gahler-901-22754.html"
 	},
-	"Pat the Cope GALLAGHER": {
+	"4f1ac822b819f25efd0000cc": {
 		"name": "Pat the Cope Gallagher",
 		"country": "ir",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2125/",
 		"agw": null
 	},
-	"Iratxe GARCÍA PÉREZ": {
+	"4f1ac828b819f25efd0000ce": {
 		"name": "Iratxe García Pérez",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28298/",
 		"agw": null
 	},
-	"Elisabetta GARDINI": {
+	"4f1ac82eb819f25efd0000d0": {
 		"name": "Elisabetta Gardini",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/58758/",
 		"agw": null
 	},
-	"Salvador GARRIGA POLLEDO": {
+	"4f1ac831b819f25efd0000d1": {
 		"name": "Salvador Garriga Polledo",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1665/",
 		"agw": null
 	},
-	"Jean-Paul GAUZÈS": {
+	"4f1ac834b819f25efd0000d2": {
 		"name": "Jean-Paul Gauzès",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28193/",
 		"agw": null
 	},
-	"Evelyne GEBHARDT": {
+	"4f1ac835b819f25efd0000d3": {
 		"name": "Evelyne Gebhardt",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1913/",
 		"agw": "http://www.abgeordnetenwatch.de/evelyne_gebhardt-901-22790.html"
 	},
-	"Jens GEIER": {
+	"4f1ac838b819f25efd0000d4": {
 		"name": "Jens Geier",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96833/",
 		"agw": "http://www.abgeordnetenwatch.de/jens_geier-901-22798.html"
 	},
-	"Lidia Joanna GERINGER de OEDENBERG": {
+	"4f1ac83cb819f25efd0000d6": {
 		"name": "Lidia Joanna Geringer de Oedenberg",
 		"country": "pl",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28377/",
 		"agw": null
 	},
-	"Sven GIEGOLD": {
+	"4f1ac841b819f25efd0000d8": {
 		"name": "Sven Giegold",
 		"country": "de",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96730/",
 		"agw": "http://www.abgeordnetenwatch.de/sven_giegold-901-22778.html"
 	},
-	"Norbert GLANTE": {
+	"4f1ac849b819f25efd0000db": {
 		"name": "Norbert Glante",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1902/",
 		"agw": "http://www.abgeordnetenwatch.de/norbert_glante-901-22809.html"
 	},
-	"Béla GLATTFELDER": {
+	"4f1ac84ab819f25efd0000dc": {
 		"name": "Béla Glattfelder",
 		"country": "hu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28145/",
 		"agw": null
 	},
-	"Ivars GODMANIS": {
+	"4f1ac84db819f25efd0000dd": {
 		"name": "Ivars Godmanis",
 		"country": "lv",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97004/",
 		"agw": null
 	},
-	"Robert GOEBBELS": {
+	"4f1ac84fb819f25efd0000de": {
 		"name": "Robert Goebbels",
 		"country": "lu",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4429/",
 		"agw": null
 	},
-	"Charles GOERENS": {
+	"4f1ac853b819f25efd0000df": {
 		"name": "Charles Goerens",
 		"country": "lu",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/840/",
 		"agw": null
 	},
-	"Bruno GOLLNISCH": {
+	"4f1ac856b819f25efd0000e0": {
 		"name": "Bruno Gollnisch",
 		"country": "fr",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1164/",
 		"agw": null
 	},
-	"Sylvie GOULARD": {
+	"4f1ac85db819f25efd0000e3": {
 		"name": "Sylvie Goulard",
 		"country": "fr",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97137/",
 		"agw": null
 	},
-	"Ingeborg GRÄSSLE": {
+	"4f1ac8a3b819f25efd0000e5": {
 		"name": "Ingeborg Grässle",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28220/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_ingeborg_graessle-901-22749.html"
 	},
-	"Catherine GRÈZE": {
+	"4f1ac8adb819f25efd0000e8": {
 		"name": "Catherine Grèze",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96745/",
 		"agw": null
 	},
-	"Nathalie GRIESBECK": {
+	"4f1ac8b0b819f25efd0000e9": {
 		"name": "Nathalie Griesbeck",
 		"country": "fr",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28208/",
 		"agw": null
 	},
-	"Nick GRIFFIN": {
+	"4f1ac8b3b819f25efd0000ea": {
 		"name": "Nick Griffin",
 		"country": "uk",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96751/",
 		"agw": null
 	},
-	"Mathieu GROSCH": {
+	"4f1ac8bcb819f25efd0000ed": {
 		"name": "Mathieu Grosch",
 		"country": "be",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2247/",
 		"agw": null
 	},
-	"Françoise GROSSETÊTE": {
+	"4f1ac8bfb819f25efd0000ee": {
 		"name": "Françoise Grossetête",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2025/",
 		"agw": null
 	},
-	"Roberto GUALTIERI": {
+	"4f1ac8c4b819f25efd0000f0": {
 		"name": "Roberto Gualtieri",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96892/",
 		"agw": null
 	},
-	"Sergio GUTIÉRREZ PRIETO": {
+	"4f1ac443b819f25896000000": {
 		"name": "Sergio Gutiérrez Prieto",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/103488/",
 		"agw": null
 	},
-	"András GYÜRK": {
+	"4f1ac8d0b819f25efd0000f5": {
 		"name": "András Gyürk",
 		"country": "hu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23816/",
 		"agw": null
 	},
-	"Fiona HALL": {
+	"4f1ac8ddb819f25efd0000f9": {
 		"name": "Fiona Hall",
 		"country": "uk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28477/",
 		"agw": null
 	},
-	"Thomas HÄNDEL": {
+	"4f1ac8e0b819f25efd0000fa": {
 		"name": "Thomas Händel",
 		"country": "de",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96851/",
 		"agw": "http://www.abgeordnetenwatch.de/thomas_haendel-901-22815.html"
 	},
-	"Małgorzata HANDZLIK": {
+	"4f1ac8e1b819f25efd0000fb": {
 		"name": "Małgorzata Handzlik",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28275/",
 		"agw": null
 	},
-	"Ágnes HANKISS": {
+	"4f1ac8e4b819f25efd0000fc": {
 		"name": "Ágnes Hankiss",
 		"country": "hu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96707/",
 		"agw": null
 	},
-	"Daniel HANNAN": {
+	"4f1ac8e7b819f25efd0000fd": {
 		"name": "Daniel Hannan",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4555/",
 		"agw": null
 	},
-	"Marian HARKIN": {
+	"4f1ac8edb819f25efd0000ff": {
 		"name": "Marian Harkin",
 		"country": "ir",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28116/",
 		"agw": null
 	},
-	"Lucas HARTONG": {
+	"4f1ac4b1b819f2589600002b": {
 		"name": "Lucas Hartong",
 		"country": "nl",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/103132/",
 		"agw": null
 	},
-	"Martin HÄUSLING": {
+	"4f1ac8f9b819f25efd000103": {
 		"name": "Martin Häusling",
 		"country": "de",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96752/",
 		"agw": "http://www.abgeordnetenwatch.de/martin_haeusling-901-22784.html"
 	},
-	"Anna HEDH": {
+	"4f1ac900b819f25efd000105": {
 		"name": "Anna Hedh",
 		"country": "se",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28131/",
 		"agw": null
 	},
-	"Roger HELMER": {
+	"4f1ac903b819f25efd000106": {
 		"name": "Roger Helmer",
 		"country": "uk",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4516/",
 		"agw": null
 	},
-	"Jacky HÉNIN": {
+	"4f1ac906b819f25efd000107": {
 		"name": "Jacky Hénin",
 		"country": "fr",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28215/",
 		"agw": null
 	},
-	"Jolanta Emilia HIBNER": {
+	"4f1ac90eb819f25efd00010a": {
 		"name": "Jolanta Emilia Hibner",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96753/",
 		"agw": null
 	},
-	"Jim HIGGINS": {
+	"4f1ac911b819f25efd00010b": {
 		"name": "Jim Higgins",
 		"country": "ir",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28117/",
 		"agw": null
 	},
-	"Liem HOANG NGOC": {
+	"4f1ac918b819f25efd00010d": {
 		"name": "Liem Hoang Ngoc",
 		"country": "fr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96950/",
 		"agw": null
 	},
-	"Gunnar HÖKMARK": {
+	"4f1ac91cb819f25efd00010f": {
 		"name": "Gunnar Hökmark",
 		"country": "se",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28124/",
 		"agw": null
 	},
-	"Brice HORTEFEUX": {
+	"4f1ac488b819f2589600001c": {
 		"name": "Brice Hortefeux",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/5565/",
 		"agw": null
 	},
-	"Richard HOWITT": {
+	"4f1ac923b819f25efd000111": {
 		"name": "Richard Howitt",
 		"country": "uk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2073/",
 		"agw": null
 	},
-	"Ian HUDGHTON": {
+	"4f1ac929b819f25efd000113": {
 		"name": "Ian Hudghton",
 		"country": "uk",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2338/",
 		"agw": null
 	},
-	"Anna IBRISAGIC": {
+	"4f1ac92fb819f25efd000117": {
 		"name": "Anna Ibrisagic",
 		"country": "se",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28125/",
 		"agw": null
 	},
-	"Stanimir ILCHEV": {
+	"4f1ac930b819f25efd000118": {
 		"name": "Stanimir Ilchev",
 		"country": "bg",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/34235/",
 		"agw": null
 	},
-	"Iliana Malinova IOTOVA": {
+	"4f1ac936b819f25efd00011b": {
 		"name": "Iliana Malinova Iotova",
 		"country": "bg",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/38605/",
 		"agw": null
 	},
-	"Vincenzo IOVINE": {
+	"4f1ac937b819f25efd00011c": {
 		"name": "Vincenzo Iovine",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97130/",
 		"agw": null
 	},
-	"María IRIGOYEN PÉREZ": {
+	"4f1ac4bbb819f2589600002f": {
 		"name": "María Irigoyen Pérez",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/105192/",
 		"agw": null
 	},
-	"Cătălin Sorin IVAN": {
+	"4f1ac93ab819f25efd00011f": {
 		"name": "Cătălin Sorin Ivan",
 		"country": "ro",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96857/",
 		"agw": null
 	},
-	"Peter JAHR": {
+	"4f1ac942b819f25efd000124": {
 		"name": "Peter Jahr",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96772/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_peter_jahr-901-22740.html"
 	},
-	"Anne E. JENSEN": {
+	"4f1ac94bb819f25efd000129": {
 		"name": "Anne E. Jensen",
 		"country": "dk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4440/",
 		"agw": null
 	},
-	"Teresa JIMÉNEZ-BECERRIL BARRIO": {
+	"4f1ac94eb819f25efd00012a": {
 		"name": "Teresa Jiménez-Becerril Barrio",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96806/",
 		"agw": null
 	},
-	"Cornelis de JONG": {
+	"4f1ac952b819f25efd00012c": {
 		"name": "Cornelis de Jong",
 		"country": "nl",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96748/",
 		"agw": null
 	},
-	"Philippe JUVIN": {
+	"4f1ac95ab819f25efd00012f": {
 		"name": "Philippe Juvin",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96884/",
 		"agw": null
 	},
-	"Karin KADENBACH": {
+	"4f1ac963b819f25efd000132": {
 		"name": "Karin Kadenbach",
 		"country": "at",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97014/",
 		"agw": null
 	},
-	"Jarosław KALINOWSKI": {
+	"4f1ac968b819f25efd000134": {
 		"name": "Jarosław Kalinowski",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96771/",
 		"agw": null
 	},
-	"Sandra KALNIETE": {
+	"4f1ac96ab819f25efd000135": {
 		"name": "Sandra Kalniete",
 		"country": "lv",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96934/",
 		"agw": null
 	},
-	"Petra KAMMEREVERT": {
+	"4f1ac973b819f25efd000138": {
 		"name": "Petra Kammerevert",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96837/",
 		"agw": "http://www.abgeordnetenwatch.de/petra_kammerevert-901-22802.html"
 	},
-	"Sajjad KARIM": {
+	"4f1ac978b819f25efd00013a": {
 		"name": "Sajjad Karim",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28481/",
 		"agw": null
 	},
-	"Tunne KELAM": {
+	"4f1ac987b819f25efd00013f": {
 		"name": "Tunne Kelam",
 		"country": "ee",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28424/",
 		"agw": null
 	},
-	"Seán KELLY": {
+	"4f1ac98db819f25efd000141": {
 		"name": "Seán Kelly",
 		"country": "ir",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96668/",
 		"agw": null
 	},
-	"Nicole KIIL-NIELSEN": {
+	"4f1ac990b819f25efd000142": {
 		"name": "Nicole Kiil-Nielsen",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96737/",
 		"agw": null
 	},
-	"Evgeni KIRILOV": {
+	"4f1ac995b819f25efd000143": {
 		"name": "Evgeni Kirilov",
 		"country": "bg",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/34231/",
 		"agw": null
 	},
-	"Timothy KIRKHOPE": {
+	"4f1ac998b819f25efd000144": {
 		"name": "Timothy Kirkhope",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4542/",
 		"agw": null
 	},
-	"Christa KLASS": {
+	"4f1ac99bb819f25efd000145": {
 		"name": "Christa Klass",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1929/",
 		"agw": "http://www.abgeordnetenwatch.de/christa_klass-901-22743.html"
 	},
-	"Mojca KLEVA KEKUŠ": {
+	"4f1ac4c4b819f25896000033": {
 		"name": "Mojca Kleva Kekuš",
 		"country": "si",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23413/",
 		"agw": null
 	},
-	"Wolf KLINZ": {
+	"4f1ac99eb819f25efd000146": {
 		"name": "Wolf Klinz",
 		"country": "de",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28244/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_wolf_klinz-901-22766.html"
 	},
-	"Jürgen KLUTE": {
+	"4f1ac9a2b819f25efd000147": {
 		"name": "Jürgen Klute",
 		"country": "de",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96769/",
 		"agw": "http://www.abgeordnetenwatch.de/juergen_klute-901-22817.html"
 	},
-	"Jaromír KOHLÍČEK": {
+	"4f1ac9abb819f25efd00014a": {
 		"name": "Jaromír Kohlíček",
 		"country": "cz",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28331/",
 		"agw": null
 	},
-	"Ádám KÓSA": {
+	"4f1ac9b8b819f25efd00014e": {
 		"name": "Ádám Kósa",
 		"country": "hu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96829/",
 		"agw": null
 	},
-	"Elisabeth KÖSTINGER": {
+	"4f1ac9b9b819f25efd00014f": {
 		"name": "Elisabeth Köstinger",
 		"country": "at",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96882/",
 		"agw": null
 	},
-	"Béla KOVÁCS": {
+	"4f1ac4bab819f2589600002e": {
 		"name": "Béla Kovács",
 		"country": "hu",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/102887/",
 		"agw": null
 	},
-	"Paweł Robert KOWAL": {
+	"4f1ad20ab819f27595000000": {
 		"name": "Paweł Robert Kowal",
 		"country": "pl",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96793/",
 		"agw": null
 	},
-	"Sergej KOZLÍK": {
+	"4f1ad20db819f27595000001": {
 		"name": "Sergej Kozlík",
 		"country": "sk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23873/",
 		"agw": null
 	},
-	"Holger KRAHMER": {
+	"4f1ad211b819f27595000003": {
 		"name": "Holger Krahmer",
 		"country": "de",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28247/",
 		"agw": "http://www.abgeordnetenwatch.de/holger_krahmer-901-22769.html"
 	},
-	"Wolfgang KREISSL-DÖRFLER": {
+	"4f1ad21ab819f27595000006": {
 		"name": "Wolfgang Kreissl-Dörfler",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1935/",
 		"agw": "http://www.abgeordnetenwatch.de/wolfgang_kreissl_doerfler-901-22793.html"
 	},
-	"Werner KUHN": {
+	"4f1ad21db819f27595000007": {
 		"name": "Werner Kuhn",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96767/",
 		"agw": "http://www.abgeordnetenwatch.de/werner_kuhn-901-22722.html"
 	},
-	"Eduard KUKAN": {
+	"4f1ad220b819f27595000008": {
 		"name": "Eduard Kukan",
 		"country": "sk",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96651/",
 		"agw": null
 	},
-	"Jean LAMBERT": {
+	"4f1ad227b819f2759500000b": {
 		"name": "Jean Lambert",
 		"country": "uk",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4531/",
 		"agw": null
 	},
-	"Philippe LAMBERTS": {
+	"4f1ad22ab819f2759500000c": {
 		"name": "Philippe Lamberts",
 		"country": "be",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96648/",
 		"agw": null
 	},
-	"Alexander Graf LAMBSDORFF": {
+	"4f1ad22db819f2759500000d": {
 		"name": "Alexander Graf Lambsdorff",
 		"country": "de",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28242/",
 		"agw": "http://www.abgeordnetenwatch.de/alexander_graf_lambsdorff-901-22764.html"
 	},
-	"Vytautas LANDSBERGIS": {
+	"4f1ad230b819f2759500000e": {
 		"name": "Vytautas Landsbergis",
 		"country": "lt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23746/",
 		"agw": null
 	},
-	"Bernd LANGE": {
+	"4f1ad233b819f2759500000f": {
 		"name": "Bernd Lange",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1909/",
 		"agw": "http://www.abgeordnetenwatch.de/bernd_lange-901-22794.html"
 	},
-	"Esther de LANGE": {
+	"4f1ad236b819f27595000010": {
 		"name": "Esther de Lange",
 		"country": "nl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/38398/",
 		"agw": null
 	},
-	"Jörg LEICHTFRIED": {
+	"4f1ad24db819f27595000018": {
 		"name": "Jörg Leichtfried",
 		"country": "at",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28251/",
 		"agw": null
 	},
-	"Jo LEINEN": {
+	"4f1ad24eb819f27595000019": {
 		"name": "Jo Leinen",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4262/",
 		"agw": "http://www.abgeordnetenwatch.de/jo_leinen-901-22804.html"
 	},
-	"Corinne LEPAGE": {
+	"4f1ad252b819f2759500001a": {
 		"name": "Corinne Lepage",
 		"country": "fr",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97076/",
 		"agw": null
 	},
-	"Eva LICHTENBERGER": {
+	"4f1ad25eb819f2759500001e": {
 		"name": "Eva Lichtenberger",
 		"country": "at",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28253/",
 		"agw": null
 	},
-	"Kartika Tamara LIOTARD": {
+	"4f1ad263b819f27595000020": {
 		"name": "Kartika Tamara Liotard",
 		"country": "nl",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28182/",
 		"agw": null
 	},
-	"Verónica LOPE FONTAGNÉ": {
+	"4f1ad26fb819f27595000024": {
 		"name": "Verónica Lope Fontagné",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96765/",
 		"agw": null
 	},
-	"Antonio LÓPEZ-ISTÚRIZ WHITE": {
+	"4f1ad272b819f27595000026": {
 		"name": "Antonio López-Istúriz White",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28399/",
 		"agw": null
 	},
-	"Sabine LÖSING": {
+	"4f1ad275b819f27595000027": {
 		"name": "Sabine Lösing",
 		"country": "de",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96854/",
 		"agw": "http://www.abgeordnetenwatch.de/sabine_loesing-901-22818.html"
 	},
-	"Isabella LÖVIN": {
+	"4f1ad930b819f207b3000000": {
 		"name": "Isabella Lövin",
 		"country": "se",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96675/",
 		"agw": null
 	},
-	"Baroness Sarah LUDFORD": {
+	"4f1ad933b819f207b3000001": {
 		"name": "Baroness Sarah Ludford",
 		"country": "uk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4529/",
 		"agw": null
 	},
-	"Olle LUDVIGSSON": {
+	"4f1ad936b819f207b3000002": {
 		"name": "Olle Ludvigsson",
 		"country": "se",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96673/",
 		"agw": null
 	},
-	"Petru Constantin LUHAN": {
+	"4f1ad939b819f207b3000003": {
 		"name": "Petru Constantin Luhan",
 		"country": "ro",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96823/",
 		"agw": null
 	},
-	"Astrid LULLING": {
+	"4f1ad93db819f207b3000005": {
 		"name": "Astrid Lulling",
 		"country": "lu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1186/",
 		"agw": null
 	},
-	"Ulrike LUNACEK": {
+	"4f1ad93eb819f207b3000006": {
 		"name": "Ulrike Lunacek",
 		"country": "at",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97017/",
 		"agw": null
 	},
-	"Linda McAVAN": {
+	"4f1ad945b819f207b3000009": {
 		"name": "Linda Mcavan",
 		"country": "uk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2327/",
 		"agw": null
 	},
-	"Mairead McGUINNESS": {
+	"4f1ad94eb819f207b300000c": {
 		"name": "Mairead Mcguinness",
 		"country": "ir",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28115/",
 		"agw": null
 	},
-	"Monica Luisa MACOVEI": {
+	"4f1ad952b819f207b300000e": {
 		"name": "Monica Luisa Macovei",
 		"country": "ro",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96824/",
 		"agw": null
 	},
-	"Toine MANDERS": {
+	"4f1ad958b819f207b3000010": {
 		"name": "Toine Manders",
 		"country": "nl",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4560/",
 		"agw": null
 	},
-	"Vladimír MAŇKA": {
+	"4f1ad95eb819f207b3000012": {
 		"name": "Vladimír Maňka",
 		"country": "sk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28192/",
 		"agw": null
 	},
-	"Bogdan Kazimierz MARCINKIEWICZ": {
+	"4f1ad968b819f207b3000015": {
 		"name": "Bogdan Kazimierz Marcinkiewicz",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96792/",
 		"agw": null
 	},
-	"Marian-Jean MARINESCU": {
+	"4f1ad96bb819f207b3000016": {
 		"name": "Marian-Jean Marinescu",
 		"country": "ro",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/33982/",
 		"agw": null
 	},
-	"David MARTIN": {
+	"4f1ad96eb819f207b3000017": {
 		"name": "David Martin",
 		"country": "uk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1403/",
 		"agw": null
 	},
-	"Hans-Peter MARTIN": {
+	"4f1ad971b819f207b3000018": {
 		"name": "Hans-Peter Martin",
 		"country": "at",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4238/",
 		"agw": null
 	},
-	"Miguel Angel MARTÍNEZ MARTÍNEZ": {
+	"4f1ad974b819f207b3000019": {
 		"name": "Miguel Angel Martínez Martínez",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4346/",
 		"agw": null
 	},
-	"Antonio MASIP HIDALGO": {
+	"4f1ad976b819f207b300001a": {
 		"name": "Antonio Masip Hidalgo",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28338/",
 		"agw": null
 	},
-	"Jiří MAŠTÁLKA": {
+	"4f1ad979b819f207b300001b": {
 		"name": "Jiří Maštálka",
 		"country": "cz",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23704/",
 		"agw": null
 	},
-	"Iosif MATULA": {
+	"4f1ad98ab819f207b3000021": {
 		"name": "Iosif Matula",
 		"country": "ro",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/95017/",
 		"agw": null
 	},
-	"Hans-Peter MAYER": {
+	"4f1ad993b819f207b3000024": {
 		"name": "Hans-Peter Mayer",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4275/",
 		"agw": "http://www.abgeordnetenwatch.de/prof_dr_hans_peter_mayer-901-22726.html"
 	},
-	"Jaime MAYOR OREJA": {
+	"4f1ad997b819f207b3000025": {
 		"name": "Jaime Mayor Oreja",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28362/",
 		"agw": null
 	},
-	"Gesine MEISSNER": {
+	"4f1ad99db819f207b3000027": {
 		"name": "Gesine Meissner",
 		"country": "de",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96870/",
 		"agw": "http://www.abgeordnetenwatch.de/gesine_meissner-901-22767.html"
 	},
-	"Jean-Luc MÉLENCHON": {
+	"4f1ad99fb819f207b3000028": {
 		"name": "Jean-Luc Mélenchon",
 		"country": "fr",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96742/",
 		"agw": null
 	},
-	"Nuno MELO": {
+	"4f1ad9a2b819f207b3000029": {
 		"name": "Nuno Melo",
 		"country": "pt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96978/",
 		"agw": null
 	},
-	"Judith A. MERKIES": {
+	"4f1ad9a8b819f207b300002b": {
 		"name": "Judith A. Merkies",
 		"country": "nl",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96910/",
 		"agw": null
 	},
-	"Alajos MÉSZÁROS": {
+	"4f1ad9aeb819f207b300002d": {
 		"name": "Alajos Mészáros",
 		"country": "sk",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96652/",
 		"agw": null
 	},
-	"Louis MICHEL": {
+	"4f1ad9b5b819f207b300002f": {
 		"name": "Louis Michel",
 		"country": "be",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96670/",
 		"agw": null
 	},
-	"Miroslav MIKOLÁŠIK": {
+	"4f1ad9bbb819f207b3000031": {
 		"name": "Miroslav Mikolášik",
 		"country": "sk",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28178/",
 		"agw": null
 	},
-	"Francisco José MILLÁN MON": {
+	"4f1ad9c0b819f207b3000033": {
 		"name": "Francisco José Millán Mon",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28400/",
 		"agw": null
 	},
-	"Andreas MÖLZER": {
+	"4f1ad9c8b819f207b3000036": {
 		"name": "Andreas Mölzer",
 		"country": "at",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28255/",
 		"agw": null
 	},
-	"Claude MORAES": {
+	"4f1ad9cbb819f207b3000037": {
 		"name": "Claude Moraes",
 		"country": "uk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4519/",
 		"agw": null
 	},
-	"Radvilė MORKŪNAITĖ-MIKULĖNIENĖ": {
+	"4f1ad9d8b819f207b300003b": {
 		"name": "Radvilė Morkūnaitė-Mikulėnienė",
 		"country": "lt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96695/",
 		"agw": null
 	},
-	"Krisztina MORVAI": {
+	"4f1ad9d9b819f207b300003c": {
 		"name": "Krisztina Morvai",
 		"country": "hu",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96661/",
 		"agw": null
 	},
-	"Tiziano MOTTI": {
+	"4f1ad9dab819f207b300003d": {
 		"name": "Tiziano Motti",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96760/",
 		"agw": null
 	},
-	"Jan MULDER": {
+	"4f1ac452b819f25896000005": {
 		"name": "Jan Mulder",
 		"country": "nl",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1965/",
 		"agw": null
 	},
-	"María MUÑIZ DE URQUIZA": {
+	"4f1ad9ddb819f207b300003e": {
 		"name": "María Muñiz de Urquiza",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96701/",
 		"agw": null
 	},
-	"Norbert NEUSER": {
+	"4f1ad9e8b819f207b3000042": {
 		"name": "Norbert Neuser",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96844/",
 		"agw": "http://www.abgeordnetenwatch.de/norbert_neuser-901-22811.html"
 	},
-	"Katarína NEVEĎALOVÁ": {
+	"4f1ad9ecb819f207b3000043": {
 		"name": "Katarína Neveďalová",
 		"country": "sk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96653/",
 		"agw": null
 	},
-	"Nadezhda NEYNSKY": {
+	"4f1ad9f2b819f207b3000045": {
 		"name": "Nadezhda Neynsky",
 		"country": "bg",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96861/",
 		"agw": null
 	},
-	"Annemie NEYTS-UYTTEBROECK": {
+	"4f1ad9f5b819f207b3000046": {
 		"name": "Annemie Neyts-Uyttebroeck",
 		"country": "be",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1946/",
 		"agw": null
 	},
-	"James NICHOLSON": {
+	"4f1ad9f7b819f207b3000047": {
 		"name": "James Nicholson",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1318/",
 		"agw": null
 	},
-	"Angelika NIEBLER": {
+	"4f1ada04b819f207b300004a": {
 		"name": "Angelika Niebler",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4289/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_angelika_niebler-901-22756.html"
 	},
-	"Jens NILSSON": {
+	"4f1ac479b819f25896000017": {
 		"name": "Jens Nilsson",
 		"country": "se",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/111024/",
 		"agw": null
 	},
-	"Lambert van NISTELROOIJ": {
+	"4f1ada05b819f207b300004b": {
 		"name": "Lambert van Nistelrooij",
 		"country": "nl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28165/",
 		"agw": null
 	},
-	"Sławomir NITRAS": {
+	"4f1ada08b819f207b300004c": {
 		"name": "Sławomir Nitras",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96794/",
 		"agw": null
 	},
-	"Paul NUTTALL": {
+	"4f1ada0cb819f207b300004d": {
 		"name": "Paul Nuttall",
 		"country": "uk",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96805/",
 		"agw": null
 	},
-	"Franz OBERMAYR": {
+	"4f1ada0fb819f207b300004e": {
 		"name": "Franz Obermayr",
 		"country": "at",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96981/",
 		"agw": null
 	},
-	"Raimon OBIOLS": {
+	"4f1ada12b819f207b300004f": {
 		"name": "Raimon Obiols",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4328/",
 		"agw": null
 	},
-	"Kristiina OJULAND": {
+	"4f1ada15b819f207b3000050": {
 		"name": "Kristiina Ojuland",
 		"country": "ee",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97230/",
 		"agw": null
 	},
-	"Ria OOMEN-RUIJTEN": {
+	"4f1ada1db819f207b3000053": {
 		"name": "Ria Oomen-Ruijten",
 		"country": "nl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1122/",
 		"agw": null
 	},
-	"Csaba ŐRY": {
+	"4f1ada1fb819f207b3000054": {
 		"name": "Csaba Őry",
 		"country": "hu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23819/",
 		"agw": null
 	},
-	"Miroslav OUZKÝ": {
+	"4f1ada22b819f207b3000055": {
 		"name": "Miroslav Ouzký",
 		"country": "cz",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23705/",
 		"agw": null
 	},
-	"Siiri OVIIR": {
+	"4f1ada25b819f207b3000056": {
 		"name": "Siiri Oviir",
 		"country": "ee",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/26829/",
 		"agw": null
 	},
-	"Ivari PADAR": {
+	"4f1ada2bb819f207b3000058": {
 		"name": "Ivari Padar",
 		"country": "ee",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97025/",
 		"agw": null
 	},
-	"Rolandas PAKSAS": {
+	"4f1ada2eb819f207b3000059": {
 		"name": "Rolandas Paksas",
 		"country": "lt",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96694/",
 		"agw": null
 	},
-	"Alfredo PALLONE": {
+	"4f1ada37b819f207b300005c": {
 		"name": "Alfredo Pallone",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97197/",
 		"agw": null
 	},
-	"Pier Antonio PANZERI": {
+	"4f1ada3db819f207b300005e": {
 		"name": "Pier Antonio Panzeri",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28365/",
 		"agw": null
 	},
-	"Georgios PAPASTAMKOS": {
+	"4f1ada47b819f207b3000061": {
 		"name": "Georgios Papastamkos",
 		"country": "gr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28572/",
 		"agw": null
 	},
-	"Gilles PARGNEAUX": {
+	"4f1ada4ab819f207b3000062": {
 		"name": "Gilles Pargneaux",
 		"country": "fr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96948/",
 		"agw": null
 	},
-	"Jaroslav PAŠKA": {
+	"4f1ada54b819f207b3000065": {
 		"name": "Jaroslav Paška",
 		"country": "sk",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96654/",
 		"agw": null
 	},
-	"Maria do Céu PATRÃO NEVES": {
+	"4f1ada57b819f207b3000066": {
 		"name": "Maria do Céu Patrão Neves",
 		"country": "pt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96902/",
 		"agw": null
 	},
-	"Aldo PATRICIELLO": {
+	"4f1ada5ab819f207b3000067": {
 		"name": "Aldo Patriciello",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/36392/",
 		"agw": null
 	},
-	"Sirpa PIETIKÄINEN": {
+	"4f1ada6cb819f207b300006d": {
 		"name": "Sirpa Pietikäinen",
 		"country": "fi",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/40599/",
 		"agw": null
 	},
-	"Mario PIRILLO": {
+	"4f1ada72b819f207b300006f": {
 		"name": "Mario Pirillo",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96890/",
 		"agw": null
 	},
-	"Hubert PIRKER": {
+	"4f1ac446b819f25896000001": {
 		"name": "Hubert Pirker",
 		"country": "at",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2307/",
 		"agw": null
 	},
-	"Pavel POC": {
+	"4f1ada78b819f207b3000072": {
 		"name": "Pavel Poc",
 		"country": "cz",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96715/",
 		"agw": null
 	},
-	"Maurice PONGA": {
+	"4f1ada7eb819f207b3000074": {
 		"name": "Maurice Ponga",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96931/",
 		"agw": null
 	},
-	"Tomasz Piotr PORĘBA": {
+	"4f1ada82b819f207b3000075": {
 		"name": "Tomasz Piotr Poręba",
 		"country": "pl",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96801/",
 		"agw": null
 	},
-	"Bernd POSSELT": {
+	"4f1ada88b819f207b3000077": {
 		"name": "Bernd Posselt",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2229/",
 		"agw": "http://www.abgeordnetenwatch.de/bernd_posselt-901-22761.html"
 	},
-	"Cristian Dan PREDA": {
+	"4f1ada8fb819f207b300007a": {
 		"name": "Cristian Dan Preda",
 		"country": "ro",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96838/",
 		"agw": null
 	},
-	"Phil PRENDERGAST": {
+	"4f1ac4cbb819f25896000036": {
 		"name": "Phil Prendergast",
 		"country": "ir",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/107386/",
 		"agw": null
 	},
-	"Vittorio PRODI": {
+	"4f1ada92b819f207b300007b": {
 		"name": "Vittorio Prodi",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28370/",
 		"agw": null
 	},
-	"Franck PROUST": {
+	"4f1ac4a5b819f25896000027": {
 		"name": "Franck Proust",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/108080/",
 		"agw": null
 	},
-	"Godelieve QUISTHOUDT-ROWOHL": {
+	"4f1ada9bb819f207b300007e": {
 		"name": "Godelieve Quisthoudt-Rowohl",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1055/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_godelieve_quisthoudt_rowohl-901-22725.html"
 	},
-	"Paulo RANGEL": {
+	"4f1ada9db819f207b300007f": {
 		"name": "Paulo Rangel",
 		"country": "pt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96903/",
 		"agw": null
 	},
-	"Miloslav RANSDORF": {
+	"4f1adaa0b819f207b3000080": {
 		"name": "Miloslav Ransdorf",
 		"country": "cz",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23706/",
 		"agw": null
 	},
-	"Vladimír REMEK": {
+	"4f1adab0b819f207b3000085": {
 		"name": "Vladimír Remek",
 		"country": "cz",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28330/",
 		"agw": null
 	},
-	"Mitro REPO": {
+	"4f1adab3b819f207b3000086": {
 		"name": "Mitro Repo",
 		"country": "fi",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96686/",
 		"agw": null
 	},
-	"Teresa RIERA MADURELL": {
+	"4f1adabab819f207b3000088": {
 		"name": "Teresa Riera Madurell",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28349/",
 		"agw": null
 	},
-	"Frédérique RIES": {
+	"4f1adabbb819f207b3000089": {
 		"name": "Frédérique Ries",
 		"country": "be",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4253/",
 		"agw": null
 	},
-	"Michèle RIVASI": {
+	"4f1adac2b819f207b300008c": {
 		"name": "Michèle Rivasi",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96743/",
 		"agw": null
 	},
-	"Crescenzio RIVELLINI": {
+	"4f1adac6b819f207b300008d": {
 		"name": "Crescenzio Rivellini",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97199/",
 		"agw": null
 	},
-	"Robert ROCHEFORT": {
+	"4f1adac8b819f207b300008e": {
 		"name": "Robert Rochefort",
 		"country": "fr",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97022/",
 		"agw": null
 	},
-	"Ulrike RODUST": {
+	"4f1adaccb819f207b300008f": {
 		"name": "Ulrike Rodust",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/93624/",
 		"agw": "http://www.abgeordnetenwatch.de/ulrike_rodust-901-22800.html"
 	},
-	"Zuzana ROITHOVÁ": {
+	"4f1adad2b819f207b3000091": {
 		"name": "Zuzana Roithová",
 		"country": "cz",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28352/",
 		"agw": null
 	},
-	"Carmen ROMERO LÓPEZ": {
+	"4f1adad5b819f207b3000092": {
 		"name": "Carmen Romero López",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96990/",
 		"agw": null
 	},
-	"Raül ROMEVA i RUEDA": {
+	"4f1adad8b819f207b3000093": {
 		"name": "Raül Romeva i Rueda",
 		"country": "es",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28409/",
 		"agw": null
 	},
-	"Anna ROSBACH": {
+	"4f1adadcb819f207b3000095": {
 		"name": "Anna Rosbach",
 		"country": "dk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96664/",
 		"agw": null
 	},
-	"Alfreds RUBIKS": {
+	"4f1adaecb819f207b300009a": {
 		"name": "Alfreds Rubiks",
 		"country": "lv",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96988/",
 		"agw": null
 	},
-	"Antolín SÁNCHEZ PRESEDO": {
+	"4f1adb00b819f207b30000a0": {
 		"name": "Antolín Sánchez Presedo",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28295/",
 		"agw": null
 	},
-	"Marie-Thérèse SANCHEZ-SCHMID": {
+	"4f1adb03b819f207b30000a1": {
 		"name": "Marie-Thérèse Sanchez-Schmid",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96746/",
 		"agw": null
 	},
-	"David-Maria SASSOLI": {
+	"4f1adb12b819f207b30000a6": {
 		"name": "David-Maria Sassoli",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96864/",
 		"agw": null
 	},
-	"Laurence J.A.J. STASSEN": {
+	"4f1adb92b819f207b30000d0": {
 		"name": "Laurence J.A.J. Stassen",
 		"country": "nl",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96905/",
 		"agw": null
 	},
-	"Giovanni LA VIA": {
+	"4f1ad23cb819f27595000012": {
 		"name": "Giovanni La Via",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96816/",
 		"agw": null
 	},
-	"Zofija MAZEJ KUKOVIČ": {
+	"4f1ac4bdb819f25896000030": {
 		"name": "Zofija Mazej Kukovič",
 		"country": "si",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/39916/",
 		"agw": null
 	},
-	"Nicole SINCLAIRE": {
+	"4f1adb67b819f207b30000c1": {
 		"name": "Nicole Sinclaire",
 		"country": "uk",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96960/",
 		"agw": null
 	},
-	"Christian ENGSTRÖM": {
+	"4f1ac7c6b819f25efd0000ab": {
 		"name": "Christian Engström",
 		"country": "se",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96676/",
 		"agw": null
 	},
-	"Yannick JADOT": {
+	"4f1ac941b819f25efd000123": {
 		"name": "Yannick Jadot",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96740/",
 		"agw": null
 	},
-	"Marit PAULSEN": {
+	"4f1ada5eb819f207b3000068": {
 		"name": "Marit Paulsen",
 		"country": "se",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4270/",
 		"agw": null
 	},
-	"Josef WEIDENHOLZER": {
+	"4f1ac46db819f25896000012": {
 		"name": "Josef Weidenholzer",
 		"country": "at",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/111014/",
 		"agw": null
 	},
-	"Angelika WERTHMANN": {
+	"4f1adc8fb819f207b3000124": {
 		"name": "Angelika Werthmann",
 		"country": "at",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97016/",
 		"agw": null
 	},
-	"Marina YANNAKOUDAKIS": {
+	"4f1adcb3b819f207b3000131": {
 		"name": "Marina Yannakoudakis",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96944/",
 		"agw": null
 	},
-	"Anthea McINTYRE": {
+	"4f1ac46cb819f25896000011": {
 		"name": "Anthea Mcintyre",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/111011/",
 		"agw": null
 	},
-	"Petri SARVAMAA": {
+	"4f608bacb819f2787f000000": {
 		"name": "Petri Sarvamaa",
 		"country": "fi",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/112611/",
 		"agw": null
 	},
-	"Mary HONEYBALL": {
+	"4f1ac91fb819f25efd000110": {
 		"name": "Mary Honeyball",
 		"country": "uk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/5846/",
 		"agw": null
 	},
-	"Younous OMARJEE": {
+	"4f1ac454b819f25896000006": {
 		"name": "Younous Omarjee",
 		"country": "fr",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/30482/",
 		"agw": null
 	},
-	"Jean ROATTA": {
+	"4f1ac4aeb819f2589600002a": {
 		"name": "Jean Roatta",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/111068/",
 		"agw": null
 	},
-	"Magdi Cristiano ALLAM": {
+	"4f1ac5dfb819f25efd000007": {
 		"name": "Magdi Cristiano Allam",
 		"country": "it",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96992/",
 		"agw": null
 	},
-	"Phil BENNION": {
+	"4f3651a5b819f20150000000": {
 		"name": "Phil Bennion",
 		"country": "uk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/112014/",
 		"agw": null
 	},
-	"Alda SOUSA": {
+	"4faf9bc0b819f22421000000": {
 		"name": "Alda Sousa",
 		"country": "pt",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/113487/",
 		"agw": null
 	},
-	"Daniël van der STOEP": {
+	"4f1ac476b819f25896000016": {
 		"name": "Daniël van der Stoep",
 		"country": "nl",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96946/",
 		"agw": null
 	},
-	"María Auxiliadora CORREA ZAMORA": {
+	"4f1ac44cb819f25896000003": {
 		"name": "María Auxiliadora Correa Zamora",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/111496/",
 		"agw": null
 	},
-	"Birgit COLLIN-LANGEN": {
+	"4f73b318b819f2505c000000": {
 		"name": "Birgit Collin-Langen",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/112788/",
 		"agw": "http://www.abgeordnetenwatch.de/birgit_collin_langen-901-48117.html"
 	},
-	"José BOVÉ": {
+	"4f1ac687b819f25efd000046": {
 		"name": "José Bové",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96744/",
 		"agw": null
 	},
-	"Jean Louis COTTIGNY": {
+	"4ff332fab819f27075000001": {
 		"name": "Jean Louis Cottigny",
 		"country": "fr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2315/",
 		"agw": null
 	},
-	"Isabelle THOMAS": {
+	"4ff339fbb819f27075000002": {
 		"name": "Isabelle Thomas",
 		"country": "fr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/114279/",
 		"agw": null
 	},
-	"Martina ANDERSON": {
+	"4fd7df7db819f235ad000000": {
 		"name": "Martina Anderson",
 		"country": "uk",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/113959/",
 		"agw": null
 	},
-	"Karim ZÉRIBI": {
+	"4fd4f1e1b819f229e4000001": {
 		"name": "Karim Zéribi",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/113890/",
 		"agw": null
 	},
-	"Minodora CLIVETI": {
+	"4fbb0025b819f27fe4000000": {
 		"name": "Minodora Cliveti",
 		"country": "ro",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/113597/",
 		"agw": null
 	},
-	"Sophocles SOPHOCLEOUS": {
+	"50417e87b819f26f4d000001": {
 		"name": "Sophocles Sophocleous",
 		"country": "cy",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/114840/",
 		"agw": null
 	},
-	"Matteo SALVINI": {
+	"4f1adafdb819f207b300009f": {
 		"name": "Matteo Salvini",
 		"country": "it",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28404/",
 		"agw": null
 	},
-	"Erik BÁNKI": {
+	"4fd4f1deb819f229e4000000": {
 		"name": "Erik Bánki",
 		"country": "hu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/113883/",
 		"agw": null
 	},
-	"Eric ANDRIEU": {
+	"4fd4f1e9b819f229e4000003": {
 		"name": "Eric Andrieu",
 		"country": "fr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/113892/",
 		"agw": null
 	},
-	"Nora BERRA": {
+	"4ff331f1b819f27075000000": {
 		"name": "Nora Berra",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96947/",
 		"agw": null
 	},
-	"Jean-Jacob BICEP": {
+	"4fd4f1e5b819f229e4000002": {
 		"name": "Jean-Jacob Bicep",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/113891/",
 		"agw": null
 	},
-	"Nils TORVALDS": {
+	"4ff717aeb819f245c4000000": {
 		"name": "Nils Torvalds",
 		"country": "fi",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/114268/",
 		"agw": null
 	},
-	"Vojtěch MYNÁŘ": {
+	"50417cbeb819f26f4d000000": {
 		"name": "Vojtěch Mynář",
 		"country": "cz",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/114873/",
 		"agw": null
 	},
-	"George LYON": {
+	"4f1ad942b819f207b3000008": {
 		"name": "George Lyon",
 		"country": "uk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96959/",
 		"agw": null
 	},
-	"Monika PANAYOTOVA": {
+	"50c292beb819f272a0000000": {
 		"name": "Monika Panayotova",
 		"country": "bg",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/116663/",
 		"agw": null
 	},
-	"Charalampos ANGOURAKIS": {
+	"4f1ac4abb819f25896000029": {
 		"name": "Charalampos Angourakis",
 		"country": "gr",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/99419/",
 		"agw": null
 	},
-	"Patricia van der KAMMEN": {
+	"5070ddc5b819f268ac000000": {
 		"name": "Patricia van der Kammen",
 		"country": "nl",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/115868/",
 		"agw": null
 	},
-	"Preslav BORISSOV": {
+	"50e22425b819f253f8000000": {
 		"name": "Preslav Borissov",
 		"country": "bg",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/116816/",
 		"agw": null
 	},
-	"Francesca BARRACCIU": {
+	"50cfe064b819f25b5d000000": {
 		"name": "Francesca Barracciu",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/116823/",
 		"agw": null
 	},
-	"Mark DEMESMAEKER": {
+	"510cf88fb819f26569000000": {
 		"name": "Mark Demesmaeker",
 		"country": "be",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/117477/",
 		"agw": null
 	},
-	"Dan Dumitru ZAMFIRESCU": {
+	"50f0b4fab819f25dc8000000": {
 		"name": "Dan Dumitru Zamfirescu",
 		"country": "ro",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/117119/",
 		"agw": null
 	},
-	"Justina VITKAUSKAITE": {
+	"50b41776b819f20d80000000": {
 		"name": "Justina Vitkauskaite",
 		"country": "lt",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/30475/",
 		"agw": null
 	},
-	"Dolores GARCÍA-HIERRO CARABALLO": {
+	"4f1ac46eb819f25896000013": {
 		"name": "Dolores García-Hierro Caraballo",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/111017/",
 		"agw": null
 	},
-	"Andreas PITSILLIDES": {
+	"5136baedb819f268c8000000": {
 		"name": "Andreas Pitsillides",
 		"country": "cy",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/118144/",
 		"agw": null
 	},
-	"Daciana Octavia SÂRBU": {
+	"4f1adb06b819f207b30000a2": {
 		"name": "Daciana Octavia Sârbu",
 		"country": "ro",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/33989/",
 		"agw": null
 	},
-	"Judith SARGENTINI": {
+	"4f1adb09b819f207b30000a3": {
 		"name": "Judith Sargentini",
 		"country": "nl",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96815/",
 		"agw": null
 	},
-	"Algirdas SAUDARGAS": {
+	"4f1adb15b819f207b30000a7": {
 		"name": "Algirdas Saudargas",
 		"country": "lt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96696/",
 		"agw": null
 	},
-	"Vilja SAVISAAR-TOOMAST": {
+	"4f1adb18b819f207b30000a8": {
 		"name": "Vilja Savisaar-Toomast",
 		"country": "ee",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97308/",
 		"agw": null
 	},
-	"Marietje SCHAAKE": {
+	"4f1adb1bb819f207b30000a9": {
 		"name": "Marietje Schaake",
 		"country": "nl",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96945/",
 		"agw": null
 	},
-	"Christel SCHALDEMOSE": {
+	"4f1adb1fb819f207b30000aa": {
 		"name": "Christel Schaldemose",
 		"country": "dk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/37312/",
 		"agw": null
 	},
-	"Olle SCHMIDT": {
+	"4f1adb27b819f207b30000ac": {
 		"name": "Olle Schmidt",
 		"country": "se",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4274/",
 		"agw": null
 	},
-	"Horst SCHNELLHARDT": {
+	"4f1adb2ab819f207b30000ad": {
 		"name": "Horst Schnellhardt",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1930/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_horst_schnellhardt-901-22744.html"
 	},
-	"Birgit SCHNIEBER-JASTRAM": {
+	"4f1adb2eb819f207b30000ae": {
 		"name": "Birgit Schnieber-Jastram",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96827/",
 		"agw": "http://www.abgeordnetenwatch.de/birgit_schnieber_jastram-901-22723.html"
 	},
-	"Helmut SCHOLZ": {
+	"4f1adb31b819f207b30000af": {
 		"name": "Helmut Scholz",
 		"country": "de",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96646/",
 		"agw": "http://www.abgeordnetenwatch.de/helmut_scholz-901-22819.html"
 	},
-	"Werner SCHULZ": {
+	"4f1adb3cb819f207b30000b3": {
 		"name": "Werner Schulz",
 		"country": "de",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96731/",
 		"agw": "http://www.abgeordnetenwatch.de/werner_schulz-901-22782.html"
 	},
-	"Andreas SCHWAB": {
+	"4f1adb40b819f207b30000b4": {
 		"name": "Andreas Schwab",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28223/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_andreas_schwab-901-22747.html"
 	},
-	"Giancarlo SCOTTÀ": {
+	"4f1adb47b819f207b30000b6": {
 		"name": "Giancarlo Scottà",
 		"country": "it",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96996/",
 		"agw": null
 	},
-	"Richard SEEBER": {
+	"4f1adb4db819f207b30000b8": {
 		"name": "Richard Seeber",
 		"country": "at",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28252/",
 		"agw": null
 	},
-	"Olga SEHNALOVÁ": {
+	"4f1adb51b819f207b30000b9": {
 		"name": "Olga Sehnalová",
 		"country": "cz",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96718/",
 		"agw": null
 	},
-	"Debora SERRACCHIANI": {
+	"4f1adb56b819f207b30000bb": {
 		"name": "Debora Serracchiani",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96865/",
 		"agw": null
 	},
-	"Adrian SEVERIN": {
+	"4f1adb59b819f207b30000bc": {
 		"name": "Adrian Severin",
 		"country": "ro",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/33990/",
 		"agw": null
 	},
-	"Peter SIMON": {
+	"4f1adb62b819f207b30000bf": {
 		"name": "Peter Simon",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96836/",
 		"agw": "http://www.abgeordnetenwatch.de/peter_simon-901-22801.html"
 	},
-	"Birgit SIPPEL": {
+	"4f1adb6ab819f207b30000c2": {
 		"name": "Birgit Sippel",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96932/",
 		"agw": "http://www.abgeordnetenwatch.de/birgit_sippel-901-22807.html"
 	},
-	"Marek SIWIEC": {
+	"4f1adb6cb819f207b30000c3": {
 		"name": "Marek Siwiec",
 		"country": "pl",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28380/",
 		"agw": null
 	},
-	"Peter SKINNER": {
+	"4f1adb6fb819f207b30000c4": {
 		"name": "Peter Skinner",
 		"country": "uk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2081/",
 		"agw": null
 	},
-	"Alyn SMITH": {
+	"4f1adb77b819f207b30000c7": {
 		"name": "Alyn Smith",
 		"country": "uk",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28508/",
 		"agw": null
 	},
-	"Monika SMOLKOVÁ": {
+	"4f1adb7ab819f207b30000c8": {
 		"name": "Monika Smolková",
 		"country": "sk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96655/",
 		"agw": null
 	},
-	"Csaba SÓGOR": {
+	"4f1adb7eb819f207b30000c9": {
 		"name": "Csaba Sógor",
 		"country": "ro",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/39724/",
 		"agw": null
 	},
-	"Renate SOMMER": {
+	"4f1adb81b819f207b30000ca": {
 		"name": "Renate Sommer",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4282/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_renate_sommer-901-22731.html"
 	},
-	"Søren Bo SØNDERGAARD": {
+	"4f1adb84b819f207b30000cb": {
 		"name": "Søren Bo Søndergaard",
 		"country": "dk",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/37676/",
 		"agw": null
 	},
-	"Francisco SOSA WAGNER": {
+	"4f1adb8ab819f207b30000cd": {
 		"name": "Francisco Sosa Wagner",
 		"country": "es",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97170/",
 		"agw": null
 	},
-	"Peter ŠŤASTNÝ": {
+	"4f1adb95b819f207b30000d1": {
 		"name": "Peter Šťastný",
 		"country": "sk",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28170/",
 		"agw": null
 	},
-	"Catherine STIHLER": {
+	"4f1adba1b819f207b30000d5": {
 		"name": "Catherine Stihler",
 		"country": "uk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4545/",
 		"agw": null
 	},
-	"Gianluca SUSTA": {
+	"4f1adbb8b819f207b30000dd": {
 		"name": "Gianluca Susta",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/36396/",
 		"agw": null
 	},
-	"Alf SVENSSON": {
+	"4f1adbb9b819f207b30000de": {
 		"name": "Alf Svensson",
 		"country": "se",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96678/",
 		"agw": null
 	},
-	"Kay SWINBURNE": {
+	"4f1adbbdb819f207b30000df": {
 		"name": "Kay Swinburne",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96920/",
 		"agw": null
 	},
-	"József SZÁJER": {
+	"4f1adbc1b819f207b30000e1": {
 		"name": "József Szájer",
 		"country": "hu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23821/",
 		"agw": null
 	},
-	"Konrad SZYMAŃSKI": {
+	"4f1adbc5b819f207b30000e3": {
 		"name": "Konrad Szymański",
 		"country": "pl",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28358/",
 		"agw": null
 	},
-	"Csaba Sándor TABAJDI": {
+	"4f1adbc8b819f207b30000e4": {
 		"name": "Csaba Sándor Tabajdi",
 		"country": "hu",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23808/",
 		"agw": null
 	},
-	"Hannu TAKKULA": {
+	"4f1adbcab819f207b30000e5": {
 		"name": "Hannu Takkula",
 		"country": "fi",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28316/",
 		"agw": null
 	},
-	"Claudiu Ciprian TĂNĂSESCU": {
+	"4f1adbceb819f207b30000e6": {
 		"name": "Claudiu Ciprian Tănăsescu",
 		"country": "ro",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96847/",
 		"agw": null
 	},
-	"Charles TANNOCK": {
+	"4f1adbd1b819f207b30000e7": {
 		"name": "Charles Tannock",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4521/",
 		"agw": null
 	},
-	"Marc TARABELLA": {
+	"4f1ac491b819f2589600001f": {
 		"name": "Marc Tarabella",
 		"country": "be",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/29579/",
 		"agw": null
 	},
-	"Indrek TARAND": {
+	"4f1adbd4b819f207b30000e8": {
 		"name": "Indrek Tarand",
 		"country": "ee",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97136/",
 		"agw": null
 	},
-	"Rui TAVARES": {
+	"4f1adbdab819f207b30000ea": {
 		"name": "Rui Tavares",
 		"country": "pt",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96821/",
 		"agw": null
 	},
-	"Keith TAYLOR": {
+	"4f1ac457b819f25896000007": {
 		"name": "Keith Taylor",
 		"country": "uk",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/102931/",
 		"agw": null
 	},
-	"Nuno TEIXEIRA": {
+	"4f1adbddb819f207b30000eb": {
 		"name": "Nuno Teixeira",
 		"country": "pt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96974/",
 		"agw": null
 	},
-	"Sampo TERHO": {
+	"4f1ac4c9b819f25896000035": {
 		"name": "Sampo Terho",
 		"country": "fi",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/107385/",
 		"agw": null
 	},
-	"Britta THOMSEN": {
+	"4f1adbeab819f207b30000ef": {
 		"name": "Britta Thomsen",
 		"country": "dk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28153/",
 		"agw": null
 	},
-	"Róża Gräfin von THUN UND HOHENSTEIN": {
+	"4f1adbedb819f207b30000f0": {
 		"name": "Róża Gräfin von Thun und Hohenstein",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96776/",
 		"agw": null
 	},
-	"Marianne THYSSEN": {
+	"4f1adbf0b819f207b30000f1": {
 		"name": "Marianne Thyssen",
 		"country": "be",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1832/",
 		"agw": null
 	},
-	"Patrice TIROLIEN": {
+	"4f1adbf5b819f207b30000f3": {
 		"name": "Patrice Tirolien",
 		"country": "fr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97026/",
 		"agw": null
 	},
-	"Valdemar TOMAŠEVSKI": {
+	"4f1adbfeb819f207b30000f6": {
 		"name": "Valdemar Tomaševski",
 		"country": "lt",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96697/",
 		"agw": null
 	},
-	"Catherine TRAUTMANN": {
+	"4f1adc07b819f207b30000f9": {
 		"name": "Catherine Trautmann",
 		"country": "fr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1129/",
 		"agw": null
 	},
-	"Ramon TREMOSA i BALCELLS": {
+	"4f1adc0db819f207b30000fb": {
 		"name": "Ramon Tremosa i Balcells",
 		"country": "es",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97203/",
 		"agw": null
 	},
-	"Marita ULVSKOG": {
+	"4f1adc2bb819f207b3000105": {
 		"name": "Marita Ulvskog",
 		"country": "se",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96672/",
 		"agw": null
 	},
-	"Traian UNGUREANU": {
+	"4f1adc2eb819f207b3000106": {
 		"name": "Traian Ungureanu",
 		"country": "ro",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96835/",
 		"agw": null
 	},
-	"Vladimir URUTCHEV": {
+	"4f1adc32b819f207b3000107": {
 		"name": "Vladimir Urutchev",
 		"country": "bg",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/38601/",
 		"agw": null
 	},
-	"Corneliu VADIM TUDOR": {
+	"4f1adc38b819f207b3000109": {
 		"name": "Corneliu Vadim Tudor",
 		"country": "ro",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96845/",
 		"agw": null
 	},
-	"Inese VAIDERE": {
+	"4f1adc3bb819f207b300010a": {
 		"name": "Inese Vaidere",
 		"country": "lv",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28617/",
 		"agw": null
 	},
-	"Adina-Ioana VĂLEAN": {
+	"4f1adc41b819f207b300010c": {
 		"name": "Adina-Ioana Vălean",
 		"country": "ro",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/37324/",
 		"agw": null
 	},
-	"Kathleen VAN BREMPT": {
+	"4f1adc45b819f207b300010d": {
 		"name": "Kathleen Van Brempt",
 		"country": "be",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/5729/",
 		"agw": null
 	},
-	"Frank VANHECKE": {
+	"4f1adc48b819f207b300010e": {
 		"name": "Frank Vanhecke",
 		"country": "be",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1956/",
 		"agw": null
 	},
-	"Geoffrey VAN ORDEN": {
+	"4f1adc4bb819f207b300010f": {
 		"name": "Geoffrey Van Orden",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4513/",
 		"agw": null
 	},
-	"Gianni VATTIMO": {
+	"4f1adc4eb819f207b3000110": {
 		"name": "Gianni Vattimo",
 		"country": "it",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4398/",
 		"agw": null
 	},
-	"Sabine VERHEYEN": {
+	"4f1adc5eb819f207b3000114": {
 		"name": "Sabine Verheyen",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96756/",
 		"agw": "http://www.abgeordnetenwatch.de/sabine_verheyen-901-22734.html"
 	},
-	"Alejo VIDAL-QUADRAS": {
+	"4f1adc64b819f207b3000116": {
 		"name": "Alejo Vidal-Quadras",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4308/",
 		"agw": null
 	},
-	"Kristian VIGENIN": {
+	"4f1adc67b819f207b3000117": {
 		"name": "Kristian Vigenin",
 		"country": "bg",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/34232/",
 		"agw": null
 	},
-	"Philippe de VILLIERS": {
+	"4f1adc6ab819f207b3000118": {
 		"name": "Philippe de Villiers",
 		"country": "fr",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2212/",
 		"agw": null
 	},
-	"Dominique VLASTO": {
+	"4f1adc71b819f207b300011a": {
 		"name": "Dominique Vlasto",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/5737/",
 		"agw": null
 	},
-	"Axel VOSS": {
+	"4f1adc74b819f207b300011b": {
 		"name": "Axel Voss",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96761/",
 		"agw": "http://www.abgeordnetenwatch.de/axel_voss-901-22736.html"
 	},
-	"Sir Graham WATSON": {
+	"4f1adc7eb819f207b300011e": {
 		"name": "Sir Graham Watson",
 		"country": "uk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2155/",
 		"agw": null
 	},
-	"Henri WEBER": {
+	"4f1adc81b819f207b300011f": {
 		"name": "Henri Weber",
 		"country": "fr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2319/",
 		"agw": null
 	},
-	"Manfred WEBER": {
+	"4f1adc84b819f207b3000120": {
 		"name": "Manfred Weber",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28229/",
 		"agw": "http://www.abgeordnetenwatch.de/manfred_weber-901-22758.html"
 	},
-	"Renate WEBER": {
+	"4f1adc87b819f207b3000121": {
 		"name": "Renate Weber",
 		"country": "ro",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/39713/",
 		"agw": null
 	},
-	"Barbara WEILER": {
+	"4f1adc8ab819f207b3000122": {
 		"name": "Barbara Weiler",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1907/",
 		"agw": "http://www.abgeordnetenwatch.de/barbara_weiler-901-22805.html"
 	},
-	"Anja WEISGERBER": {
+	"4f1adc8eb819f207b3000123": {
 		"name": "Anja Weisgerber",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28227/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_anja_weisgerber-901-22757.html"
 	},
-	"Kerstin WESTPHAL": {
+	"4f1adc93b819f207b3000126": {
 		"name": "Kerstin Westphal",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96839/",
 		"agw": "http://www.abgeordnetenwatch.de/kerstin_westphal-901-22803.html"
 	},
-	"Cecilia WIKSTRÖM": {
+	"4f1adc99b819f207b3000128": {
 		"name": "Cecilia Wikström",
 		"country": "se",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96677/",
 		"agw": null
 	},
-	"Glenis WILLMOTT": {
+	"4f1adc9cb819f207b3000129": {
 		"name": "Glenis Willmott",
 		"country": "uk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/35743/",
 		"agw": null
 	},
-	"Sabine WILS": {
+	"4f1adc9fb819f207b300012a": {
 		"name": "Sabine Wils",
 		"country": "de",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96741/",
 		"agw": "http://www.abgeordnetenwatch.de/sabine_wils-901-22813.html"
 	},
-	"Hermann WINKLER": {
+	"4f1adca2b819f207b300012b": {
 		"name": "Hermann Winkler",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96764/",
 		"agw": "http://www.abgeordnetenwatch.de/hermann_winkler-901-22739.html"
 	},
-	"Iuliu WINKLER": {
+	"4f1adca5b819f207b300012c": {
 		"name": "Iuliu Winkler",
 		"country": "ro",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/39725/",
 		"agw": null
 	},
-	"Luis YÁÑEZ-BARNUEVO GARCÍA": {
+	"4f1adcb2b819f207b3000130": {
 		"name": "Luis Yáñez-Barnuevo García",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28278/",
 		"agw": null
 	},
-	"Jan ZAHRADIL": {
+	"4f1adcbab819f207b3000133": {
 		"name": "Jan Zahradil",
 		"country": "cz",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23712/",
 		"agw": null
 	},
-	"Boris ZALA": {
+	"4f1adcbdb819f207b3000134": {
 		"name": "Boris Zala",
 		"country": "sk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96656/",
 		"agw": null
 	},
-	"Artur ZASADA": {
+	"4f1adcc3b819f207b3000138": {
 		"name": "Artur Zasada",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96778/",
 		"agw": null
 	},
-	"Tatjana ŽDANOKA": {
+	"4f1adcc7b819f207b3000139": {
 		"name": "Tatjana Ždanoka",
 		"country": "lv",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28619/",
 		"agw": null
 	},
-	"Joachim ZELLER": {
+	"4f1adccab819f207b300013a": {
 		"name": "Joachim Zeller",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96762/",
 		"agw": "http://www.abgeordnetenwatch.de/joachim_zeller-901-22738.html"
 	},
-	"Janusz Władysław ZEMKE": {
+	"4f1adccbb819f207b300013b": {
 		"name": "Janusz Władysław Zemke",
 		"country": "pl",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96784/",
 		"agw": null
 	},
-	"Gabriele ZIMMER": {
+	"4f1adcd0b819f207b300013d": {
 		"name": "Gabriele Zimmer",
 		"country": "de",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28248/",
 		"agw": "http://www.abgeordnetenwatch.de/gabriele_zimmer-901-22814.html"
 	},
-	"Isabelle DURANT": {
+	"4f1ac7b4b819f25efd0000a2": {
 		"name": "Isabelle Durant",
 		"country": "be",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96639/",
 		"agw": null
 	},
-	"Jacek Olgierd KURSKI": {
+	"4f1ad223b819f27595000009": {
 		"name": "Jacek Olgierd Kurski",
 		"country": "pl",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96795/",
 		"agw": null
 	},
-	"Paul MURPHY": {
+	"4f1ac48bb819f2589600001d": {
 		"name": "Paul Murphy",
 		"country": "ir",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97344/",
 		"agw": null
 	},
-	"Georgios PAPANIKOLAOU": {
+	"4f1ada44b819f207b3000060": {
 		"name": "Georgios Papanikolaou",
 		"country": "gr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96900/",
 		"agw": null
 	},
-	"Ryszard Antoni LEGUTKO": {
+	"4f1ad245b819f27595000015": {
 		"name": "Ryszard Antoni Legutko",
 		"country": "pl",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96796/",
 		"agw": null
 	},
-	"Adam BIELAN": {
+	"4f1ac65eb819f25efd000037": {
 		"name": "Adam Bielan",
 		"country": "pl",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23788/",
 		"agw": null
 	},
-	"Arkadiusz Tomasz BRATKOWSKI": {
+	"4f1ac45ab819f25896000008": {
 		"name": "Arkadiusz Tomasz Bratkowski",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/111126/",
 		"agw": null
 	},
-	"Luis de GRANDES PASCUAL": {
+	"4f1ac8a0b819f25efd0000e4": {
 		"name": "Luis de Grandes Pascual",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28393/",
 		"agw": null
 	},
-	"Gerald HÄFNER": {
+	"4f1ac8d6b819f25efd0000f7": {
 		"name": "Gerald Häfner",
 		"country": "de",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96758/",
 		"agw": "http://www.abgeordnetenwatch.de/gerald_haefner-901-22788.html"
 	},
-	"Jutta HAUG": {
+	"4f1ac8f6b819f25efd000102": {
 		"name": "Jutta Haug",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1914/",
 		"agw": "http://www.abgeordnetenwatch.de/jutta_haug-901-22792.html"
 	},
-	"Edit HERCZOG": {
+	"4f1ac908b819f25efd000108": {
 		"name": "Edit Herczog",
 		"country": "hu",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28155/",
 		"agw": null
 	},
-	"Nadja HIRSCH": {
+	"4f1ac915b819f25efd00010c": {
 		"name": "Nadja Hirsch",
 		"country": "de",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96872/",
 		"agw": "http://www.abgeordnetenwatch.de/nadja_hirsch-901-22771.html"
 	},
-	"Filiz Hakaeva HYUSMENOVA": {
+	"4f1ac92db819f25efd000115": {
 		"name": "Filiz Hakaeva Hyusmenova",
 		"country": "bg",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/34249/",
 		"agw": null
 	},
-	"Juozas IMBRASAS": {
+	"4f1ac931b819f25efd000119": {
 		"name": "Juozas Imbrasas",
 		"country": "lt",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96693/",
 		"agw": null
 	},
-	"Lívia JÁRÓKA": {
+	"4f1ac945b819f25efd000125": {
 		"name": "Lívia Járóka",
 		"country": "hu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28141/",
 		"agw": null
 	},
-	"Sidonia Elżbieta JĘDRZEJEWSKA": {
+	"4f1ac947b819f25efd000127": {
 		"name": "Sidonia Elżbieta Jędrzejewska",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96782/",
 		"agw": null
 	},
-	"Jelko KACIN": {
+	"4f1ac95db819f25efd000130": {
 		"name": "Jelko Kacin",
 		"country": "si",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23691/",
 		"agw": null
 	},
-	"Syed KAMALL": {
+	"4f1ac96db819f25efd000136": {
 		"name": "Syed Kamall",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/33569/",
 		"agw": null
 	},
-	"Michał Tomasz KAMIŃSKI": {
+	"4f1ac970b819f25efd000137": {
 		"name": "Michał Tomasz Kamiński",
 		"country": "pl",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23792/",
 		"agw": null
 	},
-	"Edvard KOŽUŠNÍK": {
+	"4f1ad20eb819f27595000002": {
 		"name": "Edvard Kožušník",
 		"country": "cz",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96704/",
 		"agw": null
 	},
-	"Rodi KRATSA-TSAGAROPOULOU": {
+	"4f1ad214b819f27595000004": {
 		"name": "Rodi Kratsa-Tsagaropoulou",
 		"country": "gr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4482/",
 		"agw": null
 	},
-	"Constanze Angela KREHL": {
+	"4f1ad217b819f27595000005": {
 		"name": "Constanze Angela Krehl",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1854/",
 		"agw": "http://www.abgeordnetenwatch.de/constanze_angela_krehl-901-22810.html"
 	},
-	"Juan Fernando LÓPEZ AGUILAR": {
+	"4f1ad271b819f27595000025": {
 		"name": "Juan Fernando López Aguilar",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96812/",
 		"agw": null
 	},
-	"Emma McCLARKIN": {
+	"4f1ad94bb819f207b300000b": {
 		"name": "Emma Mcclarkin",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96919/",
 		"agw": null
 	},
-	"Erminia MAZZONI": {
+	"4f1ad99ab819f207b3000026": {
 		"name": "Erminia Mazzoni",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96817/",
 		"agw": null
 	},
-	"Willy MEYER": {
+	"4f1ad9b2b819f207b300002e": {
 		"name": "Willy Meyer",
 		"country": "es",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28407/",
 		"agw": null
 	},
-	"Bill NEWTON DUNN": {
+	"4f1ad9eeb819f207b3000044": {
 		"name": "Bill Newton Dunn",
 		"country": "uk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1394/",
 		"agw": null
 	},
-	"Antonyia PARVANOVA": {
+	"4f1ada4db819f207b3000063": {
 		"name": "Antonyia Parvanova",
 		"country": "bg",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/34234/",
 		"agw": null
 	},
-	"Anni PODIMATA": {
+	"4f1ada7bb819f207b3000073": {
 		"name": "Anni Podimata",
 		"country": "gr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/39317/",
 		"agw": null
 	},
-	"Konstantinos POUPAKIS": {
+	"4f1ada8db819f207b3000079": {
 		"name": "Konstantinos Poupakis",
 		"country": "gr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96658/",
 		"agw": null
 	},
-	"Francesco Enrico SPERONI": {
+	"4f1adb8db819f207b30000ce": {
 		"name": "Francesco Enrico Speroni",
 		"country": "it",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/997/",
 		"agw": null
 	},
-	"Auke ZIJLSTRA": {
+	"4f1ac49fb819f25896000024": {
 		"name": "Auke Zijlstra",
 		"country": "nl",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/103246/",
 		"agw": null
 	},
-	"Amelia ANDERSDOTTER": {
+	"4f1ac460b819f2589600000c": {
 		"name": "Amelia Andersdotter",
 		"country": "se",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/108570/",
 		"agw": null
 	},
-	"Antonello ANTINORO": {
+	"4f1ac5efb819f25efd00000e": {
 		"name": "Antonello Antinoro",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97193/",
 		"agw": null
 	},
-	"Kriton ARSENIS": {
+	"4f1ac600b819f25efd000014": {
 		"name": "Kriton Arsenis",
 		"country": "gr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97009/",
 		"agw": null
 	},
-	"Malika BENARAB-ATTOU": {
+	"4f1ac649b819f25efd00002f": {
 		"name": "Malika Benarab-Attou",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96732/",
 		"agw": null
 	},
-	"Franziska Katharina BRANTNER": {
+	"4f1ac68fb819f25efd00004a": {
 		"name": "Franziska Katharina Brantner",
 		"country": "de",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96662/",
 		"agw": "http://www.abgeordnetenwatch.de/franziska_brantner-901-22785.html"
 	},
-	"Simon BUSUTTIL": {
+	"4f1ac6e6b819f25efd000053": {
 		"name": "Simon Busuttil",
 		"country": "mt",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28120/",
 		"agw": null
 	},
-	"Martin CALLANAN": {
+	"4f1ac6f0b819f25efd000058": {
 		"name": "Martin Callanan",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4536/",
 		"agw": null
 	},
-	"David CAMPBELL BANNERMAN": {
+	"4f1ac6f5b819f25efd00005a": {
 		"name": "David Campbell Bannerman",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96912/",
 		"agw": null
 	},
-	"Salvatore CARONNA": {
+	"4f1ac6ffb819f25efd00005e": {
 		"name": "Salvatore Caronna",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96866/",
 		"agw": null
 	},
-	"Nikolaos CHOUNTIS": {
+	"4f1ac723b819f25efd00006c": {
 		"name": "Nikolaos Chountis",
 		"country": "gr",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/26851/",
 		"agw": null
 	},
-	"Nikos CHRYSOGELOS": {
+	"4f2ee436b819f2542a000000": {
 		"name": "Nikos Chrysogelos",
 		"country": "gr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/111823/",
 		"agw": null
 	},
-	"Lara COMI": {
+	"4f1ac739b819f25efd000074": {
 		"name": "Lara Comi",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96775/",
 		"agw": null
 	},
-	"Joseph CUSCHIERI": {
+	"4f1ac47cb819f25896000018": {
 		"name": "Joseph Cuschieri",
 		"country": "mt",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/110984/",
 		"agw": null
 	},
-	"Tadeusz CYMAŃSKI": {
+	"4f1ac75db819f25efd000081": {
 		"name": "Tadeusz Cymański",
 		"country": "pl",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96786/",
 		"agw": null
 	},
-	"Ryszard CZARNECKI": {
+	"4f1ac75eb819f25efd000082": {
 		"name": "Ryszard Czarnecki",
 		"country": "pl",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28372/",
 		"agw": null
 	},
-	"Arnaud DANJEAN": {
+	"4f1ac767b819f25efd000086": {
 		"name": "Arnaud Danjean",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96747/",
 		"agw": null
 	},
-	"Philippe DE BACKER": {
+	"4f1ac45bb819f25896000009": {
 		"name": "Philippe De Backer",
 		"country": "be",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/109337/",
 		"agw": null
 	},
-	"Jean-Luc DEHAENE": {
+	"4f1ac783b819f25efd000090": {
 		"name": "Jean-Luc Dehaene",
 		"country": "be",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28256/",
 		"agw": null
 	},
-	"Anne DELVAUX": {
+	"4f1ac78bb819f25efd000093": {
 		"name": "Anne Delvaux",
 		"country": "be",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96914/",
 		"agw": null
 	},
-	"Harlem DÉSIR": {
+	"4f1ac797b819f25efd000097": {
 		"name": "Harlem Désir",
 		"country": "fr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4318/",
 		"agw": null
 	},
-	"Dimitrios DROUTSAS": {
+	"4f1ac49ab819f25896000022": {
 		"name": "Dimitrios Droutsas",
 		"country": "gr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/107977/",
 		"agw": null
 	},
-	"James ELLES": {
+	"4f1ac7bdb819f25efd0000a8": {
 		"name": "James Elles",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1419/",
 		"agw": null
 	},
-	"Derk Jan EPPINK": {
+	"4f1ac7c9b819f25efd0000ac": {
 		"name": "Derk Jan Eppink",
 		"country": "be",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97133/",
 		"agw": null
 	},
-	"Ismail ERTUG": {
+	"4f1ac7ceb819f25efd0000ae": {
 		"name": "Ismail Ertug",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96842/",
 		"agw": "http://www.abgeordnetenwatch.de/ismail_ertug-901-22808.html"
 	},
-	"Edite ESTRELA": {
+	"4f1ac7d6b819f25efd0000b1": {
 		"name": "Edite Estrela",
 		"country": "pt",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28310/",
 		"agw": null
 	},
-	"Jill EVANS": {
+	"4f1ac7dab819f25efd0000b2": {
 		"name": "Jill Evans",
 		"country": "uk",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4550/",
 		"agw": null
 	},
-	"Richard FALBR": {
+	"4f1ac7e3b819f25efd0000b5": {
 		"name": "Richard Falbr",
 		"country": "cz",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23840/",
 		"agw": null
 	},
-	"Christofer FJELLNER": {
+	"4f1ac800b819f25efd0000bf": {
 		"name": "Christofer Fjellner",
 		"country": "se",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28126/",
 		"agw": null
 	},
-	"Hélène FLAUTRE": {
+	"4f1ac804b819f25efd0000c1": {
 		"name": "Hélène Flautre",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4385/",
 		"agw": null
 	},
-	"Lorenzo FONTANA": {
+	"4f1ac80bb819f25efd0000c4": {
 		"name": "Lorenzo Fontana",
 		"country": "it",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96993/",
 		"agw": null
 	},
-	"Vicky FORD": {
+	"4f1ac80eb819f25efd0000c5": {
 		"name": "Vicky Ford",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96949/",
 		"agw": null
 	},
-	"Ashley FOX": {
+	"4f1ac814b819f25efd0000c7": {
 		"name": "Ashley Fox",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96957/",
 		"agw": null
 	},
-	"Kinga GÁL": {
+	"4f1ac81fb819f25efd0000cb": {
 		"name": "Kinga Gál",
 		"country": "hu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28150/",
 		"agw": null
 	},
-	"Gerben-Jan GERBRANDY": {
+	"4f1ac83bb819f25efd0000d5": {
 		"name": "Gerben-Jan Gerbrandy",
 		"country": "nl",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96940/",
 		"agw": null
 	},
-	"Julie GIRLING": {
+	"4f1ac846b819f25efd0000da": {
 		"name": "Julie Girling",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96956/",
 		"agw": null
 	},
-	"Ana GOMES": {
+	"4f1ac859b819f25efd0000e1": {
 		"name": "Ana Gomes",
 		"country": "pt",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28306/",
 		"agw": null
 	},
-	"Louis GRECH": {
+	"4f1ac8a7b819f25efd0000e6": {
 		"name": "Louis Grech",
 		"country": "mt",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28123/",
 		"agw": null
 	},
-	"Marek Józef GRÓBARCZYK": {
+	"4f1ac8b6b819f25efd0000eb": {
 		"name": "Marek Józef Gróbarczyk",
 		"country": "pl",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96790/",
 		"agw": null
 	},
-	"Enrique GUERRERO SALOM": {
+	"4f1ac8c7b819f25efd0000f1": {
 		"name": "Enrique Guerrero Salom",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96768/",
 		"agw": null
 	},
-	"Sylvie GUILLAUME": {
+	"4f1ac8cab819f25efd0000f2": {
 		"name": "Sylvie Guillaume",
 		"country": "fr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96952/",
 		"agw": null
 	},
-	"Zita GURMAI": {
+	"4f1ac8cbb819f25efd0000f3": {
 		"name": "Zita Gurmai",
 		"country": "hu",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23805/",
 		"agw": null
 	},
-	"Mikael GUSTAFSSON": {
+	"4f1ac4a2b819f25896000025": {
 		"name": "Mikael Gustafsson",
 		"country": "se",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/109649/",
 		"agw": null
 	},
-	"Cristina GUTIÉRREZ-CORTINES": {
+	"4f1ac8ceb819f25efd0000f4": {
 		"name": "Cristina Gutiérrez-Cortines",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4326/",
 		"agw": null
 	},
-	"Takis HADJIGEORGIOU": {
+	"4f1ac8d3b819f25efd0000f6": {
 		"name": "Takis Hadjigeorgiou",
 		"country": "cy",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96907/",
 		"agw": null
 	},
-	"Malcolm HARBOUR": {
+	"4f1ac8eab819f25efd0000fe": {
 		"name": "Malcolm Harbour",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4538/",
 		"agw": null
 	},
-	"Rebecca HARMS": {
+	"4f1ac8f0b819f25efd000100": {
 		"name": "Rebecca Harms",
 		"country": "de",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28233/",
 		"agw": "http://www.abgeordnetenwatch.de/rebecca_harms-901-22775.html"
 	},
-	"Satu HASSI": {
+	"4f1ac8f3b819f25efd000101": {
 		"name": "Satu Hassi",
 		"country": "fi",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28321/",
 		"agw": null
 	},
-	"Stephen HUGHES": {
+	"4f1ac92cb819f25efd000114": {
 		"name": "Stephen Hughes",
 		"country": "uk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1407/",
 		"agw": null
 	},
-	"Salvatore IACOLINO": {
+	"4f1ac92eb819f25efd000116": {
 		"name": "Salvatore Iacolino",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96818/",
 		"agw": null
 	},
-	"Carlos José ITURGAIZ ANGULO": {
+	"4f1ac939b819f25efd00011e": {
 		"name": "Carlos José Iturgaiz Angulo",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28398/",
 		"agw": null
 	},
-	"Kent JOHANSSON": {
+	"4f1ac465b819f2589600000e": {
 		"name": "Kent Johansson",
 		"country": "se",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/110365/",
 		"agw": null
 	},
-	"Eva JOLY": {
+	"4f1ac94fb819f25efd00012b": {
 		"name": "Eva Joly",
 		"country": "fr",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96883/",
 		"agw": null
 	},
-	"Filip KACZMAREK": {
+	"4f1ac960b819f25efd000131": {
 		"name": "Filip Kaczmarek",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28280/",
 		"agw": null
 	},
-	"Ivailo KALFIN": {
+	"4f1ac966b819f25efd000133": {
 		"name": "Ivailo Kalfin",
 		"country": "bg",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96807/",
 		"agw": null
 	},
-	"Krišjānis KARIŅŠ": {
+	"4f1ac97bb819f25efd00013b": {
 		"name": "Krišjānis Kariņš",
 		"country": "lv",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96901/",
 		"agw": null
 	},
-	"Metin KAZAK": {
+	"4f1ac984b819f25efd00013e": {
 		"name": "Metin Kazak",
 		"country": "bg",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/38613/",
 		"agw": null
 	},
-	"Franziska KELLER": {
+	"4f1ac98ab819f25efd000140": {
 		"name": "Franziska Keller",
 		"country": "de",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96734/",
 		"agw": "http://www.abgeordnetenwatch.de/franziska_keller-901-22781.html"
 	},
-	"Silvana KOCH-MEHRIN": {
+	"4f1ac9aab819f25efd000149": {
 		"name": "Silvana Koch-Mehrin",
 		"country": "de",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28241/",
 		"agw": "http://www.abgeordnetenwatch.de/silvana_koch_mehrin-901-22763.html"
 	},
-	"Maria Eleni KOPPA": {
+	"4f1ac9b2b819f25efd00014c": {
 		"name": "Maria Eleni Koppa",
 		"country": "gr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/39319/",
 		"agw": null
 	},
-	"Georgios KOUMOUTSAKOS": {
+	"4f1ac9bdb819f25efd000150": {
 		"name": "Georgios Koumoutsakos",
 		"country": "gr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97011/",
 		"agw": null
 	},
-	"Andrey KOVATCHEV": {
+	"4f1ac463b819f2589600000d": {
 		"name": "Andrey Kovatchev",
 		"country": "bg",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97968/",
 		"agw": null
 	},
-	"Alain LAMASSOURE": {
+	"4f1ad226b819f2759500000a": {
 		"name": "Alain Lamassoure",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1204/",
 		"agw": null
 	},
-	"Werner LANGEN": {
+	"4f1ad239b819f27595000011": {
 		"name": "Werner Langen",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1928/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_werner_langen-901-22741.html"
 	},
-	"Bogusław LIBERADZKI": {
+	"4f1ad25ab819f2759500001d": {
 		"name": "Bogusław Liberadzki",
 		"country": "pl",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23768/",
 		"agw": null
 	},
-	"Arlene McCARTHY": {
+	"4f1ad948b819f207b300000a": {
 		"name": "Arlene Mccarthy",
 		"country": "uk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2173/",
 		"agw": null
 	},
-	"Edward McMILLAN-SCOTT": {
+	"4f1ad951b819f207b300000d": {
 		"name": "Edward Mcmillan-Scott",
 		"country": "uk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1405/",
 		"agw": null
 	},
-	"Marisa MATIAS": {
+	"4f1ad983b819f207b300001f": {
 		"name": "Marisa Matias",
 		"country": "pt",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96820/",
 		"agw": null
 	},
-	"Gabriel MATO ADROVER": {
+	"4f1ad987b819f207b3000020": {
 		"name": "Gabriel Mato Adrover",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96936/",
 		"agw": null
 	},
-	"Mario MAURO": {
+	"4f1ad98eb819f207b3000022": {
 		"name": "Mario Mauro",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4393/",
 		"agw": null
 	},
-	"Morten MESSERSCHMIDT": {
+	"4f1ad9abb819f207b300002c": {
 		"name": "Morten Messerschmidt",
 		"country": "dk",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96663/",
 		"agw": null
 	},
-	"Guido MILANA": {
+	"4f1ad9beb819f207b3000032": {
 		"name": "Guido Milana",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97020/",
 		"agw": null
 	},
-	"Ana MIRANDA": {
+	"4f1ac4beb819f25896000031": {
 		"name": "Ana Miranda",
 		"country": "es",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/24942/",
 		"agw": null
 	},
-	"Claudio MORGANTI": {
+	"4f1ad9d2b819f207b3000039": {
 		"name": "Claudio Morganti",
 		"country": "it",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97280/",
 		"agw": null
 	},
-	"Jan OLBRYCHT": {
+	"4f1ada18b819f207b3000051": {
 		"name": "Jan Olbrycht",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28288/",
 		"agw": null
 	},
-	"Wojciech Michał OLEJNICZAK": {
+	"4f1ada1ab819f207b3000052": {
 		"name": "Wojciech Michał Olejniczak",
 		"country": "pl",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96783/",
 		"agw": null
 	},
-	"Doris PACK": {
+	"4f1ada28b819f207b3000057": {
 		"name": "Doris Pack",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1191/",
 		"agw": "http://www.abgeordnetenwatch.de/doris_pack-901-22751.html"
 	},
-	"Chrysoula PALIADELI": {
+	"4f1ada34b819f207b300005b": {
 		"name": "Chrysoula Paliadeli",
 		"country": "gr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97007/",
 		"agw": null
 	},
-	"Antigoni PAPADOPOULOU": {
+	"4f1ada41b819f207b300005f": {
 		"name": "Antigoni Papadopoulou",
 		"country": "cy",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97050/",
 		"agw": null
 	},
-	"Ioan Mircea PAŞCU": {
+	"4f1ada51b819f207b3000064": {
 		"name": "Ioan Mircea Paşcu",
 		"country": "ro",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/33984/",
 		"agw": null
 	},
-	"Andrés PERELLÓ RODRÍGUEZ": {
+	"4f1ada63b819f207b300006a": {
 		"name": "Andrés Perelló Rodríguez",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96989/",
 		"agw": null
 	},
-	"Alojz PETERLE": {
+	"4f1ada67b819f207b300006b": {
 		"name": "Alojz Peterle",
 		"country": "si",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23693/",
 		"agw": null
 	},
-	"Mirosław PIOTROWSKI": {
+	"4f1ada6fb819f207b300006e": {
 		"name": "Mirosław Piotrowski",
 		"country": "pl",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28341/",
 		"agw": null
 	},
-	"Bernhard RAPKAY": {
+	"4f1adaa2b819f207b3000081": {
 		"name": "Bernhard Rapkay",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1906/",
 		"agw": "http://www.abgeordnetenwatch.de/bernhard_rapkay-901-22791.html"
 	},
-	"Sylvana RAPTI": {
+	"4f1adaa6b819f207b3000082": {
 		"name": "Sylvana Rapti",
 		"country": "gr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96925/",
 		"agw": null
 	},
-	"Dominique RIQUET": {
+	"4f1adac1b819f207b300008b": {
 		"name": "Dominique Riquet",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96885/",
 		"agw": null
 	},
-	"Jens ROHDE": {
+	"4f1adacfb819f207b3000090": {
 		"name": "Jens Rohde",
 		"country": "dk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96710/",
 		"agw": null
 	},
-	"Licia RONZULLI": {
+	"4f1adadbb819f207b3000094": {
 		"name": "Licia Ronzulli",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96819/",
 		"agw": null
 	},
-	"Kārlis ŠADURSKIS": {
+	"4f1ac485b819f2589600001b": {
 		"name": "Kārlis Šadurskis",
 		"country": "lv",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/111033/",
 		"agw": null
 	},
-	"Nikolaos SALAVRAKOS": {
+	"4f1ac4a8b819f25896000028": {
 		"name": "Nikolaos Salavrakos",
 		"country": "gr",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/99416/",
 		"agw": null
 	},
-	"Joanna SENYSZYN": {
+	"4f1adb54b819f207b30000ba": {
 		"name": "Joanna Senyszyn",
 		"country": "pl",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96789/",
 		"agw": null
 	},
-	"Joanna Katarzyna SKRZYDLEWSKA": {
+	"4f1adb72b819f207b30000c5": {
 		"name": "Joanna Katarzyna Skrzydlewska",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96770/",
 		"agw": null
 	},
-	"Theodoros SKYLAKAKIS": {
+	"4f1adb75b819f207b30000c6": {
 		"name": "Theodoros Skylakakis",
 		"country": "gr",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97018/",
 		"agw": null
 	},
-	"Bart STAES": {
+	"4f1adb8fb819f207b30000cf": {
 		"name": "Bart Staes",
 		"country": "be",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4751/",
 		"agw": null
 	},
-	"Georgios STAVRAKAKIS": {
+	"4f1adb98b819f207b30000d2": {
 		"name": "Georgios Stavrakakis",
 		"country": "gr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97008/",
 		"agw": null
 	},
-	"Theodor Dumitru STOLOJAN": {
+	"4f1adba4b819f207b30000d6": {
 		"name": "Theodor Dumitru Stolojan",
 		"country": "ro",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/39721/",
 		"agw": null
 	},
-	"Dimitar STOYANOV": {
+	"4f1adba6b819f207b30000d7": {
 		"name": "Dimitar Stoyanov",
 		"country": "bg",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/34254/",
 		"agw": null
 	},
-	"Ivo STREJČEK": {
+	"4f1adbacb819f207b30000d9": {
 		"name": "Ivo Strejček",
 		"country": "cz",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28320/",
 		"agw": null
 	},
-	"Robert STURDY": {
+	"4f1adbb2b819f207b30000db": {
 		"name": "Robert Sturdy",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2037/",
 		"agw": null
 	},
-	"Hannes SWOBODA": {
+	"4f1adbbeb819f207b30000e0": {
 		"name": "Hannes Swoboda",
 		"country": "at",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2295/",
 		"agw": null
 	},
-	"Salvatore TATARELLA": {
+	"4f1adbd7b819f207b30000e9": {
 		"name": "Salvatore Tatarella",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1945/",
 		"agw": null
 	},
-	"Gino TREMATERRA": {
+	"4f1ac44eb819f25896000004": {
 		"name": "Gino Trematerra",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/110987/",
 		"agw": null
 	},
-	"Emilie TURUNEN": {
+	"4f1adc20b819f207b3000101": {
 		"name": "Emilie Turunen",
 		"country": "dk",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96703/",
 		"agw": null
 	},
-	"Niki TZAVELA": {
+	"4f1adc23b819f207b3000102": {
 		"name": "Niki Tzavela",
 		"country": "gr",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96660/",
 		"agw": null
 	},
-	"Giommaria UGGIAS": {
+	"4f1adc26b819f207b3000103": {
 		"name": "Giommaria Uggias",
 		"country": "it",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97131/",
 		"agw": null
 	},
-	"Thomas ULMER": {
+	"4f1adc29b819f207b3000104": {
 		"name": "Thomas Ulmer",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28221/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_thomas_ulmer-901-22750.html"
 	},
-	"Marie-Christine VERGIAT": {
+	"4f1adc57b819f207b3000112": {
 		"name": "Marie-Christine Vergiat",
 		"country": "fr",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96858/",
 		"agw": null
 	},
-	"Oldřich VLASÁK": {
+	"4f1adc6eb819f207b3000119": {
 		"name": "Oldřich Vlasák",
 		"country": "cz",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28323/",
 		"agw": null
 	},
-	"Jarosław Leszek WAŁĘSA": {
+	"4f1adc77b819f207b300011c": {
 		"name": "Jarosław Leszek Wałęsa",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96774/",
 		"agw": null
 	},
-	"Rainer WIELAND": {
+	"4f1adc96b819f207b3000127": {
 		"name": "Rainer Wieland",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2323/",
 		"agw": "http://www.abgeordnetenwatch.de/rainer_wieland-901-22745.html"
 	},
-	"Janusz WOJCIECHOWSKI": {
+	"4f1adcabb819f207b300012e": {
 		"name": "Janusz Wojciechowski",
 		"country": "pl",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23784/",
 		"agw": null
 	},
-	"Pablo ZALBA BIDEGAIN": {
+	"4f1adcbeb819f207b3000135": {
 		"name": "Pablo Zalba Bidegain",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96763/",
 		"agw": null
 	},
-	"Paweł ZALEWSKI": {
+	"4f1adcbfb819f207b3000136": {
 		"name": "Paweł Zalewski",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96777/",
 		"agw": null
 	},
-	"Andrea ZANONI": {
+	"4f1ac4c7b819f25896000034": {
 		"name": "Andrea Zanoni",
 		"country": "it",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/108329/",
 		"agw": null
 	},
-	"Milan ZVER": {
+	"4f1adcd6b819f207b300013f": {
 		"name": "Milan Zver",
 		"country": "si",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96933/",
 		"agw": null
 	},
-	"Eija-Riitta KORHOLA": {
+	"4f1ac9b5b819f25efd00014d": {
 		"name": "Eija-Riitta Korhola",
 		"country": "fi",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4260/",
 		"agw": null
 	},
-	"Giuseppe GARGANI": {
+	"4f1ac4a3b819f25896000026": {
 		"name": "Giuseppe Gargani",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4562/",
 		"agw": null
 	},
-	"Hynek FAJMON": {
+	"4f1ac7ddb819f25efd0000b3": {
 		"name": "Hynek Fajmon",
 		"country": "cz",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23695/",
 		"agw": null
 	},
-	"Elena BĂSESCU": {
+	"4f1ac634b819f25efd000026": {
 		"name": "Elena Băsescu",
 		"country": "ro",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96814/",
 		"agw": null
 	},
-	"Edit BAUER": {
+	"4f1ac63cb819f25efd000029": {
 		"name": "Edit Bauer",
 		"country": "sk",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23866/",
 		"agw": null
 	},
-	"Lajos BOKROS": {
+	"4f1ac676b819f25efd000040": {
 		"name": "Lajos Bokros",
 		"country": "hu",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96878/",
 		"agw": null
 	},
-	"Vito BONSIGNORE": {
+	"4f1ac678b819f25efd000041": {
 		"name": "Vito Bonsignore",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/29074/",
 		"agw": null
 	},
-	"Reinhard BÜTIKOFER": {
+	"4f1ac6e9b819f25efd000054": {
 		"name": "Reinhard Bütikofer",
 		"country": "de",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96739/",
 		"agw": "http://www.abgeordnetenwatch.de/reinhard_buetikofer-901-22776.html"
 	},
-	"Spyros DANELLIS": {
+	"4f1ac4ceb819f25896000037": {
 		"name": "Spyros Danellis",
 		"country": "gr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/99325/",
 		"agw": null
 	},
-	"Ioan ENCIU": {
+	"4f1ac7c0b819f25efd0000a9": {
 		"name": "Ioan Enciu",
 		"country": "ro",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96859/",
 		"agw": null
 	},
-	"Cornelia ERNST": {
+	"4f1ac7ccb819f25efd0000ad": {
 		"name": "Cornelia Ernst",
 		"country": "de",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96852/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_cornelia_ernst-901-22816.html"
 	},
-	"Vicente Miguel GARCÉS RAMÓN": {
+	"4f1ac45fb819f2589600000b": {
 		"name": "Vicente Miguel Garcés Ramón",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/39321/",
 		"agw": null
 	},
-	"Eider GARDIAZÁBAL RUBIAL": {
+	"4f1ac82bb819f25efd0000cf": {
 		"name": "Eider Gardiazábal Rubial",
 		"country": "es",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96991/",
 		"agw": null
 	},
-	"Marietta GIANNAKOU": {
+	"4f1ac840b819f25efd0000d7": {
 		"name": "Marietta Giannakou",
 		"country": "gr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1431/",
 		"agw": null
 	},
-	"Sophia in 't VELD": {
+	"4f1ac934b819f25efd00011a": {
 		"name": "Sophia in 't Veld",
 		"country": "nl",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28266/",
 		"agw": null
 	},
-	"Anneli JÄÄTTEENMÄKI": {
+	"4f1ac940b819f25efd000122": {
 		"name": "Anneli Jäätteenmäki",
 		"country": "fi",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28314/",
 		"agw": null
 	},
-	"Dan JØRGENSEN": {
+	"4f1ac957b819f25efd00012e": {
 		"name": "Dan Jørgensen",
 		"country": "dk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28156/",
 		"agw": null
 	},
-	"Agnès LE BRUN": {
+	"4f1ac469b819f2589600000f": {
 		"name": "Agnès Le Brun",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/105849/",
 		"agw": null
 	},
-	"Morten LØKKEGAARD": {
+	"4f1ad26cb819f27595000023": {
 		"name": "Morten Løkkegaard",
 		"country": "dk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96709/",
 		"agw": null
 	},
-	"Norica NICOLAI": {
+	"4f1ad9fcb819f207b3000048": {
 		"name": "Norica Nicolai",
 		"country": "ro",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96825/",
 		"agw": null
 	},
-	"Niccolò RINALDI": {
+	"4f1adabeb819f207b300008a": {
 		"name": "Niccolò Rinaldi",
 		"country": "it",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97229/",
 		"agw": null
 	},
-	"Libor ROUČEK": {
+	"4f1adae6b819f207b3000098": {
 		"name": "Libor Rouček",
 		"country": "cz",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23707/",
 		"agw": null
 	},
-	"Salvador SEDÓ i ALABART": {
+	"4f1ac471b819f25896000014": {
 		"name": "Salvador Sedó i Alabart",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/111018/",
 		"agw": null
 	},
-	"Helga TRÜPEL": {
+	"4f1adc13b819f207b30000fd": {
 		"name": "Helga Trüpel",
 		"country": "de",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28240/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_helga_truepel-901-22783.html"
 	},
-	"Ivo VAJGL": {
+	"4f1adc3eb819f207b300010b": {
 		"name": "Ivo Vajgl",
 		"country": "si",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97019/",
 		"agw": null
 	},
-	"Inês Cristina ZUBER": {
+	"4f1ac4b4b819f2589600002c": {
 		"name": "Inês Cristina Zuber",
 		"country": "pt",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/111589/",
 		"agw": null
 	},
-	"Matthias GROOTE": {
+	"4f1ac8b9b819f25efd0000ec": {
 		"name": "Matthias Groote",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/34728/",
 		"agw": "http://www.abgeordnetenwatch.de/matthias_groote-901-22799.html"
 	},
-	"Zbigniew ZIOBRO": {
+	"4f1adcd3b819f207b300013e": {
 		"name": "Zbigniew Ziobro",
 		"country": "pl",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96803/",
 		"agw": null
 	},
-	"Elisabeth JEGGLE": {
+	"4f1ac948b819f25efd000128": {
 		"name": "Elisabeth Jeggle",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4271/",
 		"agw": "http://www.abgeordnetenwatch.de/elisabeth_jeggle-901-22748.html"
 	},
-	"Eva ORTIZ VILELLA": {
+	"4f1ac473b819f25896000015": {
 		"name": "Eva Ortiz Vilella",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/111019/",
 		"agw": null
 	},
-	"Ewald STADLER": {
+	"4f1ac4c1b819f25896000032": {
 		"name": "Ewald Stadler",
 		"country": "at",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/111026/",
 		"agw": null
 	},
-	"Rebecca TAYLOR": {
+	"4f608c6cb819f2787f000001": {
 		"name": "Rebecca Taylor",
 		"country": "uk",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/112620/",
 		"agw": null
 	},
-	"Peter LIESE": {
+	"4f1ad260b819f2759500001f": {
 		"name": "Peter Liese",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1927/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_peter_liese-901-22732.html"
 	},
-	"Herbert REUL": {
+	"4f1adab7b819f207b3000087": {
 		"name": "Herbert Reul",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28225/",
 		"agw": "http://www.abgeordnetenwatch.de/herbert_reul-901-22737.html"
 	},
-	"Carlo CASINI": {
+	"4f1ac70ab819f25efd000062": {
 		"name": "Carlo Casini",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/988/",
 		"agw": null
 	},
-	"Gaston FRANCO": {
+	"4f1ac81ab819f25efd0000c9": {
 		"name": "Gaston Franco",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96908/",
 		"agw": null
 	},
-	"Andrzej GRZYB": {
+	"4f1ac8c1b819f25efd0000ef": {
 		"name": "Andrzej Grzyb",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23785/",
 		"agw": null
 	},
-	"Barbara MATERA": {
+	"4f1ad97eb819f207b300001d": {
 		"name": "Barbara Matera",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96813/",
 		"agw": null
 	},
-	"Elmar BROK": {
+	"4f1ac695b819f25efd00004d": {
 		"name": "Elmar Brok",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1263/",
 		"agw": "http://www.abgeordnetenwatch.de/elmar_brok-901-22729.html"
 	},
-	"Burkhard BALZ": {
+	"4f1ac62db819f25efd000023": {
 		"name": "Burkhard Balz",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96997/",
 		"agw": "http://www.abgeordnetenwatch.de/burkhard_balz-901-22727.html"
 	},
-	"Danuta Maria HÜBNER": {
+	"4f1ac925b819f25efd000112": {
 		"name": "Danuta Maria Hübner",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96779/",
 		"agw": null
 	},
-	"Martin KASTLER": {
+	"4f1ac981b819f25efd00013d": {
 		"name": "Martin Kastler",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/25919/",
 		"agw": "http://www.abgeordnetenwatch.de/martin_kastler-901-22762.html"
 	},
-	"Michael THEURER": {
+	"4f1adbe7b819f207b30000ee": {
 		"name": "Michael Theurer",
 		"country": "de",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96871/",
 		"agw": "http://www.abgeordnetenwatch.de/michael_theurer-901-22770.html"
 	},
-	"John ATTARD-MONTALTO": {
+	"4f1ac607b819f25efd000017": {
 		"name": "John Attard-Montalto",
 		"country": "mt",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23938/",
 		"agw": null
 	},
-	"Romana JORDAN": {
+	"4f1ac956b819f25efd00012d": {
 		"name": "Romana Jordan",
 		"country": "si",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28291/",
 		"agw": null
 	},
-	"Corina CREŢU": {
+	"4f1ac750b819f25efd00007c": {
 		"name": "Corina Creţu",
 		"country": "ro",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/33997/",
 		"agw": null
 	},
-	"Michel DANTIN": {
+	"4f1ac76ab819f25efd000087": {
 		"name": "Michel Dantin",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97296/",
 		"agw": null
 	},
-	"Dagmar ROTH-BEHRENDT": {
+	"4f1adae3b819f207b3000097": {
 		"name": "Dagmar Roth-Behrendt",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1183/",
 		"agw": "http://www.abgeordnetenwatch.de/dagmar_roth_behrendt-901-22797.html"
 	},
-	"Jorgo CHATZIMARKAKIS": {
+	"4f1ac71db819f25efd000069": {
 		"name": "Jorgo Chatzimarkakis",
 		"country": "de",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28243/",
 		"agw": "http://www.abgeordnetenwatch.de/jorgo_chatzimarkakis-901-22765.html"
 	},
-	"Evelyn REGNER": {
+	"4f1adaa9b819f207b3000083": {
 		"name": "Evelyn Regner",
 		"country": "at",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96998/",
 		"agw": null
 	},
-	"Marco SCURRIA": {
+	"4f1adb4ab819f207b30000b7": {
 		"name": "Marco Scurria",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96843/",
 		"agw": null
 	},
-	"Constance LE GRIP": {
+	"4f1ac49cb819f25896000023": {
 		"name": "Constance Le Grip",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/101580/",
 		"agw": null
 	},
-	"Margrete AUKEN": {
+	"4f1ac612b819f25efd00001a": {
 		"name": "Margrete Auken",
 		"country": "dk",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28161/",
 		"agw": null
 	},
-	"Philippe BOULLAND": {
+	"4f1ac45cb819f2589600000a": {
 		"name": "Philippe Boulland",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/105624/",
 		"agw": null
 	},
-	"Milan CABRNOCH": {
+	"4f1ac6edb819f25efd000056": {
 		"name": "Milan Cabrnoch",
 		"country": "cz",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28324/",
 		"agw": null
 	},
-	"Tamás DEUTSCH": {
+	"4f1ac79cb819f25efd000099": {
 		"name": "Tamás Deutsch",
 		"country": "hu",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96826/",
 		"agw": null
 	},
-	"Marielle GALLO": {
+	"4f1ac825b819f25efd0000cd": {
 		"name": "Marielle Gallo",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96896/",
 		"agw": null
 	},
-	"Liisa JAAKONSAARI": {
+	"4f1ac93db819f25efd000121": {
 		"name": "Liisa Jaakonsaari",
 		"country": "fi",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96684/",
 		"agw": null
 	},
-	"Othmar KARAS": {
+	"4f1ac975b819f25efd000139": {
 		"name": "Othmar Karas",
 		"country": "at",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4246/",
 		"agw": null
 	},
-	"Marek Henryk MIGALSKI": {
+	"4f1ad9b8b819f207b3000030": {
 		"name": "Marek Henryk Migalski",
 		"country": "pl",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96800/",
 		"agw": null
 	},
-	"José Ignacio SALAFRANCA SÁNCHEZ-NEYRA": {
+	"4f1adaf5b819f207b300009d": {
 		"name": "José Ignacio Salafranca Sánchez-Neyra",
 		"country": "es",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2002/",
 		"agw": null
 	},
-	"Potito SALATTO": {
+	"4f1adaf9b819f207b300009e": {
 		"name": "Potito Salatto",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96889/",
 		"agw": null
 	},
-	"Edward SCICLUNA": {
+	"4f1adb43b819f207b30000b5": {
 		"name": "Edward Scicluna",
 		"country": "mt",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96671/",
 		"agw": null
 	},
-	"Claude TURMES": {
+	"4f1adc1db819f207b3000100": {
 		"name": "Claude Turmes",
 		"country": "lu",
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4432/",
 		"agw": null
 	},
-	"Derek VAUGHAN": {
+	"4f1adc56b819f207b3000111": {
 		"name": "Derek Vaughan",
 		"country": "uk",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96918/",
 		"agw": null
 	},
-	"Markus PIEPER": {
+	"4f1ada6ab819f207b300006c": {
 		"name": "Markus Pieper",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28224/",
 		"agw": "http://www.abgeordnetenwatch.de/dr_markus_pieper-901-22735.html"
 	},
-	"Czesław Adam SIEKIERSKI": {
+	"4f1adb5cb819f207b30000bd": {
 		"name": "Czesław Adam Siekierski",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/23787/",
 		"agw": null
 	},
-	"Emer COSTELLO": {
+	"4f3e3db6b819f22ca6000000": {
 		"name": "Emer Costello",
 		"country": "ir",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/112071/",
 		"agw": null
 	},
-	"Danuta JAZŁOWIECKA": {
+	"4f1ac946b819f25efd000126": {
 		"name": "Danuta Jazłowiecka",
 		"country": "pl",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96781/",
 		"agw": null
 	},
-	"Svetoslav Hristov MALINOV": {
+	"4f1ac482b819f2589600001a": {
 		"name": "Svetoslav Hristov Malinov",
 		"country": "bg",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/111027/",
 		"agw": null
 	},
-	"Andrew Henry William BRONS": {
+	"4f1ac698b819f25efd00004e": {
 		"name": "Andrew Henry William Brons",
 		"country": "uk",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96749/",
 		"agw": null
 	},
-	"Jacqueline FOSTER": {
+	"4f1ac811b819f25efd0000c6": {
 		"name": "Jacqueline Foster",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4553/",
 		"agw": null
 	},
-	"Cristiana MUSCARDINI": {
+	"4f1ad9e1b819f207b300003f": {
 		"name": "Cristiana Muscardini",
 		"country": "it",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/1073/",
 		"agw": null
 	},
-	"Patrick LE HYARIC": {
+	"4f1ad24ab819f27595000017": {
 		"name": "Patrick Le Hyaric",
 		"country": "fr",
 		"group": "gue-ngl",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96735/",
 		"agw": null
 	},
-	"Jutta STEINRUCK": {
+	"4f1adb9bb819f207b30000d3": {
 		"name": "Jutta Steinruck",
 		"country": "de",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96831/",
 		"agw": "http://www.abgeordnetenwatch.de/jutta_steinruck-901-22795.html"
 	},
-	"Philip BRADBOURN": {
+	"4f1ac68cb819f25efd000049": {
 		"name": "Philip Bradbourn",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4540/",
 		"agw": null
 	},
-	"Klaus-Heiner LEHNE": {
+	"4f1ad248b819f27595000016": {
 		"name": "Klaus-Heiner Lehne",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/2224/",
 		"agw": "http://www.abgeordnetenwatch.de/klaus_heiner_lehne-901-22733.html"
 	},
-	"Clemente MASTELLA": {
+	"4f1ad97cb819f207b300001c": {
 		"name": "Clemente Mastella",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4462/",
 		"agw": null
 	},
-	"Alexander MIRSKY": {
+	"4f1ad9c3b819f207b3000034": {
 		"name": "Alexander Mirsky",
 		"country": "lv",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96999/",
 		"agw": null
 	},
-	"Britta REIMERS": {
+	"4f1adaacb819f207b3000084": {
 		"name": "Britta Reimers",
 		"country": "de",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96875/",
 		"agw": "http://www.abgeordnetenwatch.de/britta_reimers-901-22774.html"
 	},
-	"Riikka MANNER": {
+	"4f1ad965b819f207b3000014": {
 		"name": "Riikka Manner",
 		"country": "fi",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96685/",
 		"agw": null
 	},
-	"Nirj DEVA": {
+	"4f1ac79fb819f25efd00009a": {
 		"name": "Nirj Deva",
 		"country": "uk",
 		"group": "ecr",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4556/",
 		"agw": null
 	},
-	"Monika HOHLMEIER": {
+	"4f1ac91bb819f25efd00010e": {
 		"name": "Monika Hohlmeier",
 		"country": "de",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96780/",
 		"agw": "http://www.abgeordnetenwatch.de/monika_hohlmeier-901-22760.html"
 	},
-	"Tokia SAÏFI": {
+	"4f1adaf3b819f207b300009c": {
 		"name": "Tokia Saïfi",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4345/",
 		"agw": null
 	},
-	"Emine BOZKURT": {
+	"4f1ac68bb819f25efd000048": {
 		"name": "Emine Bozkurt",
 		"country": "nl",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28171/",
 		"agw": null
 	},
-	"Luis Manuel CAPOULAS SANTOS": {
+	"4f1ac6fcb819f25efd00005d": {
 		"name": "Luis Manuel Capoulas Santos",
 		"country": "pt",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28311/",
 		"agw": null
 	},
-	"Mariya GABRIEL": {
+	"4f1ad9e7b819f207b3000041": {
 		"name": "Mariya Gabriel",
 		"country": "bg",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96848/",
 		"agw": null
 	},
-	"Bernadette VERGNAUD": {
+	"4f1adc5bb819f207b3000113": {
 		"name": "Bernadette Vergnaud",
 		"country": "fr",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/28177/",
 		"agw": null
 	},
-	"Alexandra THEIN": {
+	"4f1adbe1b819f207b30000ec": {
 		"name": "Alexandra Thein",
 		"country": "de",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96874/",
 		"agw": "http://www.abgeordnetenwatch.de/alexandra_thein-901-22773.html"
 	},
-	"Iva ZANICCHI": {
+	"4f1adcc2b819f207b3000137": {
 		"name": "Iva Zanicchi",
 		"country": "it",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/41007/",
 		"agw": null
 	},
-	"Gianni PITTELLA": {
+	"4f1ada74b819f207b3000070": {
 		"name": "Gianni Pittella",
 		"country": "it",
 		"group": "sd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4436/",
 		"agw": null
 	},
-	"Jacek WŁOSOWICZ": {
+	"4f1adca8b819f207b300012d": {
 		"name": "Jacek Włosowicz",
 		"country": "pl",
 		"group": "efd",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96802/",
 		"agw": null
 	},
-	"Heinz K. BECKER": {
+	"4f1ac497b819f25896000021": {
 		"name": "Heinz K. Becker",
 		"country": "at",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/107041/",
 		"agw": null
 	},
-	"Sonia ALFANO": {
+	"4f1ac5d9b819f25efd000005": {
 		"name": "Sonia Alfano",
 		"country": "it",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/97086/",
 		"agw": null
 	},
-	"Véronique MATHIEU HOUILLON": {
+	"4f1ad981b819f207b300001e": {
 		"name": "Véronique Mathieu Houillon",
 		"country": "fr",
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/4412/",
 		"agw": null
 	},
-	"Ramona Nicole MĂNESCU": {
+	"4f1ad95bb819f207b3000011": {
 		"name": "Ramona Nicole Mănescu",
 		"country": "ro",
 		"group": "alde",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/39717/",
 		"agw": null
 	},
-	"Paul RÜBIG": {
+	"4f1adae9b819f207b3000099": {
 		"name": "Paul Rübig",
 		"country": "at",
 		"group": "epp",
