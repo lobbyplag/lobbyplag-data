@@ -14868,30 +14868,6 @@
 		"doc": "Eurofinas-amendments-final.pdf",
 		"page": "24",
 		"text": {
-			"old": "1. Where personal data relating to a data subject are collected, the controller shall provide the data subject with at least the following information:",
-			"new": "1. Where personal data relating to a data subject are collected, the controller shall provide the data subject with the following information:",
-			"del": [
-				"at least "
-			],
-			"ins": [
-				""
-			]
-		},
-		"diff": "<span>1. Where personal data relating to a data subject are collected, the controller shall provide the data subject with </span><del>at least </del><span>the following information:</span>",
-		"relations": [
-			"a14p1"
-		],
-		"patterns": [
-			"a14p1"
-		],
-		"uid": "c6ea91bbf3889bc04c2d7ea78cde476ebe19278a",
-		"doc_uid": "ea9cc7eb2e75ad914db5773186095855478a3e97",
-		"lobbyist_title": "eurofinas"
-	},
-	{
-		"doc": "Eurofinas-amendments-final.pdf",
-		"page": "24",
-		"text": {
 			"old": "(b) the purposes of the processing for which the personal data are intended, including the contract terms and general conditions where the processing is based on point (b) of Article 6(1) and the legitimate interests pursued by the controller where the processing is based on point (f) of Article 6(1);",
 			"new": "(b) the purposes of the processing for which the personal data are intended, including the legitimate interests pursued by the controller where the processing is based on point (f) of Article 6(1);",
 			"del": [
@@ -23434,5 +23410,2538 @@
 		"uid": "1982d618f5aa89441932293a88400404be483291",
 		"doc_uid": "9e54ef516a1a737a2748af8b4e6c7dc388762452",
 		"lobbyist_title": "European Digital Rights"
+	},
+	{
+		"doc": "Insurance-Europe-suggested-amendments-on-Data-Protection-draft-Regulation.docx",
+		"page": "3",
+		"text": {
+			"old": "processing of data relating to criminal convictions or related security measures is carried out either under the control of official authority or when the processing is necessary for compliance with a legal or regulatory obligation to which a controller is subject, or for the performance of a task carried out for important public interest reasons, and in so far as authorised by Union law or Member State law providing for adequate safeguards. A complete register of criminal convictions shall be kept only under the control of official authority.",
+			"new": "Processing is necessary for the purposes of preventing and/or detecting fraud.",
+			"del": [
+				"processing of data relating to criminal convictions or related security measures is carried out either under the control of official authority or when the processing is ",
+				"compliance with a legal or regulatory obligation to which a controller is subject, or for the performance of a task carried out for important public interest reasons, and in so far as authorised by Union law or Member State law providing for adequate safeguards. A complete register of criminal convictions shall be kept only under the control of official authority."
+			],
+			"ins": [
+				"Processing is ",
+				"the purposes of preventing and/or detecting fraud."
+			]
+		},
+		"diff": "<del>processing of data relating to criminal convictions or related security measures is carried out either under the control of official authority or when the processing is </del><ins>Processing is </ins><span>necessary for </span><del>compliance with a legal or regulatory obligation to which a controller is subject, or for the performance of a task carried out for important public interest reasons, and in so far as authorised by Union law or Member State law providing for adequate safeguards. A complete register of criminal convictions shall be kept only under the control of official authority.</del><ins>the purposes of preventing and/or detecting fraud.</ins>",
+		"relations": [
+			"a9p2i10+"
+		],
+		"patterns": [
+			"a9p2i10+"
+		],
+		"uid": "02985802666cee21cd4717616f1177304957dc83",
+		"doc_uid": "cdc881eb28cf5ac9cc81c193e97ed3d081c42e2a",
+		"lobbyist_title": "Insurance Europe"
+	},
+	{
+		"doc": "Insurance-Europe-suggested-amendments-on-Data-Protection-draft-Regulation.docx",
+		"page": "2",
+		"text": {
+			"old": "processing is necessary for the purposes of the legitimate interests pursued by a controller, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child. This shall not apply to processing carried out by public authorities in the performance of their tasks.",
+			"new": "processing is necessary for the purposes of preventing and/or detecting fraud.",
+			"del": [
+				"the legitimate interests pursued by a controller, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child. This shall not apply to processing carried out by public authorities in the performance of their tasks."
+			],
+			"ins": [
+				"preventing and/or detecting fraud."
+			]
+		},
+		"diff": "<span>processing is necessary for the purposes of </span><del>the legitimate interests pursued by a controller, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child. This shall not apply to processing carried out by public authorities in the performance of their tasks.</del><ins>preventing and/or detecting fraud.</ins>",
+		"relations": [
+			"a6p1i6+"
+		],
+		"patterns": [
+			"a6p1i6+"
+		],
+		"uid": "02c9da52fe7f0a08c22de5727d57a39a2dac1123",
+		"doc_uid": "cdc881eb28cf5ac9cc81c193e97ed3d081c42e2a",
+		"lobbyist_title": "Insurance Europe"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "10",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of updating the amounts of the administrative fines referred to in paragraphs 4, 5 and 6, taking into account the criteria referred to in paragraph 2.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of updating the amounts of the administrative fines referred to in paragraphs 4, 5 and 6, taking into account the criteria referred to in paragraph 2."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of updating the amounts of the administrative fines referred to in paragraphs 4, 5 and 6, taking into account the criteria referred to in paragraph 2.</del>",
+		"relations": [
+			"a79p7"
+		],
+		"patterns": [
+			"a79p7"
+		],
+		"uid": "04e7c9ad67ae200e53c650de1b86a4a0ba7a2a20",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "10",
+		"text": {
+			"old": "The Member States and the Commission shall encourage, in particular at European level, the establishment of data protection certification mechanisms and of data protection seals and marks, allowing data subjects to quickly assess the level of data protection provided by controllers and processors. The data protection certifications mechanisms shall contribute to the proper application of this Regulation, taking account of the specific features of the various sectors and different processing operations.",
+			"new": "The Member States and the Commission shall encourage, in particular at European level, the establishment of data protection certification mechanisms and of data protection seals and marks, allowing data subjects to quickly assess the level of data protection provided by controllers and processors. The data protection certifications mechanisms shall be voluntary, capable of global application and affordable. These mechanisms shall also be technology neutral and shall contribute to the proper application of this Regulation, taking account of the specific features of the various sectors and different processing operations.",
+			"del": [],
+			"ins": [
+				"be voluntary, capable of global application and affordable. These mechanisms shall also be technology neutral and shall "
+			]
+		},
+		"diff": "<span>The Member States and the Commission shall encourage, in particular at European level, the establishment of data protection certification mechanisms and of data protection seals and marks, allowing data subjects to quickly assess the level of data protection provided by controllers and processors. The data protection certifications mechanisms shall </span><ins>be voluntary, capable of global application and affordable. These mechanisms shall also be technology neutral and shall </ins><span>contribute to the proper application of this Regulation, taking account of the specific features of the various sectors and different processing operations.</span>",
+		"relations": [
+			"a39p1"
+		],
+		"patterns": [
+			"a39p1"
+		],
+		"uid": "06b708947551997b68d9188af37dc315ee7b6f92",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "1",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the conditions referred to in point (f) of paragraph 1 for various sectors and data processing situations, including as regards the processing of personal data related to a child.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the conditions referred to in point (f) of paragraph 1 for various sectors and data processing situations, including as regards the processing of personal data related to a child."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the conditions referred to in point (f) of paragraph 1 for various sectors and data processing situations, including as regards the processing of personal data related to a child.</del>",
+		"relations": [
+			"a6p5"
+		],
+		"patterns": [
+			"a6p5"
+		],
+		"uid": "086931349e0dbed25fdb111d775d1f29dc161001",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "6",
+		"text": {
+			"old": "In order to demonstrate compliance with this Regulation, the controller or processor should document each processing operation. Each controller and processor should be obliged to co-operate with the supervisory authority and make this documentation, on request, available to it, so that it might serve for monitoring those processing operations.",
+			"new": "In order to demonstrate compliance with this Regulation, the controller should document each processing operation. Each controller should be obliged to co-operate with the supervisory authority and make this documentation, on request, available to it, so that it might serve for monitoring those processing operations.",
+			"del": [
+				"or processor ",
+				"and processor "
+			],
+			"ins": []
+		},
+		"diff": "<span>In order to demonstrate compliance with this Regulation, the controller </span><del>or processor </del><span>should document each processing operation. Each controller </span><del>and processor </del><span>should be obliged to co-operate with the supervisory authority and make this documentation, on request, available to it, so that it might serve for monitoring those processing operations.</span>",
+		"relations": [
+			"r65"
+		],
+		"patterns": [
+			"r65"
+		],
+		"uid": "0a12f59120d7815eeda109e8d76579653dfeb678",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Gesetzl Krankenkassen_Stellungnahme DS-GVO.pdf",
+		"page": "8",
+		"text": {
+			"old": "aus anderen Gründen des öffentlichen Interesses in Bereichen wie der sozialen Sicherheit, insbesondere um die Qualität und Wirtschaftlichkeit der Verfahren zur Abrechnung von Krankenversicherungsleistungen sicherzustellen.",
+			"new": "aus anderen Gründen des öffentlichen Interesses in Bereichen wie der sozialen Sicherheit, insbesondere um die Qualität und Wirtschaftlichkeit der Verfahren zur Abrechnung, Bereitstellung, Inanspurchnahme, Erbringung, Finanzierung von und Beratung über Krankenversicherungsleistungen sicherzustellen.",
+			"del": [
+				" von "
+			],
+			"ins": [
+				", Bereitstellung, Inanspurchnahme, Erbringung, Finanzierung von und Beratung über "
+			]
+		},
+		"diff": "<span>aus anderen Gründen des öffentlichen Interesses in Bereichen wie der sozialen Sicherheit, insbesondere um die Qualität und Wirtschaftlichkeit der Verfahren zur Abrechnung</span><del> von </del><ins>, Bereitstellung, Inanspurchnahme, Erbringung, Finanzierung von und Beratung über </ins><span>Krankenversicherungsleistungen sicherzustellen.</span>",
+		"relations": [
+			"a81p1i3+"
+		],
+		"patterns": [
+			"a81p1i3+"
+		],
+		"uid": "0a7e2d3813d3143a0971a1b4f2d4893a15e411b5",
+		"doc_uid": "cc2c774538b686821f35a94d826afa600aeaada4",
+		"lobbyist_title": "GKV-Spitzenverband"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "11",
+		"text": {
+			"old": "The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.",
+			"new": "1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article. Adoption of such delegated act shall be subject to prior impact assessment as defined within the better regulation measures.",
+			"del": [],
+			"ins": [
+				"1. ",
+				" Adoption of such delegated act shall be subject to prior impact assessment as defined within the better regulation measures."
+			]
+		},
+		"diff": "<ins>1. </ins><span>The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.</span><ins> Adoption of such delegated act shall be subject to prior impact assessment as defined within the better regulation measures.</ins>",
+		"relations": [
+			"a86p1"
+		],
+		"patterns": [
+			"a86p1"
+		],
+		"uid": "0b55e00a24623ba9313394a4d366f77aa8c7c115",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "7",
+		"text": {
+			"old": "The controller shall seek the views of data subjects or their representatives on the intended processing, without prejudice to the protection of commercial or public interests or the security of the processing operations.",
+			"new": "",
+			"del": [
+				"The controller shall seek the views of data subjects or their representatives on the intended processing, without prejudice to the protection of commercial or public interests or the security of the processing operations."
+			],
+			"ins": []
+		},
+		"diff": "<del>The controller shall seek the views of data subjects or their representatives on the intended processing, without prejudice to the protection of commercial or public interests or the security of the processing operations.</del>",
+		"relations": [
+			"a33p4"
+		],
+		"patterns": [
+			"a33p4"
+		],
+		"uid": "0bbb3cd95319d6b4520e69becc649721eb035957",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "4",
+		"text": {
+			"old": "Each controller and processor and, if any, the controller's representative, shall maintain documentation of all processing operations under its responsibility.",
+			"new": "Each controller and, if any, the controller's representative, shall maintain documentation of all processing operations under its responsibility.",
+			"del": [
+				" processor and"
+			],
+			"ins": []
+		},
+		"diff": "<span>Each controller and</span><del> processor and</del><span>, if any, the controller's representative, shall maintain documentation of all processing operations under its responsibility.</span>",
+		"relations": [
+			"a28p1"
+		],
+		"patterns": [
+			"a28p1"
+		],
+		"uid": "1060906f220146352835cd71bcf1d5bb727475be",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "2",
+		"text": {
+			"old": "the criteria and requirements for the application of paragraph 1 for specific sectors and in specific data processing situations;",
+			"new": "",
+			"del": [
+				"the criteria and requirements for the application of paragraph 1 for specific sectors and in specific data processing situations;"
+			],
+			"ins": []
+		},
+		"diff": "<del>the criteria and requirements for the application of paragraph 1 for specific sectors and in specific data processing situations;</del>",
+		"relations": [
+			"a17p9i1"
+		],
+		"patterns": [
+			"a17p9i1"
+		],
+		"uid": "15a7575ded07e348877c37dcea6c05fb8184ce0d",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "4",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the documentation referred to in paragraph 1, to take account of in particular the responsibilities of the controller and the processor and, if any, the controller's representative.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the documentation referred to in paragraph 1, to take account of in particular the responsibilities of the controller and the processor and, if any, the controller's representative."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the documentation referred to in paragraph 1, to take account of in particular the responsibilities of the controller and the processor and, if any, the controller's representative.</del>",
+		"relations": [
+			"a28p5"
+		],
+		"patterns": [
+			"a28p5"
+		],
+		"uid": "160bdfb27ee5b40b96983e37fd1d840cd7a8956a",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "ACCIS_Position Paper on Proposed Data Protection Regulation May 2012.pdf",
+		"page": "23",
+		"text": {
+			"old": "Any person should have the right to have personal data concerning them rectified and a 'right to be forgotten' where the retention of such data is not in compliance with this Regulation. In particular, data subjects should have the right that their personal data are erased and no longer processed, where the data are no longer necessary in relation to the purposes for which the data are collected or otherwise processed, where data subjects have withdrawn their consent for processing or where they object to the processing of personal data concerning them or where the processing of their personal data otherwise does not comply with this Regulation. This right is particularly relevant, when the data subject has given their consent as a child, when not being fully aware of the risks involved by the processing, and later wants to remove such personal data especially on the Internet. However, the further retention of the data should be allowed where it is necessary for historical, statistical and scientific research purposes, for reasons of public interest in the area of public health, for exercising the right of freedom of expression, when required by law or where there is a reason to restrict the processing of the data instead of erasing them.",
+			"new": "Any person should have the right to have personal data concerning them rectified and a 'right to be forgotten' where the retention of such data is not in compliance with this Regulation. In particular, data subjects should have the right that their personal data are erased and no longer processed, where the data are no longer necessary to the processor in relation to the purposes for which the data are collected or where the processing of their personal data otherwise does not comply with this Regulation. In case of data subject’s objection or withdrawal of the consent an appropriate indication should be added to the item’s record in dispute. Especially for children no indication should be required and all information related to the child should be permanently erased. This right is particularly relevant, when the data subject has given their consent as a child, when not being fully aware of the risks involved by the processing, and later wants to remove such personal data especially on the Internet.",
+			"del": [
+				"otherwise processed, where data subjects have withdrawn their consent for processing or where they object",
+				"processing of personal data concerning them or where the processing of their personal data otherwise does not comply with this Regulation",
+				" However, the further retention of the data should be allowed where it is necessary for historical, statistical and scientific research purposes, for reasons of public interest in the area of public health, for exercising the right of freedom of expression, when required by law or where there is a reason to restrict the processing of the data instead of erasing them."
+			],
+			"ins": [
+				"to the processor ",
+				"where the processing of their personal data otherwise does not comply with this Regulation. In case of data subject’s objection or withdrawal of the consent an appropriate indication should be added",
+				"item’s record in dispute. Especially for children no indication should be required and all information related to the child should be permanently erased"
+			]
+		},
+		"diff": "<span>Any person should have the right to have personal data concerning them rectified and a 'right to be forgotten' where the retention of such data is not in compliance with this Regulation. In particular, data subjects should have the right that their personal data are erased and no longer processed, where the data are no longer necessary </span><ins>to the processor </ins><span>in relation to the purposes for which the data are collected or </span><del>otherwise processed, where data subjects have withdrawn their consent for processing or where they object</del><ins>where the processing of their personal data otherwise does not comply with this Regulation. In case of data subject’s objection or withdrawal of the consent an appropriate indication should be added</ins><span> to the </span><del>processing of personal data concerning them or where the processing of their personal data otherwise does not comply with this Regulation</del><ins>item’s record in dispute. Especially for children no indication should be required and all information related to the child should be permanently erased</ins><span>. This right is particularly relevant, when the data subject has given their consent as a child, when not being fully aware of the risks involved by the processing, and later wants to remove such personal data especially on the Internet.</span><del> However, the further retention of the data should be allowed where it is necessary for historical, statistical and scientific research purposes, for reasons of public interest in the area of public health, for exercising the right of freedom of expression, when required by law or where there is a reason to restrict the processing of the data instead of erasing them.</del>",
+		"relations": [
+			"r53"
+		],
+		"patterns": [
+			"r53"
+		],
+		"uid": "166032d4384c8df712bdacd474a5359e2503c1f2",
+		"doc_uid": "af1b507e6623544b936d5eb6d609c721432961de",
+		"lobbyist_title": "ACCIS"
+	},
+	{
+		"doc": "amazon_letter_26_1.pdf",
+		"page": "0",
+		"text": {
+			"old": "In order to ensure that individuals are not deprived of the protection to which they are entitled under this Regulation, the processing of personal data of data subjects residing in the Union by a controller not established in the Union should be subject to this Regulation where the processing activities are related to the offering of goods or services to such data subjects, or to the monitoring of the behaviour of such data subjects.",
+			"new": "(20) In order to ensure that individuals are not deprived of the protection to which they are entitled under this Regulation, the processing of personal data of data subjects residing in the Union by a controller not established in the Union, and where this Regulation would not otherwise apply, should be subject to this Regulation where the processing activities are related to the offering of goods or services that are specifically targeted at such data subjects, or to the monitoring of the behaviour of such data subjects.",
+			"del": [
+				" ",
+				"to "
+			],
+			"ins": [
+				"(20) ",
+				", and where this Regulation would not otherwise apply, ",
+				"that are specifically targeted at "
+			]
+		},
+		"diff": "<ins>(20) </ins><span>In order to ensure that individuals are not deprived of the protection to which they are entitled under this Regulation, the processing of personal data of data subjects residing in the Union by a controller not established in the Union</span><del> </del><ins>, and where this Regulation would not otherwise apply, </ins><span>should be subject to this Regulation where the processing activities are related to the offering of goods or services </span><del>to </del><ins>that are specifically targeted at </ins><span>such data subjects, or to the monitoring of the behaviour of such data subjects.</span>",
+		"relations": [
+			"r20"
+		],
+		"patterns": [
+			"r20"
+		],
+		"uid": "16fd18201f9f1bc4c2c2e9b8b851487acb86acdc",
+		"doc_uid": "1c48b1259f552095c1c46ca78f6e923b16faf3af",
+		"lobbyist_title": "Amazon"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "3",
+		"text": {
+			"old": "The protection of the rights and freedoms of data subjects with regard to the processing of personal data require that appropriate technical and organisational measures are taken, both at the time of the design of the processing and at the time of the processing itself, to ensure that the requirements of this Regulation are met. In order to ensure and demonstrate compliance with this Regulation, the controller should adopt internal policies and implement appropriate measures, which meet in particular the principles of data protection by design and data protection by default.",
+			"new": "",
+			"del": [
+				"The protection of the rights and freedoms of data subjects with regard to the processing of personal data require that appropriate technical and organisational measures are taken, both at the time of the design of the processing and at the time of the processing itself, to ensure that the requirements of this Regulation are met. In order to ensure and demonstrate compliance with this Regulation, the controller should adopt internal policies and implement appropriate measures, which meet in particular the principles of data protection by design and data protection by default."
+			],
+			"ins": []
+		},
+		"diff": "<del>The protection of the rights and freedoms of data subjects with regard to the processing of personal data require that appropriate technical and organisational measures are taken, both at the time of the design of the processing and at the time of the processing itself, to ensure that the requirements of this Regulation are met. In order to ensure and demonstrate compliance with this Regulation, the controller should adopt internal policies and implement appropriate measures, which meet in particular the principles of data protection by design and data protection by default.</del>",
+		"relations": [
+			"r61"
+		],
+		"patterns": [
+			"r61"
+		],
+		"uid": "170e15b38f5499a5b491f05ed79203ea4f60b048",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "2",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the communication to the data subject of the content of the personal data referred to in point (g) of paragraph 1.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the communication to the data subject of the content of the personal data referred to in point (g) of paragraph 1."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the communication to the data subject of the content of the personal data referred to in point (g) of paragraph 1.</del>",
+		"relations": [
+			"a15p3"
+		],
+		"patterns": [
+			"a15p3"
+		],
+		"uid": "19a4ed18cc0cb92512f2b7cf67bd8cc9d988cdcf",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "2",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria for categories of recipients referred to in point (f) of paragraph 1, the requirements for the notice of potential access referred to in point (g) of paragraph 1, the criteria for the further information necessary referred to in point (h) of paragraph 1 for specific sectors and situations, and the conditions and appropriate safeguards for the exceptions laid down in point (b) of paragraph 5. In doing so, the Commission shall take the appropriate measures for micro, small and medium-sized-enterprises.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria for categories of recipients referred to in point (f) of paragraph 1, the requirements for the notice of potential access referred to in point (g) of paragraph 1, the criteria for the further information necessary referred to in point (h) of paragraph 1 for specific sectors and situations, and the conditions and appropriate safeguards for the exceptions laid down in point (b) of paragraph 5. In doing so, the Commission shall take the appropriate measures for micro, small and medium-sized-enterprises."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria for categories of recipients referred to in point (f) of paragraph 1, the requirements for the notice of potential access referred to in point (g) of paragraph 1, the criteria for the further information necessary referred to in point (h) of paragraph 1 for specific sectors and situations, and the conditions and appropriate safeguards for the exceptions laid down in point (b) of paragraph 5. In doing so, the Commission shall take the appropriate measures for micro, small and medium-sized-enterprises.</del>",
+		"relations": [
+			"a14p7"
+		],
+		"patterns": [
+			"a14p7"
+		],
+		"uid": "1a889028d0f7eb44ed4c0a7d62a344395b624d35",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "amazon_letter_26_1.pdf",
+		"page": "1",
+		"text": {
+			"old": "In order to ensure that individuals are not deprived of the protection to which they are entitled under this Regulation, the processing of personal data of data subjects residing in the Union by a controller not established in the Union should be subject to this Regulation where the processing activities are related to the offering of goods or services to such data subjects, or to the monitoring of the behaviour of such data subjects.",
+			"new": "In order to ensure that individuals are not deprived of the protection to which they are entitled under this Regulation, the processing of personal data of data subjects residing in the Union by a controller not established in the Union, and where this Regulation would not otherwise apply, should be subject to this Regulation where the processing activities are related to the offering of goods or services that are specifically targeted at such data subjects, or to the monitoring of the behaviour of such data subjects.",
+			"del": [
+				" ",
+				"to "
+			],
+			"ins": [
+				", and where this Regulation would not otherwise apply, ",
+				"that are specifically targeted at "
+			]
+		},
+		"diff": "<span>In order to ensure that individuals are not deprived of the protection to which they are entitled under this Regulation, the processing of personal data of data subjects residing in the Union by a controller not established in the Union</span><del> </del><ins>, and where this Regulation would not otherwise apply, </ins><span>should be subject to this Regulation where the processing activities are related to the offering of goods or services </span><del>to </del><ins>that are specifically targeted at </ins><span>such data subjects, or to the monitoring of the behaviour of such data subjects.</span>",
+		"relations": [
+			"r20"
+		],
+		"patterns": [
+			"r20"
+		],
+		"uid": "1b9acdedd68aaadaf8f60d59fe162d772be6bf12",
+		"doc_uid": "1c48b1259f552095c1c46ca78f6e923b16faf3af",
+		"lobbyist_title": "Amazon"
+	},
+	{
+		"doc": "ACCIS_Position Paper on Proposed Data Protection Regulation May 2012.pdf",
+		"page": "22",
+		"text": {
+			"old": "Any person should have the right to have personal data concerning them rectified and a 'right to be forgotten' where the retention of such data is not in compliance with this Regulation. In particular, data subjects should have the right that their personal data are erased and no longer processed, where the data are no longer necessary in relation to the purposes for which the data are collected or otherwise processed, where data subjects have withdrawn their consent for processing or where they object to the processing of personal data concerning them or where the processing of their personal data otherwise does not comply with this Regulation. This right is particularly relevant, when the data subject has given their consent as a child, when not being fully aware of the risks involved by the processing, and later wants to remove such personal data especially on the Internet. However, the further retention of the data should be allowed where it is necessary for historical, statistical and scientific research purposes, for reasons of public interest in the area of public health, for exercising the right of freedom of expression, when required by law or where there is a reason to restrict the processing of the data instead of erasing them.",
+			"new": "Any person should have the right to have personal data concerning them rectified and a 'right to be forgotten' where the retention of such data is not in compliance with this Regulation. In particular, data subjects should have the right that their personal data are erased and no longer processed, where the data are no longer necessary to the processor in relation to the purposes for which the data are collected or where the processing of their personal data otherwise does not comply with this Regulation. In case of data subject’s objection or withdrawal of the consent an appropriate indication should be added to the item’s record in dispute. Especially for children no indication should be required and all information related to the child should be permanently erased. This right is particularly relevant, when the data subject has given their consent as a child, when not being fully aware of the risks involved by the processing, and later wants to remove such personal data especially on the Internet. …",
+			"del": [
+				"otherwise processed, where data subjects have withdrawn their consent for processing or where they object",
+				"processing of personal data concerning them or where the processing of their personal data otherwise does not comply with this Regulation",
+				"However, the further retention of the data should be allowed where it is necessary for historical, statistical and scientific research purposes, for reasons of public interest in the area of public health, for exercising the right of freedom of expression, when required by law or where there is a reason to restrict the processing of the data instead of erasing them."
+			],
+			"ins": [
+				"to the processor ",
+				"where the processing of their personal data otherwise does not comply with this Regulation. In case of data subject’s objection or withdrawal of the consent an appropriate indication should be added",
+				"item’s record in dispute. Especially for children no indication should be required and all information related to the child should be permanently erased",
+				"…"
+			]
+		},
+		"diff": "<span>Any person should have the right to have personal data concerning them rectified and a 'right to be forgotten' where the retention of such data is not in compliance with this Regulation. In particular, data subjects should have the right that their personal data are erased and no longer processed, where the data are no longer necessary </span><ins>to the processor </ins><span>in relation to the purposes for which the data are collected or </span><del>otherwise processed, where data subjects have withdrawn their consent for processing or where they object</del><ins>where the processing of their personal data otherwise does not comply with this Regulation. In case of data subject’s objection or withdrawal of the consent an appropriate indication should be added</ins><span> to the </span><del>processing of personal data concerning them or where the processing of their personal data otherwise does not comply with this Regulation</del><ins>item’s record in dispute. Especially for children no indication should be required and all information related to the child should be permanently erased</ins><span>. This right is particularly relevant, when the data subject has given their consent as a child, when not being fully aware of the risks involved by the processing, and later wants to remove such personal data especially on the Internet. </span><del>However, the further retention of the data should be allowed where it is necessary for historical, statistical and scientific research purposes, for reasons of public interest in the area of public health, for exercising the right of freedom of expression, when required by law or where there is a reason to restrict the processing of the data instead of erasing them.</del><ins>…</ins>",
+		"relations": [
+			"r53"
+		],
+		"patterns": [
+			"r53"
+		],
+		"uid": "1cb41917f769247ca98c25ff1c8ab44f5168431e",
+		"doc_uid": "af1b507e6623544b936d5eb6d609c721432961de",
+		"lobbyist_title": "ACCIS"
+	},
+	{
+		"doc": "Kirchen_StellungnahmeEU Datenschutzgrundverordnung 09 11 2012endg.pdf",
+		"page": "0",
+		"text": {
+			"old": "the transfer is necessary for important grounds of public interest; or",
+			"new": "the transfer is necessary for important grounds of public interest, in particular in the context of international public law or in relation to transfers carried out within a Church, a religious community or organization,",
+			"del": [
+				"; or"
+			],
+			"ins": [
+				", in particular in the context of international public law or in relation to transfers carried out within a Church, a religious community or organization,"
+			]
+		},
+		"diff": "<span>the transfer is necessary for important grounds of public interest</span><del>; or</del><ins>, in particular in the context of international public law or in relation to transfers carried out within a Church, a religious community or organization,</ins>",
+		"relations": [
+			"a44p1i4"
+		],
+		"patterns": [
+			"a44p1i4"
+		],
+		"uid": "1f37d8aa0221a34226e510703ac5d4422a3286b9",
+		"doc_uid": "4884bd83eee5305a14a6842d24f940665c8c7332",
+		"lobbyist_title": "Kirchen"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "3",
+		"text": {
+			"old": "the conditions for deleting links, copies or replications of personal data from publicly available communication services as referred to in paragraph 2;",
+			"new": "",
+			"del": [
+				"the conditions for deleting links, copies or replications of personal data from publicly available communication services as referred to in paragraph 2;"
+			],
+			"ins": []
+		},
+		"diff": "<del>the conditions for deleting links, copies or replications of personal data from publicly available communication services as referred to in paragraph 2;</del>",
+		"relations": [
+			"a17p9i2"
+		],
+		"patterns": [
+			"a17p9i2"
+		],
+		"uid": "2242bcc8839a851a29d3ef0e17c8551c89befce3",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "1",
+		"text": {
+			"old": "‘data concerning health’ means any information which relates to the physical or mental health of an individual, or to the provision of health services to the individual;",
+			"new": "‘data concerning health’ means any personal data which relates to the physical or mental health of a data subject, or to the provision of health services to the data subject. Data not directly associated with the data subject, data associated to a medical equipment (e.g. serial number of a medical device), is not ‘data concerning health’. Anonymised and pseudonymised data are not ‘data concerning health’.",
+			"del": [
+				"information ",
+				"an individual",
+				"individual;"
+			],
+			"ins": [
+				"personal data ",
+				"a data subject",
+				"data subject. Data not directly associated with the data subject, data associated to a medical equipment (e.g. serial number of a medical device), is not ‘data concerning health’. Anonymised and pseudonymised data are not ‘data concerning health’."
+			]
+		},
+		"diff": "<span>‘data concerning health’ means any </span><del>information </del><ins>personal data </ins><span>which relates to the physical or mental health of </span><del>an individual</del><ins>a data subject</ins><span>, or to the provision of health services to the </span><del>individual;</del><ins>data subject. Data not directly associated with the data subject, data associated to a medical equipment (e.g. serial number of a medical device), is not ‘data concerning health’. Anonymised and pseudonymised data are not ‘data concerning health’.</ins>",
+		"relations": [
+			"a4i12"
+		],
+		"patterns": [
+			"a4i12"
+		],
+		"uid": "2a5b09abcfcc6a24355eaca1567eac09d1663ed9",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "8",
+		"text": {
+			"old": "The controller or processor acting on the controller's behalf shall consult the supervisory authority prior to the processing of personal data in order to ensure the compliance of the intended processing with this Regulation and in particular to mitigate the risks involved for the data subjects where:",
+			"new": "The authorisation process by the supervisory authority should be limited in time, with a maximum timeline of 15 days to respond, or request additional information, where deemed necessary.",
+			"del": [
+				"The controller or processor acting on the controller's behalf shall consult the ",
+				"prior to the processing of personal data in order to ensure the compliance of the intended processing with this Regulation and in particular to mitigate the risks involved for the data subjects where:"
+			],
+			"ins": [
+				"The authorisation process by the ",
+				"should be limited in time, with a maximum timeline of 15 days to respond, or request additional information, where deemed necessary."
+			]
+		},
+		"diff": "<del>The controller or processor acting on the controller's behalf shall consult the </del><ins>The authorisation process by the </ins><span>supervisory authority </span><del>prior to the processing of personal data in order to ensure the compliance of the intended processing with this Regulation and in particular to mitigate the risks involved for the data subjects where:</del><ins>should be limited in time, with a maximum timeline of 15 days to respond, or request additional information, where deemed necessary.</ins>",
+		"relations": [
+			"a34p2"
+		],
+		"patterns": [
+			"a34p2"
+		],
+		"uid": "2d4eb00646423a1016900c35f7c5c87b4aa98677",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "8",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the core activities of the controller or the processor referred to in point (c) of paragraph 1 and the criteria for the professional qualities of the data protection officer referred to in paragraph 5.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the core activities of the controller or the processor referred to in point (c) of paragraph 1 and the criteria for the professional qualities of the data protection officer referred to in paragraph 5."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the core activities of the controller or the processor referred to in point (c) of paragraph 1 and the criteria for the professional qualities of the data protection officer referred to in paragraph 5.</del>",
+		"relations": [
+			"a35p11"
+		],
+		"patterns": [
+			"a35p11"
+		],
+		"uid": "2e3fe954ab6fbf6f9ec5bc6ea3e164267de179dd",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "Gesetzl Krankenkassen_Stellungnahme DS-GVO.pdf",
+		"page": "4",
+		"text": {
+			"old": "die Dauer, für die die personenbezogenen Daten gespeichert werden,",
+			"new": "die Dauer, sobald bekannt, für die die personenbezogenen Daten gespeichert werden,",
+			"del": [],
+			"ins": [
+				"sobald bekannt, "
+			]
+		},
+		"diff": "<span>die Dauer, </span><ins>sobald bekannt, </ins><span>für die die personenbezogenen Daten gespeichert werden,</span>",
+		"relations": [
+			"a14p1i3"
+		],
+		"patterns": [
+			"a14p1i3"
+		],
+		"uid": "2f275060d430b9fd10c8d0c8751f20389bca6ad1",
+		"doc_uid": "cc2c774538b686821f35a94d826afa600aeaada4",
+		"lobbyist_title": "GKV-Spitzenverband"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "3",
+		"text": {
+			"old": "The Commission may lay down technical standards for the requirements laid down in paragraph 1 and 2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2).",
+			"new": "",
+			"del": [
+				"The Commission may lay down technical standards for the requirements laid down in paragraph 1 and 2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2)."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission may lay down technical standards for the requirements laid down in paragraph 1 and 2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2).</del>",
+		"relations": [
+			"a23p4"
+		],
+		"patterns": [
+			"a23p4"
+		],
+		"uid": "364332a5acd91ee1f02d7f39075f236cfb601512",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "6",
+		"text": {
+			"old": "The Commission may adopt, where necessary, implementing acts for specifying the requirements laid down in paragraphs 1 and 2 to various situations, in particular to:",
+			"new": "",
+			"del": [
+				"The Commission may adopt, where necessary, implementing acts for specifying the requirements laid down in paragraphs 1 and 2 to various situations, in particular to:"
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission may adopt, where necessary, implementing acts for specifying the requirements laid down in paragraphs 1 and 2 to various situations, in particular to:</del>",
+		"relations": [
+			"a30p4"
+		],
+		"patterns": [
+			"a30p4"
+		],
+		"uid": "38a3d7cdfc9fc9d6ba13a44b63ca4da76051c4d2",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Insurance-Europe-suggested-amendments-on-Data-Protection-draft-Regulation.docx",
+		"page": "2",
+		"text": {
+			"old": "The data subject shall have the right to withdraw his or her consent at any time. The withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal.",
+			"new": "The data subject shall have the right to withdraw his or her consent at any time except when the processing of personal data is necessary: (a) for the execution of the contract, or (b) for compliance with legal obligations or (c)for preventing and/or detecting fraud The withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal.",
+			"del": [
+				". "
+			],
+			"ins": [
+				" except when the processing of personal data is necessary: (a) for the execution of the contract, or (b) for compliance with legal obligations or (c)for preventing and/or detecting fraud "
+			]
+		},
+		"diff": "<span>The data subject shall have the right to withdraw his or her consent at any time</span><del>. </del><ins> except when the processing of personal data is necessary: (a) for the execution of the contract, or (b) for compliance with legal obligations or (c)for preventing and/or detecting fraud </ins><span>The withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal.</span>",
+		"relations": [
+			"a7p3"
+		],
+		"patterns": [
+			"a7p3"
+		],
+		"uid": "3b11c57702f2bcd050cae92d3227e62c9e0933a3",
+		"doc_uid": "cdc881eb28cf5ac9cc81c193e97ed3d081c42e2a",
+		"lobbyist_title": "Insurance Europe"
+	},
+	{
+		"doc": "Gesetzl Krankenkassen_Stellungnahme DS-GVO.pdf",
+		"page": "4",
+		"text": {
+			"old": "Der für die Verarbeitung Verantwortliche kommt seiner Informationspflicht gegenüber der betroffenen Person umgehend nach und teilt ihr spätestens innerhalb eines Monats nach Eingang eines Antrags mit, ob eine Maßnahme nach Artikel 13 oder den Artikeln 15 bis 19 ergriffen wurde, und erteilt die erbetene Auskunft. Diese Frist kann um einen Monat verlängert werden, wenn mehrere betroffene Personen von ihren Rechten Gebrauch machen und ihre Zusammenarbeit bis zu einem vertretbaren Maß notwendig ist, um einen unnötigen und unverhältnismäßig hohen Aufwand seitens des für die Verarbeitung Verantwortlichen zu vermeiden. Die Unterrichtung hat schriftlich zu erfolgen. Stellt die betroffene Person den Antrag in elektronischer Form, ist sie auf elektronischem Weg zu unterrichten, sofern sie nichts anderes angibt.",
+			"new": "Der für die Verarbeitung Verantwortliche kommt seiner Informationspflicht gegenüber der betroffenen Person umgehend nach und teilt ihr innerhalb einer angemessenen Frist (spätestens 3 Monate) nach Eingang eines Antrags mit, ob eine Maßnahme nach Artikel 13 oder den Artikeln 15 bis 19 ergriffen wurde, und erteilt die erbetene Auskunft. Diese Frist kann um einen Monat verlängert werden, wenn mehrere betroffene Personen von ihren Rechten Gebrauch machen und ihre Zusammenarbeit bis zu einem vertretbaren Maß notwendig ist, um einen unnötigen und unverhältnismäßig hohen Aufwand seitens des für die Verarbeitung Verantwortlichen zu vermeiden. Die Unterrichtung hat schriftlich zu erfolgen. Stellt die betroffene Person den Antrag in elektronischer Form, ist sie auf elektronischem Weg zu unterrichten, sofern sie nichts anderes angibt.",
+			"del": [
+				"spätestens innerhalb eines Monats "
+			],
+			"ins": [
+				"innerhalb einer angemessenen Frist (spätestens 3 Monate) "
+			]
+		},
+		"diff": "<span>Der für die Verarbeitung Verantwortliche kommt seiner Informationspflicht gegenüber der betroffenen Person umgehend nach und teilt ihr </span><del>spätestens innerhalb eines Monats </del><ins>innerhalb einer angemessenen Frist (spätestens 3 Monate) </ins><span>nach Eingang eines Antrags mit, ob eine Maßnahme nach Artikel 13 oder den Artikeln 15 bis 19 ergriffen wurde, und erteilt die erbetene Auskunft. Diese Frist kann um einen Monat verlängert werden, wenn mehrere betroffene Personen von ihren Rechten Gebrauch machen und ihre Zusammenarbeit bis zu einem vertretbaren Maß notwendig ist, um einen unnötigen und unverhältnismäßig hohen Aufwand seitens des für die Verarbeitung Verantwortlichen zu vermeiden. Die Unterrichtung hat schriftlich zu erfolgen. Stellt die betroffene Person den Antrag in elektronischer Form, ist sie auf elektronischem Weg zu unterrichten, sofern sie nichts anderes angibt.</span>",
+		"relations": [
+			"a12p2"
+		],
+		"patterns": [
+			"a12p2"
+		],
+		"uid": "3c9aec6461fc902904e355b616ee04974c3ba631",
+		"doc_uid": "cc2c774538b686821f35a94d826afa600aeaada4",
+		"lobbyist_title": "GKV-Spitzenverband"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "9",
+		"text": {
+			"old": "The Commission may set out standard forms and procedures for prior authorisations and consultations referred to in paragraphs 1 and 2, and standard forms and procedures for informing the supervisory authorities pursuant to paragraph 6. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2).",
+			"new": "The Commission may set out standard forms and procedures for prior authorisations referred to in paragraphs 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2).",
+			"del": [
+				"and consultations ",
+				" and 2, and standard forms and procedures for informing the supervisory authorities pursuant to paragraph 6"
+			],
+			"ins": []
+		},
+		"diff": "<span>The Commission may set out standard forms and procedures for prior authorisations </span><del>and consultations </del><span>referred to in paragraphs 1</span><del> and 2, and standard forms and procedures for informing the supervisory authorities pursuant to paragraph 6</del><span>. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2).</span>",
+		"relations": [
+			"a34p9"
+		],
+		"patterns": [
+			"a34p9"
+		],
+		"uid": "3e643c11b077083404d2b2f812a3a70e8a1394cd",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "1",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria, conditions and appropriate safeguards for the processing of the special categories of personal data referred to in paragraph 1 and the exemptions laid down in paragraph 2.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria, conditions and appropriate safeguards for the processing of the special categories of personal data referred to in paragraph 1 and the exemptions laid down in paragraph 2."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria, conditions and appropriate safeguards for the processing of the special categories of personal data referred to in paragraph 1 and the exemptions laid down in paragraph 2.</del>",
+		"relations": [
+			"a9p3"
+		],
+		"patterns": [
+			"a9p3"
+		],
+		"uid": "417fb5172ed7fd739985e94bbe85401e26ed59ae",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "4",
+		"text": {
+			"old": "The obligations referred to in paragraphs 1 and 2 shall not apply to the following controllers and processors:",
+			"new": "The obligations referred to in paragraphs 1 and 2 shall not apply to the following controllers:",
+			"del": [
+				" and processors:"
+			],
+			"ins": [
+				":"
+			]
+		},
+		"diff": "<span>The obligations referred to in paragraphs 1 and 2 shall not apply to the following controllers</span><del> and processors:</del><ins>:</ins>",
+		"relations": [
+			"a28p4"
+		],
+		"patterns": [
+			"a28p4"
+		],
+		"uid": "4377007791e1ece7ae8cd8d573cb51f7000e4ff6",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "3",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and conditions for suitable measures to safeguard the data subject's legitimate interests referred to in paragraph 2.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and conditions for suitable measures to safeguard the data subject's legitimate interests referred to in paragraph 2."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and conditions for suitable measures to safeguard the data subject's legitimate interests referred to in paragraph 2.</del>",
+		"relations": [
+			"a20p5"
+		],
+		"patterns": [
+			"a20p5"
+		],
+		"uid": "4942e2698044ce169008a813297fd0fe9c6f9ad7",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "8",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for establishing the data breach referred to in paragraphs 1 and 2 and for the particular circumstances in which a controller and a processor is required to notify the personal data breach.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for establishing the data breach referred to in paragraphs 1 and 2 and for the particular circumstances in which a controller and a processor is required to notify the personal data breach."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for establishing the data breach referred to in paragraphs 1 and 2 and for the particular circumstances in which a controller and a processor is required to notify the personal data breach.</del>",
+		"relations": [
+			"a33p6"
+		],
+		"patterns": [
+			"a33p6"
+		],
+		"uid": "4a0dd2e367b789c0fdbd887bb13d2ccdb236914a",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "9",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for tasks, certification, status, powers and resources of the data protection officer referred to in paragraph 1.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for tasks, certification, status, powers and resources of the data protection officer referred to in paragraph 1."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for tasks, certification, status, powers and resources of the data protection officer referred to in paragraph 1.</del>",
+		"relations": [
+			"a37p2"
+		],
+		"patterns": [
+			"a37p2"
+		],
+		"uid": "4e2ab77017def83ca2cde2009befe570da9f1f36",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "7",
+		"text": {
+			"old": "Where processing operations present specific risks to the rights and freedoms of data subjects by virtue of their nature, their scope or their purposes, the controller or the processor acting on the controller's behalf shall carry out an assessment of the impact of the envisaged processing operations on the protection of personal data.",
+			"new": "Where processing operations present specific risks to the rights and freedoms of data subjects by virtue of their nature, their scope or their purposes, the controller behalf shall carry out an assessment of the impact of the envisaged processing operations on the protection of personal data.",
+			"del": [
+				"or the processor acting on the controller's "
+			],
+			"ins": []
+		},
+		"diff": "<span>Where processing operations present specific risks to the rights and freedoms of data subjects by virtue of their nature, their scope or their purposes, the controller </span><del>or the processor acting on the controller's </del><span>behalf shall carry out an assessment of the impact of the envisaged processing operations on the protection of personal data.</span>",
+		"relations": [
+			"a33p1"
+		],
+		"patterns": [
+			"a33p1"
+		],
+		"uid": "4e4af751a8659941f74d5e0cffe358af018e4bf7",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "6",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and conditions for the technical and organisational measures referred to in paragraphs 1 and 2, including the determinations of what constitutes the state of the art, for specific sectors and in specific data processing situations, in particular taking account of developments in technology and solutions for privacy by design and data protection by default, unless paragraph 4 applies.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and conditions for the technical and organisational measures referred to in paragraphs 1 and 2, including the determinations of what constitutes the state of the art, for specific sectors and in specific data processing situations, in particular taking account of developments in technology and solutions for privacy by design and data protection by default, unless paragraph 4 applies."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and conditions for the technical and organisational measures referred to in paragraphs 1 and 2, including the determinations of what constitutes the state of the art, for specific sectors and in specific data processing situations, in particular taking account of developments in technology and solutions for privacy by design and data protection by default, unless paragraph 4 applies.</del>",
+		"relations": [
+			"a30p3"
+		],
+		"patterns": [
+			"a30p3"
+		],
+		"uid": "4f30a767e80ee95524501ea18ccc2ba0fb9a969a",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "Gesetzl Krankenkassen_Stellungnahme DS-GVO.pdf",
+		"page": "3",
+		"text": {
+			"old": "Die einzelstaatliche Regelung muss ein im öffentlichen Interesse liegendes Ziel verfolgen oder zum Schutz der Rechte und Freiheiten Dritter erforderlich sein, den Wesensgehalt des Rechts auf den Schutz personenbezogener Daten wahren und in einem angemessenen Verhältnis zu dem mit der Verarbeitung verfolgten legitimen Zweck stehen.",
+			"new": "Die einzelstaatliche Regelung muss ein im öffentlichen Interesse liegendes Ziel verfolgen oder zum Schutz der Rechte und Freiheiten Dritter oder für die Erfüllung einer sozialversicherungsrechtlichen Aufgabe erforderlich sein, den Wesensgehalt des Rechts auf den Schutz personenbezogener Daten wahren und in einem angemessenen Verhältnis zu dem mit der Verarbeitung verfolgten legitimen Zweck stehen.",
+			"del": [],
+			"ins": [
+				"oder für die Erfüllung einer sozialversicherungsrechtlichen Aufgabe "
+			]
+		},
+		"diff": "<span>Die einzelstaatliche Regelung muss ein im öffentlichen Interesse liegendes Ziel verfolgen oder zum Schutz der Rechte und Freiheiten Dritter </span><ins>oder für die Erfüllung einer sozialversicherungsrechtlichen Aufgabe </ins><span>erforderlich sein, den Wesensgehalt des Rechts auf den Schutz personenbezogener Daten wahren und in einem angemessenen Verhältnis zu dem mit der Verarbeitung verfolgten legitimen Zweck stehen.</span>",
+		"relations": [
+			"a6p3t1"
+		],
+		"patterns": [
+			"a6p3t1"
+		],
+		"uid": "4f68dae6f1bf073127a49078b961e74b5773dcc3",
+		"doc_uid": "cc2c774538b686821f35a94d826afa600aeaada4",
+		"lobbyist_title": "GKV-Spitzenverband"
+	},
+	{
+		"doc": "Adobe_EU Vorschlag zur Datenschutz Grundverordnung Änderungsvorschläge 20120713.pdf",
+		"page": "2",
+		"text": {
+			"old": "the offering of goods or services to such data subjects in the Union; or",
+			"new": "",
+			"del": [
+				"the offering of goods or services to such data subjects in the Union; or"
+			],
+			"ins": []
+		},
+		"diff": "<del>the offering of goods or services to such data subjects in the Union; or</del>",
+		"relations": [
+			"a3p1"
+		],
+		"patterns": [
+			"a3p1"
+		],
+		"uid": "578e03e5d0e6a4e33f8520da925f204284a6890f",
+		"doc_uid": "a4ed3b21474e353365fcc9a7aa9e6a68f0d2f328",
+		"lobbyist_title": "Adobe"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "14",
+		"text": {
+			"old": "other reasons of public interest in areas such as social protection, especially in order to ensure the quality and cost-effectiveness of the procedures used for settling claims for benefits and services in the health insurance system.",
+			"new": "other reasons of public interest in areas such as social protection, especially in order to ensure the quality and cost-effectiveness of the procedures used for settling claims for benefits and services in the health insurance system and the provision of health services.",
+			"del": [
+				"."
+			],
+			"ins": [
+				" and the provision of health services."
+			]
+		},
+		"diff": "<span>other reasons of public interest in areas such as social protection, especially in order to ensure the quality and cost-effectiveness of the procedures used for settling claims for benefits and services in the health insurance system</span><del>.</del><ins> and the provision of health services.</ins>",
+		"relations": [
+			"a81p1i3"
+		],
+		"patterns": [
+			"a81p1i3"
+		],
+		"uid": "5a6d613064dcb782d849940393a5b42f2def73fa",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "7",
+		"text": {
+			"old": "The Commission may specify standards and procedures for carrying out and verifying and auditing the assessment referred to in paragraph 3. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2).",
+			"new": "",
+			"del": [
+				"The Commission may specify standards and procedures for carrying out and verifying and auditing the assessment referred to in paragraph 3. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2)."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission may specify standards and procedures for carrying out and verifying and auditing the assessment referred to in paragraph 3. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2).</del>",
+		"relations": [
+			"a33p7"
+		],
+		"patterns": [
+			"a33p7"
+		],
+		"uid": "5ca0b7f7aef71e300455826297bd986ccbb63d7d",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "7",
+		"text": {
+			"old": "other processing operations for which the consultation of the supervisory authority is required pursuant to point (b) of Article 34(2).",
+			"new": "Impact assessment should be carried out if the processing differs significantly from existing practices of the controller and the new approach in itself presents specific risks and this creates doubts with the compliance of this Regulation.",
+			"del": [
+				"other processing operations for which the consultation ",
+				"supervisory authority is required pursuant to point (b) of Article 34(2)."
+			],
+			"ins": [
+				"Impact assessment should be carried out if the processing differs significantly from existing practices ",
+				"controller and the new approach in itself presents specific risks and this creates doubts with the compliance of this Regulation."
+			]
+		},
+		"diff": "<del>other processing operations for which the consultation </del><ins>Impact assessment should be carried out if the processing differs significantly from existing practices </ins><span>of the </span><del>supervisory authority is required pursuant to point (b) of Article 34(2).</del><ins>controller and the new approach in itself presents specific risks and this creates doubts with the compliance of this Regulation.</ins>",
+		"relations": [
+			"a33p2i5"
+		],
+		"patterns": [
+			"a33p2i5"
+		],
+		"uid": "5d1f097660488773dfb277aedceb6c7894e6652b",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Insurance-Europe-suggested-amendments-on-Data-Protection-draft-Regulation.docx",
+		"page": "1",
+		"text": {
+			"old": "‘data concerning health’ means any information which relates to the physical or mental health of an individual, or to the provision of health services to the individual;",
+			"new": "“data concerning health” means any information which relates to the physical or mental health of an individual;",
+			"del": [
+				"‘",
+				"’",
+				", or to the provision of health services to the individual;"
+			],
+			"ins": [
+				"“",
+				"”",
+				";"
+			]
+		},
+		"diff": "<del>‘</del><ins>“</ins><span>data concerning health</span><del>’</del><ins>”</ins><span> means any information which relates to the physical or mental health of an individual</span><del>, or to the provision of health services to the individual;</del><ins>;</ins>",
+		"relations": [
+			"a4i12"
+		],
+		"patterns": [
+			"a4i12"
+		],
+		"uid": "624f7ee1e2b58dd5959df647afc39976c7a5f447",
+		"doc_uid": "cdc881eb28cf5ac9cc81c193e97ed3d081c42e2a",
+		"lobbyist_title": "Insurance Europe"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "14",
+		"text": {
+			"old": "In view of the fact that, as underlined by the Court of Justice of the European Union, the right to the protection of personal data is not an absolute right, but must be considered in relation to its function in society and be balanced with other fundamental rights, in accordance with the principle of proportionality, this Regulation respects all fundamental rights and observes the principles recognised in the Charter of Fundamental Rights of the European Union as enshrined in the Treaties, notably the right to respect for private and family life, home and communications, the right to the protection of personal data, the freedom of thought, conscience and religion, the freedom of expression and information, the freedom to conduct a business, the right to an effective remedy and to a fair trial as well as cultural, religious and linguistic diversity.",
+			"new": "The principles of data protection should take context into consideration and should recognise the need for medical equipment manufacturers to maintain medical systems and devices with the support of technicians or engineers, provided they have been trained on the confidentiality of ‘data concerning health’, have signed a commitment of confidentiality by contract with their employer and third parties and remote maintenance security rules are in place. Manufacturers are also consulted by healthcare providers to advice on radiation dose for medical images on the basis of the patient age, weight, medical condition, etc. The Regulation should facilitate such scenarios. The principles of data protection should also take obligations under other legal frameworks into consideration and should recognize the obligation for medical equipment manufacturers to collect clinical data to evaluate the performance of said medical equipment/devices (This last statement falls is anonymised data are not covered by the Regulation).",
+			"del": [
+				"In view of the fact that, as underlined by the Court of Justice of the European Union, the right to the protection of personal data is not an absolute right, but must be considered in relation to its function in society and be balanced with other fundamental rights, in accordance with the principle of proportionality, this Regulation respects all fundamental rights and observes the principles recognised in the Charter of Fundamental Rights of the European Union as enshrined in the Treaties, notably the right to respect for private and family life, home and communications, the right to the protection of personal data, the freedom of thought, conscience and religion, the freedom of expression and information, the freedom to conduct a business, the right to an effective remedy and to a fair trial as well as cultural, religious and linguistic diversity."
+			],
+			"ins": [
+				"The principles of data protection should take context into consideration and should recognise the need for medical equipment manufacturers to maintain medical systems and devices with the support of technicians or engineers, provided they have been trained on the confidentiality of ‘data concerning health’, have signed a commitment of confidentiality by contract with their employer and third parties and remote maintenance security rules are in place. Manufacturers are also consulted by healthcare providers to advice on radiation dose for medical images on the basis of the patient age, weight, medical condition, etc. The Regulation should facilitate such scenarios. The principles of data protection should also take obligations under other legal frameworks into consideration and should recognize the obligation for medical equipment manufacturers to collect clinical data to evaluate the performance of said medical equipment/devices (This last statement falls is anonymised data are not covered by the Regulation)."
+			]
+		},
+		"diff": "<del>In view of the fact that, as underlined by the Court of Justice of the European Union, the right to the protection of personal data is not an absolute right, but must be considered in relation to its function in society and be balanced with other fundamental rights, in accordance with the principle of proportionality, this Regulation respects all fundamental rights and observes the principles recognised in the Charter of Fundamental Rights of the European Union as enshrined in the Treaties, notably the right to respect for private and family life, home and communications, the right to the protection of personal data, the freedom of thought, conscience and religion, the freedom of expression and information, the freedom to conduct a business, the right to an effective remedy and to a fair trial as well as cultural, religious and linguistic diversity.</del><ins>The principles of data protection should take context into consideration and should recognise the need for medical equipment manufacturers to maintain medical systems and devices with the support of technicians or engineers, provided they have been trained on the confidentiality of ‘data concerning health’, have signed a commitment of confidentiality by contract with their employer and third parties and remote maintenance security rules are in place. Manufacturers are also consulted by healthcare providers to advice on radiation dose for medical images on the basis of the patient age, weight, medical condition, etc. The Regulation should facilitate such scenarios. The principles of data protection should also take obligations under other legal frameworks into consideration and should recognize the obligation for medical equipment manufacturers to collect clinical data to evaluate the performance of said medical equipment/devices (This last statement falls is anonymised data are not covered by the Regulation).</ins>",
+		"relations": [
+			"r139+"
+		],
+		"patterns": [
+			"r139+"
+		],
+		"uid": "62c1fdd8008ba338912459087d4456d2c644bf9f",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "4",
+		"text": {
+			"old": "hand over all results to the controller after the end of the processing and not process the personal data otherwise;",
+			"new": "not process the personal data after the end of the agreed processing",
+			"del": [
+				"hand over all results to the controller ",
+				"processing and not process the personal data otherwise;"
+			],
+			"ins": [
+				"not process the personal data ",
+				"agreed processing"
+			]
+		},
+		"diff": "<del>hand over all results to the controller </del><ins>not process the personal data </ins><span>after the end of the </span><del>processing and not process the personal data otherwise;</del><ins>agreed processing</ins>",
+		"relations": [
+			"a26p2i7"
+		],
+		"patterns": [
+			"a26p2i7"
+		],
+		"uid": "6aaae780c5a3fad72f9cdd8386254cd9c57206c5",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "6",
+		"text": {
+			"old": "prevent any unauthorised access to personal data;",
+			"new": "",
+			"del": [
+				"prevent any unauthorised access to personal data;"
+			],
+			"ins": []
+		},
+		"diff": "<del>prevent any unauthorised access to personal data;</del>",
+		"relations": [
+			"a30p4i1"
+		],
+		"patterns": [
+			"a30p4i1"
+		],
+		"uid": "6d81e53a6a0c7e52cb7a6621a6507b731cd8d73d",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "11",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the safeguards for the processing of personal data for the purposes referred to in paragraph 1.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the safeguards for the processing of personal data for the purposes referred to in paragraph 1."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the safeguards for the processing of personal data for the purposes referred to in paragraph 1.</del>",
+		"relations": [
+			"a83p3"
+		],
+		"patterns": [
+			"a83p3"
+		],
+		"uid": "704d8f44faa6a26611807241a3d2710517b9ccd5",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "10",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the data protection certification mechanisms referred to in paragraph 1, including conditions for granting and withdrawal, and requirements for recognition within the Union and in third countries.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the data protection certification mechanisms referred to in paragraph 1, including conditions for granting and withdrawal, and requirements for recognition within the Union and in third countries."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the data protection certification mechanisms referred to in paragraph 1, including conditions for granting and withdrawal, and requirements for recognition within the Union and in third countries.</del>",
+		"relations": [
+			"a39p2"
+		],
+		"patterns": [
+			"a39p2"
+		],
+		"uid": "728e62f221e03a8a4c787dc9616fbd1678acd86b",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "7",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and conditions for the processing operations likely to present specific risks referred to in paragraphs 1 and 2 and the requirements for the assessment referred to in paragraph 3, including conditions for scalability, verification and auditability. In doing so, the Commission shall consider specific measures for micro, small and medium-sized enterprises.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and conditions for the processing operations likely to present specific risks referred to in paragraphs 1 and 2 and the requirements for the assessment referred to in paragraph 3, including conditions for scalability, verification and auditability. In doing so, the Commission shall consider specific measures for micro, small and medium-sized enterprises."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and conditions for the processing operations likely to present specific risks referred to in paragraphs 1 and 2 and the requirements for the assessment referred to in paragraph 3, including conditions for scalability, verification and auditability. In doing so, the Commission shall consider specific measures for micro, small and medium-sized enterprises.</del>",
+		"relations": [
+			"a33p6"
+		],
+		"patterns": [
+			"a33p6"
+		],
+		"uid": "763232b08a5ca512f5ec53fe590af31a8442fef6",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Insurance-Europe-suggested-amendments-on-Data-Protection-draft-Regulation.docx",
+		"page": "1",
+		"text": {
+			"old": "Personal data relating to health should include in particular all data pertaining to the health status of a data subject; information about the registration of the individual for the provision of health services; information about payments or eligibility for healthcare with respect to the individual; a number, symbol or particular assigned to an individual to uniquely identify the individual for health purposes; any information about the individual collected in the course of the provision of health services to the individual; information derived from the testing or examination of a body part or bodily substance, including biological samples; identification of a person as provider of healthcare to the individual; or any information on e.g. a disease, disability, disease risk, medical history, clinical treatment, or the actual physiological or biomedical state of the data subject independent of its source, such as e.g. from a physician or other health professional, a hospital, a medical device, or an in vitro diagnostic test.",
+			"new": "Personal data related to health should include in particular all data pertaining to the health status of a data subject; any information about the individual collected in the course of the provision of health services to the individual; information derived from the testing or examination of a body part or bodily substance, including biological samples; or any information on e.g. a disease, disability, disease risk, medical history, clinical treatment, or the actual physiological or biomedical state of data subject independent of its course.",
+			"del": [
+				"relating",
+				"information about the registration of the individual for the provision of health services; information about payments or eligibility for healthcare with respect to the individual; a number, symbol or particular assigned to an individual to uniquely identify the individual for health purposes; ",
+				"identification of a person as provider of healthcare to the individual; ",
+				"the ",
+				"source, such as e.g. from a physician or other health professional, a hospital, a medical device, or an in vitro diagnostic test."
+			],
+			"ins": [
+				"related",
+				"course."
+			]
+		},
+		"diff": "<span>Personal data </span><del>relating</del><ins>related</ins><span> to health should include in particular all data pertaining to the health status of a data subject; </span><del>information about the registration of the individual for the provision of health services; information about payments or eligibility for healthcare with respect to the individual; a number, symbol or particular assigned to an individual to uniquely identify the individual for health purposes; </del><span>any information about the individual collected in the course of the provision of health services to the individual; information derived from the testing or examination of a body part or bodily substance, including biological samples; </span><del>identification of a person as provider of healthcare to the individual; </del><span>or any information on e.g. a disease, disability, disease risk, medical history, clinical treatment, or the actual physiological or biomedical state of </span><del>the </del><span>data subject independent of its </span><del>source, such as e.g. from a physician or other health professional, a hospital, a medical device, or an in vitro diagnostic test.</del><ins>course.</ins>",
+		"relations": [
+			"r26"
+		],
+		"patterns": [
+			"r26"
+		],
+		"uid": "76576ab204d9febf2ee00ce328107db77cec2b78",
+		"doc_uid": "cdc881eb28cf5ac9cc81c193e97ed3d081c42e2a",
+		"lobbyist_title": "Insurance Europe"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "11",
+		"text": {
+			"old": "the data subject has consented to the proposed transfer, after having been informed of the risks of such transfers due to the absence of an adequacy decision and appropriate safeguards; or",
+			"new": "The personal data has been anonymised or pseudonymised, and the key is kept separately from the data.",
+			"del": [
+				"the data subject has consented to the proposed transfer, after having been informed of the risks of such transfers due to the absence of an adequacy decision and appropriate safeguards; or"
+			],
+			"ins": [
+				"The personal data has been anonymised or pseudonymised, and the key is kept separately from the data."
+			]
+		},
+		"diff": "<del>the data subject has consented to the proposed transfer, after having been informed of the risks of such transfers due to the absence of an adequacy decision and appropriate safeguards; or</del><ins>The personal data has been anonymised or pseudonymised, and the key is kept separately from the data.</ins>",
+		"relations": [
+			"a44p1i1+"
+		],
+		"patterns": [
+			"a44p1i1+"
+		],
+		"uid": "7824a9959c6d17469867975d1e47b477c10d601b",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "6",
+		"text": {
+			"old": "prevent any unauthorised disclosure, reading, copying, modification, erasure or removal of personal data;",
+			"new": "",
+			"del": [
+				"prevent any unauthorised disclosure, reading, copying, modification, erasure or removal of personal data;"
+			],
+			"ins": []
+		},
+		"diff": "<del>prevent any unauthorised disclosure, reading, copying, modification, erasure or removal of personal data;</del>",
+		"relations": [
+			"a30p4i2"
+		],
+		"patterns": [
+			"a30p4i2"
+		],
+		"uid": "7a7cd8a704cb60cbbf8734830758c03647e950e6",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "13",
+		"text": {
+			"old": "The Commission shall have the right to participate in the activities and meetings of the European Data Protection Board and shall designate a representative. The chair of the European Data Protection Board shall, without delay, inform the Commission on all activities of the European Data Protection Board.",
+			"new": "The Industry shall have the right to participate in the activities and meetings of the European Data Protection Board and shall designate a representative. Industry should provide technologically neutral guidance regarding safeguards for personal data processing.",
+			"del": [
+				"The Commission",
+				"The chair of the European Data Protection Board shall, without delay, inform the Commission on all activities of the European Data Protection Board."
+			],
+			"ins": [
+				"The Industry",
+				"Industry should provide technologically neutral guidance regarding safeguards for personal data processing."
+			]
+		},
+		"diff": "<del>The Commission</del><ins>The Industry</ins><span> shall have the right to participate in the activities and meetings of the European Data Protection Board and shall designate a representative. </span><del>The chair of the European Data Protection Board shall, without delay, inform the Commission on all activities of the European Data Protection Board.</del><ins>Industry should provide technologically neutral guidance regarding safeguards for personal data processing.</ins>",
+		"relations": [
+			"a64p4+"
+		],
+		"patterns": [
+			"a64p4+"
+		],
+		"uid": "7c5affd9466f9e20da0ee029eaf628d1e0c848e6",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "11",
+		"text": {
+			"old": "The Commission may decide that a third country, or a territory or a processing sector within that third country, or an international organisation ensures an adequate level of protection within the meaning of paragraph 2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2).",
+			"new": "Transfers to the United States of America under HIPAA rules are deemed adequate safeguards.",
+			"del": [
+				"The Commission may decide that a third country, or a territory or a processing sector within that third country, or an international organisation ensures an adequate level of protection within the meaning of paragraph 2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2)."
+			],
+			"ins": [
+				"Transfers to the United States of America under HIPAA rules are deemed adequate safeguards."
+			]
+		},
+		"diff": "<del>The Commission may decide that a third country, or a territory or a processing sector within that third country, or an international organisation ensures an adequate level of protection within the meaning of paragraph 2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2).</del><ins>Transfers to the United States of America under HIPAA rules are deemed adequate safeguards.</ins>",
+		"relations": [
+			"a41p3+"
+		],
+		"patterns": [
+			"a41p3+"
+		],
+		"uid": "7f63ebd1c2458680ca20d527757ec3deaba455a9",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "8",
+		"text": {
+			"old": "a data protection impact assessment as provided for in Article 33 indicates that processing operations are by virtue of their nature, their scope or their purposes, likely to present a high degree of specific risks; or",
+			"new": "",
+			"del": [
+				"a data protection impact assessment as provided for in Article 33 indicates that processing operations are by virtue of their nature, their scope or their purposes, likely to present a high degree of specific risks; or"
+			],
+			"ins": []
+		},
+		"diff": "<del>a data protection impact assessment as provided for in Article 33 indicates that processing operations are by virtue of their nature, their scope or their purposes, likely to present a high degree of specific risks; or</del>",
+		"relations": [
+			"a34p2i1"
+		],
+		"patterns": [
+			"a34p2i1"
+		],
+		"uid": "804654e34597677df23eb8c6f3881d9724881fdd",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "13",
+		"text": {
+			"old": "Where more than one controller or processor is involved in the processing, each controller or processor shall be jointly and severally liable for the entire amount of the damage.",
+			"new": "Where more than one controller is involved in the processing, each controller shall be jointly and severally liable for the entire amount of the damage, to the extent that liability has not already been established in the determination of responsibilities envisaged in Article 24.",
+			"del": [
+				"or processor ",
+				"or processor ",
+				"."
+			],
+			"ins": [
+				", to the extent that liability has not already been established in the determination of responsibilities envisaged in Article 24."
+			]
+		},
+		"diff": "<span>Where more than one controller </span><del>or processor </del><span>is involved in the processing, each controller </span><del>or processor </del><span>shall be jointly and severally liable for the entire amount of the damage</span><del>.</del><ins>, to the extent that liability has not already been established in the determination of responsibilities envisaged in Article 24.</ins>",
+		"relations": [
+			"a77p2"
+		],
+		"patterns": [
+			"a77p2"
+		],
+		"uid": "8136ffeada5f69decab6cbd519839af03c6e201e",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "8",
+		"text": {
+			"old": "The controller or processor shall provide the supervisory authority with the data protection impact assessment provided for in Article 33 and, on request, with any other information to allow the supervisory authority to make an assessment of the compliance of the processing and in particular of the risks for the protection of personal data of the data subject and of the related safeguards.",
+			"new": "",
+			"del": [
+				"The controller or processor shall provide the supervisory authority with the data protection impact assessment provided for in Article 33 and, on request, with any other information to allow the supervisory authority to make an assessment of the compliance of the processing and in particular of the risks for the protection of personal data of the data subject and of the related safeguards."
+			],
+			"ins": []
+		},
+		"diff": "<del>The controller or processor shall provide the supervisory authority with the data protection impact assessment provided for in Article 33 and, on request, with any other information to allow the supervisory authority to make an assessment of the compliance of the processing and in particular of the risks for the protection of personal data of the data subject and of the related safeguards.</del>",
+		"relations": [
+			"a34p6"
+		],
+		"patterns": [
+			"a34p6"
+		],
+		"uid": "81511d89373023820470c5acc3319e67249c84c1",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "7",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for establishing the data breach referred to in paragraphs 1 and 2 and for the particular circumstances in which a controller and a processor is required to notify the personal data breach.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for establishing the data breach referred to in paragraphs 1 and 2 and for the particular circumstances in which a controller and a processor is required to notify the personal data breach."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for establishing the data breach referred to in paragraphs 1 and 2 and for the particular circumstances in which a controller and a processor is required to notify the personal data breach.</del>",
+		"relations": [
+			"a31p5"
+		],
+		"patterns": [
+			"a31p5"
+		],
+		"uid": "81ac60946992269e439495b3890a401055995805",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "4",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the responsibilities, duties and tasks in relation to a processor in line with paragraph 1, and conditions which allow facilitating the processing of personal data within a group of undertakings, in particular for the purposes of control and reporting.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the responsibilities, duties and tasks in relation to a processor in line with paragraph 1, and conditions which allow facilitating the processing of personal data within a group of undertakings, in particular for the purposes of control and reporting."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the responsibilities, duties and tasks in relation to a processor in line with paragraph 1, and conditions which allow facilitating the processing of personal data within a group of undertakings, in particular for the purposes of control and reporting.</del>",
+		"relations": [
+			"a26p5"
+		],
+		"patterns": [
+			"a26p5"
+		],
+		"uid": "8313d3345d39b5f88b443615aed5d89cadd5047b",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "3",
+		"text": {
+			"old": "the criteria and requirements for the application of paragraph 1 for specific sectors and in specific data processing situations;",
+			"new": "",
+			"del": [
+				"the criteria and requirements for the application of paragraph 1 for specific sectors and in specific data processing situations;"
+			],
+			"ins": []
+		},
+		"diff": "<del>the criteria and requirements for the application of paragraph 1 for specific sectors and in specific data processing situations;</del>",
+		"relations": [
+			"a17p9i1"
+		],
+		"patterns": [
+			"a17p9i1"
+		],
+		"uid": "84e2b24eb6e86ab10afbcb3c5af0ceebd98e6dd0",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "13",
+		"text": {
+			"old": "Any person who has suffered damage as a result of an unlawful processing operation or of an action incompatible with this Regulation shall have the right to receive compensation from the controller or the processor for the damage suffered.",
+			"new": "Any person who has suffered damage as a result of an unlawful processing operation or of an action incompatible with this Regulation shall have the right to receive compensation from the controller for the damage suffered.",
+			"del": [
+				"or the processor "
+			],
+			"ins": []
+		},
+		"diff": "<span>Any person who has suffered damage as a result of an unlawful processing operation or of an action incompatible with this Regulation shall have the right to receive compensation from the controller </span><del>or the processor </del><span>for the damage suffered.</span>",
+		"relations": [
+			"a77p1"
+		],
+		"patterns": [
+			"a77p1"
+		],
+		"uid": "87bda07e950c1faf85631fcae952055665deac4a",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "4",
+		"text": {
+			"old": "The controller and the processor and, if any, the controller's representative, shall make the documentation available, on request, to the supervisory authority.",
+			"new": "The controller and, if any, the controller's representative, shall make the documentation available, on request, to the supervisory authority.",
+			"del": [
+				" the processor and"
+			],
+			"ins": []
+		},
+		"diff": "<span>The controller and</span><del> the processor and</del><span>, if any, the controller's representative, shall make the documentation available, on request, to the supervisory authority.</span>",
+		"relations": [
+			"a28p3"
+		],
+		"patterns": [
+			"a28p3"
+		],
+		"uid": "89995631bab14007c652cf2d2b43e271161dfcea",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "11",
+		"text": {
+			"old": "The delegation of power referred to in Article 6(5), Article 8(3), Article 9(3), Article 12(5), Article 14(7), Article 15(3), Article 17(9), Article 20(6), Article 22(4), Article 23(3), Article 26(5), Article 28(5), Article 30(3), Article 31(5), Article 32(5), Article 33(6), Article 34(8), Article 35(11), Article 37(2), Article 39(2), Article 43(3), Article 44(7), Article 79(6), Article 81(3), Article 82(3) and Article 83(3) may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.",
+			"new": "The delegation of power referred to in Article 12(5), Article 44(7), Article 81(3), may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.",
+			"del": [
+				"6(5), Article 8(3), Article 9(3), Article ",
+				"14(7), Article 15(3), Article 17(9), Article 20(6), Article 22(4), Article 23(3), Article 26(5), Article 28(5), Article 30(3), Article 31(5), Article 32(5), Article 33(6), Article 34(8), Article 35(11), Article 37(2), Article 39(2), Article 43(3), Article ",
+				"79(6), Article 81(3), Article 82(3) and Article 83(3) "
+			],
+			"ins": [
+				"81(3), "
+			]
+		},
+		"diff": "<span>The delegation of power referred to in Article </span><del>6(5), Article 8(3), Article 9(3), Article </del><span>12(5), Article </span><del>14(7), Article 15(3), Article 17(9), Article 20(6), Article 22(4), Article 23(3), Article 26(5), Article 28(5), Article 30(3), Article 31(5), Article 32(5), Article 33(6), Article 34(8), Article 35(11), Article 37(2), Article 39(2), Article 43(3), Article </del><span>44(7), Article </span><del>79(6), Article 81(3), Article 82(3) and Article 83(3) </del><ins>81(3), </ins><span>may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.</span>",
+		"relations": [
+			"a86p3"
+		],
+		"patterns": [
+			"a86p3"
+		],
+		"uid": "8bd0f656933ce56dbae43aa8ac06ad89c6e0d744",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "6",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and conditions for the technical and organisational measures referred to in paragraphs 1 and 2, including the determinations of what constitutes the state of the art, for specific sectors and in specific data processing situations, in particular taking account of developments in technology and solutions for privacy by design and data protection by default, unless paragraph 4 applies.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and conditions for the technical and organisational measures referred to in paragraphs 1 and 2, including the determinations of what constitutes the state of the art, for specific sectors and in specific data processing situations, in particular taking account of developments in technology and solutions for privacy by design and data protection by default, unless paragraph 4 applies."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and conditions for the technical and organisational measures referred to in paragraphs 1 and 2, including the determinations of what constitutes the state of the art, for specific sectors and in specific data processing situations, in particular taking account of developments in technology and solutions for privacy by design and data protection by default, unless paragraph 4 applies.</del>",
+		"relations": [
+			"a30p3"
+		],
+		"patterns": [
+			"a30p3"
+		],
+		"uid": "8d07cfad1534e4a0e35efa936124ed78dddf017a",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "15",
+		"text": {
+			"old": "data enabling the attribution of information to an identified or identifiable data subject is kept separately from the other information as long as these purposes can be fulfilled in this manner.",
+			"new": "Within the limits of this Regulation, personal data may be processed for the purposes of manufacturer’s regulatory pre- and post-market obligations with respect to clinical evaluation of medical devices. (This amendment falls is anonymised data are not subject to the Regulation.)",
+			"del": [
+				"data enabling the attribution of information to an identified or identifiable data subject is kept separately from the other information as long as these purposes can be fulfilled in this manner."
+			],
+			"ins": [
+				"Within the limits of this Regulation, personal data may be processed for the purposes of manufacturer’s regulatory pre- and post-market obligations with respect to clinical evaluation of medical devices. (This amendment falls is anonymised data are not subject to the Regulation.)"
+			]
+		},
+		"diff": "<del>data enabling the attribution of information to an identified or identifiable data subject is kept separately from the other information as long as these purposes can be fulfilled in this manner.</del><ins>Within the limits of this Regulation, personal data may be processed for the purposes of manufacturer’s regulatory pre- and post-market obligations with respect to clinical evaluation of medical devices. (This amendment falls is anonymised data are not subject to the Regulation.)</ins>",
+		"relations": [
+			"a83p1i2+"
+		],
+		"patterns": [
+			"a83p1i2+"
+		],
+		"uid": "8e8852815ce9d0ec6aaeae6a9f50a79d5b366add",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "2",
+		"text": {
+			"old": "for reasons of public interest in the area of public health in accordance with Article 81;",
+			"new": "for maintaining medical records for prevention, medical diagnosis, treatment, palliative care, clinical trials, patient registries, and other health research and medical innovation purposes.",
+			"del": [
+				"for reasons of public interest in the area of public health in accordance with Article 81;"
+			],
+			"ins": [
+				"for maintaining medical records for prevention, medical diagnosis, treatment, palliative care, clinical trials, patient registries, and other health research and medical innovation purposes."
+			]
+		},
+		"diff": "<del>for reasons of public interest in the area of public health in accordance with Article 81;</del><ins>for maintaining medical records for prevention, medical diagnosis, treatment, palliative care, clinical trials, patient registries, and other health research and medical innovation purposes.</ins>",
+		"relations": [
+			"a17p3i2+"
+		],
+		"patterns": [
+			"a17p3i2+"
+		],
+		"uid": "8f531eede3fe382d2225a62d1b4ce61536e15200",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Gesetzl Krankenkassen_Stellungnahme DS-GVO.pdf",
+		"page": "3",
+		"text": {
+			"old": "Die Verarbeitung ist zur Erfüllung einer gesetzlichen Verpflichtung erforderlich, der der für die Verarbeitung Verantwortliche unterliegt.",
+			"new": "Die Verarbeitung ist zur Erfüllung einer gesetzlichen Verpflichtung oder einer sozilversicherungsrechtlichen Aufgabe erforderlich, der der für die Verarbeitung Verantwortliche unterliegt.",
+			"del": [],
+			"ins": [
+				"oder einer sozilversicherungsrechtlichen Aufgabe "
+			]
+		},
+		"diff": "<span>Die Verarbeitung ist zur Erfüllung einer gesetzlichen Verpflichtung </span><ins>oder einer sozilversicherungsrechtlichen Aufgabe </ins><span>erforderlich, der der für die Verarbeitung Verantwortliche unterliegt.</span>",
+		"relations": [
+			"a6p1i4"
+		],
+		"patterns": [
+			"a6p1i4"
+		],
+		"uid": "8f6a29959c7e7daa0c56768056b9b3421e9d6f96",
+		"doc_uid": "cc2c774538b686821f35a94d826afa600aeaada4",
+		"lobbyist_title": "GKV-Spitzenverband"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "9",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the data protection certification mechanisms referred to in paragraph 1, including conditions for granting and withdrawal, and requirements for recognition within the Union and in third countries.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the data protection certification mechanisms referred to in paragraph 1, including conditions for granting and withdrawal, and requirements for recognition within the Union and in third countries."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the data protection certification mechanisms referred to in paragraph 1, including conditions for granting and withdrawal, and requirements for recognition within the Union and in third countries.</del>",
+		"relations": [
+			"a39p2"
+		],
+		"patterns": [
+			"a39p2"
+		],
+		"uid": "8ff44ca7a8ea632e5c039309d544731447c2958f",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "11",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the safeguards for the processing of personal data for the purposes referred to in paragraph 1.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the safeguards for the processing of personal data for the purposes referred to in paragraph 1."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the safeguards for the processing of personal data for the purposes referred to in paragraph 1.</del>",
+		"relations": [
+			"a82p3"
+		],
+		"patterns": [
+			"a82p3"
+		],
+		"uid": "92a2e579bb781f4257a80f2a255570c8d7ef1ff1",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "Kirchen_StellungnahmeEU Datenschutzgrundverordnung 09 11 2012endg.pdf",
+		"page": "0",
+		"text": {
+			"old": "Moreover, the processing of personal data by official authorities for achieving aims, laid down in constitutional law or international public law, of officially recognised religious associations is carried out on grounds of public interest.",
+			"new": "Moreover, the processing of personal data for achieving aims, laid down in constitutional law or international public law, of officially recognised religious associations is carried out on grounds of public interest.",
+			"del": [
+				"by official authorities "
+			],
+			"ins": []
+		},
+		"diff": "<span>Moreover, the processing of personal data </span><del>by official authorities </del><span>for achieving aims, laid down in constitutional law or international public law, of officially recognised religious associations is carried out on grounds of public interest.</span>",
+		"relations": [
+			"r43"
+		],
+		"patterns": [
+			"r43"
+		],
+		"uid": "92bce1f888eb29c709a18e66bcfd3de349bc3e1f",
+		"doc_uid": "4884bd83eee5305a14a6842d24f940665c8c7332",
+		"lobbyist_title": "Kirchen"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "4",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of specifying any further criteria and requirements for appropriate measures and mechanisms referred to in paragraph 1 and 2, in particular for data protection by design requirements applicable across sectors, products and services.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of specifying any further criteria and requirements for appropriate measures and mechanisms referred to in paragraph 1 and 2, in particular for data protection by design requirements applicable across sectors, products and services."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of specifying any further criteria and requirements for appropriate measures and mechanisms referred to in paragraph 1 and 2, in particular for data protection by design requirements applicable across sectors, products and services.</del>",
+		"relations": [
+			"a23p3"
+		],
+		"patterns": [
+			"a23p3"
+		],
+		"uid": "93bc6cbb43f76c599508547cd1b6669101eb8ada",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "5",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the documentation referred to in paragraph 1, to take account of in particular the responsibilities of the controller and the processor and, if any, the controller's representative.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the documentation referred to in paragraph 1, to take account of in particular the responsibilities of the controller and the processor and, if any, the controller's representative."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the documentation referred to in paragraph 1, to take account of in particular the responsibilities of the controller and the processor and, if any, the controller's representative.</del>",
+		"relations": [
+			"a28p5"
+		],
+		"patterns": [
+			"a28p5"
+		],
+		"uid": "9714df530688adb4a6a318ea462f6c8c4380b3c3",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "8",
+		"text": {
+			"old": "Where the list provided for in paragraph 4 involves processing activities which are related to the offering of goods or services to data subjects in several Member States, or to the monitoring of their behaviour, or may substantially affect the free movement of personal data within the Union, the supervisory authority shall apply the consistency mechanism referred to in Article 57 prior to the adoption of the list.",
+			"new": "",
+			"del": [
+				"Where the list provided for in paragraph 4 involves processing activities which are related to the offering of goods or services to data subjects in several Member States, or to the monitoring of their behaviour, or may substantially affect the free movement of personal data within the Union, the supervisory authority shall apply the consistency mechanism referred to in Article 57 prior to the adoption of the list."
+			],
+			"ins": []
+		},
+		"diff": "<del>Where the list provided for in paragraph 4 involves processing activities which are related to the offering of goods or services to data subjects in several Member States, or to the monitoring of their behaviour, or may substantially affect the free movement of personal data within the Union, the supervisory authority shall apply the consistency mechanism referred to in Article 57 prior to the adoption of the list.</del>",
+		"relations": [
+			"a34p5"
+		],
+		"patterns": [
+			"a34p5"
+		],
+		"uid": "97e5cb732a5d86fc829e550c974b488d5da1fdc5",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "1",
+		"text": {
+			"old": "‘data concerning health’ means any information which relates to the physical or mental health of an individual, or to the provision of health services to the individual;",
+			"new": "‘pseudonymised data’ means previously identifiable data where Personally Identifiable Information (PII) – such as name, date of birth, address or account number – has been replaced with a code (pseudonyms or symbol). The link between the code and the PII is kept separately. An investigator would not be able to link anonymized information back to a specific data subject.",
+			"del": [
+				"‘data concerning health",
+				"any information which relates to the physical or mental health of an individual, or to the provision of health services to the individual;"
+			],
+			"ins": [
+				"‘pseudonymised data",
+				"previously identifiable data where Personally Identifiable Information (PII) – such as name, date of birth, address or account number – has been replaced with a code (pseudonyms or symbol). The link between the code and the PII is kept separately. An investigator would not be able to link anonymized information back to a specific data subject."
+			]
+		},
+		"diff": "<del>‘data concerning health</del><ins>‘pseudonymised data</ins><span>’ means </span><del>any information which relates to the physical or mental health of an individual, or to the provision of health services to the individual;</del><ins>previously identifiable data where Personally Identifiable Information (PII) – such as name, date of birth, address or account number – has been replaced with a code (pseudonyms or symbol). The link between the code and the PII is kept separately. An investigator would not be able to link anonymized information back to a specific data subject.</ins>",
+		"relations": [
+			"a4i13+"
+		],
+		"patterns": [
+			"a4i13+"
+		],
+		"uid": "9e9a67b9cfadc4abb8577ad341cca0de81c00399",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "13",
+		"text": {
+			"old": "Within the limits of this Regulation and in accordance with point (h) of Article 9(2), processing of personal data concerning health must be on the basis of Union law or Member State law which shall provide for suitable and specific measures to safeguard the data subject's legitimate interests, and be necessary for:",
+			"new": "Within the limits of this Regulation and in accordance with point (h) of Article 9(2), processing of personal data concerning health must be on the basis of Union law which shall provide for suitable and specific measures to safeguard the data subject's legitimate interests, and be necessary for:",
+			"del": [
+				"or Member State law "
+			],
+			"ins": []
+		},
+		"diff": "<span>Within the limits of this Regulation and in accordance with point (h) of Article 9(2), processing of personal data concerning health must be on the basis of Union law </span><del>or Member State law </del><span>which shall provide for suitable and specific measures to safeguard the data subject's legitimate interests, and be necessary for:</span>",
+		"relations": [
+			"a81p1"
+		],
+		"patterns": [
+			"a81p1"
+		],
+		"uid": "9f9982d14e2e52e221c4e5c8c16add84a9251e9b",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "4",
+		"text": {
+			"old": "enlist another processor only with the prior permission of the controller;",
+			"new": "",
+			"del": [
+				"enlist another processor only with the prior permission of the controller;"
+			],
+			"ins": []
+		},
+		"diff": "<del>enlist another processor only with the prior permission of the controller;</del>",
+		"relations": [
+			"a26p2i4"
+		],
+		"patterns": [
+			"a26p2i4"
+		],
+		"uid": "a37c0e5691f96ef2ba699336033df9c1863e18df",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "5",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the responsibilities, duties and tasks in relation to a processor in line with paragraph 1, and conditions which allow facilitating the processing of personal data within a group of undertakings, in particular for the purposes of control and reporting.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the responsibilities, duties and tasks in relation to a processor in line with paragraph 1, and conditions which allow facilitating the processing of personal data within a group of undertakings, in particular for the purposes of control and reporting."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the responsibilities, duties and tasks in relation to a processor in line with paragraph 1, and conditions which allow facilitating the processing of personal data within a group of undertakings, in particular for the purposes of control and reporting.</del>",
+		"relations": [
+			"a26p5"
+		],
+		"patterns": [
+			"a26p5"
+		],
+		"uid": "a4f415b6238013a674ea7a0279ba2a3356f8f6e5",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "11",
+		"text": {
+			"old": "The delegation of power referred to in Article 6(5), Article 8(3), Article 9(3), Article 12(5), Article 14(7), Article 15(3), Article 17(9), Article 20(6), Article 22(4), Article 23(3), Article 26(5), Article 28(5), Article 30(3), Article 31(5), Article 32(5), Article 336), Article 34(8), Article 35(11), Article 37(2), Article 39(2), Article 43(3), Article 44(7), Article 79(6), Article 81(3), Article 82(3) and Article 83(3) shall be conferred on the Commission for an indeterminate period of time from the date of entry into force of this Regulation.",
+			"new": "2.The delegation of power referred to in Article 12(5), Article 44(7),Article 81(3), shall be conferred on the Commission for an indeterminate period of time from the date of entry into force of this Regulation.",
+			"del": [
+				"6(5), Article 8(3), Article 9(3), Article ",
+				"14(7), Article 15(3), Article 17(9), Article 20(6), Article 22(4), Article 23(3), Article 26(5), Article 28(5), Article 30(3), Article 31(5), Article 32(5), Article 336), Article 34(8), Article 35(11), Article 37(2), Article 39(2), Article 43(3), Article 44(7), Article 79(6), Article 81(3), Article 82(3) and Article 83(3) "
+			],
+			"ins": [
+				"2.",
+				"44(7),Article 81(3), "
+			]
+		},
+		"diff": "<ins>2.</ins><span>The delegation of power referred to in Article </span><del>6(5), Article 8(3), Article 9(3), Article </del><span>12(5), Article </span><del>14(7), Article 15(3), Article 17(9), Article 20(6), Article 22(4), Article 23(3), Article 26(5), Article 28(5), Article 30(3), Article 31(5), Article 32(5), Article 336), Article 34(8), Article 35(11), Article 37(2), Article 39(2), Article 43(3), Article 44(7), Article 79(6), Article 81(3), Article 82(3) and Article 83(3) </del><ins>44(7),Article 81(3), </ins><span>shall be conferred on the Commission for an indeterminate period of time from the date of entry into force of this Regulation.</span>",
+		"relations": [
+			"a86p2"
+		],
+		"patterns": [
+			"a86p2"
+		],
+		"uid": "a7f97a42b12dfbbe8294fa3746d5f145be621eed",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "4",
+		"text": {
+			"old": "make available to the controller and the supervisory authority all information necessary to control compliance with the obligations laid down in this Article.",
+			"new": "upon request make available to the controller all relevant and permissible information necessary to control compliance with the obligations laid down in this Article.",
+			"del": [
+				"and the supervisory authority all "
+			],
+			"ins": [
+				"upon request ",
+				"all relevant and permissible "
+			]
+		},
+		"diff": "<ins>upon request </ins><span>make available to the controller </span><del>and the supervisory authority all </del><ins>all relevant and permissible </ins><span>information necessary to control compliance with the obligations laid down in this Article.</span>",
+		"relations": [
+			"a26p2i8"
+		],
+		"patterns": [
+			"a26p2i8"
+		],
+		"uid": "a8f03d5e20086ba072ffe0a16c05932bc38a9afe",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "3",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of specifying any further criteria and requirements for appropriate measures and mechanisms referred to in paragraph 1 and 2, in particular for data protection by design requirements applicable across sectors, products and services.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of specifying any further criteria and requirements for appropriate measures and mechanisms referred to in paragraph 1 and 2, in particular for data protection by design requirements applicable across sectors, products and services."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of specifying any further criteria and requirements for appropriate measures and mechanisms referred to in paragraph 1 and 2, in particular for data protection by design requirements applicable across sectors, products and services.</del>",
+		"relations": [
+			"a23p3"
+		],
+		"patterns": [
+			"a23p3"
+		],
+		"uid": "ae77e5b40212596b7f06af604cda473d8911820e",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Kirchen_StellungnahmeEU Datenschutzgrundverordnung 09 11 2012endg.pdf",
+		"page": "0",
+		"text": {
+			"old": "processing is carried out in the course of its legitimate activities with appropriate safeguards by a foundation, association or any other non-profit-seeking body with a political, philosophical, religious or trade-union aim and on condition that the processing relates solely to the members or to former members of the body or to persons who have regular contact with it in connection with its purposes and that the data are not disclosed outside that body without the consent of the data subjects; or",
+			"new": "processing is carried out in the course of its legitimate activities with appropriate safeguards by a foundation, association or any other non-profit-seeking body with a political, philosophical, religious or trade-union aim and on condition that the processing relates to the members or to former members of the body or to persons who have contact with it in connection with its purposes and that the data are not disclosed outside that body without the consent of the data subjects; or",
+			"del": [
+				"solely ",
+				"regular "
+			],
+			"ins": []
+		},
+		"diff": "<span>processing is carried out in the course of its legitimate activities with appropriate safeguards by a foundation, association or any other non-profit-seeking body with a political, philosophical, religious or trade-union aim and on condition that the processing relates </span><del>solely </del><span>to the members or to former members of the body or to persons who have </span><del>regular </del><span>contact with it in connection with its purposes and that the data are not disclosed outside that body without the consent of the data subjects; or</span>",
+		"relations": [
+			"a9p2i4"
+		],
+		"patterns": [
+			"a9p2i4"
+		],
+		"uid": "b0c87f6b113fdc4abe3c144b6e715d0afca0d765",
+		"doc_uid": "4884bd83eee5305a14a6842d24f940665c8c7332",
+		"lobbyist_title": "Kirchen"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "13",
+		"text": {
+			"old": "Where more than one controller or processor is involved in the processing, each controller or processor shall be jointly and severally liable for the entire amount of the damage.",
+			"new": "If a processor processes personal data other than as instructed by the controller, they may be held liable should any person suffer damage as a result of such processing.",
+			"del": [
+				"Where more than one controller or processor is involved in the processing, each controller or processor shall be jointly and severally liable for the entire amount of the damage."
+			],
+			"ins": [
+				"If a processor processes personal data other than as instructed by the controller, they may be held liable should any person suffer damage as a result of such processing."
+			]
+		},
+		"diff": "<del>Where more than one controller or processor is involved in the processing, each controller or processor shall be jointly and severally liable for the entire amount of the damage.</del><ins>If a processor processes personal data other than as instructed by the controller, they may be held liable should any person suffer damage as a result of such processing.</ins>",
+		"relations": [
+			"a77p2+"
+		],
+		"patterns": [
+			"a77p2+"
+		],
+		"uid": "b8af3326fc3d56fc061bdd51b3dd12b8016bea0b",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "10",
+		"text": {
+			"old": "The Commission may lay down technical standards for certification mechanisms and data protection seals and marks and mechanisms to promote and recognize certification mechanisms and data protection seals and marks. Those implementing acts shall be adopted in accordance with the examination procedure set out in Article 87(2).",
+			"new": "",
+			"del": [
+				"The Commission may lay down technical standards for certification mechanisms and data protection seals and marks and mechanisms to promote and recognize certification mechanisms and data protection seals and marks. Those implementing acts shall be adopted in accordance with the examination procedure set out in Article 87(2)."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission may lay down technical standards for certification mechanisms and data protection seals and marks and mechanisms to promote and recognize certification mechanisms and data protection seals and marks. Those implementing acts shall be adopted in accordance with the examination procedure set out in Article 87(2).</del>",
+		"relations": [
+			"a39p3"
+		],
+		"patterns": [
+			"a39p3"
+		],
+		"uid": "bddde333ea779cf40cbb72015effd2f8b9ca05f0",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Telefonica-Amendments-on-GDPR-Proposal.pdf",
+		"page": "2",
+		"text": {
+			"old": "'data subject' means an identified natural person or a natural person who can be identified, directly or indirectly, by means reasonably likely to be used by the controller or by any other natural or legal person, in particular by reference to an identification number, location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person;",
+			"new": "'personal data' means any data specifically relating to an identified living natural person or a natural person whose specific identity can be identified, directly or indirectly, by means likely reasonably to be used by the Controller; whilst identification number, location data, online identifiers, unique identifiers, or other specific factors as such can constitute personal data, they need not necessarily be considered as personal data in all circumstances, this will depend on the context.",
+			"del": [
+				"'data subject",
+				"who ",
+				"reasonably likely ",
+				"controller or by any other natural or legal person, in particular by reference to an identification number, location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person;"
+			],
+			"ins": [
+				"'personal data",
+				"any data specifically relating to ",
+				"living ",
+				"whose specific identity ",
+				"likely reasonably ",
+				"Controller; whilst identification number, location data, online identifiers, unique identifiers, or other specific factors as such can constitute personal data, they need not necessarily be considered as personal data in all circumstances, this will depend on the context."
+			]
+		},
+		"diff": "<del>'data subject</del><ins>'personal data</ins><span>' means </span><ins>any data specifically relating to </ins><span>an identified </span><ins>living </ins><span>natural person or a natural person </span><del>who </del><ins>whose specific identity </ins><span>can be identified, directly or indirectly, by means </span><del>reasonably likely </del><ins>likely reasonably </ins><span>to be used by the </span><del>controller or by any other natural or legal person, in particular by reference to an identification number, location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person;</del><ins>Controller; whilst identification number, location data, online identifiers, unique identifiers, or other specific factors as such can constitute personal data, they need not necessarily be considered as personal data in all circumstances, this will depend on the context.</ins>",
+		"relations": [
+			"a4i1"
+		],
+		"patterns": [
+			"a4i1"
+		],
+		"uid": "be359036866f9b0dba997d4cc055d8ad2d2bd368",
+		"doc_uid": "51e24e71bb73bf155c6bafc915d3474ea30c0d3b",
+		"lobbyist_title": "Telefónica"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "8",
+		"text": {
+			"old": "the supervisory authority deems it necessary to carry out a prior consultation on processing operations that are likely to present specific risks to the rights and freedoms of data subjects by virtue of their nature, their scope and/or their purposes, and specified according to paragraph 4.",
+			"new": "",
+			"del": [
+				"the supervisory authority deems it necessary to carry out a prior consultation on processing operations that are likely to present specific risks to the rights and freedoms of data subjects by virtue of their nature, their scope and/or their purposes, and specified according to paragraph 4."
+			],
+			"ins": []
+		},
+		"diff": "<del>the supervisory authority deems it necessary to carry out a prior consultation on processing operations that are likely to present specific risks to the rights and freedoms of data subjects by virtue of their nature, their scope and/or their purposes, and specified according to paragraph 4.</del>",
+		"relations": [
+			"a34p2i2"
+		],
+		"patterns": [
+			"a34p2i2"
+		],
+		"uid": "bfbd4deeda438cb4a88c023e6a73b9822b36bebf",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "5",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the documentation referred to in paragraph 1, to take account of in particular the responsibilities of the controller and the processor and, if any, the controller's representative.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the documentation referred to in paragraph 1, to take account of in particular the responsibilities of the controller and the processor and, if any, the controller's representative."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for the documentation referred to in paragraph 1, to take account of in particular the responsibilities of the controller and the processor and, if any, the controller's representative.</del>",
+		"relations": [
+			"a28p5"
+		],
+		"patterns": [
+			"a28p5"
+		],
+		"uid": "c6170354fb90307ea05b1cee39ed005820aff727",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "6",
+		"text": {
+			"old": "ensure the verification of the lawfulness of processing operations.",
+			"new": "",
+			"del": [
+				"ensure the verification of the lawfulness of processing operations."
+			],
+			"ins": []
+		},
+		"diff": "<del>ensure the verification of the lawfulness of processing operations.</del>",
+		"relations": [
+			"a30p4i3"
+		],
+		"patterns": [
+			"a30p4i3"
+		],
+		"uid": "c96b0d48aec5da911a46edb65f324931cacbf837",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Gesetzl Krankenkassen_Stellungnahme DS-GVO.pdf",
+		"page": "5",
+		"text": {
+			"old": "Werden personenbezogene Daten elektronisch in einem strukturierten gängigen elektronischen Format verarbeitet, hat die betroffene Person das Recht, von dem für die Verarbeitung Verantwortlichen eine Kopie der verarbeiteten Daten in einem von ihr weiter verwendbaren strukturierten gängigen elektronischen Format zu verlangen.",
+			"new": "Werden personenbezogene Daten elektronisch in einem strukturierten gängigen elektronischen Format verarbeitet, hat die betroffene Person das Recht, von dem für die Verarbeitung Verantwortlichen eine Kopie der verarbeiteten Daten in elektronischer Form zu verlangen.",
+			"del": [
+				"einem von ihr weiter verwendbaren strukturierten gängigen elektronischen Format "
+			],
+			"ins": [
+				"elektronischer Form "
+			]
+		},
+		"diff": "<span>Werden personenbezogene Daten elektronisch in einem strukturierten gängigen elektronischen Format verarbeitet, hat die betroffene Person das Recht, von dem für die Verarbeitung Verantwortlichen eine Kopie der verarbeiteten Daten in </span><del>einem von ihr weiter verwendbaren strukturierten gängigen elektronischen Format </del><ins>elektronischer Form </ins><span>zu verlangen.</span>",
+		"relations": [
+			"a18p1"
+		],
+		"patterns": [
+			"a18p1"
+		],
+		"uid": "c9819b3d5477e7dad3a097a3fe4ebd29120cdb87",
+		"doc_uid": "cc2c774538b686821f35a94d826afa600aeaada4",
+		"lobbyist_title": "GKV-Spitzenverband"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "7",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for establishing the data breach referred to in paragraphs 1 and 2 and for the particular circumstances in which a controller and a processor is required to notify the personal data breach.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for establishing the data breach referred to in paragraphs 1 and 2 and for the particular circumstances in which a controller and a processor is required to notify the personal data breach."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for establishing the data breach referred to in paragraphs 1 and 2 and for the particular circumstances in which a controller and a processor is required to notify the personal data breach.</del>",
+		"relations": [
+			"a32p5"
+		],
+		"patterns": [
+			"a32p5"
+		],
+		"uid": "c9ca6350e6f10b5b1180ff0bea7298166f4e7afa",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "Kirchen_StellungnahmeEU Datenschutzgrundverordnung 09 11 2012endg.pdf",
+		"page": "0",
+		"text": {
+			"old": "Where in a Member State, churches and religious associations or communities apply, at the time of entry into force of this Regulation, comprehensive rules relating to the protection of individuals with regard to the processing of personal data, such rules may continue to apply, provided that they are brought in line with the provisions of this Regulation.",
+			"new": "Where in a Member State, churches and religious associations or communities apply comprehensive rules relating to the protection of individuals with regard to the processing of personal data, such rules may continue to apply, provided that they ensure a level of protection of personal data comparable to that of this Regulation.",
+			"del": [
+				", at the time of entry into force of this Regulation, ",
+				"are brought in line with the provisions "
+			],
+			"ins": [
+				" ",
+				"ensure a level of protection of personal data comparable to that "
+			]
+		},
+		"diff": "<span>Where in a Member State, churches and religious associations or communities apply</span><del>, at the time of entry into force of this Regulation, </del><ins> </ins><span>comprehensive rules relating to the protection of individuals with regard to the processing of personal data, such rules may continue to apply, provided that they </span><del>are brought in line with the provisions </del><ins>ensure a level of protection of personal data comparable to that </ins><span>of this Regulation.</span>",
+		"relations": [
+			"a85p1"
+		],
+		"patterns": [
+			"a85p1"
+		],
+		"uid": "cca2382ba5ff96bd024090ae1930e0e4cf031500",
+		"doc_uid": "4884bd83eee5305a14a6842d24f940665c8c7332",
+		"lobbyist_title": "Kirchen"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "10",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for binding corporate rules within the meaning of this Article, in particular as regards the criteria for their approval, the application of points (b), (d), (e) and (f) of paragraph 2 to binding corporate rules adhered to by processors and on further necessary requirements to ensure the protection of personal data of the data subjects concerned.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for binding corporate rules within the meaning of this Article, in particular as regards the criteria for their approval, the application of points (b), (d), (e) and (f) of paragraph 2 to binding corporate rules adhered to by processors and on further necessary requirements to ensure the protection of personal data of the data subjects concerned."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for binding corporate rules within the meaning of this Article, in particular as regards the criteria for their approval, the application of points (b), (d), (e) and (f) of paragraph 2 to binding corporate rules adhered to by processors and on further necessary requirements to ensure the protection of personal data of the data subjects concerned.</del>",
+		"relations": [
+			"a43p3"
+		],
+		"patterns": [
+			"a43p3"
+		],
+		"uid": "ce4e728a43e02e32b85874ae9f87d5f664d2eb35",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "8",
+		"text": {
+			"old": "The controller or the processor as the case may be shall obtain an authorisation from the supervisory authority prior to the processing of personal data, in order to ensure the compliance of the intended processing with this Regulation and in particular to mitigate the risks involved for the data subjects where a controller or processor adopts contractual clauses as provided for in point (d) of Article 42(2) or does not provide for the appropriate safeguards in a legally binding instrument as referred to in Article 42(5) for the transfer of personal data to a third country or an international organisation.",
+			"new": "The controller shall obtain an authorisation from the supervisory authority prior to the processing of personal data, in order to ensure the compliance of the intended processing with this Regulation and in particular to mitigate the risks involved for the data subjects where a controller or processor adopts contractual clauses as provided for in point (d) of Article 42(2) or does not provide for the appropriate safeguards in a legally binding instrument as referred to in Article 42(5) for the transfer of personal data to a third country or an international organisation.",
+			"del": [
+				"or the processor as the case may be "
+			],
+			"ins": []
+		},
+		"diff": "<span>The controller </span><del>or the processor as the case may be </del><span>shall obtain an authorisation from the supervisory authority prior to the processing of personal data, in order to ensure the compliance of the intended processing with this Regulation and in particular to mitigate the risks involved for the data subjects where a controller or processor adopts contractual clauses as provided for in point (d) of Article 42(2) or does not provide for the appropriate safeguards in a legally binding instrument as referred to in Article 42(5) for the transfer of personal data to a third country or an international organisation.</span>",
+		"relations": [
+			"a34p1"
+		],
+		"patterns": [
+			"a34p1"
+		],
+		"uid": "d45980ca9caa557c4db864ff5d03ee63464b7599",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "1",
+		"text": {
+			"old": "In view of the fact that, as underlined by the Court of Justice of the European Union, the right to the protection of personal data is not an absolute right, but must be considered in relation to its function in society and be balanced with other fundamental rights, in accordance with the principle of proportionality, this Regulation respects all fundamental rights and observes the principles recognised in the Charter of Fundamental Rights of the European Union as enshrined in the Treaties, notably the right to respect for private and family life, home and communications, the right to the protection of personal data, the freedom of thought, conscience and religion, the freedom of expression and information, the freedom to conduct a business, the right to an effective remedy and to a fair trial as well as cultural, religious and linguistic diversity.",
+			"new": "‘technical data’ or any data associated to a piece of equipment used to process data (e.g. serial number, etc) but which is not directly associated with the data subject, and does not allow the identification of the data subject, should not be considered ‘personal data’.",
+			"del": [
+				"In view of the fact that, as underlined by the Court of Justice of the European Union, the right to the protection of personal data is not an absolute right, but must be considered in relation to its function in society and be balanced with other fundamental rights, in accordance with the principle of proportionality, this Regulation respects all fundamental rights and observes the principles recognised in the Charter of Fundamental Rights of the European Union as enshrined in the Treaties, notably the right to respect for private and family life, home and communications, the right to the protection of ",
+				", the freedom of thought, conscience and religion, the freedom of expression and information, the freedom to conduct a business, the right to an effective remedy and to a fair trial as well as cultural, religious and linguistic diversity."
+			],
+			"ins": [
+				"‘technical data’ or any data associated to a piece of equipment used to process data (e.g. serial number, etc) but which is not directly associated with the data subject, and does not allow the identification of the data subject, should not be considered ‘",
+				"’."
+			]
+		},
+		"diff": "<del>In view of the fact that, as underlined by the Court of Justice of the European Union, the right to the protection of personal data is not an absolute right, but must be considered in relation to its function in society and be balanced with other fundamental rights, in accordance with the principle of proportionality, this Regulation respects all fundamental rights and observes the principles recognised in the Charter of Fundamental Rights of the European Union as enshrined in the Treaties, notably the right to respect for private and family life, home and communications, the right to the protection of </del><ins>‘technical data’ or any data associated to a piece of equipment used to process data (e.g. serial number, etc) but which is not directly associated with the data subject, and does not allow the identification of the data subject, should not be considered ‘</ins><span>personal data</span><del>, the freedom of thought, conscience and religion, the freedom of expression and information, the freedom to conduct a business, the right to an effective remedy and to a fair trial as well as cultural, religious and linguistic diversity.</del><ins>’.</ins>",
+		"relations": [
+			"r139+"
+		],
+		"patterns": [
+			"r139+"
+		],
+		"uid": "daeb56629aad19bb450f219ae2f465b88537d1e7",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "7",
+		"text": {
+			"old": "The assessment shall contain at least a general description of the envisaged processing operations, an assessment of the risks to the rights and freedoms of data subjects, the measures envisaged to address the risks, safeguards, security measures and mechanisms to ensure the protection of personal data and to demonstrate compliance with this Regulation, taking into account the rights and legitimate interests of data subjects and other persons concerned.",
+			"new": "",
+			"del": [
+				"The assessment shall contain at least a general description of the envisaged processing operations, an assessment of the risks to the rights and freedoms of data subjects, the measures envisaged to address the risks, safeguards, security measures and mechanisms to ensure the protection of personal data and to demonstrate compliance with this Regulation, taking into account the rights and legitimate interests of data subjects and other persons concerned."
+			],
+			"ins": []
+		},
+		"diff": "<del>The assessment shall contain at least a general description of the envisaged processing operations, an assessment of the risks to the rights and freedoms of data subjects, the measures envisaged to address the risks, safeguards, security measures and mechanisms to ensure the protection of personal data and to demonstrate compliance with this Regulation, taking into account the rights and legitimate interests of data subjects and other persons concerned.</del>",
+		"relations": [
+			"a33p3"
+		],
+		"patterns": [
+			"a33p3"
+		],
+		"uid": "de57b4cb4d562d986e2c94b91d26af1f98236cf2",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "6",
+		"text": {
+			"old": "Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2).",
+			"new": "",
+			"del": [
+				"Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2)."
+			],
+			"ins": []
+		},
+		"diff": "<del>Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2).</del>",
+		"relations": [
+			"a30p4t1"
+		],
+		"patterns": [
+			"a30p4t1"
+		],
+		"uid": "e02841ea8d556a7a8af4820a78f88b572f5ee177",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "8",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for determining the high degree of specific risk referred to in point (a) of paragraph 2.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for determining the high degree of specific risk referred to in point (a) of paragraph 2."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for determining the high degree of specific risk referred to in point (a) of paragraph 2.</del>",
+		"relations": [
+			"a34p8"
+		],
+		"patterns": [
+			"a34p8"
+		],
+		"uid": "e43c0bf8f59d94a3c2f5e98e0b585be33a0ff842",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "8",
+		"text": {
+			"old": "The supervisory authority shall establish and make public a list of the processing operations which are subject to prior consultation pursuant to point (b) of paragraph 2. The supervisory authority shall communicate those lists to the European Data Protection Board.",
+			"new": "",
+			"del": [
+				"The supervisory authority shall establish and make public a list of the processing operations which are subject to prior consultation pursuant to point (b) of paragraph 2. The supervisory authority shall communicate those lists to the European Data Protection Board."
+			],
+			"ins": []
+		},
+		"diff": "<del>The supervisory authority shall establish and make public a list of the processing operations which are subject to prior consultation pursuant to point (b) of paragraph 2. The supervisory authority shall communicate those lists to the European Data Protection Board.</del>",
+		"relations": [
+			"a34p4"
+		],
+		"patterns": [
+			"a34p4"
+		],
+		"uid": "e485e6dff96155e4a12dab9d67fc953156a44044",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Kirchen_StellungnahmeEU Datenschutzgrundverordnung 09 11 2012endg.pdf",
+		"page": "0",
+		"text": {
+			"old": "This Regulation respects and does not prejudice the status under national law of churches and religious associations or communities in the Member States, as recognised in Article 17 of the Treaty on the Functioning of the European Union. As a consequence, where a church in a Member State applies, at the time of entry into force of this Regulation, comprehensive rules relating to the protection of individuals with regard to the processing of personal data, these existing rules should continue to apply if they are brought in line with this Regulation. Such churches and religious associations should be required to provide for the establishment of a completely independent supervisory authority.",
+			"new": "This Regulation respects and does not prejudice the status under national law of churches and religious associations or communities in the Member States, as recognised in Article 17 of the Treaty on the Functioning of the European Union. As a consequence, where a church in a Member State applies comprehensive rules relating to the protection of individuals with regard to the processing of personal data, these existing rules should continue to apply, if they ensure a level of protection of personal data comparable to that of this Regulation. Such churches and religious associations should be required to provide for the establishment of a completely independent supervisory authority, comparable to the ones described in Chapter VI, if they do not submit themselves to the monitoring of a supervisory authority established under the terms of Chapter VI.",
+			"del": [
+				", at the time of entry into force of this Regulation, ",
+				"are brought in line with ",
+				"."
+			],
+			"ins": [
+				" ",
+				",",
+				"ensure a level of protection of personal data comparable to that of ",
+				", comparable to the ones described in Chapter VI, if they do not submit themselves to the monitoring of a supervisory authority established under the terms of Chapter VI."
+			]
+		},
+		"diff": "<span>This Regulation respects and does not prejudice the status under national law of churches and religious associations or communities in the Member States, as recognised in Article 17 of the Treaty on the Functioning of the European Union. As a consequence, where a church in a Member State applies</span><del>, at the time of entry into force of this Regulation, </del><ins> </ins><span>comprehensive rules relating to the protection of individuals with regard to the processing of personal data, these existing rules should continue to apply</span><ins>,</ins><span> if they </span><del>are brought in line with </del><ins>ensure a level of protection of personal data comparable to that of </ins><span>this Regulation. Such churches and religious associations should be required to provide for the establishment of a completely independent supervisory authority</span><del>.</del><ins>, comparable to the ones described in Chapter VI, if they do not submit themselves to the monitoring of a supervisory authority established under the terms of Chapter VI.</ins>",
+		"relations": [
+			"r128"
+		],
+		"patterns": [
+			"r128"
+		],
+		"uid": "e616184c324781e19144fe933d210f4a76c17cc7",
+		"doc_uid": "4884bd83eee5305a14a6842d24f940665c8c7332",
+		"lobbyist_title": "Kirchen"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "9",
+		"text": {
+			"old": "Where a data protection impact assessment indicates that processing operations involve a high degree of specific risks to the rights and freedoms of data subjects, such as excluding individuals from their right, or by the use of specific new technologies, the supervisory authority should be consulted, prior to the start of operations, on a risky processing which might not be in compliance with this Regulation, and to make proposals to remedy such situation. Such consultation should equally take place in the course of the preparation either of a measure by the national parliament or of a measure based on such legislative measure which defines the nature of the processing and lays down appropriate safeguards.",
+			"new": "",
+			"del": [
+				"Where a data protection impact assessment indicates that processing operations involve a high degree of specific risks to the rights and freedoms of data subjects, such as excluding individuals from their right, or by the use of specific new technologies, the supervisory authority should be consulted, prior to the start of operations, on a risky processing which might not be in compliance with this Regulation, and to make proposals to remedy such situation. Such consultation should equally take place in the course of the preparation either of a measure by the national parliament or of a measure based on such legislative measure which defines the nature of the processing and lays down appropriate safeguards."
+			],
+			"ins": []
+		},
+		"diff": "<del>Where a data protection impact assessment indicates that processing operations involve a high degree of specific risks to the rights and freedoms of data subjects, such as excluding individuals from their right, or by the use of specific new technologies, the supervisory authority should be consulted, prior to the start of operations, on a risky processing which might not be in compliance with this Regulation, and to make proposals to remedy such situation. Such consultation should equally take place in the course of the preparation either of a measure by the national parliament or of a measure based on such legislative measure which defines the nature of the processing and lays down appropriate safeguards.</del>",
+		"relations": [
+			"r74"
+		],
+		"patterns": [
+			"r74"
+		],
+		"uid": "e8717d6f9136a3a58a9a96836277d8937610fcc2",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "13",
+		"text": {
+			"old": "A delegated act adopted pursuant to Article 6(5), Article 8(3), Article 9(3), Article 12(5), Article 14(7), Article 15(3), Article 17(9), Article 20(6), Article 22(4), Article 23(3), Article 26(5), Article 28(5), Article 30(3), Article 31(5), Article 32(5), Article 33(6), Article 34(8), Article 35(11), Article 37(2), Article 39(2), Article 43(3), Article 44(7), Article 79(6), Article 81(3), Article 82(3) and Article 83(3) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or the Council.",
+			"new": "A delegated act adopted pursuant to 12(5), Article 44(7) and Article 81(3) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or the Council.",
+			"del": [
+				"Article 6(5), Article 8(3), Article 9(3), Article ",
+				"14(7), Article 15(3), Article 17(9), Article 20(6), Article 22(4), Article 23(3), Article 26(5), Article 28(5), Article 30(3), Article 31(5), Article 32(5), Article 33(6), Article 34(8), Article 35(11), Article 37(2), Article 39(2), Article 43(3), Article 44(7), Article 79(6), Article 81(3), Article 82(3",
+				"83"
+			],
+			"ins": [
+				"44(7",
+				"81"
+			]
+		},
+		"diff": "<span>A delegated act adopted pursuant to </span><del>Article 6(5), Article 8(3), Article 9(3), Article </del><span>12(5), Article </span><del>14(7), Article 15(3), Article 17(9), Article 20(6), Article 22(4), Article 23(3), Article 26(5), Article 28(5), Article 30(3), Article 31(5), Article 32(5), Article 33(6), Article 34(8), Article 35(11), Article 37(2), Article 39(2), Article 43(3), Article 44(7), Article 79(6), Article 81(3), Article 82(3</del><ins>44(7</ins><span>) and Article </span><del>83</del><ins>81</ins><span>(3) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or the Council.</span>",
+		"relations": [
+			"a86p5"
+		],
+		"patterns": [
+			"a86p5"
+		],
+		"uid": "ec25ebe5fc637f62fdab7e4564f51db54962c2f3",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "Gesetzl Krankenkassen_Stellungnahme DS-GVO.pdf",
+		"page": "7",
+		"text": {
+			"old": "die Übermittlung zur Verwirklichung des berechtigten Interesses, das von dem für die Verarbeitung Verantwortlichen oder vom Auftragsverarbeiter wahrgenommen wird, erforderlich ist und nicht als häufig oder massiv bezeichnet werden kann, und falls der für die Verarbeitung Verantwortliche oder der Auftragsverarbeiter alle Umstände beurteilt hat, die bei einer Datenübermittlung oder bei einer Kategorie von Datenübermittlungen eine Rolle spielen, und gegebenenfalls auf der Grundlage dieser Beurteilung geeignete Garantien zum Schutz personenbezogener Daten vorgesehen hat.",
+			"new": "die Übermittlung aufgrund einer gesetzlichen Rechtsgrundlage, der der für die Verarbeitung Verantwortliche unterliegt, bzw. aufgrund über- und zwischenstaatlicher Regelungen zur sozialen Sicherheit zulässig ist.",
+			"del": [
+				"zur Verwirklichung des berechtigten Interesses, das von dem für die Verarbeitung Verantwortlichen oder vom Auftragsverarbeiter wahrgenommen wird, erforderlich ist und nicht als häufig oder massiv bezeichnet werden kann, und falls ",
+				"oder der Auftragsverarbeiter alle Umstände beurteilt hat, die bei einer Datenübermittlung oder bei einer Kategorie von Datenübermittlungen eine Rolle spielen, und gegebenenfalls auf der Grundlage dieser Beurteilung geeignete Garantien zum Schutz personenbezogener Daten vorgesehen hat."
+			],
+			"ins": [
+				"aufgrund einer gesetzlichen Rechtsgrundlage, der ",
+				"unterliegt, bzw. aufgrund über- und zwischenstaatlicher Regelungen zur sozialen Sicherheit zulässig ist."
+			]
+		},
+		"diff": "<span>die Übermittlung </span><del>zur Verwirklichung des berechtigten Interesses, das von dem für die Verarbeitung Verantwortlichen oder vom Auftragsverarbeiter wahrgenommen wird, erforderlich ist und nicht als häufig oder massiv bezeichnet werden kann, und falls </del><ins>aufgrund einer gesetzlichen Rechtsgrundlage, der </ins><span>der für die Verarbeitung Verantwortliche </span><del>oder der Auftragsverarbeiter alle Umstände beurteilt hat, die bei einer Datenübermittlung oder bei einer Kategorie von Datenübermittlungen eine Rolle spielen, und gegebenenfalls auf der Grundlage dieser Beurteilung geeignete Garantien zum Schutz personenbezogener Daten vorgesehen hat.</del><ins>unterliegt, bzw. aufgrund über- und zwischenstaatlicher Regelungen zur sozialen Sicherheit zulässig ist.</ins>",
+		"relations": [
+			"a44p1i8+"
+		],
+		"patterns": [
+			"a44p1i8+"
+		],
+		"uid": "f3fa1645f011b1a3cc57727f459ea2df76a568c9",
+		"doc_uid": "cc2c774538b686821f35a94d826afa600aeaada4",
+		"lobbyist_title": "GKV-Spitzenverband"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "13",
+		"text": {
+			"old": "The controller or the processor may be exempted from this liability, in whole or in part, if the controller or the processor proves that they are not responsible for the event giving rise to the damage.",
+			"new": "In case of joint controllers, one controller may be exempted from this liability, in whole or in part, if the controller proves that they are not responsible for the event giving rise to the damage.",
+			"del": [
+				"The controller or the processor ",
+				"or the processor "
+			],
+			"ins": [
+				"In case of joint controllers, one controller "
+			]
+		},
+		"diff": "<del>The controller or the processor </del><ins>In case of joint controllers, one controller </ins><span>may be exempted from this liability, in whole or in part, if the controller </span><del>or the processor </del><span>proves that they are not responsible for the event giving rise to the damage.</span>",
+		"relations": [
+			"a77p3"
+		],
+		"patterns": [
+			"a77p3"
+		],
+		"uid": "f4c55c737b4aa651ebbfc3b12cf41953f3f5eac5",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Kirchen_StellungnahmeEU Datenschutzgrundverordnung 09 11 2012endg.pdf",
+		"page": "0",
+		"text": {
+			"old": "Churches and religious associations which apply comprehensive rules in accordance with paragraph 1 shall provide for the establishment of an independent supervisory authority in accordance with Chapter VI of this Regulation.",
+			"new": "Churches and religious associations which apply comprehensive rules in accordance with paragraph 1 shall provide for the establishment of an independent supervisory authority comparable to the ones described in Chapter VI of this Regulation, if they do not submit themselves to the monitoring of a supervisory authority established under the terms of Chapter VI.",
+			"del": [
+				"in accordance with ",
+				"."
+			],
+			"ins": [
+				"comparable to the ones described in ",
+				", if they do not submit themselves to the monitoring of a supervisory authority established under the terms of Chapter VI."
+			]
+		},
+		"diff": "<span>Churches and religious associations which apply comprehensive rules in accordance with paragraph 1 shall provide for the establishment of an independent supervisory authority </span><del>in accordance with </del><ins>comparable to the ones described in </ins><span>Chapter VI of this Regulation</span><del>.</del><ins>, if they do not submit themselves to the monitoring of a supervisory authority established under the terms of Chapter VI.</ins>",
+		"relations": [
+			"a85p2"
+		],
+		"patterns": [
+			"a85p2"
+		],
+		"uid": "f5425f8d8d7203b29eb066c0cde27fe30beacfd7",
+		"doc_uid": "4884bd83eee5305a14a6842d24f940665c8c7332",
+		"lobbyist_title": "Kirchen"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "4",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of specifying any further criteria and requirements for appropriate measures referred to in paragraph 1 other than those already referred to in paragraph 2, the conditions for the verification and auditing mechanisms referred to in paragraph 3 and as regards the criteria for proportionality under paragraph 3, and considering specific measures for micro, small and medium-sized-enterprises.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of specifying any further criteria and requirements for appropriate measures referred to in paragraph 1 other than those already referred to in paragraph 2, the conditions for the verification and auditing mechanisms referred to in paragraph 3 and as regards the criteria for proportionality under paragraph 3, and considering specific measures for micro, small and medium-sized-enterprises."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of specifying any further criteria and requirements for appropriate measures referred to in paragraph 1 other than those already referred to in paragraph 2, the conditions for the verification and auditing mechanisms referred to in paragraph 3 and as regards the criteria for proportionality under paragraph 3, and considering specific measures for micro, small and medium-sized-enterprises.</del>",
+		"relations": [
+			"a22p4"
+		],
+		"patterns": [
+			"a22p4"
+		],
+		"uid": "f9be5f6ce0e8795413973870a8a8b2c59c4d3572",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "2",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria for categories of recipients referred to in point (f) of paragraph 1, the requirements for the notice of potential access referred to in point (g) of paragraph 1, the criteria for the further information necessary referred to in point (h) of paragraph 1 for specific sectors and situations, and the conditions and appropriate safeguards for the exceptions laid down in point (b) of paragraph 5. In doing so, the Commission shall take the appropriate measures for micro, small and medium-sized-enterprises.",
+			"new": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria for the requirements for the notice of potential access referred to in point (g) of paragraph 1, the criteria for the further information necessary referred to in point (h) of paragraph 1 for specific sectors and situations, and the conditions and appropriate safeguards for the exceptions laid down in point (b) of paragraph 5. In doing so, the Commission shall take the appropriate measures for micro, small and medium-sized-enterprises.",
+			"del": [
+				"categories of recipients referred to in point (f) of paragraph 1, "
+			],
+			"ins": []
+		},
+		"diff": "<span>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria for </span><del>categories of recipients referred to in point (f) of paragraph 1, </del><span>the requirements for the notice of potential access referred to in point (g) of paragraph 1, the criteria for the further information necessary referred to in point (h) of paragraph 1 for specific sectors and situations, and the conditions and appropriate safeguards for the exceptions laid down in point (b) of paragraph 5. In doing so, the Commission shall take the appropriate measures for micro, small and medium-sized-enterprises.</span>",
+		"relations": [
+			"a14p7"
+		],
+		"patterns": [
+			"a14p7"
+		],
+		"uid": "fb8eb99bfc594fc4df773bf26a6b06b5e1c76874",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "COCIR-Amendments-on-the-General-Data-Protection-Regulation-_-Final_25-October-2012.pdf",
+		"page": "1",
+		"text": {
+			"old": "‘data concerning health’ means any information which relates to the physical or mental health of an individual, or to the provision of health services to the individual;",
+			"new": "‘anonymised data’ means previously identifiable data that have been de- identified and for which a code or other link no longer exists. An investigator would not be able to link anonymized information back to a specific data subject.",
+			"del": [
+				"‘data concerning health",
+				"any information which relates to the physical or mental health of an individual, or to the provision of health services to the individual;"
+			],
+			"ins": [
+				"‘anonymised data",
+				"previously identifiable data that have been de- identified and for which a code or other link no longer exists. An investigator would not be able to link anonymized information back to a specific data subject."
+			]
+		},
+		"diff": "<del>‘data concerning health</del><ins>‘anonymised data</ins><span>’ means </span><del>any information which relates to the physical or mental health of an individual, or to the provision of health services to the individual;</del><ins>previously identifiable data that have been de- identified and for which a code or other link no longer exists. An investigator would not be able to link anonymized information back to a specific data subject.</ins>",
+		"relations": [
+			"a4i12+"
+		],
+		"patterns": [
+			"a4i12+"
+		],
+		"uid": "fbf2f60c406d9d8dc9e2b87e40dc4368a0c915cb",
+		"doc_uid": "7db184415b3859700b4494280312657ace239d23",
+		"lobbyist_title": "The European Coordination Committee of the Radiological, Electromedical and Healthcare IT Industry"
+	},
+	{
+		"doc": "Insurance-Europe-suggested-amendments-on-Data-Protection-draft-Regulation.docx",
+		"page": "2",
+		"text": {
+			"old": "Consent shall not provide a legal basis for the processing, where there is a significant imbalance between the position of the data subject and the controller.",
+			"new": "",
+			"del": [
+				"Consent shall not provide a legal basis for the processing, where there is a significant imbalance between the position of the data subject and the controller."
+			],
+			"ins": []
+		},
+		"diff": "<del>Consent shall not provide a legal basis for the processing, where there is a significant imbalance between the position of the data subject and the controller.</del>",
+		"relations": [
+			"a7p4"
+		],
+		"patterns": [
+			"a7p4"
+		],
+		"uid": "fefcebc4df69430bca1ac8392e7c14be2186aa8e",
+		"doc_uid": "cdc881eb28cf5ac9cc81c193e97ed3d081c42e2a",
+		"lobbyist_title": "Insurance Europe"
+	},
+	{
+		"doc": "Agoria_Stellungnahme zu Delegated Acts_02102012.pdf",
+		"page": "8",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for determining the high degree of specific risk referred to in point (a) of paragraph 2.",
+			"new": "",
+			"del": [
+				"The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for determining the high degree of specific risk referred to in point (a) of paragraph 2."
+			],
+			"ins": []
+		},
+		"diff": "<del>The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and requirements for determining the high degree of specific risk referred to in point (a) of paragraph 2.</del>",
+		"relations": [
+			"a34p8"
+		],
+		"patterns": [
+			"a34p8"
+		],
+		"uid": "ff8c3e577169bce43a6cb42ac950731b6610d653",
+		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
+		"lobbyist_title": "Agoria"
 	}
 ]
