@@ -105,22 +105,19 @@ The file `proposals.json` contains proposals by [Lobbyists](#lobbyists) entities
 
 ### Plags
 
-_does not exist yet_
-
 The file `plags.json` contains matches between proposals and amendments, which we call plags.
 
 ```` javascript
 [
 	{
-		"uid": "91a6...",			// uid
+		"uid": "91a6...",			// uid (sha1 of proposal.uid and amendment.uid)
 		"relations": ["..."],		// parts of the [Directive](#directive) the plag relates to
 		"amendment": "...",			// the uid of the [amendment](#amendments)
 		"proposal": "...",			// the uid of the [proposal](#proposals)
 		"implication": null,		// the uid of the [implication](#implications)
+		"match": 0,					// propability of a match as determined by the matching algorithm (between 0 and 1)
 		"checked": true,			// is the checking process complete?
 		"verified": false			// is it a valid match?
-		"propability": 0,			// propability of a match as determined by the matching algorithm (between 0 and 1)
-		"algorithm": "diceroll",	// the used matching algorithm (either 'manual', 'diceroll' or 'kawabanga')
 		"processing": {				// for crowdsourcing
 			"checks": 0,			// number of checks performed
 			"positive": 0			// number of confirmative checks
