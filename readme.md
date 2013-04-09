@@ -112,18 +112,18 @@ The file `plags.json` contains matches between proposals and amendments, which w
 ```` javascript
 [
 	{
-		"uid": "91a6...",		// uid
-		"relations": ["..."],	// parts of the [Directive](#directive) the plag relates to
-		"amendment": "...",		// the uid of the [amendment](#amendments)
-		"proposal": "...",		// the uid of the [proposal](#proposals)
-		"implication": null,	// the uid of the [implication](#implications)
-		"checked": true,		// is the checking process complete?
-		"verified": false		// is it a valid match?
+		"uid": "91a6...",			// uid
+		"relations": ["..."],		// parts of the [Directive](#directive) the plag relates to
+		"amendment": "...",			// the uid of the [amendment](#amendments)
+		"proposal": "...",			// the uid of the [proposal](#proposals)
+		"implication": null,		// the uid of the [implication](#implications)
+		"checked": true,			// is the checking process complete?
+		"verified": false			// is it a valid match?
 		"propability": 0,			// propability of a match as determined by the matching algorithm (between 0 and 1)
 		"algorithm": "diceroll",	// the used matching algorithm (either 'manual', 'diceroll' or 'kawabanga')
-		"processing": {			// for crowdsourcing
-			"checks": 0,		// number of checks performed
-			"positive": 0		// number of confirmative checks
+		"processing": {				// for crowdsourcing
+			"checks": 0,			// number of checks performed
+			"positive": 0			// number of confirmative checks
 		}
 	},
 	// ...
