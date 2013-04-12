@@ -20509,8 +20509,8 @@
 			]
 		},
 		"diff": "<ins>(g a) where the controller processes personal data as described in Article 20(1), information about the existence of processing for a measure of the kind referred to in Article 20(1) and the intended effects of such processing on the data subject;</ins>",
-		"relations": [],
-		"patterns": [],
+		"relations": ["a14p1i7+"],
+		"patterns": ["a14p1i7+"],
 		"uid": "4f7caee752a94ff48d0b1d8a5f28ec3b59990a9f",
 		"doc_uid": "9e54ef516a1a737a2748af8b4e6c7dc388762452",
 		"lobbyist_title": "European Digital Rights"
@@ -20520,17 +20520,17 @@
 		"page": "59",
 		"text": {
 			"old": "",
-			"new": "(g a) where the controller processes personal data as described in Article 20(1), information about the existence of processing for a measure of the kind referred to in Article 20(1) and the intended effects of such processing on the data subject;",
+			"new": "information regarding specific security measures taken to protect personal data;",
 			"del": [
 				""
 			],
 			"ins": [
-				"(g a) where the controller processes personal data as described in Article 20(1), information about the existence of processing for a measure of the kind referred to in Article 20(1) and the intended effects of such processing on the data subject;"
+				"information regarding specific security measures taken to protect personal data;"
 			]
 		},
-		"diff": "<ins>(g a) where the controller processes personal data as described in Article 20(1), information about the existence of processing for a measure of the kind referred to in Article 20(1) and the intended effects of such processing on the data subject;</ins>",
-		"relations": [],
-		"patterns": [],
+		"diff": "<ins>information regarding specific security measures taken to protect personal data;</ins>",
+		"relations": ["a14p1i7+"],
+		"patterns": ["a14p1i7+"],
 		"uid": "9e8eea9df3967d298fe1618e115048013adb8af4",
 		"doc_uid": "9e54ef516a1a737a2748af8b4e6c7dc388762452",
 		"lobbyist_title": "European Digital Rights"
@@ -25943,5 +25943,1917 @@
 		"uid": "ff8c3e577169bce43a6cb42ac950731b6610d653",
 		"doc_uid": "5adec87ea34b5ad27f879170274870b08afecd41",
 		"lobbyist_title": "Agoria"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "23",
+		"text": {
+			"old": "",
+			"new": "the right of the data subjects to be informed about the restriction;",
+			"del": [],
+			"ins": [
+				"the right of the data subjects to be informed about the restriction;"
+			]
+		},
+		"diff": "<ins>the right of the data subjects to be informed about the restriction;</ins>",
+		"relations": [
+			"a21p2+"
+		],
+		"patterns": [
+			"a21p2+"
+		],
+		"uid": "039cda5527096cca2ac50bf6ff16d93e63b88eb4",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "25",
+		"text": {
+			"old": "",
+			"new": "The supervisory authority maintains public register of all notified data breaches which can be accessed free of charge.",
+			"del": [],
+			"ins": [
+				"The supervisory authority maintains public register of all notified data breaches which can be accessed free of charge."
+			]
+		},
+		"diff": "<ins>The supervisory authority maintains public register of all notified data breaches which can be accessed free of charge.</ins>",
+		"relations": [
+			"a31p5+"
+		],
+		"patterns": [
+			"a31p5+"
+		],
+		"uid": "039e6c6b625f51dfdb1168b0399b80a7cfeaa380",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "27",
+		"text": {
+			"old": "Within the limits of this Regulation, personal data may be processed for historical, statistical or scientific research purposes only if:",
+			"new": "Within the limits of this Regulation, personal data not falling withing the categories of data covered by Articles 8 and 9 may be processed for historical, statistical or scientific research purposes only if:",
+			"del": [],
+			"ins": [
+				"not falling withing the categories of data covered by Articles 8 and 9 "
+			]
+		},
+		"diff": "<span>Within the limits of this Regulation, personal data </span><ins>not falling withing the categories of data covered by Articles 8 and 9 </ins><span>may be processed for historical, statistical or scientific research purposes only if:</span>",
+		"relations": [
+			"a83p1"
+		],
+		"patterns": [
+			"a83p1"
+		],
+		"uid": "10bf46e82fd169222b1590fdb04df904ad9a059a",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "12",
+		"text": {
+			"old": "",
+			"new": "'profiling' means any form of automated processing intended to evaluate, or generate data about, aspects relating to natural persons or to analyse or predict a natural person's performance at work, economic situation, location, health, preferences, reliability, behaviour or personality;",
+			"del": [],
+			"ins": [
+				"'profiling' means any form of automated processing intended to evaluate, or generate data about, aspects relating to natural persons or to analyse or predict a natural person's performance at work, economic situation, location, health, preferences, reliability, behaviour or personality;"
+			]
+		},
+		"diff": "<ins>'profiling' means any form of automated processing intended to evaluate, or generate data about, aspects relating to natural persons or to analyse or predict a natural person's performance at work, economic situation, location, health, preferences, reliability, behaviour or personality;</ins>",
+		"relations": [
+			"a4i3+"
+		],
+		"patterns": [
+			"a4i3+"
+		],
+		"uid": "1581ae09bbd8077224e2d5f7a973cef39d71b8b9",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "16",
+		"text": {
+			"old": "the recipients or categories of recipients of the personal data;",
+			"new": "the recipients of the personal data;",
+			"del": [
+				"or categories of recipients of "
+			],
+			"ins": [
+				"of "
+			]
+		},
+		"diff": "<span>the recipients </span><del>or categories of recipients of </del><ins>of </ins><span>the personal data;</span>",
+		"relations": [
+			"a14p1i6"
+		],
+		"patterns": [
+			"a14p1i6"
+		],
+		"uid": "18fcbc67fdeba5e5f32d9c3655bad5e523b12268",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "11",
+		"text": {
+			"old": "Scientific research for the purposes of this Regulation should include fundamental research, applied research, and privately funded research and in addition should take into account the Union's objective under Article 179(1) of the Treaty on the Functioning of the European Union of achieving a European Research Area.",
+			"new": "Scientific research for the purposes of this Regulation should include fundamental research, applied research, and privately funded research in the meaning of Article 13 of the Charter of Fundamental Rights of the European Union and in addition should take into account the Union's objective under Article 179(1) of the Treaty on the Functioning of the European Union of achieving a European Research Area. It should not include market research.",
+			"del": [],
+			"ins": [
+				"in the meaning of Article 13 of the Charter of Fundamental Rights of the European Union ",
+				" It should not include market research."
+			]
+		},
+		"diff": "<span>Scientific research for the purposes of this Regulation should include fundamental research, applied research, and privately funded research </span><ins>in the meaning of Article 13 of the Charter of Fundamental Rights of the European Union </ins><span>and in addition should take into account the Union's objective under Article 179(1) of the Treaty on the Functioning of the European Union of achieving a European Research Area.</span><ins> It should not include market research.</ins>",
+		"relations": [
+			"r126"
+		],
+		"patterns": [
+			"r126"
+		],
+		"uid": "1d4c99e753f647060e113c16ad41b19ba67975f3",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "21",
+		"text": {
+			"old": "The Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and conditions for suitable measures to safeguard the data subject's legitimate interests referred to in paragraph 2.",
+			"new": "Within six months of the entry into force of this Regulation, the Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and conditions for suitable measures to safeguard the data subject's legitimate interests referred to in paragraph 2(b). The Commission shall consult representatives of data subjects and the Data Protection Board on its proposals before issuing them.",
+			"del": [
+				"The ",
+				"."
+			],
+			"ins": [
+				"Within six months of the entry into force of this Regulation, the ",
+				"(b). The Commission shall consult representatives of data subjects and the Data Protection Board on its proposals before issuing them."
+			]
+		},
+		"diff": "<del>The </del><ins>Within six months of the entry into force of this Regulation, the </ins><span>Commission shall be empowered to adopt delegated acts in accordance with Article 86 for the purpose of further specifying the criteria and conditions for suitable measures to safeguard the data subject's legitimate interests referred to in paragraph 2</span><del>.</del><ins>(b). The Commission shall consult representatives of data subjects and the Data Protection Board on its proposals before issuing them.</ins>",
+		"relations": [
+			"a20p5"
+		],
+		"patterns": [
+			"a20p5"
+		],
+		"uid": "20cc37556a46b3bc519b3e087f9febd2a43cb5de",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "5",
+		"text": {
+			"old": "In order to ensure free consent, it should be clarified that consent does not provide a valid legal ground where the individual has no genuine and free choice and is subsequently not able to refuse or withdraw consent without detriment.",
+			"new": "In order to ensure free consent, it should be clarified that consent does not provide a valid legal ground where the individual has no genuine and free choice and is subsequently not able to refuse or withdraw consent without detriment. Consent can only be obtained for processing that is lawful and this not excessive in relation to the purpose. Such disproportional data processing cannot be legitimized through obtaining consent.",
+			"del": [],
+			"ins": [
+				" Consent can only be obtained for processing that is lawful and this not excessive in relation to the purpose. Such disproportional data processing cannot be legitimized through obtaining consent."
+			]
+		},
+		"diff": "<span>In order to ensure free consent, it should be clarified that consent does not provide a valid legal ground where the individual has no genuine and free choice and is subsequently not able to refuse or withdraw consent without detriment.</span><ins> Consent can only be obtained for processing that is lawful and this not excessive in relation to the purpose. Such disproportional data processing cannot be legitimized through obtaining consent.</ins>",
+		"relations": [
+			"r33"
+		],
+		"patterns": [
+			"r33"
+		],
+		"uid": "26913d4ae2800cf5730fa2bc51fb1f9f3ae1124b",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "21",
+		"text": {
+			"old": "Automated processing of personal data intended to evaluate certain personal aspects relating to a natural person shall not be based solely on the special categories of personal data referred to in Article 9.",
+			"new": "Automated processing of personal data intended to evaluate certain personal aspects relating to a natural person shall not include or generate any data that fall under the special categories of personal data referred to in Article 9, except when falling under the exception listed in Article 9(2).",
+			"del": [
+				"be based solely on ",
+				"."
+			],
+			"ins": [
+				"include or generate any data that fall under ",
+				", except when falling under the exception listed in Article 9(2)."
+			]
+		},
+		"diff": "<span>Automated processing of personal data intended to evaluate certain personal aspects relating to a natural person shall not </span><del>be based solely on </del><ins>include or generate any data that fall under </ins><span>the special categories of personal data referred to in Article 9</span><del>.</del><ins>, except when falling under the exception listed in Article 9(2).</ins>",
+		"relations": [
+			"a20p3"
+		],
+		"patterns": [
+			"a20p3"
+		],
+		"uid": "2e79d7ee5d809b046bbb6057115c37952bfdc9cf",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "15",
+		"text": {
+			"old": "Consent shall not provide a legal basis for the processing, where there is a significant imbalance between the position of the data subject and the controller.",
+			"new": "Consent shall not provide a legal basis for the processing, where there is a significant imbalance between the position of the data subject and the controller, or where the obtained consent is not proportionate in relation to the purpose or purposes of the processing.",
+			"del": [
+				"."
+			],
+			"ins": [
+				", or where the obtained consent is not proportionate in relation to the purpose or purposes of the processing."
+			]
+		},
+		"diff": "<span>Consent shall not provide a legal basis for the processing, where there is a significant imbalance between the position of the data subject and the controller</span><del>.</del><ins>, or where the obtained consent is not proportionate in relation to the purpose or purposes of the processing.</ins>",
+		"relations": [
+			"a7p4"
+		],
+		"patterns": [
+			"a7p4"
+		],
+		"uid": "307fb2ed9c4461df0b00ecedb06177cdb364e4e3",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "22",
+		"text": {
+			"old": "",
+			"new": "the categories of persons authorized to process the data;",
+			"del": [],
+			"ins": [
+				"the categories of persons authorized to process the data;"
+			]
+		},
+		"diff": "<ins>the categories of persons authorized to process the data;</ins>",
+		"relations": [
+			"a21p2+"
+		],
+		"patterns": [
+			"a21p2+"
+		],
+		"uid": "3aaeeec17c4f851f3b9672596bb411c6645688fa",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "21",
+		"text": {
+			"old": "In the cases referred to in paragraph 2, the information to be provided by the controller under Article 14 shall include information as to the existence of processing for a measure of the kind referred to in paragraph 1 and the envisaged effects of such processing on the data subject.",
+			"new": "In the cases referred to in paragraph 2, the information to be provided by the controller under Article 14 and 15 shall include information as to the existence of processing for a measure of the kind referred to in paragraph 1 and the envisaged effects of such processing on the data subject, as well as the access to the logic underpinning the data undergoing processing.",
+			"del": [
+				"."
+			],
+			"ins": [
+				"and 15 ",
+				", as well as the access to the logic underpinning the data undergoing processing."
+			]
+		},
+		"diff": "<span>In the cases referred to in paragraph 2, the information to be provided by the controller under Article 14 </span><ins>and 15 </ins><span>shall include information as to the existence of processing for a measure of the kind referred to in paragraph 1 and the envisaged effects of such processing on the data subject</span><del>.</del><ins>, as well as the access to the logic underpinning the data undergoing processing.</ins>",
+		"relations": [
+			"a20p4"
+		],
+		"patterns": [
+			"a20p4"
+		],
+		"uid": "3ba074e2157c7949795ce0e25366d9018784bf48",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "14",
+		"text": {
+			"old": "Where the purpose of further processing is not compatible with the one for which the personal data have been collected, the processing must have a legal basis at least in one of the grounds referred to in points (a) to (e) of paragraph 1. This shall in particular apply to any change of terms and general conditions of a contract.",
+			"new": "",
+			"del": [
+				"Where the purpose of further processing is not compatible with the one for which the personal data have been collected, the processing must have a legal basis at least in one of the grounds referred to in points (a) to (e) of paragraph 1. This shall in particular apply to any change of terms and general conditions of a contract."
+			],
+			"ins": []
+		},
+		"diff": "<del>Where the purpose of further processing is not compatible with the one for which the personal data have been collected, the processing must have a legal basis at least in one of the grounds referred to in points (a) to (e) of paragraph 1. This shall in particular apply to any change of terms and general conditions of a contract.</del>",
+		"relations": [
+			"a6p4"
+		],
+		"patterns": [
+			"a6p4"
+		],
+		"uid": "3e640bd847ded52022794562904c9f3a614f3511",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "20",
+		"text": {
+			"old": "Subject to the other provisions of this Regulation, a person may be subjected to a measure of the kind referred to in paragraph 1 only if the processing:",
+			"new": "Subject to the other provisions of this Regulation, including paragraph 3 and 4, a person may be subjected to profiling or a measure of the kind referred to in paragraph 1 only if such:",
+			"del": [
+				"the processing:"
+			],
+			"ins": [
+				"including paragraph 3 and 4, ",
+				"profiling or ",
+				"such:"
+			]
+		},
+		"diff": "<span>Subject to the other provisions of this Regulation, </span><ins>including paragraph 3 and 4, </ins><span>a person may be subjected to </span><ins>profiling or </ins><span>a measure of the kind referred to in paragraph 1 only if </span><del>the processing:</del><ins>such:</ins>",
+		"relations": [
+			"a20p2"
+		],
+		"patterns": [
+			"a20p2"
+		],
+		"uid": "409e409045d1eb42807aa0b1bbe01884ea974ddf",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "8",
+		"text": {
+			"old": "To strengthen the 'right to be forgotten' in the online environment, the right to erasure should also be extended in such a way that a controller who has made the personal data public should be obliged to inform third parties which are processing such data that a data subject requests them to erase any links to, or copies or replications of that personal data. To ensure this information, the controller should take all reasonable steps, including technical measures, in relation to data for the publication of which the controller is responsible. In relation to a third party publication of personal data, the controller should be considered responsible for the publication, where the controller has authorised the publication by the third party.",
+			"new": "",
+			"del": [
+				"To strengthen the 'right to be forgotten' in the online environment, the right to erasure should also be extended in such a way that a controller who has made the personal data public should be obliged to inform third parties which are processing such data that a data subject requests them to erase any links to, or copies or replications of that personal data. To ensure this information, the controller should take all reasonable steps, including technical measures, in relation to data for the publication of which the controller is responsible. In relation to a third party publication of personal data, the controller should be considered responsible for the publication, where the controller has authorised the publication by the third party."
+			],
+			"ins": []
+		},
+		"diff": "<del>To strengthen the 'right to be forgotten' in the online environment, the right to erasure should also be extended in such a way that a controller who has made the personal data public should be obliged to inform third parties which are processing such data that a data subject requests them to erase any links to, or copies or replications of that personal data. To ensure this information, the controller should take all reasonable steps, including technical measures, in relation to data for the publication of which the controller is responsible. In relation to a third party publication of personal data, the controller should be considered responsible for the publication, where the controller has authorised the publication by the third party.</del>",
+		"relations": [
+			"r54"
+		],
+		"patterns": [
+			"r54"
+		],
+		"uid": "43f8578862b9c055d64180cb1c7ef9ce6c2b5d6b",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "5",
+		"text": {
+			"old": "Where processing is based on the data subject's consent, the controller should have the burden of proving that the data subject has given the consent to the processing operation. In particular in the context of a written declaration on another matter, safeguards should ensure that the data subject is aware that and to what extent consent is given.",
+			"new": "Where processing is based on the data subject's consent, the controller should have the burden of proving that the data subject has given the consent to the processing operation. In particular in the context of a written declaration on another matter, safeguards should ensure that the data subject is aware that and to what extent consent is given. To comply with the principle of data minimisation, this burden of proof should not be understood as requiring positive identification of data subjects, unless necessary.",
+			"del": [],
+			"ins": [
+				" To comply with the principle of data minimisation, this burden of proof should not be understood as requiring positive identification of data subjects, unless necessary."
+			]
+		},
+		"diff": "<span>Where processing is based on the data subject's consent, the controller should have the burden of proving that the data subject has given the consent to the processing operation. In particular in the context of a written declaration on another matter, safeguards should ensure that the data subject is aware that and to what extent consent is given.</span><ins> To comply with the principle of data minimisation, this burden of proof should not be understood as requiring positive identification of data subjects, unless necessary.</ins>",
+		"relations": [
+			"r32"
+		],
+		"patterns": [
+			"r32"
+		],
+		"uid": "479694f5947624792a22763a3d8e27bdacabe00f",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "19",
+		"text": {
+			"old": "",
+			"new": "This right is without prejudice to the obligation to delete data when they are no longer necessary under Article 5(e).",
+			"del": [],
+			"ins": [
+				"This right is without prejudice to the obligation to delete data when they are no longer necessary under Article 5(e)."
+			]
+		},
+		"diff": "<ins>This right is without prejudice to the obligation to delete data when they are no longer necessary under Article 5(e).</ins>",
+		"relations": [
+			"a18p2+"
+		],
+		"patterns": [
+			"a18p2+"
+		],
+		"uid": "511135fe8b91f695cb81f5bb4d13b9bc097d53da",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "7",
+		"text": {
+			"old": "Modalities should be provided for facilitating the data subject’s exercise of their rights provided by this Regulation, including mechanisms to request, free of charge, in particular access to data, rectification, erasure and to exercise the right to object. The controller should be obliged to respond to requests of the data subject within a fixed deadline and give reasons, in case he does not comply with the data subject's request.",
+			"new": "Modalities should be provided for facilitating the data subject’s exercise of their rights provided by this Regulation, including mechanisms to obtain, free of charge, in particular access to data, rectification, erasure and to exercise the right to object. The controller should be obliged to respond to requests of the data subject within a fixed deadline and give reasons, in case he cannot comply with the data subject's request.",
+			"del": [
+				"request",
+				"does not "
+			],
+			"ins": [
+				"obtain",
+				"cannot "
+			]
+		},
+		"diff": "<span>Modalities should be provided for facilitating the data subject’s exercise of their rights provided by this Regulation, including mechanisms to </span><del>request</del><ins>obtain</ins><span>, free of charge, in particular access to data, rectification, erasure and to exercise the right to object. The controller should be obliged to respond to requests of the data subject within a fixed deadline and give reasons, in case he </span><del>does not </del><ins>cannot </ins><span>comply with the data subject's request.</span>",
+		"relations": [
+			"r47"
+		],
+		"patterns": [
+			"r47"
+		],
+		"uid": "53ac1cac9f6e0e901fad4c0ca309afc6e5e4b690",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "21",
+		"text": {
+			"old": "",
+			"new": "Automated processing of personal data intended to evaluate certain personal aspects relating to a natural person shall not be used to identify or individualise children.",
+			"del": [],
+			"ins": [
+				"Automated processing of personal data intended to evaluate certain personal aspects relating to a natural person shall not be used to identify or individualise children."
+			]
+		},
+		"diff": "<ins>Automated processing of personal data intended to evaluate certain personal aspects relating to a natural person shall not be used to identify or individualise children.</ins>",
+		"relations": [
+			"a20p3+"
+		],
+		"patterns": [
+			"a20p3+"
+		],
+		"uid": "5652e17bd128d6cbab93ce5bdf1ef4d0a7f40702",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "7",
+		"text": {
+			"old": "Any person should have the right of access to data which has been collected concerning them, and to exercise this right easily, in order to be aware and verify the lawfulness of the processing. Every data subject should therefore have the right to know and obtain communication in particular for what purposes the data are processed, for what period, which recipients receive the data, what is the logic of the data that are undergoing the processing and what might be, at least when based on profiling, the consequences of such processing. This right should not adversely affect the rights and freedoms of others, including trade secrets or intellectual property and in particular the copyright protecting the software. However, the result of these considerations should not be that all information is refused to the data subject.",
+			"new": "Any person should have the right of access to data which has been collected concerning them, and to exercise this right easily, in order to be aware and verify the lawfulness of the processing. Every data subject should therefore have the right to know and obtain communication in particular for what purposes the data are processed, for what period, which recipients receive the data, what is the logic of the data that are undergoing the processing and what might be, at least when based on profiling, the consequences of such processing. This right should not adversely affect the rights and freedoms of others, including trade secrets or intellectual property such as the copyright protecting the software. However, the result of these considerations should not be that all information is refused to the data subject.",
+			"del": [
+				"and in particular "
+			],
+			"ins": [
+				"such as "
+			]
+		},
+		"diff": "<span>Any person should have the right of access to data which has been collected concerning them, and to exercise this right easily, in order to be aware and verify the lawfulness of the processing. Every data subject should therefore have the right to know and obtain communication in particular for what purposes the data are processed, for what period, which recipients receive the data, what is the logic of the data that are undergoing the processing and what might be, at least when based on profiling, the consequences of such processing. This right should not adversely affect the rights and freedoms of others, including trade secrets or intellectual property </span><del>and in particular </del><ins>such as </ins><span>the copyright protecting the software. However, the result of these considerations should not be that all information is refused to the data subject.</span>",
+		"relations": [
+			"r51"
+		],
+		"patterns": [
+			"r51"
+		],
+		"uid": "590ed51b56070f340208e0b6e85b5755f60b8b2b",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "13",
+		"text": {
+			"old": "processing is necessary for the purposes of the legitimate interests pursued by a controller, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child. This shall not apply to processing carried out by public authorities in the performance of their tasks.",
+			"new": "processing is necessary for the purposes of the legitimate interests pursued by a controller, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child. This legal ground shall not apply to processing carried out by public authorities in the performance of their tasks. It shall also not apply to data processing that can also be based on one or several of the other grounds in this paragraph.",
+			"del": [],
+			"ins": [
+				"legal ground ",
+				" It shall also not apply to data processing that can also be based on one or several of the other grounds in this paragraph."
+			]
+		},
+		"diff": "<span>processing is necessary for the purposes of the legitimate interests pursued by a controller, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child. This </span><ins>legal ground </ins><span>shall not apply to processing carried out by public authorities in the performance of their tasks.</span><ins> It shall also not apply to data processing that can also be based on one or several of the other grounds in this paragraph.</ins>",
+		"relations": [
+			"a6p1i6"
+		],
+		"patterns": [
+			"a6p1i6"
+		],
+		"uid": "5b840eb4ef7031946b57098d5b52afde2e6b5520",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "8",
+		"text": {
+			"old": "Any person should have the right to have personal data concerning them rectified and a 'right to be forgotten' where the retention of such data is not in compliance with this Regulation. In particular, data subjects should have the right that their personal data are erased and no longer processed, where the data are no longer necessary in relation to the purposes for which the data are collected or otherwise processed, where data subjects have withdrawn their consent for processing or where they object to the processing of personal data concerning them or where the processing of their personal data otherwise does not comply with this Regulation. This right is particularly relevant, when the data subject has given their consent as a child, when not being fully aware of the risks involved by the processing, and later wants to remove such personal data especially on the Internet. However, the further retention of the data should be allowed where it is necessary for historical, statistical and scientific research purposes, for reasons of public interest in the area of public health, for exercising the right of freedom of expression, when required by law or where there is a reason to restrict the processing of the data instead of erasing them.",
+			"new": "Any person should have the right to have personal data concerning them rectified and erased. In particular, data subjects should have the right that their personal data are erased and no longer processed, where the data are no longer necessary in relation to the purposes for which the data are collected or otherwise processed, where data subjects have withdrawn their consent for processing or where they object to the processing of personal data concerning them or where the processing of their personal data otherwise does not comply with this Regulation. However, the further retention of the data may be allowed where it is necessary for historical, statistical and scientific research purposes, for reasons of public interest in the area of public health, for exercising the right of freedom of expression, when required by law or where there is a reason to restrict the processing of the data instead of erasing them, provided the data are subject to adequate safeguards.",
+			"del": [
+				"a 'right to be forgotten' where the retention of such data is not in compliance with this Regulation",
+				"This right is particularly relevant, when the data subject has given their consent as a child, when not being fully aware of the risks involved by the processing, and later wants to remove such personal data especially on the Internet. ",
+				"should",
+				"."
+			],
+			"ins": [
+				"erased",
+				"may",
+				", provided the data are subject to adequate safeguards."
+			]
+		},
+		"diff": "<span>Any person should have the right to have personal data concerning them rectified and </span><del>a 'right to be forgotten' where the retention of such data is not in compliance with this Regulation</del><ins>erased</ins><span>. In particular, data subjects should have the right that their personal data are erased and no longer processed, where the data are no longer necessary in relation to the purposes for which the data are collected or otherwise processed, where data subjects have withdrawn their consent for processing or where they object to the processing of personal data concerning them or where the processing of their personal data otherwise does not comply with this Regulation. </span><del>This right is particularly relevant, when the data subject has given their consent as a child, when not being fully aware of the risks involved by the processing, and later wants to remove such personal data especially on the Internet. </del><span>However, the further retention of the data </span><del>should</del><ins>may</ins><span> be allowed where it is necessary for historical, statistical and scientific research purposes, for reasons of public interest in the area of public health, for exercising the right of freedom of expression, when required by law or where there is a reason to restrict the processing of the data instead of erasing them</span><del>.</del><ins>, provided the data are subject to adequate safeguards.</ins>",
+		"relations": [
+			"r53"
+		],
+		"patterns": [
+			"r53"
+		],
+		"uid": "5cb8fc463473acd517464de23e64cacc8d32d65b",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "25",
+		"text": {
+			"old": "",
+			"new": "Each controller shall, at least annually, publish an aggregated overview of requests by a public authority for disclosure of personal data in the past reporting year. Such an overview shall include per country:",
+			"del": [],
+			"ins": [
+				"Each controller shall, at least annually, publish an aggregated overview of requests by a public authority for disclosure of personal data in the past reporting year. Such an overview shall include per country:"
+			]
+		},
+		"diff": "<ins>Each controller shall, at least annually, publish an aggregated overview of requests by a public authority for disclosure of personal data in the past reporting year. Such an overview shall include per country:</ins>",
+		"relations": [
+			"a28+"
+		],
+		"patterns": [
+			"a28+"
+		],
+		"uid": "5d1fdfec6050d6432b5f03970920f4807cd1fb09",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "10",
+		"text": {
+			"old": "The protection of the rights and freedoms of data subjects with regard to the processing of personal data require that appropriate technical and organisational measures are taken, both at the time of the design of the processing and at the time of the processing itself, to ensure that the requirements of this Regulation are met. In order to ensure and demonstrate compliance with this Regulation, the controller should adopt internal policies and implement appropriate measures, which meet in particular the principles of data protection by design and data protection by default.",
+			"new": "The protection of the rights and freedoms of data subjects with regard to the processing of personal data require that appropriate technical and organisational measures are taken, both at the time of the design of the processing and its underlying technologies as well as at the time of the processing itself, to ensure that the requirements of this Regulation are met. In order to ensure and demonstrate compliance with this Regulation, the controller should adopt internal policies and implement appropriate measures, which meet in particular the principles of data protection by design and data protection by default. Data protection by design is the process by which data protection and privacy are integrated in the development of products and services through both technical and organisational measures. Data protection by default means that products and services are by default configured in a way that limits the processing and especially the disclosure of personal data. In particular, personal data should not be disclosed to an unlimited number of persons by default.",
+			"del": [],
+			"ins": [
+				"its underlying technologies as well as ",
+				" Data protection by design is the process by which data protection and privacy are integrated in the development of products and services through both technical and organisational measures. Data protection by default means that products and services are by default configured in a way that limits the processing and especially the disclosure of personal data. In particular, personal data should not be disclosed to an unlimited number of persons by default."
+			]
+		},
+		"diff": "<span>The protection of the rights and freedoms of data subjects with regard to the processing of personal data require that appropriate technical and organisational measures are taken, both at the time of the design of the processing and </span><ins>its underlying technologies as well as </ins><span>at the time of the processing itself, to ensure that the requirements of this Regulation are met. In order to ensure and demonstrate compliance with this Regulation, the controller should adopt internal policies and implement appropriate measures, which meet in particular the principles of data protection by design and data protection by default.</span><ins> Data protection by design is the process by which data protection and privacy are integrated in the development of products and services through both technical and organisational measures. Data protection by default means that products and services are by default configured in a way that limits the processing and especially the disclosure of personal data. In particular, personal data should not be disclosed to an unlimited number of persons by default.</ins>",
+		"relations": [
+			"r61"
+		],
+		"patterns": [
+			"r61"
+		],
+		"uid": "61d94c9380f2bda0de4784ba5c18f77efaf7576a",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "6",
+		"text": {
+			"old": "The legitimate interests of a controller may provide a legal basis for processing, provided that the interests or the fundamental rights and freedoms of the data subject are not overriding. This would need careful assessment in particular where the data subject is a child, given that children deserve specific protection. The data subject should have the right to object the processing, on grounds relating to their particular situation and free of charge. To ensure transparency, the controller should be obliged to explicitly inform the data subject on the legitimate interests pursued and on the right to object, and also be obliged to document these legitimate interests. Given that it is for the legislator to provide by law the legal basis for public authorities to process data, this legal ground should not apply for the processing by public authorities in the performance of their tasks.",
+			"new": "Under circumstances, the legitimate interests of a controller may provide a legal basis for processing, provided that the interests or the fundamental rights and freedoms of the data subject are not overridden. Notably, direct marketing should not be seen as a legitimate interest. This would need careful assessment in particular where the data subject is a child, given that children deserve specific protection. The data subject should have the right to object the processing free of charge. To ensure transparency, the controller should be obliged to explicitly inform the data subject on the legitimate interests pursued and on the right to object, and also be obliged to document these legitimate interests. Given that it is for the legislator to provide by law the legal basis for public authorities to process data, this legal ground should not apply for the processing by public authorities in the performance of their tasks.",
+			"del": [
+				"The ",
+				"overriding. ",
+				", on grounds relating to their particular situation and "
+			],
+			"ins": [
+				"Under circumstances, the ",
+				"overridden. Notably, direct marketing should not be seen as a legitimate interest. ",
+				" "
+			]
+		},
+		"diff": "<del>The </del><ins>Under circumstances, the </ins><span>legitimate interests of a controller may provide a legal basis for processing, provided that the interests or the fundamental rights and freedoms of the data subject are not </span><del>overriding. </del><ins>overridden. Notably, direct marketing should not be seen as a legitimate interest. </ins><span>This would need careful assessment in particular where the data subject is a child, given that children deserve specific protection. The data subject should have the right to object the processing</span><del>, on grounds relating to their particular situation and </del><ins> </ins><span>free of charge. To ensure transparency, the controller should be obliged to explicitly inform the data subject on the legitimate interests pursued and on the right to object, and also be obliged to document these legitimate interests. Given that it is for the legislator to provide by law the legal basis for public authorities to process data, this legal ground should not apply for the processing by public authorities in the performance of their tasks.</span>",
+		"relations": [
+			"r38"
+		],
+		"patterns": [
+			"r38"
+		],
+		"uid": "66610e192b1656a3e66e46b49636613e03e77602",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "3",
+		"text": {
+			"old": "In order to determine whether a processing activity can be considered to ‘monitor the behaviour’ of data subjects, it should be ascertained whether individuals are tracked on the internet with data processing techniques which consist of applying a ‘profile’ to an individual, particularly in order to take decisions concerning her or him or for analysing or predicting her or his personal preferences, behaviours and attitudes.",
+			"new": "In order to determine whether a processing activity can be considered to ‘monitor the behaviour’ of data subjects, it should be ascertained whether individuals are tracked with the intention to use, or potential of subsequent use of data processing techniques which consist of applying a profile, particularly in order to take decisions concerning her or him or for analysing or predicting her or his personal preferences, behaviours and attitudes.",
+			"del": [
+				"on the internet with ",
+				"‘profile’ to an individual"
+			],
+			"ins": [
+				"with the intention to use, or potential of subsequent use of ",
+				"profile"
+			]
+		},
+		"diff": "<span>In order to determine whether a processing activity can be considered to ‘monitor the behaviour’ of data subjects, it should be ascertained whether individuals are tracked </span><del>on the internet with </del><ins>with the intention to use, or potential of subsequent use of </ins><span>data processing techniques which consist of applying a </span><del>‘profile’ to an individual</del><ins>profile</ins><span>, particularly in order to take decisions concerning her or him or for analysing or predicting her or his personal preferences, behaviours and attitudes.</span>",
+		"relations": [
+			"r21"
+		],
+		"patterns": [
+			"r21"
+		],
+		"uid": "6bf58382a510078dca722cc17b5fa0001864b2cb",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "13",
+		"text": {
+			"old": "'personal data breach' means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed;",
+			"new": "'personal data breach' means the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed;",
+			"del": [
+				"a breach of security leading to "
+			],
+			"ins": []
+		},
+		"diff": "<span>'personal data breach' means </span><del>a breach of security leading to </del><span>the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed;</span>",
+		"relations": [
+			"a4i9"
+		],
+		"patterns": [
+			"a4i9"
+		],
+		"uid": "72a651b498228022468ec095474898ca847b44d7",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "12",
+		"text": {
+			"old": "'the data subject's consent' means any freely given specific, informed and explicit indication of his or her wishes by which the data subject, either by a statement or by a clear affirmative action, signifies agreement to personal data relating to them being processed;",
+			"new": "'the data subject's consent' means any freely given specific, informed and explicit indication of his or her wishes which proves that the data subject, either by a statement or by a clear affirmative action, signifies agreement to personal data relating to them being processed;",
+			"del": [
+				"by which "
+			],
+			"ins": [
+				"which proves that "
+			]
+		},
+		"diff": "<span>'the data subject's consent' means any freely given specific, informed and explicit indication of his or her wishes </span><del>by which </del><ins>which proves that </ins><span>the data subject, either by a statement or by a clear affirmative action, signifies agreement to personal data relating to them being processed;</span>",
+		"relations": [
+			"a4i8"
+		],
+		"patterns": [
+			"a4i8"
+		],
+		"uid": "74c522c68f157602d942e27dda64f7f11eb45692",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "23",
+		"text": {
+			"old": "",
+			"new": "organisational measures which relate to the operational policies of the controller. Where a controller has carried out a data protection impact assessment pursuant to Article 33, the results of this shall be taken into account when developing the measures referred to in points (a) and (b) of this paragraph.",
+			"del": [],
+			"ins": [
+				"organisational measures which relate to the operational policies of the controller. Where a controller has carried out a data protection impact assessment pursuant to Article 33, the results of this shall be taken into account when developing the measures referred to in points (a) and (b) of this paragraph."
+			]
+		},
+		"diff": "<ins>organisational measures which relate to the operational policies of the controller. Where a controller has carried out a data protection impact assessment pursuant to Article 33, the results of this shall be taken into account when developing the measures referred to in points (a) and (b) of this paragraph.</ins>",
+		"relations": [
+			"a23p1+"
+		],
+		"patterns": [
+			"a23p1+"
+		],
+		"uid": "7bf6edcd1f690e7a08f1fd1b8baef3157cfa3154",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "22",
+		"text": {
+			"old": "Union or Member State law may restrict by way of a legislative measure the scope of the obligations and rights provided for in points (a) to (e) of Article 5 and Articles 11 to 20 and Article 32, when such a restriction constitutes a necessary and proportionate measure in a democratic society to safeguard:",
+			"new": "Union or Member State law may restrict by way of a legislative measure the scope of the obligations and rights provided for in points (a) to (e) of Article 5 and Articles 11 to 19 and Article 32, when such a restriction constitutes a necessary and proportionate measure in a democratic society to safeguard:",
+			"del": [
+				"20"
+			],
+			"ins": [
+				"19"
+			]
+		},
+		"diff": "<span>Union or Member State law may restrict by way of a legislative measure the scope of the obligations and rights provided for in points (a) to (e) of Article 5 and Articles 11 to </span><del>20</del><ins>19</ins><span> and Article 32, when such a restriction constitutes a necessary and proportionate measure in a democratic society to safeguard:</span>",
+		"relations": [
+			"a21p1"
+		],
+		"patterns": [
+			"a21p1"
+		],
+		"uid": "7df216835b1f31d99ba71b0156e0f0c074768daf",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "9",
+		"text": {
+			"old": "To further strengthen the control over their own data and their right of access, data subjects should have the right, where personal data are processed by electronic means and in a structured and commonly used format, to obtain a copy of the data concerning them also in commonly used electronic format. The data subject should also be allowed to transmit those data, which they have provided, from one automated application, such as a social network, into another one. This should apply where the data subject provided the data to the automated processing system, based on their consent or in the performance of a contract.",
+			"new": "To further strengthen the control over their own data and their right of access, data subjects should have the right, where personal data are processed by electronic means and in a structured and commonly used format, to obtain a copy of the data concerning them also in commonly used, interoperable, and where possible open source electronic format. The data subject should also be allowed to transmit those data, which they have provided, from one automated application, such as a social network, into another one. Providers of information society services should not make the transfer of those data mandatory for the provision of their services. Social networks should be encouraged as much as possible to store data in a way which permits efficient data portability for data subjects.",
+			"del": [
+				" ",
+				"This should apply where the data subject provided the data to the automated processing system, based on their consent or in the performance of a contract."
+			],
+			"ins": [
+				", interoperable, and where possible open source ",
+				"Providers of information society services should not make the transfer of those data mandatory for the provision of their services. Social networks should be encouraged as much as possible to store data in a way which permits efficient data portability for data subjects."
+			]
+		},
+		"diff": "<span>To further strengthen the control over their own data and their right of access, data subjects should have the right, where personal data are processed by electronic means and in a structured and commonly used format, to obtain a copy of the data concerning them also in commonly used</span><del> </del><ins>, interoperable, and where possible open source </ins><span>electronic format. The data subject should also be allowed to transmit those data, which they have provided, from one automated application, such as a social network, into another one. </span><del>This should apply where the data subject provided the data to the automated processing system, based on their consent or in the performance of a contract.</del><ins>Providers of information society services should not make the transfer of those data mandatory for the provision of their services. Social networks should be encouraged as much as possible to store data in a way which permits efficient data portability for data subjects.</ins>",
+		"relations": [
+			"r55"
+		],
+		"patterns": [
+			"r55"
+		],
+		"uid": "7f7dd5f679d5198042577c9462292ffded8b430f",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "14",
+		"text": {
+			"old": "",
+			"new": "In the case of processing based on the legitimate interest ground referred to in point (f) of paragraph 1, the controller shall inform the data subject about this explicitly and separately. The controller shall also publish the reasons for believing that its interests override the interests or fundamental rights and freedoms of the data subject.",
+			"del": [],
+			"ins": [
+				"In the case of processing based on the legitimate interest ground referred to in point (f) of paragraph 1, the controller shall inform the data subject about this explicitly and separately. The controller shall also publish the reasons for believing that its interests override the interests or fundamental rights and freedoms of the data subject."
+			]
+		},
+		"diff": "<ins>In the case of processing based on the legitimate interest ground referred to in point (f) of paragraph 1, the controller shall inform the data subject about this explicitly and separately. The controller shall also publish the reasons for believing that its interests override the interests or fundamental rights and freedoms of the data subject.</ins>",
+		"relations": [
+			"a6p3+"
+		],
+		"patterns": [
+			"a6p3+"
+		],
+		"uid": "859379253716ac0f837b2cdf43a39d9f707499a3",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "26",
+		"text": {
+			"old": "The communication of a personal data breach to the data subject shall not be required if the controller demonstrates to the satisfaction of the supervisory authority that it has implemented appropriate technological protection measures, and that those measures were applied to the data concerned by the personal data breach. Such technological protection measures shall render the data unintelligible to any person who is not authorised to access it.",
+			"new": "",
+			"del": [
+				"The communication of a personal data breach to the data subject shall not be required if the controller demonstrates to the satisfaction of the supervisory authority that it has implemented appropriate technological protection measures, and that those measures were applied to the data concerned by the personal data breach. Such technological protection measures shall render the data unintelligible to any person who is not authorised to access it."
+			],
+			"ins": []
+		},
+		"diff": "<del>The communication of a personal data breach to the data subject shall not be required if the controller demonstrates to the satisfaction of the supervisory authority that it has implemented appropriate technological protection measures, and that those measures were applied to the data concerned by the personal data breach. Such technological protection measures shall render the data unintelligible to any person who is not authorised to access it.</del>",
+		"relations": [
+			"a32p3"
+		],
+		"patterns": [
+			"a32p3"
+		],
+		"uid": "85ebe8cee750bd65c6579fcbac82892094beace9",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "20",
+		"text": {
+			"old": "is carried out in the course of the entering into, or performance of, a contract, where the request for the entering into or the performance of the contract, lodged by the data subject, has been satisfied or where suitable measures to safeguard the data subject's legitimate interests have been adduced, such as the right to obtain human intervention; or",
+			"new": "is necessary for the performance of a contract to which the data subject is a party or for the implementation of pre-contractual measures taken at the request data subject, provided that suitable measures to safeguard the data subject's legitimate interests have been adduced, such as the right to obtain human intervention including the right to an explanation of the decision reached after such an intervention; or",
+			"del": [
+				"is carried out in the course of the entering into, or ",
+				",",
+				", where the request for the entering into or the performance of the contract, lodged by the ",
+				"has been satisfied or where "
+			],
+			"ins": [
+				"is necessary for the ",
+				" to which the data subject is a party or for the implementation of pre-contractual measures taken at the request ",
+				"provided that ",
+				" including the right to an explanation of the decision reached after such an intervention"
+			]
+		},
+		"diff": "<del>is carried out in the course of the entering into, or </del><ins>is necessary for the </ins><span>performance of</span><del>,</del><span> a contract</span><del>, where the request for the entering into or the performance of the contract, lodged by the </del><ins> to which the data subject is a party or for the implementation of pre-contractual measures taken at the request </ins><span>data subject, </span><del>has been satisfied or where </del><ins>provided that </ins><span>suitable measures to safeguard the data subject's legitimate interests have been adduced, such as the right to obtain human intervention</span><ins> including the right to an explanation of the decision reached after such an intervention</ins><span>; or</span>",
+		"relations": [
+			"a20p2i1"
+		],
+		"patterns": [
+			"a20p2i1"
+		],
+		"uid": "8bbbce7b4b8c631bfe615f1b7fa7c33466e76fb7",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "22",
+		"text": {
+			"old": "a monitoring, inspection or regulatory function connected, even occasionally, with the exercise of official authority in cases referred to in (a), (b), (c) and (d);",
+			"new": "",
+			"del": [
+				"a monitoring, inspection or regulatory function connected, even occasionally, with the exercise of official authority in cases referred to in (a), (b), (c) and (d);"
+			],
+			"ins": []
+		},
+		"diff": "<del>a monitoring, inspection or regulatory function connected, even occasionally, with the exercise of official authority in cases referred to in (a), (b), (c) and (d);</del>",
+		"relations": [
+			"a21p1i5"
+		],
+		"patterns": [
+			"a21p1i5"
+		],
+		"uid": "8ccefeca490db9e93e88d317e799082ccf8bbf92",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "7",
+		"text": {
+			"old": "The controller should use all reasonable measures to verify the identity of a data subject that requests access, in particular in the context of online services and online identifiers. A controller should not retain personal data for the unique purpose of being able to react to potential requests.",
+			"new": "The controller should use all reasonable measures to verify the authenticity of a subjects access request, in particular in the context of online services and online identifiers. A controller should not retain personal data for the unique purpose of being able to react to potential requests.",
+			"del": [
+				"identity",
+				"data subject that requests access"
+			],
+			"ins": [
+				"authenticity",
+				"subjects access request"
+			]
+		},
+		"diff": "<span>The controller should use all reasonable measures to verify the </span><del>identity</del><ins>authenticity</ins><span> of a </span><del>data subject that requests access</del><ins>subjects access request</ins><span>, in particular in the context of online services and online identifiers. A controller should not retain personal data for the unique purpose of being able to react to potential requests.</span>",
+		"relations": [
+			"r52"
+		],
+		"patterns": [
+			"r52"
+		],
+		"uid": "8ebb2bc4fec64c7ccd63bc02393bd7b311b9dbb2",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "6",
+		"text": {
+			"old": "The processing of personal data for other purposes should be only allowed where the processing is compatible with those purposes for which the data have been initially collected, in particular where the processing is necessary for historical, statistical or scientific research purposes. Where the other purpose is not compatible with the initial one for which the data are collected, the controller should obtain the consent of the data subject for this other purpose or should base the processing on another legitimate ground for lawful processing, in particular where provided by Union law or the law of the Member State to which the controller is subject. In any case, the application of the principles set out by this Regulation and in particular the information of the data subject on those other purposes should be ensured.",
+			"new": "The processing of personal data for other purposes should be only allowed where the processing is compatible with those purposes for which the data have been initially collected, in particular where the processing is necessary for historical, statistical or scientific research purposes. In any case, the application of the principles set out by this Regulation and in particular the information of the data subject on those other purposes should be ensured.",
+			"del": [
+				"Where the other purpose is not compatible with the initial one for which the data are collected, the controller should obtain the consent of the data subject for this other purpose or should base the processing on another legitimate ground for lawful processing, in particular where provided by Union law or the law of the Member State to which the controller is subject. "
+			],
+			"ins": []
+		},
+		"diff": "<span>The processing of personal data for other purposes should be only allowed where the processing is compatible with those purposes for which the data have been initially collected, in particular where the processing is necessary for historical, statistical or scientific research purposes. </span><del>Where the other purpose is not compatible with the initial one for which the data are collected, the controller should obtain the consent of the data subject for this other purpose or should base the processing on another legitimate ground for lawful processing, in particular where provided by Union law or the law of the Member State to which the controller is subject. </del><span>In any case, the application of the principles set out by this Regulation and in particular the information of the data subject on those other purposes should be ensured.</span>",
+		"relations": [
+			"r40"
+		],
+		"patterns": [
+			"r40"
+		],
+		"uid": "93e54a62ede5ce77d7f5476343e4a70b0e1ec8ab",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "27",
+		"text": {
+			"old": "",
+			"new": "The European Data Protection Board shall issue guidance on when such exemptions or derogations may be necessary, after consultation with representatives of the press, authors and artists, data subjects and relevant civil society organisations.",
+			"del": [],
+			"ins": [
+				"The European Data Protection Board shall issue guidance on when such exemptions or derogations may be necessary, after consultation with representatives of the press, authors and artists, data subjects and relevant civil society organisations."
+			]
+		},
+		"diff": "<ins>The European Data Protection Board shall issue guidance on when such exemptions or derogations may be necessary, after consultation with representatives of the press, authors and artists, data subjects and relevant civil society organisations.</ins>",
+		"relations": [
+			"a80p1+"
+		],
+		"patterns": [
+			"a80p1+"
+		],
+		"uid": "94610b98d278d7c9d3b9b48929f8e855597ea0e9",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "11",
+		"text": {
+			"old": "the offering of goods or services to such data subjects in the Union; or",
+			"new": "the offering of goods or services to such data subjects in the Union, irespective of whether payment for these goods or services is required; or",
+			"del": [],
+			"ins": [
+				", irespective of whether payment for these goods or services is required"
+			]
+		},
+		"diff": "<span>the offering of goods or services to such data subjects in the Union</span><ins>, irespective of whether payment for these goods or services is required</ins><span>; or</span>",
+		"relations": [
+			"a3p2i1"
+		],
+		"patterns": [
+			"a3p2i1"
+		],
+		"uid": "94c4420808cbcc3b774e9f803972d5f7919de808",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "19",
+		"text": {
+			"old": "The data subject shall have the right, where personal data are processed by electronic means and in a structured and commonly used format, to obtain from the controller a copy of data undergoing processing in an electronic and structured format which is commonly used and allows for further use by the data subject.",
+			"new": "The data subject shall have the right, where personal data are processed by electronic means, to obtain from the controller a copy of data undergoing processing in an electronic, interoperable and structured format which is commonly used and allows for further use by the data subject.",
+			"del": [
+				" and in a structured and commonly used format",
+				" "
+			],
+			"ins": [
+				", interoperable "
+			]
+		},
+		"diff": "<span>The data subject shall have the right, where personal data are processed by electronic means</span><del> and in a structured and commonly used format</del><span>, to obtain from the controller a copy of data undergoing processing in an electronic</span><del> </del><ins>, interoperable </ins><span>and structured format which is commonly used and allows for further use by the data subject.</span>",
+		"relations": [
+			"a18p1"
+		],
+		"patterns": [
+			"a18p1"
+		],
+		"uid": "9976deac2c37d42361650752bbec5ef50e3ea1cf",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "9",
+		"text": {
+			"old": "Restrictions on specific principles and on the rights of information, access, rectification and erasure or on the right to data portability, the right to object, measures based on profiling, as well as on the communication of a personal data breach to a data subject and on certain related obligations of the controllers may be imposed by Union or Member State law, as far as necessary and proportionate in a democratic society to safeguard public security, including the protection of human life especially in response to natural or man made disasters, the prevention, investigation and prosecution of criminal offences or of breaches of ethics for regulated professions, other public interests of the Union or of a Member State, in particular an important economic or financial interest of the Union or of a Member State, or the protection of the data subject or the rights and freedoms of others. Those restrictions should be in compliance with requirements set out by the Charter of Fundamental Rights of the European Union and by the European Convention for the Protection of Human Rights and Fundamental Freedoms.",
+			"new": "Restrictions on specific principles and on the rights of information, access, rectification and erasure or on the right to data portability, the right to object, measures based on profiling, as well as on the communication of a personal data breach to a data subject and on certain related obligations of the controllers may be imposed by Union or Member State law, as far as strictly necessary and proportionate in a democratic society to safeguard public security, including the protection of human life especially in response to natural or man made disasters, the prevention, investigation and prosecution of criminal offences or of breaches of ethics for regulated professions, other public interests of the Union or of a Member State, in particular an important economic or financial interest of the Union or of a Member State, or the protection of the data subject or the rights and freedoms of others. Those restrictions should be in compliance with requirements set out by the Charter of Fundamental Rights of the European Union and by the European Convention for the Protection of Human Rights and Fundamental Freedoms. Any such measure should be notified to the Data Protection Board for an opinion which, if negative, should result in a referral to the Commission with view to starting an infringement procedure before the European Court of Justice.",
+			"del": [],
+			"ins": [
+				"strictly ",
+				" Any such measure should be notified to the Data Protection Board for an opinion which, if negative, should result in a referral to the Commission with view to starting an infringement procedure before the European Court of Justice."
+			]
+		},
+		"diff": "<span>Restrictions on specific principles and on the rights of information, access, rectification and erasure or on the right to data portability, the right to object, measures based on profiling, as well as on the communication of a personal data breach to a data subject and on certain related obligations of the controllers may be imposed by Union or Member State law, as far as </span><ins>strictly </ins><span>necessary and proportionate in a democratic society to safeguard public security, including the protection of human life especially in response to natural or man made disasters, the prevention, investigation and prosecution of criminal offences or of breaches of ethics for regulated professions, other public interests of the Union or of a Member State, in particular an important economic or financial interest of the Union or of a Member State, or the protection of the data subject or the rights and freedoms of others. Those restrictions should be in compliance with requirements set out by the Charter of Fundamental Rights of the European Union and by the European Convention for the Protection of Human Rights and Fundamental Freedoms.</span><ins> Any such measure should be notified to the Data Protection Board for an opinion which, if negative, should result in a referral to the Commission with view to starting an infringement procedure before the European Court of Justice.</ins>",
+		"relations": [
+			"r59"
+		],
+		"patterns": [
+			"r59"
+		],
+		"uid": "a037ec543d7024eb1af5df5cd1f7aafcfecc7ec7",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "7",
+		"text": {
+			"old": "However, it is not necessary to impose this obligation where the data subject already disposes of this information, or where the recording or disclosure of the data is expressly laid down by law, or where the provision of information to the data subject proves impossible or would involve disproportionate efforts. The latter could be particularly the case where processing is for historical, statistical or scientific research purposes; in this regard, the number of data subjects, the age of the data, and any compensatory measures adopted may be taken into consideration.",
+			"new": "However, it is not necessary to impose this obligation where the data subject already disposes of this information, or where the recording or disclosure of the data is expressly laid down by law, or where the provision of information to the data subject proves impossible or would involve disproportionate efforts.",
+			"del": [
+				" The latter could be particularly the case where processing is for historical, statistical or scientific research purposes; in this regard, the number of data subjects, the age of the data, and any compensatory measures adopted may be taken into consideration."
+			],
+			"ins": []
+		},
+		"diff": "<span>However, it is not necessary to impose this obligation where the data subject already disposes of this information, or where the recording or disclosure of the data is expressly laid down by law, or where the provision of information to the data subject proves impossible or would involve disproportionate efforts.</span><del> The latter could be particularly the case where processing is for historical, statistical or scientific research purposes; in this regard, the number of data subjects, the age of the data, and any compensatory measures adopted may be taken into consideration.</del>",
+		"relations": [
+			"r50"
+		],
+		"patterns": [
+			"r50"
+		],
+		"uid": "a1aa2e151ff59ab9480bdec8733c26607f1b3529",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "4",
+		"text": {
+			"old": "When using online services, individuals may be associated with online identifiers provided by their devices, applications, tools and protocols, such as Internet Protocol addresses or cookie identifiers. This may leave traces which, combined with unique identifiers and other information received by the servers, may be used to create profiles of the individuals and identify them. It follows that identification numbers, location data, online identifiers or other specific factors as such need not necessarily be considered as personal data in all circumstances.",
+			"new": "When using online services, individuals may be associated with one or more online identifiers provided by their devices, applications, tools and protocols, such as Internet Protocol addresses or cookie identifiers and other unique identifiers. Since these identifiers leave traces and can be used to single out natural persons, this Regulation should be applicable to processing involving such data, unless these identifiers demonstrably do no relate to natural persons, such as for example the IP addresses used by companies, wich cannot be considered as 'personal data' as defined in article 4(2).",
+			"del": [
+				". This may ",
+				"which, combined with unique identifiers and other information received by the servers, may be used to create profiles of the individuals and identify them. It follows that identification numbers, location data, online identifiers or other specific factors as such need not necessarily ",
+				" in all circumstances."
+			],
+			"ins": [
+				"one or more ",
+				" and other unique identifiers. Since these identifiers ",
+				"and can be used to single out natural persons, this Regulation should be applicable to processing involving such data, unless these identifiers demonstrably do no relate to natural persons, such as for example the IP addresses used by companies, wich cannot ",
+				"'",
+				"' as defined in article 4(2)."
+			]
+		},
+		"diff": "<span>When using online services, individuals may be associated with </span><ins>one or more </ins><span>online identifiers provided by their devices, applications, tools and protocols, such as Internet Protocol addresses or cookie identifiers</span><del>. This may </del><ins> and other unique identifiers. Since these identifiers </ins><span>leave traces </span><del>which, combined with unique identifiers and other information received by the servers, may be used to create profiles of the individuals and identify them. It follows that identification numbers, location data, online identifiers or other specific factors as such need not necessarily </del><ins>and can be used to single out natural persons, this Regulation should be applicable to processing involving such data, unless these identifiers demonstrably do no relate to natural persons, such as for example the IP addresses used by companies, wich cannot </ins><span>be considered as </span><ins>'</ins><span>personal data</span><del> in all circumstances.</del><ins>' as defined in article 4(2).</ins>",
+		"relations": [
+			"r24"
+		],
+		"patterns": [
+			"r24"
+		],
+		"uid": "a1c5cbcfc602af36549c73a24a749a5bf90f02cc",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "20",
+		"text": {
+			"old": "Measures based on profiling",
+			"new": "Profiling and measures based on profiling",
+			"del": [
+				"Measures "
+			],
+			"ins": [
+				"Profiling and measures "
+			]
+		},
+		"diff": "<del>Measures </del><ins>Profiling and measures </ins><span>based on profiling</span>",
+		"relations": [
+			"a20"
+		],
+		"patterns": [
+			"a20"
+		],
+		"uid": "a42f5c263b63a3f543b646c7d4787af6b2b2dff4",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "26",
+		"text": {
+			"old": "The communication to the data subject referred to in paragraph 1 shall describe the nature of the personal data breach and contain at least the information and the recommendations provided for in points (b) and (c) of Article 31(3).",
+			"new": "The communication to the data subject referred to in paragraph 1 shall describe the nature of the personal data breach and contain at least the information and the recommendations provided for in points (a) to (e) of Article 31(3). The communication to the data subject shall furthermore, taking into account the nature of the personal data breach the number of data subjects involved and the cost of such communications, contain all the information necessary to guarantee provision of fair and accurate information.",
+			"del": [
+				"b) and (c"
+			],
+			"ins": [
+				"a) to (e",
+				" The communication to the data subject shall furthermore, taking into account the nature of the personal data breach the number of data subjects involved and the cost of such communications, contain all the information necessary to guarantee provision of fair and accurate information."
+			]
+		},
+		"diff": "<span>The communication to the data subject referred to in paragraph 1 shall describe the nature of the personal data breach and contain at least the information and the recommendations provided for in points (</span><del>b) and (c</del><ins>a) to (e</ins><span>) of Article 31(3).</span><ins> The communication to the data subject shall furthermore, taking into account the nature of the personal data breach the number of data subjects involved and the cost of such communications, contain all the information necessary to guarantee provision of fair and accurate information.</ins>",
+		"relations": [
+			"a32p2"
+		],
+		"patterns": [
+			"a32p2"
+		],
+		"uid": "a7236f3744f08d1c61dca8ca2ec4be47bd7bfd31",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "17",
+		"text": {
+			"old": "the recipients or categories of recipients to whom the personal data are to be or have been disclosed, in particular to recipients in third countries;",
+			"new": "the recipients to whom the personal data are to be or have been disclosed to, including all recipients in third countries;",
+			"del": [
+				"or categories of recipients ",
+				", in particular to "
+			],
+			"ins": [
+				" to, including all "
+			]
+		},
+		"diff": "<span>the recipients </span><del>or categories of recipients </del><span>to whom the personal data are to be or have been disclosed</span><del>, in particular to </del><ins> to, including all </ins><span>recipients in third countries;</span>",
+		"relations": [
+			"a15p1i3"
+		],
+		"patterns": [
+			"a15p1i3"
+		],
+		"uid": "ab17da3cd961aaf41a036b5247dd4b667d53b691",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "25",
+		"text": {
+			"old": "",
+			"new": "The supervisory authority maintains public register of all notified data breaches which can be accessed free of charge.",
+			"del": [],
+			"ins": [
+				"The supervisory authority maintains public register of all notified data breaches which can be accessed free of charge."
+			]
+		},
+		"diff": "<ins>The supervisory authority maintains public register of all notified data breaches which can be accessed free of charge.</ins>",
+		"relations": [
+			"a35p4+"
+		],
+		"patterns": [
+			"a35p4+"
+		],
+		"uid": "ab550d18afd1f8ea8394f37ae686d3f93caf350f",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "3",
+		"text": {
+			"old": "The principles of protection should apply to any information concerning an identified or identifiable person. To determine whether a person is identifiable, account should be taken of all the means likely to be used either by the controller or by any other person to identify the individual. The principles of data protection should not apply to data rendered anonymous in such a way that the data subject is no longer identifiable.",
+			"new": "The principles of protection should apply to any information concerning an identified or identifiable person. To determine whether a person is identifiable, account should be taken of all the means likely reasonably to be used either by the controller or by any other person to identify the individual. The principles of data protection should not apply to data rendered anonymous in such a way that the data subject is no longer identifiable, taking full account of the technological \"state of the art\" and technological trends.",
+			"del": [
+				"."
+			],
+			"ins": [
+				"reasonably ",
+				", taking full account of the technological \"state of the art\" and technological trends."
+			]
+		},
+		"diff": "<span>The principles of protection should apply to any information concerning an identified or identifiable person. To determine whether a person is identifiable, account should be taken of all the means likely </span><ins>reasonably </ins><span>to be used either by the controller or by any other person to identify the individual. The principles of data protection should not apply to data rendered anonymous in such a way that the data subject is no longer identifiable</span><del>.</del><ins>, taking full account of the technological \"state of the art\" and technological trends.</ins>",
+		"relations": [
+			"r23"
+		],
+		"patterns": [
+			"r23"
+		],
+		"uid": "ae75a6362e508d31fe17b12df41449f7bc01140a",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "9",
+		"text": {
+			"old": "Every natural person should have the right not to be subject to a measure which is based on profiling by means of automated processing. However, such measure should be allowed when expressly authorised by law, carried out in the course of entering or performance of a contract, or when the data subject has given his consent. In any case, such processing should be subject to suitable safeguards, including specific information of the data subject and the right to obtain human intervention and that such measure should not concern a child.",
+			"new": "Every natural person should have the right not to be subject to a measure which is based on profiling by means of automated processing. However, such measure should be allowed when expressly authorised by law, carried out in the course of entering or performance of a contract, or when the data subject has given his consent. In any case, such processing should be subject to suitable safeguards, including specific information of the data subject and the right to obtain human intervention and that such measure should not concern a child. Specifically, such processing should never, whether intentionally or not, lead to the discrimination of data subjects on the basis of race or ethnic origin, political opinions, religion or beliefs, trade union membership, or sexual orientation. Given the risk of discrimination, such processing should not be used in order to predict very rare characteristics.",
+			"del": [],
+			"ins": [
+				" Specifically, such processing should never, whether intentionally or not, lead to the discrimination of data subjects on the basis of race or ethnic origin, political opinions, religion or beliefs, trade union membership, or sexual orientation. Given the risk of discrimination, such processing should not be used in order to predict very rare characteristics."
+			]
+		},
+		"diff": "<span>Every natural person should have the right not to be subject to a measure which is based on profiling by means of automated processing. However, such measure should be allowed when expressly authorised by law, carried out in the course of entering or performance of a contract, or when the data subject has given his consent. In any case, such processing should be subject to suitable safeguards, including specific information of the data subject and the right to obtain human intervention and that such measure should not concern a child.</span><ins> Specifically, such processing should never, whether intentionally or not, lead to the discrimination of data subjects on the basis of race or ethnic origin, political opinions, religion or beliefs, trade union membership, or sexual orientation. Given the risk of discrimination, such processing should not be used in order to predict very rare characteristics.</ins>",
+		"relations": [
+			"r58"
+		],
+		"patterns": [
+			"r58"
+		],
+		"uid": "af15aaa3e68b90b6c80169afcc922556d1a34a53",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "23",
+		"text": {
+			"old": "The controller shall implement mechanisms for ensuring that, by default, only those personal data are processed which are necessary for each specific purpose of the processing and are especially not collected or retained beyond the minimum necessary for those purposes, both in terms of the amount of the data and the time of their storage. In particular, those mechanisms shall ensure that by default personal data are not made accessible to an indefinite number of individuals.",
+			"new": "The controller shall implement mechanisms for ensuring that, by default, only those personal data are processed which are necessary for each specific purpose of the processing and are especially not collected or retained beyond the minimum necessary for those purposes, both in terms of the amount of the data and the time of their storage. This shall be ensured using technical and organisational measures, as appropriate. In particular, those mechanisms shall ensure that by default personal data are not made accessible to an indefinite number of individuals and the data subjects can control the distribution of their personal data.",
+			"del": [
+				"."
+			],
+			"ins": [
+				"This shall be ensured using technical and organisational measures, as appropriate. ",
+				" and the data subjects can control the distribution of their personal data."
+			]
+		},
+		"diff": "<span>The controller shall implement mechanisms for ensuring that, by default, only those personal data are processed which are necessary for each specific purpose of the processing and are especially not collected or retained beyond the minimum necessary for those purposes, both in terms of the amount of the data and the time of their storage. </span><ins>This shall be ensured using technical and organisational measures, as appropriate. </ins><span>In particular, those mechanisms shall ensure that by default personal data are not made accessible to an indefinite number of individuals</span><del>.</del><ins> and the data subjects can control the distribution of their personal data.</ins>",
+		"relations": [
+			"a23p2"
+		],
+		"patterns": [
+			"a23p2"
+		],
+		"uid": "b36b04323fe4852442ed6753ed45f9e14a48b5f8",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "10",
+		"text": {
+			"old": "Where a controller not established in the Union is processing personal data of data subjects residing in the Union whose processing activities are related to the offering of goods or services to such data subjects, or to the monitoring their behaviour, the controller should designate a representative, unless the controller is established in a third country ensuring an adequate level of protection, or the controller is a small or medium sized enterprise or a public authority or body or where the controller is only occasionally offering goods or services to such data subjects. The representative should act on behalf of the controller and may be addressed by any supervisory authority.",
+			"new": "Where a controller not established in the Union is processing personal data of data subjects residing in the Union whose processing activities are related to the offering of goods or services to such data subjects, or to the monitoring their behaviour, the controller should designate a representative, unless the controller is established in a third country ensuring an adequate level of protection, or the controller is an enterprise or a public authority or body or where the controller is only occasionally offering goods or services to such data subjects. The representative should act on behalf of the controller and may be addressed by any supervisory authority.",
+			"del": [
+				"a small or medium sized "
+			],
+			"ins": [
+				"an "
+			]
+		},
+		"diff": "<span>Where a controller not established in the Union is processing personal data of data subjects residing in the Union whose processing activities are related to the offering of goods or services to such data subjects, or to the monitoring their behaviour, the controller should designate a representative, unless the controller is established in a third country ensuring an adequate level of protection, or the controller is </span><del>a small or medium sized </del><ins>an </ins><span>enterprise or a public authority or body or where the controller is only occasionally offering goods or services to such data subjects. The representative should act on behalf of the controller and may be addressed by any supervisory authority.</span>",
+		"relations": [
+			"r63"
+		],
+		"patterns": [
+			"r63"
+		],
+		"uid": "b38b789d0f1bdc1fb4b9d05a0e7c2d2e86c9c5f3",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "20",
+		"text": {
+			"old": "Where personal data are processed for direct marketing purposes, the data subject shall have the right to object free of charge to the processing of their personal data for such marketing. This right shall be explicitly offered to the data subject in an intelligible manner and shall be clearly distinguishable from other information.",
+			"new": "Where personal data processing is based on article 6(1)(f) for direct marketing purposes, the data subject shall have the right to object free of charge at any time including at the time of the collectionof their data, to the processing of their personal data for such marketing. This right shall be explicitly offered to the data subject at least via the same channel that is used to collect the data in an intelligible manner using clear and plain language adapted to the data subject, and shall be clearly distinguishable from other information.",
+			"del": [
+				"are processed ",
+				"and "
+			],
+			"ins": [
+				"processing is based on article 6(1)(f) ",
+				"at any time including at the time of the collectionof their data, ",
+				"at least via the same channel that is used to collect the data ",
+				"using clear and plain language adapted to the data subject, and "
+			]
+		},
+		"diff": "<span>Where personal data </span><del>are processed </del><ins>processing is based on article 6(1)(f) </ins><span>for direct marketing purposes, the data subject shall have the right to object free of charge </span><ins>at any time including at the time of the collectionof their data, </ins><span>to the processing of their personal data for such marketing. This right shall be explicitly offered to the data subject </span><ins>at least via the same channel that is used to collect the data </ins><span>in an intelligible manner </span><del>and </del><ins>using clear and plain language adapted to the data subject, and </ins><span>shall be clearly distinguishable from other information.</span>",
+		"relations": [
+			"a19p2"
+		],
+		"patterns": [
+			"a19p2"
+		],
+		"uid": "b5c4fdaed5bb3d576cdab90ee2c2016109dc4150",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "26",
+		"text": {
+			"old": "When the personal data breach is likely to adversely affect the protection of the personal data or privacy of the data subject, the controller shall, after the notification referred to in Article 31, communicate the personal data breach to the data subject without undue delay.",
+			"new": "In case of a personal data breach the controller shall, after the notification referred to in Article 31, communicate the personal data breach to the data subject without undue delay.",
+			"del": [
+				"When the personal data breach is likely to adversely affect the protection of the",
+				"or privacy of the data subject, the "
+			],
+			"ins": [
+				"In case of a",
+				"breach the "
+			]
+		},
+		"diff": "<del>When the personal data breach is likely to adversely affect the protection of the</del><ins>In case of a</ins><span> personal data </span><del>or privacy of the data subject, the </del><ins>breach the </ins><span>controller shall, after the notification referred to in Article 31, communicate the personal data breach to the data subject without undue delay.</span>",
+		"relations": [
+			"a32p1"
+		],
+		"patterns": [
+			"a32p1"
+		],
+		"uid": "b70e61678acca0e90ebf097ef772d9e9283a07c2",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "22",
+		"text": {
+			"old": "In particular, any legislative measure referred to in paragraph 1 shall contain specific provisions at least as to the objectives to be pursued by the processing and the determination of the controller.",
+			"new": "In particular, any legislative measure referred to in paragraph 1 must comply with the standards of necessity and proportionality and shall contain specific provisions at least as to:",
+			"del": [
+				"shall contain specific provisions at least as to the objectives to be pursued by the processing and the determination of the controller."
+			],
+			"ins": [
+				"must comply with the standards of necessity and proportionality and shall contain specific provisions at least as to:"
+			]
+		},
+		"diff": "<span>In particular, any legislative measure referred to in paragraph 1 </span><del>shall contain specific provisions at least as to the objectives to be pursued by the processing and the determination of the controller.</del><ins>must comply with the standards of necessity and proportionality and shall contain specific provisions at least as to:</ins>",
+		"relations": [
+			"a21p2"
+		],
+		"patterns": [
+			"a21p2"
+		],
+		"uid": "b73d8ab9e1d1c030bfba839346ac2caa3cb791af",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "20",
+		"text": {
+			"old": "Every natural person shall have the right not to be subject to a measure which produces legal effects concerning this natural person or significantly affects this natural person, and which is based solely on automated processing intended to evaluate certain personal aspects relating to this natural person or to analyse or predict in particular the natural person's performance at work, economic situation, location, health, personal preferences, reliability or behaviour.",
+			"new": "Every natural person shall have the right, both off- and online, not to be subject to profiling or a measure which produces legal effects concerning this natural person or significantly affects this natural person, and which is based solely or predominantly on automated processing intended to evaluate certain personal aspects relating to this natural person or to analyse or predict in particular the natural person's performance at work, economic situation, location, health, personal preferences, reliability or behaviour.",
+			"del": [
+				" "
+			],
+			"ins": [
+				", both off- and online, ",
+				"profiling or ",
+				"or predominantly "
+			]
+		},
+		"diff": "<span>Every natural person shall have the right</span><del> </del><ins>, both off- and online, </ins><span>not to be subject to </span><ins>profiling or </ins><span>a measure which produces legal effects concerning this natural person or significantly affects this natural person, and which is based solely </span><ins>or predominantly </ins><span>on automated processing intended to evaluate certain personal aspects relating to this natural person or to analyse or predict in particular the natural person's performance at work, economic situation, location, health, personal preferences, reliability or behaviour.</span>",
+		"relations": [
+			"a20p1"
+		],
+		"patterns": [
+			"a20p1"
+		],
+		"uid": "bac35d847e522ca07f464cae70accbfd0f74837b",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "26",
+		"text": {
+			"old": "The Commission may lay down the format of the communication to the data subject referred to in paragraph 1 and the procedures applicable to that communication. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2).",
+			"new": "The Commission may lay down the format of the communication to the data subject referred to in paragraph 1 and 2 and the procedures applicable to that communication. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2).",
+			"del": [],
+			"ins": [
+				"2 and "
+			]
+		},
+		"diff": "<span>The Commission may lay down the format of the communication to the data subject referred to in paragraph 1 and </span><ins>2 and </ins><span>the procedures applicable to that communication. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 87(2).</span>",
+		"relations": [
+			"a32p6"
+		],
+		"patterns": [
+			"a32p6"
+		],
+		"uid": "bbf9e85ecb18540f1b805ff5be230a1cf89382d3",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "17",
+		"text": {
+			"old": "The data subject shall have the right to obtain from the controller at any time, on request, confirmation as to whether or not personal data relating to the data subject are being processed. Where such personal data are being processed, the controller shall provide the following information:",
+			"new": "The data subject shall have the right to obtain from the controller at any time, on request, in clear and plain language, confirmation as to whether or not personal data relating to the data subject are being processed, and as to whether the controller takes measures in respect of the data subject that are based on profiles as refered to in Article 20(1). This shall also apply to data which only permit singling out, where the data subject can verifiably authenticate him/herself. Where such personal data are being processed or such measures are taken, the controller shall provide the following information:",
+			"del": [],
+			"ins": [
+				"in clear and plain language, ",
+				", and as to whether the controller takes measures in respect of the data subject that are based on profiles as refered to in Article 20(1). This shall also apply to data which only permit singling out, where the data subject can verifiably authenticate him/herself",
+				" or such measures are taken"
+			]
+		},
+		"diff": "<span>The data subject shall have the right to obtain from the controller at any time, on request, </span><ins>in clear and plain language, </ins><span>confirmation as to whether or not personal data relating to the data subject are being processed</span><ins>, and as to whether the controller takes measures in respect of the data subject that are based on profiles as refered to in Article 20(1). This shall also apply to data which only permit singling out, where the data subject can verifiably authenticate him/herself</ins><span>. Where such personal data are being processed</span><ins> or such measures are taken</ins><span>, the controller shall provide the following information:</span>",
+		"relations": [
+			"a15p1"
+		],
+		"patterns": [
+			"a15p1"
+		],
+		"uid": "bd8f9197f1eb18baa14563c80ff54e82071a1559",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "18",
+		"text": {
+			"old": "",
+			"new": "where applicable, in what manner and for what specific purposes the data will be processed for statistical purposes and how will be ensured that data enabling the attribution of information to an identified or identifiable data subject is kept separately from the other information;",
+			"del": [],
+			"ins": [
+				"where applicable, in what manner and for what specific purposes the data will be processed for statistical purposes and how will be ensured that data enabling the attribution of information to an identified or identifiable data subject is kept separately from the other information;"
+			]
+		},
+		"diff": "<ins>where applicable, in what manner and for what specific purposes the data will be processed for statistical purposes and how will be ensured that data enabling the attribution of information to an identified or identifiable data subject is kept separately from the other information;</ins>",
+		"relations": [
+			"a15p1i8+"
+		],
+		"patterns": [
+			"a15p1i8+"
+		],
+		"uid": "bc26182f87032d6a3abbe352cb6d510944f6e5b7",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "5",
+		"text": {
+			"old": "Consent should not provide a valid legal ground for the processing of personal data, where there is a clear imbalance between the data subject and the controller. This is especially the case where the data subject is in a situation of dependence from the controller, among others, where personal data are processed by the employer of employees' personal data in the employment context. Where the controller is a public authority, there would be an imbalance only in the specific data processing operations where the public authority can impose an obligation by virtue of its relevant public powers and the consent cannot be deemed as freely given, taking into account the interest of the data subject.",
+			"new": "Consent should not provide a valid legal ground for the processing of personal data, where there is a clear imbalance between the data subject and the controller. This is especially the case where the data subject is in a situation of dependence from the controller, among others, where personal data are processed by the employer of employees' personal data in the employment context or where a controller has substantial market power with respect to certain products or services and where these products or services are offered on condition of consent to the processing of personal data, or where a unilateral and non-essential change in terms of service gives a data subject no realistic option other than to accept the change or abandon an online resource in which they have invested significant time. Where the controller is a public authority, there would be an imbalance only in the specific data processing operations where the public authority can impose an obligation by virtue of its relevant public powers and the consent cannot be deemed as freely given, taking into account the interest of the data subject.",
+			"del": [],
+			"ins": [
+				" or where a controller has substantial market power with respect to certain products or services and where these products or services are offered on condition of consent to the processing of personal data, or where a unilateral and non-essential change in terms of service gives a data subject no realistic option other than to accept the change or abandon an online resource in which they have invested significant time"
+			]
+		},
+		"diff": "<span>Consent should not provide a valid legal ground for the processing of personal data, where there is a clear imbalance between the data subject and the controller. This is especially the case where the data subject is in a situation of dependence from the controller, among others, where personal data are processed by the employer of employees' personal data in the employment context</span><ins> or where a controller has substantial market power with respect to certain products or services and where these products or services are offered on condition of consent to the processing of personal data, or where a unilateral and non-essential change in terms of service gives a data subject no realistic option other than to accept the change or abandon an online resource in which they have invested significant time</ins><span>. Where the controller is a public authority, there would be an imbalance only in the specific data processing operations where the public authority can impose an obligation by virtue of its relevant public powers and the consent cannot be deemed as freely given, taking into account the interest of the data subject.</span>",
+		"relations": [
+			"r34"
+		],
+		"patterns": [
+			"r34"
+		],
+		"uid": "be6dfcc1ae0f2563b7671e3e0306774164fe66ec",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "24",
+		"text": {
+			"old": "a controller offering only occasionally goods or services to data subjects residing in the Union.",
+			"new": "a controller offering only occasionally goods or services to data subjects residing in the Union, providing it holds less than 250 records relating to individuals residing in the Union.",
+			"del": [
+				"."
+			],
+			"ins": [
+				", providing it holds less than 250 records relating to individuals residing in the Union."
+			]
+		},
+		"diff": "<span>a controller offering only occasionally goods or services to data subjects residing in the Union</span><del>.</del><ins>, providing it holds less than 250 records relating to individuals residing in the Union.</ins>",
+		"relations": [
+			"a25p2i4"
+		],
+		"patterns": [
+			"a25p2i4"
+		],
+		"uid": "c7098df79094c16ba88365453b7e5394089f3db5",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "20",
+		"text": {
+			"old": "is expressly authorized by a Union or Member State law which also lays down suitable measures to safeguard the data subject's legitimate interests; or",
+			"new": "is expressly authorized by a Union or Member State law which also lays down suitable measures to safeguard the data subject's legitimate interests and which protects data subjects against possible discrimination resulting from measures described in paragraph 1; or",
+			"del": [],
+			"ins": [
+				" and which protects data subjects against possible discrimination resulting from measures described in paragraph 1"
+			]
+		},
+		"diff": "<span>is expressly authorized by a Union or Member State law which also lays down suitable measures to safeguard the data subject's legitimate interests</span><ins> and which protects data subjects against possible discrimination resulting from measures described in paragraph 1</ins><span>; or</span>",
+		"relations": [
+			"a20p2i2"
+		],
+		"patterns": [
+			"a20p2i2"
+		],
+		"uid": "c97a5aa817ff1110a679fe835654403fb89fd983",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "28",
+		"text": {
+			"old": "",
+			"new": "Subject only to the exception in paragraph (3), data falling within the categories of data covered by Articles 8 and 9 of the Regulation may be processed for historical, statistical or scientific research only with the consent of the data subjects, given in accordance with Article 4(8).",
+			"del": [],
+			"ins": [
+				"Subject only to the exception in paragraph (3), data falling within the categories of data covered by Articles 8 and 9 of the Regulation may be processed for historical, statistical or scientific research only with the consent of the data subjects, given in accordance with Article 4(8)."
+			]
+		},
+		"diff": "<ins>Subject only to the exception in paragraph (3), data falling within the categories of data covered by Articles 8 and 9 of the Regulation may be processed for historical, statistical or scientific research only with the consent of the data subjects, given in accordance with Article 4(8).</ins>",
+		"relations": [
+			"a83p1+"
+		],
+		"patterns": [
+			"a83p1+"
+		],
+		"uid": "d30ec9dbe10d06efa10146a43e2592344c182cd8",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "4",
+		"text": {
+			"old": "Consent should be given explicitly by any appropriate method enabling a freely given specific and informed indication of the data subject's wishes, either by a statement or by a clear affirmative action by the data subject, ensuring that individuals are aware that they give their consent to the processing of personal data, including by ticking a box when visiting an Internet website or by any other statement or conduct which clearly indicates in this context the data subject's acceptance of the proposed processing of their personal data. Silence or inactivity should therefore not constitute consent. Consent should cover all processing activities carried out for the same purpose or purposes. If the data subject's consent is to be given following an electronic request, the request must be clear, concise and not unnecessarily disruptive to the use of the service for which it is provided.",
+			"new": "Consent should be given explicitly by any appropriate method enabling a freely given specific and informed indication of the data subject's wishes, either by a statement or by a clear affirmative action by the data subject, ensuring that individuals are aware that they give their consent to the processing of personal data, including by ticking a box when visiting an Internet website or by any other statement or conduct which clearly indicates in this context the data subject's acceptance of the proposed processing of their personal data. Informed consent should be facilitated insofar as possible by user-friendly information about the types of processing to be carried out. Silence, mere use of a service, or inactivity such as not un-ticking pre-ticked boxes, should therefore not constitute consent. Consent should cover all processing activities carried out for the same purpose or purposes. If the data subject's consent is to be given following an electronic request, the request must be clear, concise and not unnecessarily disruptive to the use of the service for which it is provided.",
+			"del": [
+				"Silence "
+			],
+			"ins": [
+				"Informed consent should be facilitated insofar as possible by user-friendly information about the types of processing to be carried out. Silence, mere use of a service, ",
+				"such as not un-ticking pre-ticked boxes, "
+			]
+		},
+		"diff": "<span>Consent should be given explicitly by any appropriate method enabling a freely given specific and informed indication of the data subject's wishes, either by a statement or by a clear affirmative action by the data subject, ensuring that individuals are aware that they give their consent to the processing of personal data, including by ticking a box when visiting an Internet website or by any other statement or conduct which clearly indicates in this context the data subject's acceptance of the proposed processing of their personal data. </span><del>Silence </del><ins>Informed consent should be facilitated insofar as possible by user-friendly information about the types of processing to be carried out. Silence, mere use of a service, </ins><span>or inactivity </span><ins>such as not un-ticking pre-ticked boxes, </ins><span>should therefore not constitute consent. Consent should cover all processing activities carried out for the same purpose or purposes. If the data subject's consent is to be given following an electronic request, the request must be clear, concise and not unnecessarily disruptive to the use of the service for which it is provided.</span>",
+		"relations": [
+			"r25"
+		],
+		"patterns": [
+			"r25"
+		],
+		"uid": "d3f8bfec0a193ef45b7626b334d03ac71b6e3162",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "19",
+		"text": {
+			"old": "Where the data subject has provided the personal data and the processing is based on consent or on a contract, the data subject shall have the right to transmit those personal data and any other information provided by the data subject and retained by an automated processing system, into another one, in an electronic format which is commonly used, without hindrance from the controller from whom the personal data are withdrawn.",
+			"new": "Where the data subject has provided the personal data, the data subject shall have the right to transmit those personal data and any other information provided by the data subject and retained by an automated processing system, into another one, in an electronic format which is commonly used, without hindrance from the controller from whom the personal data are withdrawn.",
+			"del": [
+				" and the processing is based on consent or on a contract"
+			],
+			"ins": []
+		},
+		"diff": "<span>Where the data subject has provided the personal data</span><del> and the processing is based on consent or on a contract</del><span>, the data subject shall have the right to transmit those personal data and any other information provided by the data subject and retained by an automated processing system, into another one, in an electronic format which is commonly used, without hindrance from the controller from whom the personal data are withdrawn.</span>",
+		"relations": [
+			"a18p2"
+		],
+		"patterns": [
+			"a18p2"
+		],
+		"uid": "d418c829af8abdc600ccdfc8a1088f7014d65de9",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "28",
+		"text": {
+			"old": "Bodies conducting historical, statistical or scientific research may publish or otherwise publicly disclose personal data only if:",
+			"new": "Bodies conducting historical, statistical or scientific research may publish or otherwise publicly disclose personal data only with the consent of the data subjects, given in accordance with Article 4(8)",
+			"del": [
+				"if:"
+			],
+			"ins": [
+				"with the consent of the data subjects, given in accordance with Article 4(8)"
+			]
+		},
+		"diff": "<span>Bodies conducting historical, statistical or scientific research may publish or otherwise publicly disclose personal data only </span><del>if:</del><ins>with the consent of the data subjects, given in accordance with Article 4(8)</ins>",
+		"relations": [
+			"a83p2"
+		],
+		"patterns": [
+			"a83p2"
+		],
+		"uid": "d98e044630dea46c2c82bff50e5e14b051831b8e",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "22",
+		"text": {
+			"old": "other public interests of the Union or of a Member State, in particular an important economic or financial interest of the Union or of a Member State, including monetary, budgetary and taxation matters and the protection of market stability and integrity;",
+			"new": "other important public interests of the Union or of a Member State, in particular an important economic or financial interest of the Union or of a Member State, including monetary, budgetary and taxation matters;",
+			"del": [
+				"other ",
+				" and the protection of market stability and integrity;"
+			],
+			"ins": [
+				"other important ",
+				";"
+			]
+		},
+		"diff": "<del>other </del><ins>other important </ins><span>public interests of the Union or of a Member State, in particular an important economic or financial interest of the Union or of a Member State, including monetary, budgetary and taxation matters</span><del> and the protection of market stability and integrity;</del><ins>;</ins>",
+		"relations": [
+			"a21p1i3"
+		],
+		"patterns": [
+			"a21p1i3"
+		],
+		"uid": "dec1356ba956187d268f3dabb5a5aa1ab530ed35",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Adobe_EU Vorschlag zur Datenschutz Grundverordnung Änderungsvorschläge 20120713.pdf",
+		"page": "0",
+		"text": {
+			"old": "Die Einwilligung sollte explizit mittels einer geeigneten Methode erfolgen, die eine ohne Zwang, für den konkreten Fall und in Kenntnis der Sachlage abgegebene Willensbekundung der betroffenen Person in Form einer Erklärung oder einer eindeutigen Handlung ermöglicht, die sicherstellt, dass der betreffenden Person bewusst ist, dass sie ihre Einwilligung in die Verarbeitung personenbezogener Daten gibt, etwa durch Anklicken eines Kästchens beim Besuch einer Internetseite und durch jede sonstige Erklärung oder Verhaltensweise, mit der die betroffene Person in dem jeweiligen Kontext klar und deutlich ihr Einverständnis mit der beabsichtigten Verarbeitung ihrer personenbezogenen Daten signalisiert. Eine stillschweigende Einwilligung ohne Zutun der betroffenen Person stellt daher keine Einwilligung dar. Die Einwilligung sollte sich auf alle zu demselben Zweck oder denselben Zwecken vorgenommene Verarbeitungsvorgänge beziehen. Wird die betroffene Person auf elektronischem Weg zur Einwilligung aufgefordert, muss die Aufforderung in klarer und knapper Form und ohne unnötige Unterbrechung des Dienstes, in dessen Bereitstellung eingewilligt wird, erfolgen.",
+			"new": "Die Einwilligung sollte mittels einer geeigneten Methode erfolgen, die eine ohne Zwang, für den konkreten Fall und in Kenntnis der Sachlage abgegebene Willensbekundung der betroffenen Person in Form einer Erklärung oder einer eindeutigen Handlung ermöglicht, oder durch Vornahne einer anderen Handlung die auf eine Einwilligung schliessen lässt, die sicherstellt, dass der betreffenden Person bewusst ist, dass sie ihre Einwilligung in die Verarbeitung personenbezogener Daten gibt. Die Einwilligung kann erteilt werden etwa durch Anklicken eines Kästchens beim Besuch einer Internetseite und durch jede sonstige Erklärung oder Verhaltensweise, mit der die betroffene Person in dem jeweiligen Kontext klar und deutlich ihr Einverständnis mit der beabsichtigten Verarbeitung ihrer personenbezogenen Daten signalisiert. Die Einwilligung sollte sich auf alle zu demselben Zweck oder denselben Zwecken vorgenommene Verarbeitungsvorgänge beziehen. Wird die betroffene Person auf elektronischem Weg zur Einwilligung aufgefordert, muss die Aufforderung in klarer und knapper Form und ohne unnötige Unterbrechung des Dienstes, in dessen Bereitstellung eingewilligt wird, erfolgen.",
+			"del": [
+				"explizit ",
+				"die ",
+				", ",
+				"Eine stillschweigende Einwilligung ohne Zutun der betroffenen Person stellt daher keine Einwilligung dar. "
+			],
+			"ins": [
+				"oder durch Vornahne einer anderen Handlung die auf eine Einwilligung schliessen lässt, die ",
+				". Die Einwilligung kann erteilt werden "
+			]
+		},
+		"diff": "<span>Die Einwilligung sollte </span><del>explizit </del><span>mittels einer geeigneten Methode erfolgen, die eine ohne Zwang, für den konkreten Fall und in Kenntnis der Sachlage abgegebene Willensbekundung der betroffenen Person in Form einer Erklärung oder einer eindeutigen Handlung ermöglicht, </span><del>die </del><ins>oder durch Vornahne einer anderen Handlung die auf eine Einwilligung schliessen lässt, die </ins><span>sicherstellt, dass der betreffenden Person bewusst ist, dass sie ihre Einwilligung in die Verarbeitung personenbezogener Daten gibt</span><del>, </del><ins>. Die Einwilligung kann erteilt werden </ins><span>etwa durch Anklicken eines Kästchens beim Besuch einer Internetseite und durch jede sonstige Erklärung oder Verhaltensweise, mit der die betroffene Person in dem jeweiligen Kontext klar und deutlich ihr Einverständnis mit der beabsichtigten Verarbeitung ihrer personenbezogenen Daten signalisiert. </span><del>Eine stillschweigende Einwilligung ohne Zutun der betroffenen Person stellt daher keine Einwilligung dar. </del><span>Die Einwilligung sollte sich auf alle zu demselben Zweck oder denselben Zwecken vorgenommene Verarbeitungsvorgänge beziehen. Wird die betroffene Person auf elektronischem Weg zur Einwilligung aufgefordert, muss die Aufforderung in klarer und knapper Form und ohne unnötige Unterbrechung des Dienstes, in dessen Bereitstellung eingewilligt wird, erfolgen.</span>",
+		"relations": [
+			"r25"
+		],
+		"patterns": [
+			"r25"
+		],
+		"uid": "01c87557bc89ed98f1d3719caa3034936cdc5d8d",
+		"doc_uid": "a4ed3b21474e353365fcc9a7aa9e6a68f0d2f328",
+		"lobbyist_title": "Adobe"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "24",
+		"text": {
+			"old": "an enterprise employing fewer than 250 persons; or",
+			"new": "an enterprise holding less than 250 records containing personal data relating to individuals; or",
+			"del": [
+				"employing fewer",
+				"persons"
+			],
+			"ins": [
+				"holding less",
+				"records containing personal data relating to individuals"
+			]
+		},
+		"diff": "<span>an enterprise </span><del>employing fewer</del><ins>holding less</ins><span> than 250 </span><del>persons</del><ins>records containing personal data relating to individuals</ins><span>; or</span>",
+		"relations": [
+			"a25p2i2"
+		],
+		"patterns": [
+			"a25p2i2"
+		],
+		"uid": "dff1e6bb8f6d7166a371f23329ba2419908668a1",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "21",
+		"text": {
+			"old": "is based on the data subject's consent, subject to the conditions laid down in Article 7 and to suitable safeguards.",
+			"new": "is based on the data subject's consent, subject to the conditions laid down in Article 7 and to suitable safeguards, including effective protection against possible discrimination resulting from measures described in paragraph 1; or",
+			"del": [
+				"."
+			],
+			"ins": [
+				", including effective protection against possible discrimination resulting from measures described in paragraph 1; or"
+			]
+		},
+		"diff": "<span>is based on the data subject's consent, subject to the conditions laid down in Article 7 and to suitable safeguards</span><del>.</del><ins>, including effective protection against possible discrimination resulting from measures described in paragraph 1; or</ins>",
+		"relations": [
+			"a20p2i3"
+		],
+		"patterns": [
+			"a20p2i3"
+		],
+		"uid": "e7cc16774571a5730a32a9defcf5fd4bfc9d9ba8",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "24",
+		"text": {
+			"old": "a controller established in a third country where the Commission has decided that the third country ensures an adequate level of protection in accordance with Article 41; or",
+			"new": "",
+			"del": [
+				"a controller established in a third country where the Commission has decided that the third country ensures an adequate level of protection in accordance with Article 41; or"
+			],
+			"ins": []
+		},
+		"diff": "<del>a controller established in a third country where the Commission has decided that the third country ensures an adequate level of protection in accordance with Article 41; or</del>",
+		"relations": [
+			"a25p2i1"
+		],
+		"patterns": [
+			"a25p2i1"
+		],
+		"uid": "eb88d810c861f9b43bb47dfe45ae40b31de5715a",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "27",
+		"text": {
+			"old": "Member States shall provide for exemptions or derogations from the provisions on the general principles in Chapter II, the rights of the data subject in Chapter III, on controller and processor in Chapter IV, on the transfer of personal data to third countries and international organisations in Chapter V, the independent supervisory authorities in Chapter VI and on co-operation and consistency in Chapter VII for the processing of personal data carried out solely for journalistic purposes or the purpose of artistic or literary expression in order to reconcile the right to the protection of personal data with the rules governing freedom of expression.",
+			"new": "Member States shall provide for exemptions or derogations from the provisions on the general principles in Chapter II, the rights of the data subject in Chapter III, on controller and processor in Chapter IV, on the transfer of personal data to third countries and international organisations in Chapter V, the independent supervisory authorities in Chapter VI and on co-operation and consistency in Chapter VII whenever this is necessary in order to reconcile the right to the protection of personal data with the rules governing freedom of expression.",
+			"del": [
+				"for the processing of personal data carried out solely for journalistic purposes or the purpose of artistic or literary expression "
+			],
+			"ins": [
+				"whenever this is necessary "
+			]
+		},
+		"diff": "<span>Member States shall provide for exemptions or derogations from the provisions on the general principles in Chapter II, the rights of the data subject in Chapter III, on controller and processor in Chapter IV, on the transfer of personal data to third countries and international organisations in Chapter V, the independent supervisory authorities in Chapter VI and on co-operation and consistency in Chapter VII </span><del>for the processing of personal data carried out solely for journalistic purposes or the purpose of artistic or literary expression </del><ins>whenever this is necessary </ins><span>in order to reconcile the right to the protection of personal data with the rules governing freedom of expression.</span>",
+		"relations": [
+			"a80p1"
+		],
+		"patterns": [
+			"a80p1"
+		],
+		"uid": "df140aca8d8a196d1dde00f758eb42cc86742b6e",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "23",
+		"text": {
+			"old": "Having regard to the state of the art and the cost of implementation, the controller shall, both at the time of the determination of the means for processing and at the time of the processing itself, implement appropriate technical and organisational measures and procedures in such a way that the processing will meet the requirements of this Regulation and ensure the protection of the rights of the data subject.",
+			"new": "Having regard to the state of the art and the cost of implementation, the controller shall, both at the time of the determination of the means for processing and at the time of the processing itself, implement appropriate measures and procedures in such a way that the processing will meet the requirements of this Regulation and ensure the protection of the rights of the data subject. This shall include both:",
+			"del": [
+				"technical and organisational "
+			],
+			"ins": [
+				" This shall include both:"
+			]
+		},
+		"diff": "<span>Having regard to the state of the art and the cost of implementation, the controller shall, both at the time of the determination of the means for processing and at the time of the processing itself, implement appropriate </span><del>technical and organisational </del><span>measures and procedures in such a way that the processing will meet the requirements of this Regulation and ensure the protection of the rights of the data subject.</span><ins> This shall include both:</ins>",
+		"relations": [
+			"a23p1"
+		],
+		"patterns": [
+			"a23p1"
+		],
+		"uid": "f3bc7a518b2247c52510be179e5c926ab460e971",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "12",
+		"text": {
+			"old": "'data subject' means an identified natural person or a natural person who can be identified, directly or indirectly, by means reasonably likely to be used by the controller or by any other natural or legal person, in particular by reference to an identification number, location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person;",
+			"new": "'data subject' means an identified natural person or a natural person who can be identified or singled our, directly or indirectly, by means reasonably likely to be used by the controller or by any other natural or legal person, in particular by reference to an identification number or a unique identifier, location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person;",
+			"del": [],
+			"ins": [
+				" or singled our",
+				" or a unique identifier"
+			]
+		},
+		"diff": "<span>'data subject' means an identified natural person or a natural person who can be identified</span><ins> or singled our</ins><span>, directly or indirectly, by means reasonably likely to be used by the controller or by any other natural or legal person, in particular by reference to an identification number</span><ins> or a unique identifier</ins><span>, location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person;</span>",
+		"relations": [
+			"a4i1"
+		],
+		"patterns": [
+			"a4i1"
+		],
+		"uid": "f42f54b03ff53ec72bca6a8661e0c0f16c730663",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "3",
+		"text": {
+			"old": "In order to ensure that individuals are not deprived of the protection to which they are entitled under this Regulation, the processing of personal data of data subjects residing in the Union by a controller not established in the Union should be subject to this Regulation where the processing activities are related to the offering of goods or services to such data subjects, or to the monitoring of the behaviour of such data subjects.",
+			"new": "In order to ensure that individuals are not deprived of the protection to which they are entitled under this Regulation, the processing of personal data of data subjects residing in the Union by a controller not established in the Union should be subject to this Regulation where the processing activities are related to the offering of goods or services, including services offered free of charge, to such data subjects, or to the monitoring of the behaviour of such data subjects.",
+			"del": [
+				" "
+			],
+			"ins": [
+				", including services offered free of charge, "
+			]
+		},
+		"diff": "<span>In order to ensure that individuals are not deprived of the protection to which they are entitled under this Regulation, the processing of personal data of data subjects residing in the Union by a controller not established in the Union should be subject to this Regulation where the processing activities are related to the offering of goods or services</span><del> </del><ins>, including services offered free of charge, </ins><span>to such data subjects, or to the monitoring of the behaviour of such data subjects.</span>",
+		"relations": [
+			"r20"
+		],
+		"patterns": [
+			"r20"
+		],
+		"uid": "f45c22f3da234905618156efb57740d65f65a849",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "19",
+		"text": {
+			"old": "The data subject shall have the right to object, on grounds relating to their particular situation, at any time to the processing of personal data which is based on points (d), (e) and (f) of Article 6(1), unless the controller demonstrates compelling legitimate grounds for the processing which override the interests or fundamental rights and freedoms of the data subject.",
+			"new": "The data subject shall have the right to object, on grounds relating to their particular situation, at any time to the processing of personal data which is based on points (d) and (e) of Article 6(1), unless the controller demonstrates compelling legitimate grounds for the processing which override the interests or fundamental rights and freedoms of the data subject.",
+			"del": [
+				"), (e",
+				"f"
+			],
+			"ins": [
+				"e"
+			]
+		},
+		"diff": "<span>The data subject shall have the right to object, on grounds relating to their particular situation, at any time to the processing of personal data which is based on points (d</span><del>), (e</del><span>) and (</span><del>f</del><ins>e</ins><span>) of Article 6(1), unless the controller demonstrates compelling legitimate grounds for the processing which override the interests or fundamental rights and freedoms of the data subject.</span>",
+		"relations": [
+			"a19p1"
+		],
+		"patterns": [
+			"a19p1"
+		],
+		"uid": "f81465f4a4e6d6345c496a33b787b56529d395d3",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "15",
+		"text": {
+			"old": "the purposes of the processing for which the personal data are intended, including the contract terms and general conditions where the processing is based on point (b) of Article 6(1) and the legitimate interests pursued by the controller where the processing is based on point (f) of Article 6(1);",
+			"new": "the specific purposes of the processing for which the personal data are intended as well as information regarding the actual processing of personal data, including the contract terms and general conditions where the processing is based on point (b) of Article 6(1) and the legitimate interests pursued by the controller as wel as the reasons why the controller has concluded that this interest overrides the interests or fundamental rights and freedoms of the data subject where the processing is based on point (f) of Article 6(1);",
+			"del": [
+				"the "
+			],
+			"ins": [
+				"the specific ",
+				" as well as information regarding the actual processing of personal data",
+				"as wel as the reasons why the controller has concluded that this interest overrides the interests or fundamental rights and freedoms of the data subject "
+			]
+		},
+		"diff": "<del>the </del><ins>the specific </ins><span>purposes of the processing for which the personal data are intended</span><ins> as well as information regarding the actual processing of personal data</ins><span>, including the contract terms and general conditions where the processing is based on point (b) of Article 6(1) and the legitimate interests pursued by the controller </span><ins>as wel as the reasons why the controller has concluded that this interest overrides the interests or fundamental rights and freedoms of the data subject </ins><span>where the processing is based on point (f) of Article 6(1);</span>",
+		"relations": [
+			"a14p1i2"
+		],
+		"patterns": [
+			"a14p1i2"
+		],
+		"uid": "fb0e940de16c84d74582cb217880568df3c02990",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "Amendments DP Regulation Bits of Freedom.pdf",
+		"page": "26",
+		"text": {
+			"old": "Without prejudice to the controller's obligation to communicate the personal data breach to the data subject, if the controller has not already communicated the personal data breach to the data subject of the personal data breach, the supervisory authority, having considered the likely adverse effects of the breach, may require it to do so.",
+			"new": "",
+			"del": [
+				"Without prejudice to the controller's obligation to communicate the personal data breach to the data subject, if the controller has not already communicated the personal data breach to the data subject of the personal data breach, the supervisory authority, having considered the likely adverse effects of the breach, may require it to do so."
+			],
+			"ins": []
+		},
+		"diff": "<del>Without prejudice to the controller's obligation to communicate the personal data breach to the data subject, if the controller has not already communicated the personal data breach to the data subject of the personal data breach, the supervisory authority, having considered the likely adverse effects of the breach, may require it to do so.</del>",
+		"relations": [
+			"a32p4"
+		],
+		"patterns": [
+			"a32p4"
+		],
+		"uid": "fc622ac551d110f011156888edcea19960071d4f",
+		"doc_uid": "69592ccf3fba172be27b3a5d65c2ffc89f1bda54",
+		"lobbyist_title": "Bits of Freedom"
+	},
+	{
+		"doc": "eBay-recommendation-ahead-of-IMCO-vote.pdf",
+		"page": "1",
+		"text": {
+			"old": "‘main establishment’ means as regards the controller, the place of its establishment in the Union where the main decisions as to the purposes, conditions and means of the processing of personal data are taken; if no decisions as to the purposes, conditions and means of the processing of personal data are taken in the Union, the main establishment is the place where the main processing activities in the context of the activities of an establishment of a controller in the Union take place. As regards the processor, 'main establishment' means the place of its central administration in the Union;",
+			"new": "‘main establishment’ means the location as designated by the undertaking or group of undertakings, whether controller or processor, on the basis of, but not limited to, the following optional objective criteria: (1) the location of the European headquarters of a group of undertakings; (2) the location of the entity within a group of undertakings with delegated data protection responsibilities; (3) the location of the entity within the group which is best placed in terms of management functions and administrative responsibilities to deal with and enforce the rules as set out in this Regulation; or (4) the location where effective and real management activities are exercised determining the data processing through stable arrangements. The competent authority shall be informed by the undertaking or group of undertakings of the designation of the main establishment;",
+			"del": [
+				"as regards the controller, the place of its establishment in the Union where the main decisions as to the purposes, conditions and means ",
+				"processing of personal data are taken; if no decisions as to the purposes, conditions and means of the processing of personal data are taken in the Union, the main establishment is the place where the main processing activities in the context of the activities of an establishment of a controller in the Union take place. As regards the processor, 'main establishment' means the place of its central administration in the Union;"
+			],
+			"ins": [
+				"the location as designated by the undertaking or group of undertakings, whether controller or processor, on the basis of, but not limited to, the following optional objective criteria: (1) the location ",
+				"European headquarters of a group of undertakings; (2) the location of the entity within a group of undertakings with delegated data protection responsibilities; (3) the location of the entity within the group which is best placed in terms of management functions and administrative responsibilities to deal with and enforce the rules as set out in this Regulation; or (4) the location where effective and real management activities are exercised determining the data processing through stable arrangements. The competent authority shall be informed by the undertaking or group of undertakings of the designation of the main establishment;"
+			]
+		},
+		"diff": "<span>‘main establishment’ means </span><del>as regards the controller, the place of its establishment in the Union where the main decisions as to the purposes, conditions and means </del><ins>the location as designated by the undertaking or group of undertakings, whether controller or processor, on the basis of, but not limited to, the following optional objective criteria: (1) the location </ins><span>of the </span><del>processing of personal data are taken; if no decisions as to the purposes, conditions and means of the processing of personal data are taken in the Union, the main establishment is the place where the main processing activities in the context of the activities of an establishment of a controller in the Union take place. As regards the processor, 'main establishment' means the place of its central administration in the Union;</del><ins>European headquarters of a group of undertakings; (2) the location of the entity within a group of undertakings with delegated data protection responsibilities; (3) the location of the entity within the group which is best placed in terms of management functions and administrative responsibilities to deal with and enforce the rules as set out in this Regulation; or (4) the location where effective and real management activities are exercised determining the data processing through stable arrangements. The competent authority shall be informed by the undertaking or group of undertakings of the designation of the main establishment;</ins>",
+		"relations": [
+			"a4i13"
+		],
+		"patterns": [
+			"a4i13"
+		],
+		"uid": "d8eee2935a0f88c8d36c69fc56659c20a4f147f6",
+		"doc_uid": "612208c44b5bc1e173035b5426d38a944a2cfeed",
+		"lobbyist_title": "eBay"
+	},
+	{
+		"doc": "DIGITALEUROPE_Amendments-to-Data-Protection-Regulation_final.pdf",
+		"page": "95",
+		"text": {
+			"old": "",
+			"new": "(a) Aggravating factors that support administrative fines at the upper limits established in paragraphs 4 to 6 shall include in particular: (i) repeated violations committed in reckless disregard of applicable law; (ii) refusal to co-operate with or obstruction of an enforcement process; and (iii) violations that are deliberate, serious and likely to cause substantial damage.",
+			"del": [],
+			"ins": [
+				"(a) Aggravating factors that support administrative fines at the upper limits established in paragraphs 4 to 6 shall include in particular: (i) repeated violations committed in reckless disregard of applicable law; (ii) refusal to co-operate with or obstruction of an enforcement process; and (iii) violations that are deliberate, serious and likely to cause substantial damage."
+			]
+		},
+		"diff": "<ins>(a) Aggravating factors that support administrative fines at the upper limits established in paragraphs 4 to 6 shall include in particular: (i) repeated violations committed in reckless disregard of applicable law; (ii) refusal to co-operate with or obstruction of an enforcement process; and (iii) violations that are deliberate, serious and likely to cause substantial damage.</ins>",
+		"relations": [
+			"a79p2+"
+		],
+		"patterns": [
+			"a79p2+"
+		],
+		"uid": "6e02aa4f744699bd87e8a9a783319bf5accc4cef",
+		"doc_uid": "308698917a345d2ccf4e7109dd717072560c3444",
+		"lobbyist_title": "DIGITALEUROPE"
+	},
+	{
+		"doc": "DIGITALEUROPE_Amendments-to-Data-Protection-Regulation_final.pdf",
+		"page": "96",
+		"text": {
+			"old": "",
+			"new": "Mitigating factors which support administrative fines at the lower limits shall include: (i) measures having been taken by the natural or legal person to ensure compliance with relevant obligations; (ii) genuine uncertainty as to whether the activity constituted a violation of the relevant obligations; (iii) immediate termination of the violation upon knowledge; and (iv) co-operation with any enforcement processes.",
+			"del": [],
+			"ins": [
+				"Mitigating factors which support administrative fines at the lower limits shall include: (i) measures having been taken by the natural or legal person to ensure compliance with relevant obligations; (ii) genuine uncertainty as to whether the activity constituted a violation of the relevant obligations; (iii) immediate termination of the violation upon knowledge; and (iv) co-operation with any enforcement processes."
+			]
+		},
+		"diff": "<ins>Mitigating factors which support administrative fines at the lower limits shall include: (i) measures having been taken by the natural or legal person to ensure compliance with relevant obligations; (ii) genuine uncertainty as to whether the activity constituted a violation of the relevant obligations; (iii) immediate termination of the violation upon knowledge; and (iv) co-operation with any enforcement processes.</ins>",
+		"relations": [
+			"a79p2+"
+		],
+		"patterns": [
+			"a79p2+"
+		],
+		"uid": "24701c51aa741dd0461dc353c07223ffd50b44d7",
+		"doc_uid": "308698917a345d2ccf4e7109dd717072560c3444",
+		"lobbyist_title": "DIGITALEUROPE"
 	}
 ]

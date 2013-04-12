@@ -342,7 +342,7 @@
 		},
 		"id": 22,
 		"lobbyist": "bof",
-		"imported": false
+		"imported": true
 	},
 	{
 		"uid": "3406fd3682bfc999758ebf0e6d12e91615d0089c",
