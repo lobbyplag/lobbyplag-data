@@ -43,8 +43,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -187,7 +187,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -219,8 +219,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -411,7 +411,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -443,8 +443,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -491,8 +491,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -619,7 +619,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -843,8 +843,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -936,8 +936,8 @@
 		"proposal": "79d62827e09fcc0b83b95823c4e7cd0aebd9dabf",
 		"implication": null,
 		"match": 1,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -1179,7 +1179,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -1211,7 +1211,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -1499,7 +1499,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -1528,8 +1528,8 @@
 		"proposal": "0cd744e414a6d35f03a2a2b3d9ce64ea0ca3ecac",
 		"implication": null,
 		"match": 1,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -1771,8 +1771,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -1798,10 +1798,10 @@
 		],
 		"amendment": "44514c96f613e1fc27cd88dc1f50dc9272a268a9",
 		"proposal": "663af4275fa7a5581148bea06460e2d6feaf5b5e",
-		"implication": null,
+		"implication": 3,
 		"match": 1,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -1931,7 +1931,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 2,
 			"verified": 0
 		}
 	},
@@ -2011,7 +2011,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -2139,8 +2139,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -2299,7 +2299,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -2635,8 +2635,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -2683,8 +2683,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -2763,7 +2763,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -3131,7 +3131,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -3371,8 +3371,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -3528,8 +3528,8 @@
 		"proposal": "f751088e09fe89599f7c1d9770e5aa61250b0757",
 		"implication": null,
 		"match": 1,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -3544,8 +3544,8 @@
 		"proposal": "f751088e09fe89599f7c1d9770e5aa61250b0757",
 		"implication": null,
 		"match": 1,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -3560,8 +3560,8 @@
 		"proposal": "f751088e09fe89599f7c1d9770e5aa61250b0757",
 		"implication": null,
 		"match": 1,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -3576,8 +3576,8 @@
 		"proposal": "94ce209b8e3d6c699f2701495c5153dc6c686e6e",
 		"implication": null,
 		"match": 1,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -3931,8 +3931,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -4027,8 +4027,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -4171,7 +4171,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -4267,8 +4267,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -4315,8 +4315,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -4667,7 +4667,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -4715,7 +4715,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -4731,7 +4731,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -5099,7 +5099,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -5259,7 +5259,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -5467,7 +5467,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -5723,7 +5723,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -5803,7 +5803,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -6107,8 +6107,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -6123,7 +6123,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -6219,7 +6219,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -6267,7 +6267,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -6539,7 +6539,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -6619,8 +6619,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -6811,7 +6811,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 2,
 			"verified": 0
 		}
 	},
@@ -7192,8 +7192,8 @@
 		"proposal": "cda181152973d0182335119495e126bac4ce18c2",
 		"implication": null,
 		"match": 0.7272727272727273,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -7355,8 +7355,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -7400,8 +7400,8 @@
 		"proposal": "9e6d97202402f70ac7230e5a0c3b5ae2e74e8c44",
 		"implication": null,
 		"match": 0.7178812070506777,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -7515,7 +7515,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -7531,8 +7531,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -8344,8 +8344,8 @@
 		"proposal": "d8c0b5434c62701235d7a3bf1e8cfa3b2c40f8a9",
 		"implication": null,
 		"match": 0.6915525534491049,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -8379,8 +8379,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -8475,7 +8475,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -8715,8 +8715,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -8939,8 +8939,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -9083,7 +9083,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -9238,10 +9238,10 @@
 		],
 		"amendment": "5718ece8e6e3b22f24f96f963a50b09b608c4adf",
 		"proposal": "ad716719772e4ccd4f5653dd6316731547eeeb1b",
-		"implication": null,
+		"implication": 11,
 		"match": 0.6758441558441557,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -9254,10 +9254,10 @@
 		],
 		"amendment": "311efa6ac3c210d668a348f9ee6ea9d8c4790041",
 		"proposal": "ad716719772e4ccd4f5653dd6316731547eeeb1b",
-		"implication": null,
+		"implication": 11,
 		"match": 0.6758441558441557,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -9270,10 +9270,10 @@
 		],
 		"amendment": "daa9364e4d9c5e3a973ee3da41a29835fba86ba3",
 		"proposal": "ad716719772e4ccd4f5653dd6316731547eeeb1b",
-		"implication": null,
+		"implication": 11,
 		"match": 0.6758441558441557,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -9304,8 +9304,8 @@
 		"proposal": "6067f2e4702c004bfba3267de8a02c2649e3697d",
 		"implication": null,
 		"match": 0.6742479305021583,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -9464,8 +9464,8 @@
 		"proposal": "ac40d4d345384792cbf31aa8b4ec64f1f0d63467",
 		"implication": null,
 		"match": 0.6725117397386307,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -9483,7 +9483,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -9496,11 +9496,11 @@
 		"proposal": "c9b3fef35bfa90de43121b1d1102f65221f51448",
 		"implication": null,
 		"match": 0.6715436537233419,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 2,
+			"verified": 2
 		}
 	},
 	{
@@ -9595,7 +9595,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -9622,13 +9622,13 @@
 		],
 		"amendment": "fa659293ec00c1ec59a345a0b5db13310a7cc4c9",
 		"proposal": "96a3f6737618dc4711cf6d997e87e1fc5fb5c14e",
-		"implication": null,
+		"implication": 12,
 		"match": 0.6697820040565534,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -9638,10 +9638,10 @@
 		],
 		"amendment": "1e503f934d178a3e4bd09ad262ec641800c88d69",
 		"proposal": "96a3f6737618dc4711cf6d997e87e1fc5fb5c14e",
-		"implication": null,
+		"implication": 12,
 		"match": 0.6697820040565534,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -9654,10 +9654,10 @@
 		],
 		"amendment": "f8713dc1f74240e91909eb44d3d07610a578f629",
 		"proposal": "96a3f6737618dc4711cf6d997e87e1fc5fb5c14e",
-		"implication": null,
+		"implication": 12,
 		"match": 0.6697820040565534,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -9672,8 +9672,8 @@
 		"proposal": "8bf5b0c3eb510e23ad603961d0e43c07b1d2cc1e",
 		"implication": null,
 		"match": 0.669159420289855,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -9691,7 +9691,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -9787,7 +9787,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -10011,8 +10011,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -10072,8 +10072,8 @@
 		"proposal": "03ed2ad8430404db556258cac627829bb13443a3",
 		"implication": null,
 		"match": 0.6665070242656448,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -10136,8 +10136,8 @@
 		"proposal": "03ed2ad8430404db556258cac627829bb13443a3",
 		"implication": null,
 		"match": 0.6665070242656448,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -10235,8 +10235,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -10251,8 +10251,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -10315,8 +10315,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -10363,7 +10363,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -10488,8 +10488,8 @@
 		"proposal": "e6ba7acee8d22fdda03ca1e70c9a434363e490c3",
 		"implication": null,
 		"match": 0.6622716031010965,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -10504,8 +10504,8 @@
 		"proposal": "e6ba7acee8d22fdda03ca1e70c9a434363e490c3",
 		"implication": null,
 		"match": 0.6622716031010965,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -10520,8 +10520,8 @@
 		"proposal": "e6ba7acee8d22fdda03ca1e70c9a434363e490c3",
 		"implication": null,
 		"match": 0.6622716031010965,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -10555,8 +10555,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -10571,7 +10571,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -10683,7 +10683,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -10811,7 +10811,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -10856,8 +10856,8 @@
 		"proposal": "18f42897dabfd5faa3f8b3782b12769e4b5737ea",
 		"implication": null,
 		"match": 0.6551324261385179,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -10872,8 +10872,8 @@
 		"proposal": "18f42897dabfd5faa3f8b3782b12769e4b5737ea",
 		"implication": null,
 		"match": 0.6551324261385179,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -10888,8 +10888,8 @@
 		"proposal": "18f42897dabfd5faa3f8b3782b12769e4b5737ea",
 		"implication": null,
 		"match": 0.6551324261385179,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -10907,7 +10907,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -10971,7 +10971,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -11131,7 +11131,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -11419,8 +11419,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -11579,7 +11579,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -11595,7 +11595,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -11611,7 +11611,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -11643,7 +11643,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -11704,8 +11704,8 @@
 		"proposal": "57a87a3db19ee99cd0a433ef0dbc09847345e6d0",
 		"implication": null,
 		"match": 0.6448022061327741,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -11736,8 +11736,8 @@
 		"proposal": "47837ff7a037aa3c2cf3be5e469401e4d560d454",
 		"implication": null,
 		"match": 0.6445925569290434,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -11755,8 +11755,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -11947,7 +11947,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -12075,7 +12075,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -12134,10 +12134,10 @@
 		],
 		"amendment": "69ddc3ecf8af9c6a7162f057fc1060a690e676e0",
 		"proposal": "9b865500c9ef4b3b54258f9041bd06ac9e0bdff5",
-		"implication": null,
+		"implication": 14,
 		"match": 0.6385841477000751,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -12939,7 +12939,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -13019,7 +13019,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -13163,8 +13163,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -13288,8 +13288,8 @@
 		"proposal": "bd34e52c02444a3ae9ef9ce888a5a8dd4d7df153",
 		"implication": null,
 		"match": 0.6245466045655799,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -13384,8 +13384,8 @@
 		"proposal": "5157bafc4b4153cb9dd72fb0be182ab1055b6987",
 		"implication": null,
 		"match": 0.6236386420596947,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -13419,7 +13419,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -13608,8 +13608,8 @@
 		"proposal": "9d3ce0e4d821f9c4cdda2f35766ccf2e76146471",
 		"implication": null,
 		"match": 0.6222943722943723,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -13624,8 +13624,8 @@
 		"proposal": "5c7de990eadada1078d3bd4fa2928d04178e9fae",
 		"implication": null,
 		"match": 0.6222943722943723,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -13755,8 +13755,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -13960,11 +13960,11 @@
 		"proposal": "133038ffd203db924ddf3be58e4a8047d4b1cbc1",
 		"implication": null,
 		"match": 0.6200466200466199,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -14184,8 +14184,8 @@
 		"proposal": "315d150dcc74a0894af5d81852331530cfb88a74",
 		"implication": null,
 		"match": 0.6190476190476188,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -14235,7 +14235,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -14392,11 +14392,11 @@
 		"proposal": "29cd017221409cf3798f3cc5c594076add500c33",
 		"implication": null,
 		"match": 0.6153846153846154,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -14411,8 +14411,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -14571,7 +14571,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -14694,13 +14694,13 @@
 		],
 		"amendment": "70e6add84bbb91d092641e3177510d77e6739b12",
 		"proposal": "062f8f794039faf38621b32a68d43319cb77b610",
-		"implication": null,
+		"implication": 13,
 		"match": 0.6130501536134985,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -15067,7 +15067,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -15243,7 +15243,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -15499,7 +15499,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -15528,8 +15528,8 @@
 		"proposal": "d25a2bd053e01d0c527aace7807759e0dd55360b",
 		"implication": null,
 		"match": 0.6059497440634376,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -15560,8 +15560,8 @@
 		"proposal": "d25a2bd053e01d0c527aace7807759e0dd55360b",
 		"implication": null,
 		"match": 0.6059497440634376,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -15576,8 +15576,8 @@
 		"proposal": "2cf7e47d3379e4256f9b4514bda46dfc609f1f76",
 		"implication": null,
 		"match": 0.6054918966841796,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -15595,7 +15595,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -15883,8 +15883,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -16011,7 +16011,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -16043,7 +16043,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -16171,8 +16171,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -16203,8 +16203,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -16763,7 +16763,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -16824,11 +16824,11 @@
 		"proposal": "73128419c5c441d6426e64d46416114cf026837d",
 		"implication": null,
 		"match": 0.5915248794631682,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -16934,10 +16934,10 @@
 		],
 		"amendment": "c91e56fa56eefc2eaec9f181744780e04a681dbb",
 		"proposal": "b59c30c31946ec4b8178acf6cfcacc768d408941",
-		"implication": null,
+		"implication": 1,
 		"match": 0.590568505876494,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -16950,10 +16950,10 @@
 		],
 		"amendment": "8cee6192a75cdafc1a6f148d65af6d2f858ca24f",
 		"proposal": "c337e551ecb80abe06702ec1762c018757445e5a",
-		"implication": null,
+		"implication": 9,
 		"match": 0.5903679169252032,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -16966,10 +16966,10 @@
 		],
 		"amendment": "d3a2ccd42a62ab1b41a2e6e23c47981302a8fde8",
 		"proposal": "c337e551ecb80abe06702ec1762c018757445e5a",
-		"implication": null,
+		"implication": 9,
 		"match": 0.5903679169252032,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -17147,8 +17147,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -17419,8 +17419,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -17451,7 +17451,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -17528,8 +17528,8 @@
 		"proposal": "b8e729b734bebd69fc248d3668eb769e6f03c416",
 		"implication": null,
 		"match": 0.5854593749330592,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -17627,7 +17627,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -17979,7 +17979,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -18104,8 +18104,8 @@
 		"proposal": "1b0f1c92fed44b109e5c506c9a6397ff0e41268b",
 		"implication": null,
 		"match": 0.5762242080670041,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -18219,8 +18219,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -18283,8 +18283,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -18443,7 +18443,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -18779,7 +18779,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -18790,10 +18790,10 @@
 		],
 		"amendment": "8ff2851902518caf3ae90fa26041a34f51384ce3",
 		"proposal": "96a3f6737618dc4711cf6d997e87e1fc5fb5c14e",
-		"implication": null,
+		"implication": 12,
 		"match": 0.5685323089423695,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -18856,8 +18856,8 @@
 		"proposal": "489f7424bae12065d02dac53fe17a11fd6973d08",
 		"implication": null,
 		"match": 0.5684745362164716,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -18907,8 +18907,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -18923,8 +18923,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -19227,7 +19227,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -19318,10 +19318,10 @@
 		],
 		"amendment": "da6b2cd2d368cfc0ac23ce99d7c25200e0c93b33",
 		"proposal": "b59c30c31946ec4b8178acf6cfcacc768d408941",
-		"implication": null,
+		"implication": 1,
 		"match": 0.5594594053770281,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -19499,7 +19499,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -19627,8 +19627,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -19819,7 +19819,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -20235,8 +20235,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -20475,7 +20475,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -20539,7 +20539,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -20680,8 +20680,8 @@
 		"proposal": "7fc107b58fcdaca574d8bbedea3d7093910b60a5",
 		"implication": null,
 		"match": 0.5412576960580964,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -20696,8 +20696,8 @@
 		"proposal": "7fc107b58fcdaca574d8bbedea3d7093910b60a5",
 		"implication": null,
 		"match": 0.5412576960580964,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -20712,8 +20712,8 @@
 		"proposal": "7fc107b58fcdaca574d8bbedea3d7093910b60a5",
 		"implication": null,
 		"match": 0.5412576960580964,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -20731,7 +20731,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -20966,10 +20966,10 @@
 		],
 		"amendment": "a5f1d527d8b900f0c11314669a206163cae1c6c3",
 		"proposal": "c53080925e8c997375b141af6072f2083ff8a399",
-		"implication": null,
+		"implication": 13,
 		"match": 0.5403174603174603,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -21014,10 +21014,10 @@
 		],
 		"amendment": "888d381ae5f508803f8b6af4386ed64bd5b2561a",
 		"proposal": "c53080925e8c997375b141af6072f2083ff8a399",
-		"implication": null,
+		"implication": 13,
 		"match": 0.5403174603174603,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -21030,10 +21030,10 @@
 		],
 		"amendment": "70e6add84bbb91d092641e3177510d77e6739b12",
 		"proposal": "c53080925e8c997375b141af6072f2083ff8a399",
-		"implication": null,
+		"implication": 13,
 		"match": 0.5403174603174603,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -21051,7 +21051,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -21062,10 +21062,10 @@
 		],
 		"amendment": "888d381ae5f508803f8b6af4386ed64bd5b2561a",
 		"proposal": "062f8f794039faf38621b32a68d43319cb77b610",
-		"implication": null,
+		"implication": 13,
 		"match": 0.5403174603174603,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -21115,8 +21115,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -21158,10 +21158,10 @@
 		],
 		"amendment": "b514e98530765f435f59f7eb150ecf08e45fac9e",
 		"proposal": "062f8f794039faf38621b32a68d43319cb77b610",
-		"implication": null,
+		"implication": 13,
 		"match": 0.5403174603174603,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -21174,10 +21174,10 @@
 		],
 		"amendment": "a5f1d527d8b900f0c11314669a206163cae1c6c3",
 		"proposal": "062f8f794039faf38621b32a68d43319cb77b610",
-		"implication": null,
+		"implication": 13,
 		"match": 0.5403174603174603,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -21206,10 +21206,10 @@
 		],
 		"amendment": "b514e98530765f435f59f7eb150ecf08e45fac9e",
 		"proposal": "c53080925e8c997375b141af6072f2083ff8a399",
-		"implication": null,
+		"implication": 13,
 		"match": 0.5403174603174603,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -21419,8 +21419,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -21483,7 +21483,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -21835,8 +21835,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -21867,7 +21867,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -22043,7 +22043,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -22107,7 +22107,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -22251,7 +22251,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -22315,8 +22315,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -22987,8 +22987,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -23286,10 +23286,10 @@
 		],
 		"amendment": "b88f6504543db921250c5a73f163ce52b5b5483c",
 		"proposal": "aafa625b7b5ae79c8bdbf992326285131de21fdd",
-		"implication": null,
+		"implication": 6,
 		"match": 0.5172708692307952,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -23318,10 +23318,10 @@
 		],
 		"amendment": "3dbde39308207617245bcab46cb5c2b67d85e16b",
 		"proposal": "aafa625b7b5ae79c8bdbf992326285131de21fdd",
-		"implication": null,
+		"implication": 6,
 		"match": 0.5172708692307952,
-		"checked": false,
-		"verified": false,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
@@ -23483,8 +23483,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -23499,7 +23499,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -23531,7 +23531,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -23739,8 +23739,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 1,
+			"verified": 1
 		}
 	},
 	{
@@ -24395,7 +24395,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -24491,7 +24491,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -24907,7 +24907,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -25259,7 +25259,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -25563,7 +25563,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 2,
 			"verified": 0
 		}
 	},
@@ -25579,7 +25579,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -25755,8 +25755,8 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
-			"verified": 0
+			"checked": 2,
+			"verified": 2
 		}
 	},
 	{
@@ -25899,7 +25899,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -26251,7 +26251,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -26283,7 +26283,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -26555,7 +26555,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -26795,7 +26795,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -26827,7 +26827,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -26891,7 +26891,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -27371,7 +27371,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -27387,7 +27387,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -27883,7 +27883,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -28379,7 +28379,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -28427,7 +28427,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -28635,7 +28635,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -28939,7 +28939,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -29115,7 +29115,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 2,
 			"verified": 0
 		}
 	},
@@ -29371,7 +29371,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -29531,7 +29531,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 2,
 			"verified": 0
 		}
 	},
@@ -29739,7 +29739,7 @@
 		"checked": false,
 		"verified": false,
 		"processing": {
-			"checked": 0,
+			"checked": 1,
 			"verified": 0
 		}
 	},
@@ -29818,6 +29818,1798 @@
 		"match": 0.4001734979079141,
 		"checked": false,
 		"verified": false,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "43ed9f5f59dbbb96cd12c2ea48e713555ed97278",
+		"relations": [
+			"a4i13"
+		],
+		"amendment": "da6b2cd2d368cfc0ac23ce99d7c25200e0c93b33",
+		"proposal": "d8eee2935a0f88c8d36c69fc56659c20a4f147f6",
+		"implication": 1,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "c1568bd877bf25f471d47d776de812f0f956453f",
+		"relations": [
+			"a4i13"
+		],
+		"amendment": "c91e56fa56eefc2eaec9f181744780e04a681dbb",
+		"proposal": "d8eee2935a0f88c8d36c69fc56659c20a4f147f6",
+		"implication": 1,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "2b217fe59aeed239f10e1d04c91a795fe0232693",
+		"relations": [
+			"a4i3+"
+		],
+		"amendment": "c1f365d19d875421e08a4de60d16f7637756d07d",
+		"proposal": "06d7520b5de3de733df1997e038656d994d49742",
+		"implication": 2,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "d1e456fe492534310896b575a65616372375d15b",
+		"relations": [
+			"a4i2+"
+		],
+		"amendment": "bec9b9bb03f3076582ab86ee7e03166b733ad89b",
+		"proposal": "06d7520b5de3de733df1997e038656d994d49742",
+		"implication": 2,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "3ffe450241a7bcb84aef65ea600812014f27e426",
+		"relations": [
+			"a4i2+"
+		],
+		"amendment": "9869abb3c60604f4d065303c0fb6a136407c8469",
+		"proposal": "06d7520b5de3de733df1997e038656d994d49742",
+		"implication": 2,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "5131e6db093bd5b591157b584a3af5f3b5571c2d",
+		"relations": [
+			"a4i3+"
+		],
+		"amendment": "9afc799cc0000424601c78e5bb322f14a6b5aa97",
+		"proposal": "06d7520b5de3de733df1997e038656d994d49742",
+		"implication": 2,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "a2c0246398195982350639570639bdf78dd4bc47",
+		"relations": [
+			"a4i3+"
+		],
+		"amendment": "c1f365d19d875421e08a4de60d16f7637756d07d",
+		"proposal": "e7a1f4b03db91a02ab838ec1c3f7c20f3047ca87",
+		"implication": 2,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "d4b2b89348276d070c7a97e366620fc59450c112",
+		"relations": [
+			"a4i2+"
+		],
+		"amendment": "bec9b9bb03f3076582ab86ee7e03166b733ad89b",
+		"proposal": "e7a1f4b03db91a02ab838ec1c3f7c20f3047ca87",
+		"implication": 2,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "38a05fe298f6913096e350da56c2dfa0affd9578",
+		"relations": [
+			"a4i2+"
+		],
+		"amendment": "9869abb3c60604f4d065303c0fb6a136407c8469",
+		"proposal": "e7a1f4b03db91a02ab838ec1c3f7c20f3047ca87",
+		"implication": 2,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "9f9e85f16e545db243be8fea6f3f010a115678f9",
+		"relations": [
+			"a4i3+"
+		],
+		"amendment": "9afc799cc0000424601c78e5bb322f14a6b5aa97",
+		"proposal": "e7a1f4b03db91a02ab838ec1c3f7c20f3047ca87",
+		"implication": 2,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "cbcec45f7e480483003816b1c2187eadc09bcd45",
+		"relations": [
+			"a6p1i5"
+		],
+		"amendment": "82c5ebf8aaeeae959c48dd67166d713f23df7ff4",
+		"proposal": "663af4275fa7a5581148bea06460e2d6feaf5b5e",
+		"implication": 3,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "01e8c1297586f727f5fd6eee5bebb1f79382d065",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "71e467fb59155fd45d2fc930e4524ceff0497854",
+		"proposal": "a6890339e89884a117b5601b202500ebb1a7c21d",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "4d38a750f2888f908a617e18872aa6fd3128871a",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "fada2e4a64d26d24427172f64a9ce77a7c36c5ac",
+		"proposal": "a6890339e89884a117b5601b202500ebb1a7c21d",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "0eabe56525b9f042b8dc7e7b3f02e3d75d09bbda",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "0926d23b5b919bc864d8621890342e40bf29d7e5",
+		"proposal": "a6890339e89884a117b5601b202500ebb1a7c21d",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "924bd34a783a8d3e59060022cf10cc72accf6ae6",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "92bcb949771e667806ec25c3e076a52fab5c9304",
+		"proposal": "a6890339e89884a117b5601b202500ebb1a7c21d",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "fff36ea6bca8cb4000220bce2e1571e4a34d0013",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "71e467fb59155fd45d2fc930e4524ceff0497854",
+		"proposal": "6e02aa4f744699bd87e8a9a783319bf5accc4cef",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "2f9010aae5f92cdd7530d0934f8bce704554a501",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "fada2e4a64d26d24427172f64a9ce77a7c36c5ac",
+		"proposal": "6e02aa4f744699bd87e8a9a783319bf5accc4cef",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "e85e7619c279093757b8965bfa142736857fde50",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "0926d23b5b919bc864d8621890342e40bf29d7e5",
+		"proposal": "6e02aa4f744699bd87e8a9a783319bf5accc4cef",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "8966532c9609af95ac1a25dad859e1374deff4f6",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "92bcb949771e667806ec25c3e076a52fab5c9304",
+		"proposal": "6e02aa4f744699bd87e8a9a783319bf5accc4cef",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "6127f8d60a5c1a42555c3769410981168a91aec3",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "5da004ed4a1500d68d3e8f8e7249fd5b49ff1823",
+		"proposal": "33b1d18dc61670cdd84bdf5bc69eaf0647b6773f",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "4c3cc243a725d7ade224d3042ea0d1b754885fd6",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "3a32334b8b393aee911b7209d42f856c36efcd88",
+		"proposal": "33b1d18dc61670cdd84bdf5bc69eaf0647b6773f",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "5b5972796ad656d0b0b39ea4e1fa380446f3faa5",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "e5c48c5c5ccd6d51503024db0edce2f9e53a450c",
+		"proposal": "33b1d18dc61670cdd84bdf5bc69eaf0647b6773f",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "0145a810528f4c327c5a5b6c95d1962053dd36a6",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "4abd8a65da5011123fe81cbe4f125730d473cebb",
+		"proposal": "33b1d18dc61670cdd84bdf5bc69eaf0647b6773f",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "04e4ad2b560b3c67ad8eac3d8f0f1ff3fc510c7c",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "5da004ed4a1500d68d3e8f8e7249fd5b49ff1823",
+		"proposal": "24701c51aa741dd0461dc353c07223ffd50b44d7",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "4eddd4d31e7bb43a027bee5ab2b587ab97400e3d",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "3a32334b8b393aee911b7209d42f856c36efcd88",
+		"proposal": "24701c51aa741dd0461dc353c07223ffd50b44d7",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "03ddc6593180bdc56b3cd972862e4327cd668ea4",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "e5c48c5c5ccd6d51503024db0edce2f9e53a450c",
+		"proposal": "24701c51aa741dd0461dc353c07223ffd50b44d7",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "12917a71f095ccf9e8efc8a79ca778a27f7b7512",
+		"relations": [
+			"a79p2+"
+		],
+		"amendment": "4abd8a65da5011123fe81cbe4f125730d473cebb",
+		"proposal": "24701c51aa741dd0461dc353c07223ffd50b44d7",
+		"implication": 4,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "3a4c0463f578d636dd52fa1fd1d4a96fc455ac98",
+		"relations": [
+			"a73p2"
+		],
+		"amendment": "63c0a974ae2785e307bf8f978943231f3e34762f",
+		"proposal": "f1150c2d74f0a17db8036ded51929a7f71ebea18",
+		"implication": 5,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "fdb54f436ccd792a26ba211391184ceaf46556e4",
+		"relations": [
+			"a76p1"
+		],
+		"amendment": "7368f7a1fc5c38003fd73c00832bfce37143ad33",
+		"proposal": "2c967cd40ff60721101a23b1682745734b30fd84",
+		"implication": 5,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "044ceaccf1b8ac70559b51f664e86b35f6f73f5a",
+		"relations": [
+			"a76p1"
+		],
+		"amendment": "6b5816ec2df9f385efc2ec4392f9667265e37db5",
+		"proposal": "2c967cd40ff60721101a23b1682745734b30fd84",
+		"implication": 5,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "7228a6982b142e984fe900bcd58762be9a819106",
+		"relations": [
+			"a35p7"
+		],
+		"amendment": "fd64b49cff36914bd04936fbfeb60fb76a9c8f71",
+		"proposal": "aafa625b7b5ae79c8bdbf992326285131de21fdd",
+		"implication": 6,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "9895e01982185dbed36b59d573eb94ee3ad2950a",
+		"relations": [
+			"a35p7"
+		],
+		"amendment": "0c66baf34517c16225b49a517b23a7eea5ed82b8",
+		"proposal": "aafa625b7b5ae79c8bdbf992326285131de21fdd",
+		"implication": 6,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "c0efc6e615b47d3c95f77acb8d7954f32df7867b",
+		"relations": [
+			"a35p1"
+		],
+		"amendment": "71eb5409eb1315838708800f44772ddfd22e3330",
+		"proposal": "c8aa1b62893b12c41bca4a790c5a36cece7ca7b6",
+		"implication": 7,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "1eaba99836848784232a177ea77bbeaab455a97c",
+		"relations": [
+			"a35p1"
+		],
+		"amendment": "8e38569f6fee1d622b4c0d07733cae34ced5696d",
+		"proposal": "c8aa1b62893b12c41bca4a790c5a36cece7ca7b6",
+		"implication": 7,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "14fa3baeae774f1b1838ebb5e70925acbacf4c7e",
+		"relations": [
+			"a35p1"
+		],
+		"amendment": "bffee1ae47729918fc5f036b5ece12f021ed5449",
+		"proposal": "c8aa1b62893b12c41bca4a790c5a36cece7ca7b6",
+		"implication": 7,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "c0efc6e615b47d3c95f77acb8d7954f32df7867b",
+		"relations": [
+			"a35p1"
+		],
+		"amendment": "71eb5409eb1315838708800f44772ddfd22e3330",
+		"proposal": "c8aa1b62893b12c41bca4a790c5a36cece7ca7b6",
+		"implication": 7,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "1eaba99836848784232a177ea77bbeaab455a97c",
+		"relations": [
+			"a35p1"
+		],
+		"amendment": "8e38569f6fee1d622b4c0d07733cae34ced5696d",
+		"proposal": "c8aa1b62893b12c41bca4a790c5a36cece7ca7b6",
+		"implication": 7,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "14fa3baeae774f1b1838ebb5e70925acbacf4c7e",
+		"relations": [
+			"a35p1"
+		],
+		"amendment": "bffee1ae47729918fc5f036b5ece12f021ed5449",
+		"proposal": "c8aa1b62893b12c41bca4a790c5a36cece7ca7b6",
+		"implication": 7,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "8b828169aa9a0df6bef2e5b2d0495d86007d5463",
+		"relations": [
+			"a7p4"
+		],
+		"amendment": "0573bbeee6c89d64801880913d680fafb2a09fb5",
+		"proposal": "1822ba294cb8989d58ac08e84d601bc6b19cea68",
+		"implication": 8,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "5deae9be7707e1bdb27946eb4dfefa0b562803a5",
+		"relations": [
+			"a7p4"
+		],
+		"amendment": "879308a58aa7ea098763aa14acb1f5ba432cd6fc",
+		"proposal": "1822ba294cb8989d58ac08e84d601bc6b19cea68",
+		"implication": 8,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "2dd182b3976936db542b6f5329dc4e51091064be",
+		"relations": [
+			"a7p4"
+		],
+		"amendment": "a095d0b563a59622dbcb7ba9f16d11b636c96bf0",
+		"proposal": "1822ba294cb8989d58ac08e84d601bc6b19cea68",
+		"implication": 8,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "448e8bc763db34d4f3a97061edd2722e6517f0d3",
+		"relations": [
+			"a7p4"
+		],
+		"amendment": "24e6b11c89952707cc7b4b237568194806e09cf6",
+		"proposal": "1822ba294cb8989d58ac08e84d601bc6b19cea68",
+		"implication": 8,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "772d4cd18b50d5644cad4fa8d926d372025e0ef7",
+		"relations": [
+			"a7p4"
+		],
+		"amendment": "0573bbeee6c89d64801880913d680fafb2a09fb5",
+		"proposal": "40f9b00c9c06a8d7f9d2845437e44c0461af6aec",
+		"implication": 8,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "94c323c176457c082d37f015a0430c51970a5223",
+		"relations": [
+			"a7p4"
+		],
+		"amendment": "879308a58aa7ea098763aa14acb1f5ba432cd6fc",
+		"proposal": "40f9b00c9c06a8d7f9d2845437e44c0461af6aec",
+		"implication": 8,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "52b96ad17c437e2c4c00ea4022d8ffcfa01d61c7",
+		"relations": [
+			"a7p4"
+		],
+		"amendment": "a095d0b563a59622dbcb7ba9f16d11b636c96bf0",
+		"proposal": "40f9b00c9c06a8d7f9d2845437e44c0461af6aec",
+		"implication": 8,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "7d64c2f64f144cf5d8ba9c5d6aa1365bdc8efddc",
+		"relations": [
+			"a7p4"
+		],
+		"amendment": "24e6b11c89952707cc7b4b237568194806e09cf6",
+		"proposal": "40f9b00c9c06a8d7f9d2845437e44c0461af6aec",
+		"implication": 8,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "99c7602bfe29ebd3bddabb45db6ddc6fc8e640bf",
+		"relations": [
+			"a9p2i10+"
+		],
+		"amendment": "019857a921e064009a6c953a5b5151aad576f0cc",
+		"proposal": "23f10fa0ef594f54380e9721068132e761604f39",
+		"implication": 10,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "2aff0dbdc25f81309b43e2df3c5d4332531f036c",
+		"relations": [
+			"a26p3+"
+		],
+		"amendment": "b10637620615d161def3eacbc90fd7c74bced66f",
+		"proposal": "2e7301514a2927bac21fea9a75c127fbfc7be553",
+		"implication": 12,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "ebd5125e9b0945eddb9366c67a7034e485cd2392",
+		"relations": [
+			"a26p3+"
+		],
+		"amendment": "78f9e9e3c7c35d2e21d613ada07483fef69c6cdf",
+		"proposal": "2e7301514a2927bac21fea9a75c127fbfc7be553",
+		"implication": 12,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "10b00b4613346c24b8287ad3902aa8d549b0faab",
+		"relations": [
+			"a26p2i4"
+		],
+		"amendment": "1871fd4177c6d6f242afaeb129b632b8674cfa7d",
+		"proposal": "ca3636e283336c28106d321969e3ab5a9d269a47",
+		"implication": 12,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "e4bbca1f931c849909e6456474590df53936e263",
+		"relations": [
+			"a26p2i4"
+		],
+		"amendment": "f8a9d7a00fef2e31a056a712d486009b87c81692",
+		"proposal": "ca3636e283336c28106d321969e3ab5a9d269a47",
+		"implication": 12,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "0630ded4dadfe59369f75a678b630b891abcb73a",
+		"relations": [
+			"a26p2i4"
+		],
+		"amendment": "38cd654a081cdf494bdfc93eb47bb152cb39e663",
+		"proposal": "ca3636e283336c28106d321969e3ab5a9d269a47",
+		"implication": 12,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "2b46df8c9c562b99e23ed468692be68f35aaa777",
+		"relations": [
+			"a26p2i4"
+		],
+		"amendment": "92407d0b5d0fc720ff85c85810f0127ea0f582f2",
+		"proposal": "ca3636e283336c28106d321969e3ab5a9d269a47",
+		"implication": 12,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "3d5792de0af12adf29a5cf55573bc45d92a47c15",
+		"relations": [
+			"a26p2i4"
+		],
+		"amendment": "91c9a625db17b09e4247c73a4ae6672c4d3ce912",
+		"proposal": "ca3636e283336c28106d321969e3ab5a9d269a47",
+		"implication": 12,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "b670109de5140d988234a4bac54cf536a39522f6",
+		"relations": [
+			"r25"
+		],
+		"amendment": "de97a85f94e85c508e8070873eeaf7566d2e217f",
+		"proposal": "d3f8bfec0a193ef45b7626b334d03ac71b6e3162",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "4c80bd81aaa4ba8ee3e45977dc3d0926ac155323",
+		"relations": [
+			"r32"
+		],
+		"amendment": "3a687d690e1275941771fd64a08a0bb0653a3f0a",
+		"proposal": "479694f5947624792a22763a3d8e27bdacabe00f",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "005f0df0c47f819070735c1ea0b4182b852b9037",
+		"relations": [
+			"r34"
+		],
+		"amendment": "7cc8f5e604bc27572888dbe036ddd4b43a557934",
+		"proposal": "be6dfcc1ae0f2563b7671e3e0306774164fe66ec",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "960c0cec9850523d45d69e1c72242e8d7d609847",
+		"relations": [
+			"r47"
+		],
+		"amendment": "32136b3c5b7db4bab8a08285dd8cafe10151924c",
+		"proposal": "53ac1cac9f6e0e901fad4c0ca309afc6e5e4b690",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "10a142ca26d55381766ce1fe5c4e34e0b791b18e",
+		"relations": [
+			"r50"
+		],
+		"amendment": "d12b9e8cf31b9c39486fdcac0fbd7c7e3d16139e",
+		"proposal": "a1aa2e151ff59ab9480bdec8733c26607f1b3529",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "29c524f8b7a1752c00a48434702b15b0dcabea51",
+		"relations": [
+			"r52"
+		],
+		"amendment": "d16a68e2290039c4ed9d868f1746b8bd14510e52",
+		"proposal": "8ebb2bc4fec64c7ccd63bc02393bd7b311b9dbb2",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "b7bc3dd250d18442df18acdeba15647038c0f575",
+		"relations": [
+			"r53"
+		],
+		"amendment": "cb212b296ce5f41e690a2c90fe5a5ee4c1ca8bfd",
+		"proposal": "5cb8fc463473acd517464de23e64cacc8d32d65b",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "d1bf991aae9e1648dab52d3723d13c73a05f0e66",
+		"relations": [
+			"r55"
+		],
+		"amendment": "ee7c130e1591242a5614d0aba86b7291cfd18fdf",
+		"proposal": "7f7dd5f679d5198042577c9462292ffded8b430f",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "9595a3dda6504bc342ad31ac08465063a65beaa9",
+		"relations": [
+			"r58"
+		],
+		"amendment": "eae2d681bb786af7275af39544737302e233bdf3",
+		"proposal": "af15aaa3e68b90b6c80169afcc922556d1a34a53",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "20b6b2d2c7c9da6be6645b07f5b0016b27e2ca40",
+		"relations": [
+			"r58"
+		],
+		"amendment": "34e4e2461a896d6ff37959c66ed0e53a8943ca76",
+		"proposal": "af15aaa3e68b90b6c80169afcc922556d1a34a53",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "909761273927ba9bc9775fa9eee74bb8a6fd8def",
+		"relations": [
+			"r59"
+		],
+		"amendment": "a303bac919a0933c4a5113431271ded885b9d546",
+		"proposal": "af15aaa3e68b90b6c80169afcc922556d1a34a53",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "a8adee54b7a6e778a1a53664442c8c252c9a588e",
+		"relations": [
+			"r61"
+		],
+		"amendment": "e717a04b5908136908e48a779454c9216d37afe8",
+		"proposal": "61d94c9380f2bda0de4784ba5c18f77efaf7576a",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "6e8ac5471ca439fd20e16b3473409d8e53543ebb",
+		"relations": [
+			"a3p2i1"
+		],
+		"amendment": "d1e57f3deeb50ba1c6552d3a7f49e3deeb21d810",
+		"proposal": "94c4420808cbcc3b774e9f803972d5f7919de808",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "20dd871371e060812f3e00a0f7db144f1ecaaa25",
+		"relations": [
+			"r121"
+		],
+		"amendment": "aba7c84fb7e9f919668e81130cea4f7bc446d8d3",
+		"proposal": "94c4420808cbcc3b774e9f803972d5f7919de808",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "038a04ef0030d6268eaaf4acf95240d0b044e9b4",
+		"relations": [
+			"a6p3+"
+		],
+		"amendment": "71f8cc29db4914d5b2c833e700a173f3d87cebf4",
+		"proposal": "859379253716ac0f837b2cdf43a39d9f707499a3",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "1dc817e9400dd8ef5865c9160b5292f963e5b5d4",
+		"relations": [
+			"a6p4"
+		],
+		"amendment": "fe511fa69ed90f587e02166bc6d1255313bc2ee2",
+		"proposal": "3e640bd847ded52022794562904c9f3a614f3511",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "ebc66e4e5234e8354c984823dac6b30b098487c0",
+		"relations": [
+			"a14p8"
+		],
+		"amendment": "1e893cb82550c2caeec05a2d1550c0dd75e8485d",
+		"proposal": "18fcbc67fdeba5e5f32d9c3655bad5e523b12268",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "d5b79cc70b80237cd43a15bc258f0ecb240de3e0",
+		"relations": [
+			"a15p1"
+		],
+		"amendment": "ac544f164295a47115988db50c1dcedb9464b1c4",
+		"proposal": "bd8f9197f1eb18baa14563c80ff54e82071a1559",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "df207553cc2bd49a6ba476fa41d8d3dbf27dc796",
+		"relations": [
+			"a18p2+"
+		],
+		"amendment": "08f68f4a3aa54a9eea0341867288de865108b455",
+		"proposal": "511135fe8b91f695cb81f5bb4d13b9bc097d53da",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "b21b1c05bee244c964b73d462b25349bccbb12af",
+		"relations": [
+			"a4i3+"
+		],
+		"amendment": "5c1c6a66e4682517fe04d64f8f13c5b961e4f773",
+		"proposal": "645084347ff7dad196c8638c52cc9a31e6837014",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "db4f1e97b47b495b1341360a31834563604aca06",
+		"relations": [
+			"a6p1i6"
+		],
+		"amendment": "4629796cff3eb7e1e08d4008a6e13a7b58a087c1",
+		"proposal": "2bf0f16d92c63593ca44431af4e9fa6116555b7f",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "9a84eb3f30baa8f7652744d08ab4d9f07c000bbc",
+		"relations": [
+			"a6p1i6"
+		],
+		"amendment": "fb41039430af8f333feccf6db2925b200fc406a1",
+		"proposal": "2bf0f16d92c63593ca44431af4e9fa6116555b7f",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "2f2d30ba8483424e09f8e7b49bd8138a860e92d7",
+		"relations": [
+			"a6p1i6"
+		],
+		"amendment": "39587812e00db62b2e86d5669fea5d8988f04e2f",
+		"proposal": "2bf0f16d92c63593ca44431af4e9fa6116555b7f",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "f9c96ec8e634fc1f9baf24d6fd3bb361a64c4aec",
+		"relations": [
+			"a6p3+"
+		],
+		"amendment": "71f8cc29db4914d5b2c833e700a173f3d87cebf4",
+		"proposal": "121aad9cd5d8d532f41d9b089a98af5151bf2564",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "3efc720c8cc443aefdbc590903394247e612dfa8",
+		"relations": [
+			"a6p4"
+		],
+		"amendment": "fe511fa69ed90f587e02166bc6d1255313bc2ee2",
+		"proposal": "7c629fa0205db7203fe90e74e7ebc659911ab054",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "bd8376b73614046ce1c09e70267df7a19498b852",
+		"relations": [
+			"a6p4"
+		],
+		"amendment": "0cc471264f85b23458e67b51d8a7a1b1b6b2deae",
+		"proposal": "7c629fa0205db7203fe90e74e7ebc659911ab054",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "7fa86fc72ef76b0b5a98f072523e7c6ded1da292",
+		"relations": [
+			"a8p3"
+		],
+		"amendment": "932d7a9098fdf3cc06b847f04d80a79935d43317",
+		"proposal": "1b0f1c92fed44b109e5c506c9a6397ff0e41268b",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "e460d6121a44a6dae073a4ccdb542cc6e253290a",
+		"relations": [
+			"a8p3"
+		],
+		"amendment": "200ae8f9463a29568e77a782f50bd431bf00ed43",
+		"proposal": "1b0f1c92fed44b109e5c506c9a6397ff0e41268b",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "055b3b7e7c102aeed1d8e07e3e63729decfedfc9",
+		"relations": [
+			"a14p1i7+"
+		],
+		"amendment": "4c134f7baf7aab9de422af19e6fe5149dc6963ef",
+		"proposal": "4f7caee752a94ff48d0b1d8a5f28ec3b59990a9f",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "65aaffbe8875edd3e50b1bb0c368d3fca57b27fe",
+		"relations": [
+			"a14p1i7+"
+		],
+		"amendment": "519d6ac0d42ba1259d107d16b603171c15a9edff",
+		"proposal": "9e8eea9df3967d298fe1618e115048013adb8af4",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "8a6561f27835a3e84fbdd6c3738ceb8f73e2710b",
+		"relations": [
+			"a15p1i8+"
+		],
+		"amendment": "ecff2f7076d0844699ff4be490a0f00859348914",
+		"proposal": "9578c9e26490e9dff3a22a81bd8d647e4f83b32a",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "2968f466540f780ae021178212c78595f0b3071c",
+		"relations": [
+			"a15p1i8+"
+		],
+		"amendment": "25ccc2836c8f07aa85e09831d6143c26d582a500",
+		"proposal": "9578c9e26490e9dff3a22a81bd8d647e4f83b32a",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "cf3feeb20650b158415b9d9cea64dfd354bc0b7a",
+		"relations": [
+			"a15p1i8+"
+		],
+		"amendment": "be68d25c0f6b28db96047ef0b0f2553bd5bf564d",
+		"proposal": "f24b09f6fce8638f11beb8517f944fa7ac30b6b2",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "eb050800859f1c48b1ebc10e0dcc0c2e4e9d98d8",
+		"relations": [
+			"a17p2"
+		],
+		"amendment": "cf92e6fd9eeff5444770e4a86fa36973470ab490",
+		"proposal": "31acacd9f6d23e8fd08b24db7f3916127a894c24",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "1e76f403d35e56417dcf8097b8ceaefb894950b9",
+		"relations": [
+			"a17p2"
+		],
+		"amendment": "ccbc757aee2a25a6bfdbc46b4a90bc5b7205de53",
+		"proposal": "31acacd9f6d23e8fd08b24db7f3916127a894c24",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "925bc01c2b970b7432782d72dec3bc1d93f4beb9",
+		"relations": [
+			"a17p2"
+		],
+		"amendment": "3df5a4b7db5b601af355c57f84cea32665bf7e8f",
+		"proposal": "31acacd9f6d23e8fd08b24db7f3916127a894c24",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "1d1d1f1deef32e670fdd5e646034649197eaf324",
+		"relations": [
+			"a17p2"
+		],
+		"amendment": "c6e289df729b9f72b6d6691e7fae492b4c127ca9",
+		"proposal": "31acacd9f6d23e8fd08b24db7f3916127a894c24",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "9b577d9e921f8221f266b6d7e314bd50fa509af1",
+		"relations": [
+			"a18p2+"
+		],
+		"amendment": "08f68f4a3aa54a9eea0341867288de865108b455",
+		"proposal": "bf5457f279a44271a33b57b2a06365d7dfccd12e",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "5606fb63851cdb01d80795db6d484194c466e25a",
+		"relations": [
+			"a20p3+"
+		],
+		"amendment": "539eaf4b11bf8a3c6498c9db0313f22dd153d490",
+		"proposal": "4650bc118bf58f55eb0f7082d273372bff636504",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "2694426c60a95ec73c1f4763f1cd9374227d0e3b",
+		"relations": [
+			"a20p3+"
+		],
+		"amendment": "b5aad40e51a4abf777aa8ef50628ad3b715790f0",
+		"proposal": "4650bc118bf58f55eb0f7082d273372bff636504",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "8699a920754cc137fd540b0fd03a8007b033bc64",
+		"relations": [
+			"a20p3+"
+		],
+		"amendment": "8d8d6082a1cd63988c8ef195a4b7befa31613750",
+		"proposal": "4650bc118bf58f55eb0f7082d273372bff636504",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "2fe48e930e7e942c364a3dcb2746e43f99541308",
+		"relations": [
+			"a20p3+"
+		],
+		"amendment": "e6f7715ce2eb3da9925ec654d15071595d3f413b",
+		"proposal": "5735ab0c6a313276eb2808fc308fed8c05981183",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "4d6083d411db18f7d7b25240ef61563c377c4dd3",
+		"relations": [
+			"a20p3+"
+		],
+		"amendment": "075b69885407b6e18a82c3f50221927e287a281e",
+		"proposal": "5735ab0c6a313276eb2808fc308fed8c05981183",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "39df34a91e6fab7b041304cd967f3c517dec6f03",
+		"relations": [
+			"a20p3+"
+		],
+		"amendment": "1a4b95c7cc11361894bfca3991bfae1a7d7ce002",
+		"proposal": "5735ab0c6a313276eb2808fc308fed8c05981183",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "0240a439acb9b2ae6918eede0c6be05104dc9104",
+		"relations": [
+			"a21p1"
+		],
+		"amendment": "67b65bf2acd14eca023e27b749499132af2809f8",
+		"proposal": "009b326fa792fd8fcc71fad28f577da41a47725e",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "9574bb729aade04138188c6af4bbd818b0fa899c",
+		"relations": [
+			"a21p1i5"
+		],
+		"amendment": "615ac858921332011a1a7988115bcc94e95accfb",
+		"proposal": "d8c0b5434c62701235d7a3bf1e8cfa3b2c40f8a9",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "3dcfb53b1311434a7eee9e160e9cbac78d92985e",
+		"relations": [
+			"a21p2+"
+		],
+		"amendment": "56343c9057a682599eb223b9df0241941d8ff2bf",
+		"proposal": "f77f19687941dbc92515650cc34f5020b4f58efa",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "5c6bbd17bc1615eba18282cc93e8ea2618fa130a",
+		"relations": [
+			"a21p2+"
+		],
+		"amendment": "655ae6d063fda72088adf0271bbd4e0352ea9504",
+		"proposal": "2624cefd617cf142be7f8be53953cb3213924115",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "c99e8d9e92441d8426ab724d7c537a7e27dcf21e",
+		"relations": [
+			"a22p3+"
+		],
+		"amendment": "062ad2b1c8f9d04e770ba911c1d52bf72fc9bd16",
+		"proposal": "a47eec7f58ed3d27ca488dadfc7f5941f03a7e59",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "f555f4ab7735d5dca5432d5888dfe878b1a738ce",
+		"relations": [
+			"a25p2i1"
+		],
+		"amendment": "1d278aa58465708a2b0600d52ecf45156dd1c8c0",
+		"proposal": "8e893623aa9114dca18bf0b59970aaece5a8e66a",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "b58a473b783f03e4aadb63e6efc0b3a02ed6a3cf",
+		"relations": [
+			"a25p2i1"
+		],
+		"amendment": "f1bc6384a5721af49497a1b7372b3de80df85d82",
+		"proposal": "8e893623aa9114dca18bf0b59970aaece5a8e66a",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "d2112e5462b30c5b9992a5d0191e86f4929672ac",
+		"relations": [
+			"a28p4i2"
+		],
+		"amendment": "a289ea9dfe0944c7761d7fe0263ee905eb217399",
+		"proposal": "5c7de990eadada1078d3bd4fa2928d04178e9fae",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "c0ef397a1bf0b6a35afb6522b4ecaf3f2b5ec052",
+		"relations": [
+			"a26p2i8+"
+		],
+		"amendment": "2d12d73633d9f399ea1bcf10cfda233c054e5982",
+		"proposal": "945db701596ed0f601c19a0df9fe98dca246ed36",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "48c8e7656766f424b07f7fd754ce08c3a9346fa5",
+		"relations": [
+			"a31p1"
+		],
+		"amendment": "ec0f5010ab710db545ff258a112485f5cd8207a2",
+		"proposal": "45a1e24cc8d35bea539aef7d596c07026c1dd5d4",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "44dd1796371a473d577429f19d182696fa58ae99",
+		"relations": [
+			"a31p1"
+		],
+		"amendment": "9eae751b3dd8abbb006c6edf705d52c5e7e7a630",
+		"proposal": "45a1e24cc8d35bea539aef7d596c07026c1dd5d4",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "d18cd24b3bc98ce54081e1cb23dce1c5e3af5a3f",
+		"relations": [
+			"a31p1"
+		],
+		"amendment": "41e2d0b4dd37cff2b02ccc7215dc83941456b8a3",
+		"proposal": "45a1e24cc8d35bea539aef7d596c07026c1dd5d4",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "f3a8f3e816eb3f6cefcee33f4cba9065a1fdce00",
+		"relations": [
+			"a31p1"
+		],
+		"amendment": "75cc291faf0cfccf6f663ccec5261caf18e5027d",
+		"proposal": "45a1e24cc8d35bea539aef7d596c07026c1dd5d4",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
+		"processing": {
+			"checked": 0,
+			"verified": 0
+		}
+	},
+	{
+		"uid": "fef8c9fe1f88ab07cf65abd9296d1757fb62ce22",
+		"relations": [
+			"a31p4+"
+		],
+		"amendment": "436709379ba0003af085577c5a9ae84342b645b8",
+		"proposal": "725aa805a99424cce080d0b3f5a264be25876458",
+		"implication": null,
+		"match": 1,
+		"checked": true,
+		"verified": true,
 		"processing": {
 			"checked": 0,
 			"verified": 0
