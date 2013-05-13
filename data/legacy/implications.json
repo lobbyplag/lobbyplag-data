@@ -1,0 +1,227 @@
+[
+	{
+		"id": 1,
+		"text": {
+			"en": {
+				"short": "Forum Shopping",
+				"title": "\"Forum Shopping\" for IT Companies",
+				"description": "This amendment allows companies to \"designate\" its main establishment. The previous version of the law would make the member state of the factual \"main establishment\" responsible. This amendment allows massive \"forum shopping\" – companies can choose the member state with the weakest data protection authority or the littlest enforcement (e.g. UK or Ireland) while actually being situated in a totally different member state. Even Peter Fleischer (Google’s Privacy Officer) has recently criticized Microsoft for \"forum shopping\" in Luxemburg"
+			},
+			"de": {
+				"short": "Forum Shopping",
+				"title": "\"Such-Dir-den-lahmsten-Datenschützer\" für Konzerne",
+				"description": "Dieser Änderungsvorschlag würde es Konzernen überlassen, sich die zuständige Datenschutzbehörde selbst auszusuchen. In der ursprünglichen Version war automatisch das Land zuständig, in dem sich die Firmenzentrale befindet. Mit dieser Änderungen kann sich ein Unternehmen das Land mit den nachgiebigsten Datenschützern auswählen, etwa Irland oder Großbritannien. Sogar Peter Fleischer, der oberste Datenschützer bei Google, hat Microsoft diese \"Forum Shopping\" genannte Taktik vorgeworfen. Microsoft hatte sich Luxemburg ausgesucht."
+			}
+		}
+	},
+	{
+		"id": 2,
+		"text": {
+			"en": {
+				"short": "Limiting Law Application",
+				"title": "Limiting the Application of the Law",
+				"description": "The proposed amendment allows for much weaker protection for \"pseudonymous data\". But what is a \"pseudonym\"? Twitter e.g. allows nicknames, but in reality it is easy to find out the person behind the \"pseudonym\". The amendment also says that the exception should cover data if it takes \"disproportionate amount of time, expense and effort\" to attribute data to a person. In reality new technology often allows to attribute much of the \"anonymous\" or \"pseudonymous\" data to a person (at least with a very high statistical chance). At the same time users will be unable to find out and verify such factual attribution, because no one can look into the server farm of some US tech giant. In summary a low bar for \"pseudonym data\" is a giant loophole in the law."
+			},
+			"de": {
+				"short": "Schutzlose Nicknames",
+				"title": "Pseudonyme und Nicknames bleiben ungeschützt",
+				"description": "Dieser Änderungsvorschlag weicht den Schutz für Daten auf, die zusammen mit Nicknames oder Pseudonymen anfallen (etwa bei Twitter). Diese so genannten \"pseudonymen Daten\" sind nach diesem Vorschlag nicht geschützt, wenn es \"übermäßig viel Zeit, Kosten und Mühe\" verursachen würde, die Person hinter dem Pseudonym ausfindig zu machen. Tatsächlich ist es aber mit neuer Analysesoftware und entsprechender Rechenleistung immer leichter möglich, mit hoher Wahrscheinlichkeit von Pseudonymen auf reale Personen zu schließen. Natürlich hätten EU-Bürger keinerlei Recht dazu, über diesen Abgleich informiert zu werden, wenn er außerhalb der EU passiert. Ein geringerer Schutz für pseudonyme Daten wäre deswegen ein riesiges Schlupfloch in der EU-Grundverordnung."
+			}
+		}
+	},
+	{
+		"id": 3,
+		"text": {
+			"en": {
+				"short": "Lifting Limits for Data Processing",
+				"title": "\"Criminal Records\" at your Bank",
+				"description": "This amendment is a prime example for exemptions for special interest groups: The first sentence allows financial institutions to process even highly sensitive personal data (like sexual orientation, genetic data or data concerning health) when they can claim that they are processed \"in the context\" of fraud detection. The second sentence is even broader and is circular in the sense that it allows any processing of data relating to criminal offences in any context. Why don’t we just remove the special protection for data relating to \"criminal convictions\" in general?"
+			},
+			"de": {
+				"short": "Grenzenloses Speicherrecht",
+				"title": "Vorstrafen und Krankenakte bei Deiner Bank",
+				"description": "Auch hochsensible Daten wie sexuelle Orientierung, genetische Merkmale oder Gesundheitsdaten dürften von Banken oder Kredit-Auskunftdiensten gespeichert werden, wenn als Zweck \"Vermeidung von Betrug\" angegeben wird. Für Vorstrafen gilt nicht einmal diese Einschränkung. Dieser Änderungsvorschlag ist ein gutes Beispiel dafür, wie Interessensgruppen versuchen, Ausnahmen für ihre Branche zu erreichen."
+			}
+		}
+	},
+	{
+		"id": 4,
+		"text": {
+			"en": {
+				"short": "Lowering Penalites",
+				"title": "Lowering Penalties Further",
+				"description": "These provisions force authorities to overall lower penalties if the law is breached. It seems questionable that \"measures to ensure compliance\" or \"termination of the violation\" should be a mitigating factor, they just seem like a normal reaction when processing data or if being caught breaking the law. In reality this provision ensures that companies never have to pay the full fine."
+			},
+			"de": {
+				"short": "Mildere Strafen",
+				"title": "Mildere Strafen für Verstöße",
+				"description": "Dieser Vorschlag zwingt Datenschützer dazu, mildere Strafen zu verhängen, sobald ein Unternehmen seine rechtswidrigen Praktiken stoppt oder versucht, Verstöße in Zukunft zu verhindern. Beides ist aber selbstverständlich angesichts eines Rechtsbruchs. Dieser Vorschlag führt lediglich dazu, dass Unternehmen niemals die volle Strafe zahlen müssen."
+			}
+		}
+	},
+	{
+		"id": 5,
+		"text": {
+			"en": {
+				"short": "Disabling Comsumer Organisations",
+				"title": "Elimination of Enforcement by Consumer Organisations",
+				"description": "One of the advantages of the proposed regulation is the possibility for NGOs to enforce the rights for users – just like consumer organizations are already enforcing rights of consumers. Normal users have no time and money to sue e.g. Google. The amendment removes the possibility for collective enforcement - this means that millions of users have to sue \"tech giants\" individually."
+			},
+			"de": {
+				"short": "Keine Verbandsklage",
+				"title": "Verbraucherschützer dürfen nicht gegen Verstöße vorgehen",
+				"description": "Ein Vorteil der ursprünglich vorgeschlagenen EU-Grundverordnung war die so genannte Verbandsklage, als das Recht für Organisationen, im Namen von Bürgern gegen Verstöße gerichtlich vorzugehen. So etwas gibt es bereits im Verbraucherschutz. Normale Internet-Nutzer haben nicht das Geld und die Zeit, um beispielsweise Google vor Gericht zu zerren. Dieser Änderungsvorschlag streicht das Recht auf Verbandsklage - Millionen Nutzer müssten die Netzgiganten selbst verklagen."
+			}
+		}
+	},
+	{
+		"id": 6,
+		"text": {
+			"en": {
+				"short": "Limiting <abbr title=\"Data Protection Officer\">DPO</abbr>s Independence",
+				"title": "Limiting Independence of \"Data Protection Officers\"",
+				"description": "The \"Data Protection Officer\" should be a form of internal control and replaces external (government) control that currently exists in some member states. If the \"DPO\" can be fired at any time there is little chance that he will enforce the law against the management. It is usual that such functions (e.g. representation of employees) are protected from dismissal. This amendment removed this protection for the \"DPO\"."
+			},
+			"de": {
+				"short": "Schutzlose Datenschützer",
+				"title": "Interne Datenschutzbeauftragte ohne Kündigungsschutz",
+				"description": "Interne Datenschutzbeauftragte sollen Unternehmen auf die Finger schauen und so den staatlichen Datenschützern zuarbeiten. Wenn sie leicht entlassen werden können, können sie das Gesetz nicht gegen ihr eigenes Management durchsetzen. In Deutschland genießen Datenschutzbeauftragte einen besonderen Kündigungsschutz - mit diesem Änderungsantrag würde dieses Recht abgeschafft."
+			}
+		}
+	},
+	{
+		"id": 7,
+		"text": {
+			"en": {
+				"short": "Eliminating <abbr title=\"Data Protection Officer\">DPO</abbr>s",
+				"title": "Eliminination of \"Data Protection Officer\"",
+				"description": "The \"Data Protection Officer\" should be a form of internal control and replaces external (government) control that currently exists in some member states. According to this amendment a \"DPO\" should be optional, not mandatory: \"Should\" instead of \"shall\" - just one word that removes a whole control system."
+			},
+			"de": {
+				"short": "Datenschutzbeauftragte nach Belieben",
+				"title": "Datenschutzbeauftragte nach Belieben",
+				"description": "Interne Datenschutzbeauftragte sollen Unternehmen auf die Finger schauen und so den staatlichen Datenschützern zuarbeiten. Dieser Änderungsantrag stellt es Unternehmen frei, interne Datenschutzbeauftragte zu berufen. Im Entwurf steht \"should\" (kann) statt \"shall\" (soll) - ein einziges Wort kann ein ganzes Kontrollsystem abschaffen."
+			}
+		}
+	},
+	{
+		"id": 8,
+		"text": {
+			"en": {
+				"short": "Forcing Consent",
+				"title": "\"Consent\" without Alternative",
+				"description": "The original version ensured that companies cannot factually force users to a \"freely given\" consent to data processing when there is a significant imbalance (e.g. in an employer-context). This is already the law in many member states and is a concept in other fields of consumer laws as well. The amendment is deleting this protection for European citizens and allows companies to process data based on \"consent\" even in situations where users have no real possibility to say \"no\""
+			},
+			"de": {
+				"short": "Erzwungene Zustimmung",
+				"title": "\"Zustimmung\" ohne Alternative",
+				"description": "In der ursprünglichen Fassung war es für Unternehmen unmöglich, die \"freiwillige\" Zustimmung zur Datenverarbeitung zu erzwingen, wenn es keine wirkliche Wahlmöglichkeit gibt - etwa bei Unternehmern gegenüber ihren Mitarbeitern. Diese Einschränkung ist es bereits Gesetz in einigen EU-Ländern. Durch den Änderungsantrag wird dieser Schutz aber aufgehoben. Unternehmen können eine wirksame Zustimmung auch in Situationen geltend machen, in denen die Bürger gar keine reale Möglichkeit haben, \"Nein\" zu sagen."
+			}
+		}
+	},
+	{
+		"id": 9,
+		"text": {
+			"en": {
+				"short": "Limiting the \"Right to Access\"",
+				"title": "Electronic Access Requests are \"Risk for Fraud\"",
+				"description": "This amendment is limiting the right of citizens to obtain a copy of their personal data in an \"electronic form\". It is totally unclear how providing data in a digital form would be any more likely to create risk for fraud then answering access requests in a written form – on the other hand it makes it totally clear how absurd some of the amendments by lobby groups are. The \"Justification\" to the Amendment is talking about the necessity of \"authentication checks\" which is necessary before the response by a company, independent form the format of the response."
+			},
+			"de": {
+				"short": "Eingeschränkter Zugriff",
+				"title": "Zugriffsrechte sind ein \"Betrugsrisiko\"",
+				"description": "Dieser Änderungsantrag begrenzt das Recht der Bürger auf eine elektronische Kopie der über sie gespeicherten Daten. Argumentiert wird mit dem höheren Betrugsrisiko - allerdings ohne zu begründen, warum elektronisch übermittelte Daten einen Betrug wahrscheinlicher machen als z.B. Daten in Briefform. Die notwendige Authentifizierung müssen die speichernden Unternehmen ja für analog wie digital übermittelte Daten gleichermaßen sicherstellen."
+			}
+		}
+	},
+	{
+		"id": 10,
+		"text": {
+			"en": {
+				"short": "General Allowance process Data",
+				"title": "General Allowance to process Data \"relating to Criminal Offences\" and \"Sensitive Data\" for Fraud Detection",
+				"description": "This amendment is a prime example for exemptions for special interest groups. The amendment allows financial institutions to process even highly sensitive personal data (like sexual orientation, genetic data or data concerning health) when they can claim that they are processed \"in the context\" of fraud detection. The second sentence is even broader and is circular in the sense that it allows any processing of data relating to criminal offences in any context."
+			},
+			"de": {
+				"short": "Grenzenloses Speicherrecht",
+				"title": "Vorstrafen und Krankenakte bei Deiner Bank",
+				"description": "Auch hochsensible Daten wie sexuelle Orientierung, genetische Merkmale oder Gesundheitsdaten dürften von Banken oder Kredit-Auskunftdiensten gespeichert werden, wenn als Zweck \"Vermeidung von Betrug\" angegeben wird. Für Vorstrafen gilt nicht einmal diese Einschränkung. Dieser Änderungsvorschlag ist ein gutes Beispiel dafür, wie Interessensgruppen versuchen, Ausnahmen für ihre Branche zu erreichen."
+			}
+		}
+	},
+	{
+		"id": 11,
+		"text": {
+			"en": {
+				"short": "Limiting Scope on Profiling",
+				"title": "\"Profiling\" for everyone",
+				"description": "The broader protection against the negative effects of \"profiling\" were replaced by a very narrow right for citizens. It is again unclear what is meant by \"unfair\" or \"discriminatory\" – what might be perfectly fair in the view of a company might be seen as rather \"unfair\" by a user. In addition only the outcomes, not the \"profiling\" itself is limited by this provision."
+			},
+			"de": {
+				"short": "Freischein für \"Profiling\"",
+				"title": "\"Profiling\" wird nicht unterbunden",
+				"description": "Der vorgesehene, breit angelegte Schutz gegen die negativen Folgen von \"Profiling\" wird durch diesen Änderungsantrag verwässert. Beim \"Profiling\" werden Menschen mit Hilfe von Daten wie Alter, Bildung, Wohnort in bestimmte Gruppen eingeteilt, um etwa Versicherungsprämien festzulegen. Die Folgen dürfen nicht \"unfair\" or \"diskriminierend\" sein – aber diese Begriffe bieten zu viel Spielraum für Interpretationen. Zudem wird \"Profiling\" nicht grundsätzlich verboten."
+			}
+		}
+	},
+	{
+		"id": 12,
+		"text": {
+			"en": {
+				"short": "Limiting Duties for Cloud Providers",
+				"title": "Limiting the Duties of \"Cloud\" Providers",
+				"description": "The law tried to ensure that EU citizens’ data is secure when stored in non-EU \"clouds\". Cloud providers (like Amazon) want to limit the duties to protect EU citizens’ data in \"clouds\". It makes no sense to have binding rules for \"users\" of such services (e.g. EU businesses), but no or less rigid rules for \"cloud\" providers which actually control the servers where the data is held."
+			},
+			"de": {
+				"short": "Wenig Grenzen für Cloud-Dienste",
+				"title": "Wenig Grenzen für Anbieter von \"Cloud\"-Diensten ",
+				"description": "Wie sicher sind die Daten von EU-Bürgern, wenn sie außerhalb der Union gespeichert werden? Anbieter wie Amazon, die Rechenzentren rund um den Globus unterhalten, wollen die Verantwortung nicht tragen, die ihnen die strengen EU-Regeln auferlegen. Aber es ist sinnlos, wenn die Unternehmen als Nutzer von \"Cloud\"-Diensten auf Datenschutz achten müssen, während die Anbieter dieser Dienste - also die Betreiber der Server, auf denen die Daten wirklich liegen - frei schalten und walten."
+			}
+		}
+	},
+	{
+		"id": 13,
+		"text": {
+			"en": {
+				"short": "Discarding Data Minimization",
+				"title": "No more \"Data Minimization\"",
+				"description": "The wording is originally from the current law, but what is \"excessive\"? Is 1 Gigabyte of data for the purpose of targeted advertising \"excessive\"? ...are 10, 50 or 100 Megabyte \"excessive\"? The new definition originally proposed by the European Commission \"limited to the minimum necessary\" makes more sense by essentially saying every \"bit\" that is not necessary must be deleted."
+			},
+			"de": {
+				"short": "Adieu Datensparsamkeit",
+				"title": "Das Prinzip \"Datensparsamkeit\" verschwindet",
+				"description": "Die aktuelle Formulierung stammt aus der alten Datenschutz-Richtlinie. Aber was ist \"übermäßig\"? 1 Gigabyte für die Historie angeklickter Websiten in der Vergangenheit? Oder 10? Oder 500?. Die ursprüngliche Formulierung, die von der EU-Kommission vorgeschlagen wurde, lautete \"beschränkt auf das notwendige Minimum\". Das ist sinvoll. Jedes Bit, das nicht gebraucht wird, sollte gelöscht werden."
+			}
+		}
+	},
+	{
+		"id": 14,
+		"text": {
+			"en": {
+				"short": "Sharing Data",
+				"title": "Sharing Data with Anyone that has a \"Legitimate Interrest\"",
+				"description": "A company can process citizens’ data not only in its own interest, but also for \"legitimate interests\" 1. of \"third parties\" or 2.of \"parties to whom the data [is] disclosed\". This means that a company can share citizens’ data with anyone that has a \"legitimate interest\" in them. This could arguably be the content industry that has a \"legitimate interest\" in data from telecom providers. In fact no one knows what a \"legitimate interest\" really is. Especially not when it comes to the \"legitimate interests\" of \"third parties\" (which is in fact anyone in the world). The essence of this allowance currently exists in the law of many member states, but was intentionally replaced, given the problems describes above."
+			},
+			"de": {
+				"short": "Weitergabe von Daten",
+				"title": "Weitergabe an jeden, der ein \"legitimes Interesse\" hat",
+				"description": "Ein Unternehmen kann persönliche Daten nicht nur für eigene Zwecke verarbeiten, sondern auch für Dritte, die ein \"legitimes Interesse\" an der Verarbeitung haben - das kann alles sein, auch Medienunternehmen, die an die Nutzerdaten von Internet-Providern interessiert sind. So ist es in einigen EU-Staaten bereits geregelt - und diese Regelung wurde absichtlich außen vor gelassen, weil sie praktisch beliebige Weiterverarbeitung der Daten erlaubt."
+			}
+		}
+	},
+	{
+		"id": 15,
+		"text": {
+			"en": {
+				"short": "Diffusing Consent",
+				"title": "Lowering the Bar for \"Consent\"",
+				"description": "There are many situations when companies can process peoples’ data, e.g. when users give their \"consent\". But the opinions of what a valid \"consent\" is defer widely. Some even claimed that as long as users’ do not actively say \"no\" there is some form of consent. The European Commission has proposed to ask for \"explicit\" consent, so an \"active yes\". This is already the law in most member states, but the lobbyists ask for less: They wanted to attach the \"level of consent\" according to the \"context\". But what level of consent is now necessary in a given context? How \"explicit\" must consent be in a context where an explicit consent is impossible? In practice the amendment makes the requirement for an \"explicit consent\" useless."
+			},
+			"de": {
+				"short": "Zustimmung ohne Wert",
+				"title": "Zustimmung zur Datenverarbeitung wird unnötig",
+				"description": "Datenverarbeitung erfordert meistens die Zustimmung des Nutzers - darüber, wie die Zustimmung aussehen muss, gehen die Vorstellung auseinander. Die EU-Kommission fordert ein explizites Ja, das so genannte \"opt-in\", wie es auch in Deutschland Vorschrift ist. Die Lobbyisten wollen das aufweichen - der \"Grad der Zustimmung\" soll sich aus dem Zusammenhang ergeben. Dadurch wäre die \"opt-in\"-Regel de facto ausgehebelt."
+			}
+		}
+	}
+]
