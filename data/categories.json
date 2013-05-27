@@ -1,0 +1,112 @@
+[{
+		"id" : 1,
+		"text" : {
+			"en" : {
+				"short" : "Forum Shopping (bad) <-> Main establishment established by rules (good)",
+				"title" : "Choosing your own jurisdiction weakens data protection.",
+				"description" : "If companies can \"designate\" their main establishment, they will choose the weakest possible data protection environment, which will in turn weaken data protection."
+			}
+		}
+	},
+	{
+		"id" : 2,
+		"text" : {
+			"en" : {
+				"short" : "Less (bad) <-> more (good) rules for pseudonymous data",
+				"title" : "Less rules for pseudonimous data weakens data protection.",
+				"description" : "A low bar for \"pseudonym data\" is a giant loophole in the law, because it is easy to de-anonymize data."
+			}
+		}
+	},
+	{
+		"id" : 3,
+		"text" : {
+			"en" : {
+				"short" : "Less (bad) <-> more (good) limits for sensitive personal data",
+				"title" : "More limits result in stronger data protection.",
+				"description" : "Highly sensitive personal data (like sexual orientation, genetic data or data concerning health) is not needed for every purpose. "
+			}
+		}
+	}, {
+		"id" : 4,
+		"text" : {
+			"en" : {
+				"short" : "Lowering (bad) <-> raising (good) penalites",
+				"title" : "The higher the penalties, the better for data protection.",
+				"description" : "If the law is breached, there should be effectve fines."
+			}
+		}
+	}, {
+		"id" : 5,
+		"text" : {
+			"en" : {
+				"short" : "Less (bad) <-> more (good) rights for comsumer organisations",
+				"title" : "Enforcement by consumer organisations strengthens data protection",
+				"description" : "Normal users have no time and money to sue e.g. Google."
+			}
+		}
+	}, {
+		"id" : 6,
+		"text" : {
+			"en" : {
+				"short" : "limiting (bad) <-> expanding (good) the power of <abbr title=\"Data Protection Officer\">DPO</abbr>s",
+				"title" : "Limiting Independence of \"Data Protection Officers\"",
+				"description" : "The \"Data Protection Officer\" should be a form of internal control. They have to be independent, and protected against retaliation."
+			}
+		}
+	}, {
+		"id" : 8,
+		"text" : {
+			"en" : {
+				"short" : "Easy (bad) <-> hard (good) to obtain consumer consent",
+				"title" : "Meaningful \"consumer consent\" strengthens data protection",
+				"description" : "Companies should not be able to force users to a \"freely given\" consent to data processing."
+			}
+		}
+	}, {
+		"id" : 9,
+		"text" : {
+			"en" : {
+				"short" : "Hard (bad) <-> easy (good) access to data somebody has stored about you",
+				"title" : "Being able to see the data collected strengthens data protection",
+				"description" : "The right of citizens to obtain a copy of their personal data  - in an \"electronic form\" etc - is essential."
+			}
+		}
+	}, {
+		"id" : 11,
+		"text" : {
+			"en" : {
+				"short" : "Less (bad) <-> more (good) rules on profiling",
+				"title" : "\"Profiling\" is bad for data protection",
+				"description" : "The negative effects of \"profiling\" have to be limited with rules who can profile in the first place and how citizens can prevent companies from doing it."
+			}
+		}
+	}, {
+		"id" : 12,
+		"text" : {
+			"en" : {
+				"short" : "Less (bad) <-> more (good) limits for cloud providers",
+				"title" : "Limiting the duties of \"cloud\" providers weakens data protection",
+				"description" : "EU citizens’ data should be secure independent of where and by whom it is stored."
+			}
+		}
+	}, {
+		"id" : 13,
+		"text" : {
+			"en" : {
+				"short" : "Less (bad) <-> more (good) data minimization",
+				"title" : "\"Data Minimization\" strengthens data protection",
+				"description" : "Essentially every \"bit\" that is not necessary must be deleted, or not be stored in the first place."
+			}
+		}
+	}, {
+		"id" : 14,
+		"text" : {
+			"en" : {
+				"short" : "Less (bad) <-> more (good) rules for sharing data",
+				"title" : "Being able to share Data easily is bad for data protection",
+				"description" : "A company should not be able to share citizens’ data with anyone that has a \"legitimate interest\" in them (which is in fact anyone in the world)."
+			}
+		}
+	}
+]
