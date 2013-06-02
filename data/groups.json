@@ -2,41 +2,519 @@
 	"epp": {
 		"short": "EPP",
 		"long": "European People's Party",
-		"mep": 271
+		"mep": 271,
+		"local": {
+			"at": [
+				"Österreichische Volkspartei"
+			],
+			"be": [
+				"Centre Démocrate Humaniste",
+				"Christlich Soziale Partei",
+				"Christen-Democratisch & Vlaams"
+			],
+			"bg": [
+				"Citizens for European Development of Bulgaria",
+				"Blue Coalition"
+			],
+			"cy": [
+				"Dimokratikos Synagermos"
+			],
+			"cz": [
+				"Krestanská a demokratická unie - Ceskoslovenská strana lidová"
+			],
+			"dk": [
+				"Det Konservative Folkeparti"
+			],
+			"ee": [
+				"Erakond Isamaa ja Res Publica"
+			],
+			"fi": [
+				"Suomen Kristillisdemokraatit",
+				"Kansallinen Kokoomus"
+			],
+			"fr": [
+				"Union pour un Mouvement Populaire",
+				"Gauche moderne",
+				"Nouveau Centre",
+				"Europe Écologie"
+			],
+			"de": [
+				"Christlich Demokratische Union Deutschlands",
+				"Christlich-Soziale Union in Bayern e.V."
+			],
+			"gr": [
+				"Nea Dimokratia"
+			],
+			"hu": [
+				"Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt"
+			],
+			"ir": [
+				"Fine Gael Party"
+			],
+			"it": [
+				"Il Popolo della Libertà",
+				"Unione dei Democratici cristiani e dei Democratici di Centro",
+				"Unione Democratici per l'Europa",
+				"Futuro e Libertà per l'Italia",
+				"Io amo l'Italia",
+				"Südtiroler Volkspartei (Partito popolare sudtirolese)"
+			],
+			"lv": [
+				"Pilsoniska Savieniba",
+				"Jaunais laiks",
+				"Vienotiba"
+			],
+			"lt": [
+				"Tevynes sajunga"
+			],
+			"lu": [
+				"Parti chrétien social luxembourgeois"
+			],
+			"mt": [
+				"Partit Nazzjonalista"
+			],
+			"nl": [
+				"Christen Democratisch Appèl"
+			],
+			"pl": [
+				"Platforma Obywatelska",
+				"Polskie Stronnictwo Ludowe"
+			],
+			"pt": [
+				"Partido Social Democrata",
+				"Partido Popular"
+			],
+			"ro": [
+				"Partidul Democrat-Liberal",
+				"Romániai Magyar Demokrata Szövetség",
+				"Uniunea Democrata Maghiara din România"
+			],
+			"sk": [
+				"Strana mad'arskej koalície - Magyar Koalíció Pártja",
+				"Slovenská demokratická a krestanská únia",
+				"Krestanskodemokratické hnutie"
+			],
+			"si": [
+				"Slovenska demokratska stranka",
+				"Nova Slovenija"
+			],
+			"es": [
+				"Partido Popular",
+				"Unió Democràtica de Catalunya"
+			],
+			"se": [
+				"Moderata Samlingspartiet",
+				"Kristdemokraterna"
+			]
+		}
 	},
 	"sd": {
 		"short": "S&D",
 		"long": "Progressive Alliance of Socialists and Democrats",
-		"mep": 189
+		"mep": 189,
+		"local": {
+			"at": [
+				"Sozialdemokratische Partei Österreichs"
+			],
+			"be": [
+				"Parti Socialiste",
+				"Socialistische Partij.Anders",
+				"Socialistische Partij.Anders- Sociaal, Progressief, Internationaal, Regionaal, Integraal Democratisch, Toekomstgericht"
+			],
+			"bg": [
+				"Coalition for Bulgaria"
+			],
+			"cy": [
+				"Dimokratiko Komma",
+				"Kinima Sosialdimokraton EDEK"
+			],
+			"cz": [
+				"Ceská strana sociálne demokratická"
+			],
+			"dk": [
+				"Socialdemokratiet"
+			],
+			"ee": [
+				"Sotsiaaldemokraatlik Erakond"
+			],
+			"fi": [
+				"Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti"
+			],
+			"fr": [
+				"Parti socialiste"
+			],
+			"de": [
+				"Sozialdemokratische Partei Deutschlands"
+			],
+			"gr": [
+				"Panellinio Socialistiko Kinima"
+			],
+			"hu": [
+				"Magyar Szocialista Párt"
+			],
+			"ir": [
+				"Labour Party"
+			],
+			"it": [
+				"Partito Democratico"
+			],
+			"lv": [
+				"Independent"
+			],
+			"lt": [
+				"Lietuvos socialdemokratu partija"
+			],
+			"lu": [
+				"Parti ouvrier socialiste luxembourgeois"
+			],
+			"mt": [
+				"Partit Laburista"
+			],
+			"nl": [
+				"Partij van de Arbeid"
+			],
+			"pl": [
+				"Sojusz Lewicy Demokratycznej",
+				"Unia Pracy"
+			],
+			"pt": [
+				"Partido Socialista"
+			],
+			"ro": [
+				"Partidul Social Democrat",
+				"Alianta Politica Partidul Social Democrat + Partidul Conservator"
+			],
+			"sk": [
+				"SMER-Sociálna demokracia"
+			],
+			"si": [
+				"Socialni demokrati"
+			],
+			"es": [
+				"Partido Socialista Obrero Español",
+				"Partit dels Socialistes de Catalunya"
+			],
+			"se": [
+				"Arbetarepartiet- Socialdemokraterna"
+			],
+			"uk": [
+				"Labour",
+				"Scottish Labour Party"
+			]
+		}
 	},
 	"alde": {
 		"short": "ALDE",
 		"long": "Alliance of Liberals and Democrats for Europe",
-		"mep": 85
+		"mep": 85,
+		"local": {
+			"at": [
+				"Independent"
+			],
+			"be": [
+				"Mouvement Réformateur",
+				"Open Vlaamse Liberalen en Democraten",
+				"Open VLD"
+			],
+			"bg": [
+				"Movement for Rights and Freedoms",
+				"National Movement for Stability & Progress"
+			],
+			"dk": [
+				"Venstre, Danmarks Liberale Parti"
+			],
+			"ee": [
+				"Eesti Reformierakond",
+				"Independent"
+			],
+			"fi": [
+				"Suomen Keskusta",
+				"Svenska folkpartiet"
+			],
+			"fr": [
+				"Mouvement Démocrate",
+				"Citoyenneté Action Participation pour le 21ème siècle",
+				"Démocrates pour l'Europe"
+			],
+			"de": [
+				"Freie Demokratische Partei - Die Liberalen"
+			],
+			"ir": [
+				"Fianna Fáil Party",
+				"Independent"
+			],
+			"it": [
+				"Italia dei Valori",
+				"Partito Democratico",
+				"Independent",
+				"Italia dei Valori - Lista Di Pietro"
+			],
+			"lv": [
+				"LPP/LC"
+			],
+			"lt": [
+				"Lietuvos Respublikos liberalu sajudis",
+				"Darbo Partija"
+			],
+			"lu": [
+				"Parti démocratique"
+			],
+			"nl": [
+				"Democraten 66",
+				"Volkspartij voor Vrijheid en Democratie"
+			],
+			"ro": [
+				"Partidul National Liberal"
+			],
+			"sk": [
+				"Hnutie za demokratické Slovensko"
+			],
+			"si": [
+				"Liberalna Demokracija Slovenije",
+				"Zares"
+			],
+			"es": [
+				"Partido Nacionalista Vasco",
+				"Convergència Democràtica de Catalunya"
+			],
+			"se": [
+				"Centerpartiet",
+				"Folkpartiet liberalerna"
+			],
+			"uk": [
+				"Liberal Democrat"
+			]
+		}
 	},
 	"greens-efa": {
 		"short": "Greens/EFA",
 		"long": "The Greens – European Free Alliance ",
-		"mep": 59
+		"mep": 59,
+		"local": {
+			"at": [
+				"Die Grünen - Die Grüne Alternative"
+			],
+			"be": [
+				"Ecologistes Confédérés pour l'Organisation de Luttes Originales",
+				"Groen"
+			],
+			"dk": [
+				"Socialistisk Folkeparti"
+			],
+			"ee": [
+				"Independent"
+			],
+			"fi": [
+				"Vihreä liitto"
+			],
+			"fr": [
+				"Europe Écologie",
+				"Partitu di a Nazione Corsa"
+			],
+			"de": [
+				"Bündnis 90/Die Grünen"
+			],
+			"gr": [
+				"Ecologist Greens"
+			],
+			"lv": [
+				"Par cilveka tiesibam vienota Latvija"
+			],
+			"lu": [
+				"Déi Gréng - Les Verts"
+			],
+			"nl": [
+				"GroenLinks"
+			],
+			"pt": [
+				"Independent"
+			],
+			"es": [
+				"Bloque Nacionalista Galego",
+				"Iniciativa per Catalunya Verds"
+			],
+			"se": [
+				"Piratpartiet",
+				"Miljöpartiet de gröna",
+				"Miljöpartiet"
+			],
+			"uk": [
+				"Green Party",
+				"Scottish National Party",
+				"Plaid Cymru"
+			]
+		}
 	},
 	"ecr": {
 		"short": "ECR",
 		"long": "European Conservatives and Reformists",
-		"mep": 52
+		"mep": 52,
+		"local": {
+			"be": [
+				"Lijst DEDECKER"
+			],
+			"cz": [
+				"Obcanská demokratická strana"
+			],
+			"dk": [
+				"Independent"
+			],
+			"hu": [
+				"Magyar Demokrata Fórum"
+			],
+			"it": [
+				"Conservatori e Social Riformatori"
+			],
+			"lv": [
+				"Tevzemei un Brivibai/LNNK"
+			],
+			"lt": [
+				"Lietuvos lenku rinkimu akcija"
+			],
+			"nl": [
+				"ChristenUnie"
+			],
+			"pl": [
+				"Niezalezny",
+				"Prawo i Sprawiedliwosc",
+				"Polska Jest Najwazniejsza"
+			],
+			"uk": [
+				"UK Independence Party",
+				"Conservative",
+				"Ulster Conservatives and Unionists-New Force",
+				"Scottish Conservative and Unionist Party"
+			]
+		}
 	},
 	"efd": {
 		"short": "EFD",
 		"long": "Europe of Freedom and Democracy",
-		"mep": 34
+		"mep": 34,
+		"local": {
+			"dk": [
+				"Dansk Folkeparti"
+			],
+			"fi": [
+				"Perussuomalaiset"
+			],
+			"fr": [
+				"Mouvement pour la France"
+			],
+			"gr": [
+				"Laikos Orthodoxos Synagermos - G. Karatzaferis"
+			],
+			"it": [
+				"Lega Nord"
+			],
+			"lt": [
+				"Partija Tvarka ir teisingumas"
+			],
+			"nl": [
+				"Staatkundig Gereformeerde Parti"
+			],
+			"pl": [
+				"Solidarna Polska"
+			],
+			"sk": [
+				"Slovenská národná strana"
+			],
+			"uk": [
+				"UK Independence Party",
+				"Conservative"
+			]
+		}
 	},
 	"gue-ngl": {
 		"short": "GUE/NGL",
 		"long": "European United Left – Nordic Green Left",
-		"mep": 34
+		"mep": 34,
+		"local": {
+			"cy": [
+				"Anorthotiko Komma Ergazomenou Laou - Aristera - Nees Dynameis"
+			],
+			"cz": [
+				"Komunistická strana Cech a Moravy"
+			],
+			"dk": [
+				"Folkebevægelsen mod EU"
+			],
+			"fr": [
+				"Front de gauche pour changer d'Europe (LCOP)",
+				"Front de gauche pour changer d’Europe",
+				"Liste Alliance des Outre-Mers"
+			],
+			"de": [
+				"DIE LINKE"
+			],
+			"gr": [
+				"Kommounistiko Komma Elladas",
+				"SYRIZA"
+			],
+			"ir": [
+				"Socialist Party"
+			],
+			"lv": [
+				"Politisko partiju apvieniba Saskanas centrs"
+			],
+			"nl": [
+				"Socialistische Partij",
+				"Onafhankelijk lid"
+			],
+			"pt": [
+				"Partido Comunista Português",
+				"Bloco de Esquerda"
+			],
+			"es": [
+				"Izquierda Unida"
+			],
+			"se": [
+				"Vänsterpartiet"
+			],
+			"uk": [
+				"Sinn Fein"
+			]
+		}
 	},
 	"ni": {
 		"short": "NI",
 		"long": "Non-Inscrits",
-		"mep": 30
+		"mep": 30,
+		"local": {
+			"at": [
+				"Liste Dr. Hans-Peter Martin - Für Demokratie, Kontrolle, Gerechtigkeit",
+				"Freiheitliche Partei Österreichs",
+				"Bündnis Zukunft Österreich"
+			],
+			"be": [
+				"Vlaams Belang",
+				"Onafhankelijk"
+			],
+			"bg": [
+				"People for Real, Open and United Democracy / Conservative Party for Democracy and Success",
+				"National-Democratic Party"
+			],
+			"fr": [
+				"Front national"
+			],
+			"hu": [
+				"Jobbik Magyarországért Mozgalom"
+			],
+			"nl": [
+				"Partij voor de Vrijheid",
+				"Onafhankelijk lid"
+			],
+			"ro": [
+				"Partidul România Mare"
+			],
+			"es": [
+				"Unión Progreso y Democracia"
+			],
+			"uk": [
+				"Democratic Unionist Party",
+				"UK Independence Party",
+				"We Demand a Referendum"
+			]
+		}
 	}
 }
