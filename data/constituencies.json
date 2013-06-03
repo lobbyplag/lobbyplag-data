@@ -1,0 +1,1266 @@
+{
+	"cy": [
+		{
+			"id": "cy_akel",
+			"short": "AKEL",
+			"long": "Progressive Party of Working People - Left - New Forces",
+			"group": "gue-ngl"
+		},
+		{
+			"id": "cy_disy",
+			"short": "DISY",
+			"long": "Democratic Rally",
+			"group": "epp"
+		},
+		{
+			"id": "cy_edek",
+			"short": "EDEK",
+			"long": "Movement for Social Democracy EDEK",
+			"group": "sd"
+		},
+		{
+			"id": "cy_diko",
+			"short": "DIKO",
+			"long": "Democratic Party",
+			"group": "sd"
+		}
+	],
+	"se": [
+		{
+			"id": "se_m",
+			"short": "M",
+			"long": "Moderata Samlingspartiet",
+			"group": "epp"
+		},
+		{
+			"id": "se_sap",
+			"short": "SAP",
+			"long": "Arbetarepartiet- Socialdemokraterna",
+			"group": "sd"
+		},
+		{
+			"id": "se_pp",
+			"short": "PP",
+			"long": "Piratpartiet",
+			"group": "greens-efa"
+		},
+		{
+			"id": "se_fp",
+			"short": "FP",
+			"long": "Folkpartiet liberalerna",
+			"group": "alde"
+		},
+		{
+			"id": "se_c",
+			"short": "C",
+			"long": "Centerpartiet",
+			"group": "alde"
+		},
+		{
+			"id": "se_mp",
+			"short": "MP",
+			"long": "Miljöpartiet de gröna",
+			"group": "greens-efa"
+		},
+		{
+			"id": "se_kd",
+			"short": "KD",
+			"long": "Kristdemokraterna",
+			"group": "epp"
+		},
+		{
+			"id": "se_v",
+			"short": "V",
+			"long": "Vänsterpartiet",
+			"group": "gue-ngl"
+		}
+	],
+	"dk": [
+		{
+			"id": "dk_sd",
+			"short": "SD",
+			"long": "Socialdemokratiet",
+			"group": "sd"
+		},
+		{
+			"id": "dk_venstr",
+			"short": "VENSTR",
+			"long": "Venstre, Danmarks Liberale Parti",
+			"group": "alde"
+		},
+		{
+			"id": "dk_dkf",
+			"short": "DKF",
+			"long": "Det Konservative Folkeparti",
+			"group": "epp"
+		},
+		{
+			"id": "dk_loose",
+			"short": "L",
+			"long": "Løsgænger",
+			"group": "ecr"
+		},
+		{
+			"id": "dk_danskf",
+			"short": "DANSKF",
+			"long": "Dansk Folkeparti",
+			"group": "ecr"
+		},
+		{
+			"id": "dk_folkeb",
+			"short": "FOLKEB",
+			"long": "Folkebevægelsen mod EU",
+			"group": "gue-ngl"
+		},
+		{
+			"id": "dk_sf",
+			"short": "SF",
+			"long": "Socialistisk Folkeparti",
+			"group": "sd"
+		}
+	],
+	"uk": [
+		{
+			"id": "uk_lab",
+			"short": "LAB",
+			"long": "Labour Party",
+			"group": "sd"
+		},
+		{
+			"id": "uk_con",
+			"short": "CON",
+			"long": "Conservative Party",
+			"group": "ecr"
+		},
+		{
+			"id": "uk_ld",
+			"short": "LD",
+			"long": "Liberal Democrats Party",
+			"group": "alde"
+		},
+		{
+			"id": "uk_green",
+			"short": "Green",
+			"long": "Green Party",
+			"group": "greens-efa"
+		},
+		{
+			"id": "uk_ukip",
+			"short": "UKIP",
+			"long": "United Kingdom Independence Party",
+			"group": "efd"
+		},
+		{
+			"id": "uk_dup",
+			"short": "DUP",
+			"long": "Democratic Unionist Party (Northern Ireland)",
+			"group": "ni"
+		},
+		{
+			"id": "uk_bnp",
+			"short": "BNP",
+			"long": "British National Party",
+			"group": "ni"
+		},
+		{
+			"id": "uk_scgreen",
+			"short": "Green",
+			"long": "Scottish National Party",
+			"group": "greens-efa"
+		},
+		{
+			"id": "uk_uup",
+			"short": "UUP",
+			"long": "Ulster Conservatives and Unionists-New Force",
+			"group": "ecr"
+		},
+		{
+			"id": "uk_wdar",
+			"short": "WDAR",
+			"long": "We Demand a Referendum",
+			"group": "ni"
+		},
+		{
+			"id": "uk_uki",
+			"short": "UKI",
+			"long": "United Kingdom Independent",
+			"group": "ni"
+		},
+		{
+			"id": "uk_sf",
+			"short": "SF",
+			"long": "Sinn Féin",
+			"group": "gue-ngl"
+		},
+		{
+			"id": "uk_pc",
+			"short": "PC",
+			"long": "Plaid Cymru - Party of Wales",
+			"group": "greens-efa"
+		}
+	],
+	"de": [
+		{
+			"id": "de_cdu",
+			"short": "CDU",
+			"long": "Christlich Demokratische Union Deutschlands",
+			"group": "epp"
+		},
+		{
+			"id": "de_fdp",
+			"short": "FDP",
+			"long": "Freie Demokratische Partei",
+			"group": "alde"
+		},
+		{
+			"id": "de_csu",
+			"short": "CSU",
+			"long": "Christlich-Soziale Union in Bayern e.V.",
+			"group": "epp"
+		},
+		{
+			"id": "de_spd",
+			"short": "SPD",
+			"long": "Sozialdemokratische Partei Deutschlands",
+			"group": "sd"
+		},
+		{
+			"id": "de_gruen",
+			"short": "Grünen",
+			"long": "Bündnis 90/Die Grünen",
+			"group": "greens-efa"
+		},
+		{
+			"id": "de_linke",
+			"short": "Linke",
+			"long": "DIE LINKE.",
+			"group": "gue-ngl"
+		}
+	],
+	"it": [
+		{
+			"id": "it_pdl",
+			"short": "PDL",
+			"long": "Il Popolo della Libertà",
+			"group": "epp"
+		},
+		{
+			"id": "it_ln",
+			"short": "LegaNord",
+			"long": "Lega Nord",
+			"group": "efd"
+		},
+		{
+			"id": "it_valori",
+			"short": "Valori",
+			"long": "Italia dei Valori - Lista Di Pietro",
+			"group": "alde"
+		},
+		{
+			"id": "it_valori",
+			"short": "Valori",
+			"long": "Italia dei Valori - Lista Di Pietro (Indipendente)",
+			"group": "alde"
+		},
+		{
+			"id": "it_pd",
+			"short": "PD",
+			"long": "Partito Democratico",
+			"group": "sd"
+		},
+		{
+			"id": "it_udc",
+			"short": "UDC",
+			"long": "Unione dei Democratici cristiani e dei Democratici di Centro",
+			"group": "epp"
+		},
+		{
+			"id": "it_pps",
+			"short": "PPS",
+			"long": "Südtiroler Volkspartei (Partito popolare sudtirolese)",
+			"group": "epp"
+		},
+		{
+			"id": "it_fdicn",
+			"short": "FdI–CN",
+			"long": "Fratelli d'Italia - Centrodestra Nazionale",
+			"group": "epp"
+		},
+		{
+			"id": "it_api",
+			"short": "ApI",
+			"long": "Alleanza per l'Italia",
+			"group": "sd"
+		},
+		{
+			"id": "it_ali",
+			"short": "ALI",
+			"long": "\"Io amo l'Italia\"",
+			"group": "efd"
+		},
+		{
+			"id": "it_fli",
+			"short": "FLI",
+			"long": "Futuro e Libertà per l'Italia",
+			"group": "epp"
+		},
+		{
+			"id": "it_csr",
+			"short": "CSR",
+			"long": "Conservatori e Social Riformatori",
+			"group": "ecr"
+		},
+		{
+			"id": "it_udeur",
+			"short": "UDEUR",
+			"long": "Unione Democratici per l'Europa",
+			"group": "epp"
+		}
+	],
+	"pl": [
+		{
+			"id": "pl_po",
+			"short": "PO",
+			"long": "Platforma Obywatelska",
+			"group": "epp"
+		},
+		{
+			"id": "pl_n",
+			"short": "N",
+			"long": "Niezależny",
+			"group": "ecr"
+		},
+		{
+			"id": "pl_pis",
+			"short": "PIS",
+			"long": "Prawo i Sprawiedliwość",
+			"group": "ecr"
+		},
+		{
+			"id": "pl_pjn",
+			"short": "PJN",
+			"long": "Polska Jest Najważniejsza",
+			"group": "ecr"
+		},
+		{
+			"id": "pl_sld",
+			"short": "SLD",
+			"long": "Sojusz Lewicy Demokratycznej",
+			"group": "sd"
+		},
+		{
+			"id": "pl_psl",
+			"short": "PSL",
+			"long": "Polskie Stronnictwo Ludowe",
+			"group": "epp"
+		},
+		{
+			"id": "pl_up",
+			"short": "UP",
+			"long": "Unia Pracy",
+			"group": "sd"
+		},
+		{
+			"id": "pl_sp",
+			"short": "SP",
+			"long": "Solidarna Polska",
+			"group": "efd"
+		}
+	],
+	"fr": [
+		{
+			"id": "fr_udi",
+			"short": "UDI",
+			"long": "Union des Démocrates et Indépendants",
+			"group": "epp"
+		},
+		{
+			"id": "fr_lgm",
+			"short": "LGM",
+			"long": "La Gauche moderne",
+			"group": "epp"
+		},
+		{
+			"id": "fr_ps",
+			"short": "PS",
+			"long": "Parti socialiste",
+			"group": "sd"
+		},
+		{
+			"id": "fr_ump",
+			"short": "UMP",
+			"long": "Union pour un Mouvement Populaire",
+			"group": "epp"
+		},
+		{
+			"id": "fr_fgpce",
+			"short": "FGPCE",
+			"long": "Front de gauche pour changer d’Europe",
+			"group": "gue-ngl"
+		},
+		{
+			"id": "fr_ump",
+			"short": "UMP",
+			"long": "Union pour un Mouvement Populaire - Parti Radical",
+			"group": "epp"
+		},
+		{
+			"id": "fr_ee",
+			"short": "EE",
+			"long": "Europe Écologie",
+			"group": "greens-efa"
+		},
+		{
+			"id": "fr_modem",
+			"short": "MODEM",
+			"long": "Mouvement Démocrate",
+			"group": "alde"
+		},
+		{
+			"id": "fr_umpqv",
+			"short": "UMP",
+			"long": "Liste \"Quand l’Europe veut, l’Europe peut ― Majorité présidentielle ― UMP ― Nouveau Centre ― la Gauche moderne\"",
+			"group": "epp"
+		},
+		{
+			"id": "fr_prudd",
+			"short": "PR/UDD",
+			"long": "Parti Radical / Union des Démocrates et Indépendants",
+			"group": "epp"
+		},
+		{
+			"id": "fr_fn",
+			"short": "FN",
+			"long": "Front national",
+			"group": "ni"
+		},
+		{
+			"id": "fr_pnc",
+			"short": "PNC",
+			"long": "Partitu di a Nazione Corsa",
+			"group": "greens-efa"
+		},
+		{
+			"id": "fr_nc",
+			"short": "NC",
+			"long": "Nouveau Centre",
+			"group": "epp"
+		},
+		{
+			"id": "fr_gdr",
+			"short": "GDR",
+			"long": "Gauche Démocrate et Républicaine",
+			"group": "greens-efa"
+		},
+		{
+			"id": "fr_cap21",
+			"short": "CAP21",
+			"long": "Citoyenneté Action Participation pour le 21ème siècle",
+			"group": "alde"
+		},
+		{
+			"id": "fr_adom",
+			"short": "ADOM",
+			"long": "Liste \"Alliance des Outre-Mers\"",
+			"group": "gue-ngl"
+		},
+		{
+			"id": "fr_mpf",
+			"short": "MPF",
+			"long": "Mouvement pour la France",
+			"group": "efd"
+		},
+		{
+			"id": "fr_prg",
+			"short": "PRG",
+			"long": "Parti Radical",
+			"group": "epp"
+		}
+	],
+	"es": [
+		{
+			"id": "es_pp",
+			"short": "PP",
+			"long": "Partido Popular",
+			"group": "epp"
+		},
+		{
+			"id": "es_udc",
+			"short": "UDC",
+			"long": "Unió Democràtica de Catalunya",
+			"group": "epp"
+		},
+		{
+			"id": "es_cpe",
+			"short": "CpE",
+			"long": "Coalición por Europa",
+			"group": "epp"
+		},
+		{
+			"id": "es_psoe",
+			"short": "PSOE",
+			"long": "Partido Socialista Obrero Español",
+			"group": "sd"
+		},
+		{
+			"id": "es_psc",
+			"short": "PSC",
+			"long": "Partit dels Socialistes de Catalunya",
+			"group": "sd"
+		},
+		{
+			"id": "es_pnv",
+			"short": "PNV",
+			"long": "Partido Nacionalista Vasco",
+			"group": "alde"
+		},
+		{
+			"id": "es_icv",
+			"short": "ICV",
+			"long": "Iniciativa per Catalunya Verds",
+			"group": "greens-efa"
+		},
+		{
+			"id": "es_upyd",
+			"short": "UPyD",
+			"long": "Unión, Progreso y Democracia",
+			"group": "ni"
+		},
+		{
+			"id": "es_cdc",
+			"short": "CDC",
+			"long": "Convergència Democràtica de Catalunya",
+			"group": "alde"
+		},
+		{
+			"id": "es_iu",
+			"short": "IU",
+			"long": "Izquierda Unida",
+			"group": "gue-ngl"
+		},
+		{
+			"id": "es_bng",
+			"short": "BNG",
+			"long": "Bloque Nacionalista Galego",
+			"group": "greens-efa"
+		}
+	],
+	"at": [
+		{
+			"id": "at_spoe",
+			"short": "SPÖ",
+			"long": "Sozialdemokratische Partei Österreichs",
+			"group": "sd"
+		},
+		{
+			"id": "at_green",
+			"short": "Grüne",
+			"long": "Die Grünen - Die Grüne Alternative",
+			"group": "greens-efa"
+		},
+		{
+			"id": "at_oevp",
+			"short": "ÖVP",
+			"long": "Österreichische Volkspartei",
+			"group": "epp"
+		},
+		{
+			"id": "at_bzoe",
+			"short": "BZÖ",
+			"long": "Bündnis Zukunft Österreich",
+			"group": "ni"
+		},
+		{
+			"id": "at_fdkg",
+			"short": "fDKG",
+			"long": "Liste \"Dr. Martin - für Demokratie, Kontrolle, Gerechtigkeit\"",
+			"group": "ni"
+		},
+		{
+			"id": "at_fpoe",
+			"short": "FPÖ",
+			"long": "Freiheitliche Partei Österreichs",
+			"group": "ni"
+		}
+	],
+	"fi": [
+		{
+			"id": "fi_sdp",
+			"short": "SDP",
+			"long": "Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti",
+			"group": "sd"
+		},
+		{
+			"id": "fi_kok",
+			"short": "Kok",
+			"long": "Kansallinen Kokoomus",
+			"group": "epp"
+		},
+		{
+			"id": "fi_sfp",
+			"short": "SFP",
+			"long": "Svenska folkpartiet",
+			"group": "alde"
+		},
+		{
+			"id": "fi_kd",
+			"short": "KD",
+			"long": "Suomen kristillisdemokraatit",
+			"group": "epp"
+		},
+		{
+			"id": "fi_kesk",
+			"short": "KESK",
+			"long": "Suomen Keskusta",
+			"group": "alde"
+		},
+		{
+			"id": "fi_vihr",
+			"short": "VIHR",
+			"long": "Vihreä liitto",
+			"group": "greens-efa"
+		},
+		{
+			"id": "fi_ps",
+			"short": "PS",
+			"long": "Perussuomalaiset",
+			"group": "efd"
+		}
+	],
+	"mt": [
+		{
+			"id": "mt_pn",
+			"short": "PN",
+			"long": "Partit Nazzjonalista",
+			"group": "epp"
+		},
+		{
+			"id": "mt_pl",
+			"short": "PL",
+			"long": "Partit Laburista",
+			"group": "sd"
+		}
+	],
+	"hu": [
+		{
+			"id": "hu_fidesz",
+			"short": "FIDESZ",
+			"long": "Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt",
+			"group": "epp"
+		},
+		{
+			"id": "hu_mszp",
+			"short": "MSZP",
+			"long": "Magyar Szocialista Párt",
+			"group": "sd"
+		},
+		{
+			"id": "hu_jobbik",
+			"short": "JOBBIK",
+			"long": "Jobbik Magyarországért Mozgalom",
+			"group": "ni"
+		},
+		{
+			"id": "hu_mdf",
+			"short": "MDF",
+			"long": "Magyar Demokrata Fórum",
+			"group": "ecr"
+		}
+	],
+	"ro": [
+		{
+			"id": "ro_pnl",
+			"short": "PNL",
+			"long": "Partidul Naţional Liberal",
+			"group": "alde"
+		},
+		{
+			"id": "ro_psd",
+			"short": "PSD",
+			"long": "Partidul Social Democrat",
+			"group": "sd"
+		},
+		{
+			"id": "ro_udmr",
+			"short": "UDMR",
+			"long": "Uniunea Democrată Maghiară din România",
+			"group": "epp"
+		},
+		{
+			"id": "ro_pdl",
+			"short": "PD-L",
+			"long": "Partidul Democrat-Liberal",
+			"group": "epp"
+		},
+		{
+			"id": "ro_psdpc",
+			"short": "PSD-PC",
+			"long": "Partidul Social Democrat + Partidul Conservator",
+			"group": "sd"
+		},
+		{
+			"id": "ro_prm",
+			"short": "PRM",
+			"long": "Partidul România Mare",
+			"group": "ni"
+		}
+	],
+	"ir": [
+		{
+			"id": "ir_fg",
+			"short": "FG",
+			"long": "Fine Gael Party",
+			"group": "epp"
+		},
+		{
+			"id": "ir_ff",
+			"short": "FF",
+			"long": "Fianna Fáil Party",
+			"group": "alde"
+		},
+		{
+			"id": "ir_lab",
+			"short": "LAB",
+			"long": "Labour Party",
+			"group": "sd"
+		},
+		{
+			"id": "ir_soc",
+			"short": "SOC",
+			"long": "Socialist Party",
+			"group": "gue-ngl"
+		}
+	],
+	"bg": [
+		{
+			"id": "bg_kb",
+			"short": "KB",
+			"long": "Coalition for Bulgaria",
+			"group": "sd"
+		},
+		{
+			"id": "bg_hacb",
+			"short": "НДСВ",
+			"long": "National Movement for Stability and Progress",
+			"group": "alde"
+		},
+		{
+			"id": "bg_gerb",
+			"short": "GERB",
+			"long": "Citizens for European Development of Bulgaria",
+			"group": "epp"
+		},
+		{
+			"id": "bg_dps",
+			"short": "ДПС",
+			"long": "Movement for Rights and Freedoms",
+			"group": "alde"
+		},
+		{
+			"id": "bg_ataka",
+			"short": "Ataka",
+			"long": "Attack",
+			"group": "efd"
+		},
+		{
+			"id": "bg_proud",
+			"short": "PROUD",
+			"long": "People for Real, Open and United Democracy / Conservative Party for Democracy and Success",
+			"group": "efd"
+		},
+		{
+			"id": "bg_sds",
+			"short": "SDS",
+			"long": "Blue Coalition",
+			"alt": ["Union of Democratic Forces","Democratic Party"],
+			"group": "epp"
+		},
+		{
+			"id": "bg_ndp",
+			"short": "NDP",
+			"long": "National-Democratic Party",
+			"group": "ni"
+		},
+		{
+			"id": "bg_dsb",
+			"short": "DSB",
+			"long": "Democrats for Strong Bulgaria",
+			"group": "epp"
+		}
+	],
+	"gr": [
+		{
+			"id": "gr_pasok",
+			"short": "PASOK",
+			"long": "Panhellenic Socialist Movement",
+			"group": "sd"
+		},
+		{
+			"id": "gr_nd",
+			"short": "ND",
+			"long": "Nea Demokratia",
+			"group": "epp"
+		},
+		{
+			"id": "gr_kke",
+			"short": "ΚΚΕ",
+			"long": "Communist Party of Greece",
+			"group": "gue-ngl"
+		},
+		{
+			"id": "gr_syriza",
+			"short": "SYRIZA",
+			"long": "Coalition of the Radical Left",
+			"group": "gue-ngl"
+		},
+		{
+			"id": "gr_ip",
+			"short": "IP",
+			"long": "Ecologist Greens",
+			"alt": ["Ikologi Prasini"],
+			"group": "greens-efa"
+		},
+		{
+			"id": "gr_laos",
+			"short": "LAOS",
+			"long": "Popular Orthodox Rally - G. Karatzaferis",
+			"group": "efd"
+		},
+		{
+			"id": "gr_disy",
+			"short": "DISY",
+			"long": "Democratic Alliance",
+			"group": "alde"
+		}
+	],
+	"be": [
+		{
+			"id": "be_mr",
+			"short": "MR",
+			"long": "Mouvement Réformateur",
+			"group": "alde"
+		},
+		{
+			"id": "be_openvld",
+			"short": "OpenVld",
+			"long": "Open Vlaamse Liberalen en Democraten",
+			"group": "alde"
+		},
+		{
+			"id": "be_spa",
+			"short": "SP-A",
+			"long": "Socialistische Partij.Anders",
+			"group": "sd"
+		},
+		{
+			"id": "be_cdv",
+			"short": "CD&V",
+			"long": "Christen-Democratisch & Vlaams",
+			"group": "epp"
+		},
+		{
+			"id": "be_vb",
+			"short": "VB",
+			"long": "Vlaams Belang",
+			"group": "ni"
+		},
+		{
+			"id": "be_ps",
+			"short": "PS",
+			"long": "Parti Socialiste",
+			"group": "sd"
+		},
+		{
+			"id": "be_csp",
+			"short": "CSP",
+			"long": "Christlich Soziale Partei",
+			"group": "epp"
+		},
+		{
+			"id": "be_ecolo",
+			"short": "Ecolo",
+			"long": "Ecologistes Confédérés pour l'Organisation de Luttes Originales",
+			"group": "greens-efa"
+		},
+		{
+			"id": "be_nva",
+			"short": "N-VA",
+			"long": "Nieuw-Vlaamse Alliantie",
+			"group": "greens-efa"
+		},
+		{
+			"id": "be_in",
+			"short": "IN",
+			"long": "Onafhankelijk",
+			"group": "efd"
+		},
+		{
+			"id": "be_cdh",
+			"short": "cdH",
+			"long": "Centre Démocrate Humaniste",
+			"group": "epp"
+		},
+		{
+			"id": "be_ldd",
+			"short": "LDD",
+			"long": "Lijst Dedecker",
+			"group": "ecr"
+		},
+		{
+			"id": "be_groen",
+			"short": "Groen!",
+			"long": "Groen",
+			"group": "greens-efa"
+		}
+	],
+	"nl": [
+		{
+			"id": "nl_vdd",
+			"short": "VVD",
+			"long": "Volkspartij voor Vrijheid en Democratie",
+			"group": "alde"
+		},
+		{
+			"id": "nl_cda",
+			"short": "CDA",
+			"long": "Christen Democratisch Appèl",
+			"group": "epp"
+		},
+		{
+			"id": "nl_d66",
+			"short": "D66",
+			"long": "Democraten 66",
+			"group": "alde"
+		},
+		{
+			"id": "nl_gl",
+			"short": "GL",
+			"long": "GroenLinks",
+			"group": "greens-efa"
+		},
+		{
+			"id": "nl_sgp",
+			"short": "SGP",
+			"long": "Staatkundig Gereformeerde Partij",
+			"group": "efd"
+		},
+		{
+			"id": "nl_cusgp",
+			"short": "CU/SGP",
+			"long": "ChristenUnie - Staatkundig Gereformeerde Parti",
+			"group": "efd"
+		},
+		{
+			"id": "nl_cu",
+			"short": "CU",
+			"long": "ChristenUnie",
+			"group": "ecr"
+		},
+		{
+			"id": "nl_pvdA",
+			"short": "PvdA",
+			"long": "Partij van de Arbeid",
+			"group": "sd"
+		},
+		{
+			"id": "nl_pvv",
+			"short": "PVV",
+			"long": "Partij voor de Vrijheid",
+			"group": "ni"
+		},
+		{
+			"id": "nl_sp",
+			"short": "SP",
+			"long": "Socialistische Partij",
+			"group": "gue-ngl"
+		},
+		{
+			"id": "nl_in",
+			"short": "IN",
+			"long": "Onafhankelijk lid",
+			"group": "gue-ngl"
+		},
+		{
+			"id": "nl_a50",
+			"short": "A50",
+			"long": "Artikel 50",
+			"group": "ni"
+		}
+	],
+	"lu": [
+		{
+			"id": "lu_lcv",
+			"short": "LCV",
+			"long": "Parti chrétien social luxembourgeois",
+			"group": "epp"
+		},
+		{
+			"id": "lu_posl",
+			"short": "POSL",
+			"long": "Parti ouvrier socialiste luxembourgeois",
+			"group": "sd"
+		},
+		{
+			"id": "lu_dp",
+			"short": "DP",
+			"long": "Parti démocratique",
+			"group": "alde"
+		},
+		{
+			"id": "lu_ deigreng",
+			"short": "Gréng",
+			"long": "Déi Gréng - Les Verts",
+			"group": "greens-efa"
+		}
+	],
+	"pt": [
+		{
+			"id": "pt_psd",
+			"short": "PSD",
+			"long": "Partido Social Democrata",
+			"group": "epp"
+		},
+		{
+			"id": "pt_in",
+			"short": "IN",
+			"long": "Independente",
+			"group": "greens-efa"
+		},
+		{
+			"id": "pt_be",
+			"short": "BE",
+			"long": "Bloco de Esquerda",
+			"alt": "Bloco de Esquerda (Independente)",
+			"group": "gue-ngl"
+		},
+		{
+			"id": "pt_ps",
+			"short": "PS",
+			"long": "Partido Socialista",
+			"alt": ["Parti socialiste"],
+			"group": "sd"
+		},
+		{
+			"id": "pt_cdspp",
+			"short": "CDS-PP",
+			"long": "Partido Popular",
+			"group": "epp"
+		},
+		{
+			"id": "pt_pctpmrpp",
+			"short": "PCTP-MRPP",
+			"long": "Partido Comunista Português",
+			"group": "gue-ngl"
+		}
+	],
+	"cz": [
+		{
+			"id": "cz_cssd",
+			"short": "ČSSD",
+			"long": "Česká strana sociálně demokratická",
+			"group": "sd"
+		},
+		{
+			"id": "cz_ods",
+			"short": "ODS",
+			"long": "Občanská demokratická strana",
+			"group": "ecr"
+		},
+		{
+			"id": "cz_kducsl",
+			"short": "KDU–ČSL",
+			"long": "Křesťanská a demokratická unie - Československá strana lidová",
+			"group": "epp"
+		},
+		{
+			"id": "cz_kscm",
+			"short": "KSČM",
+			"long": "Komunistická strana Čech a Moravy",
+			"group": "gue-ngl"
+		}
+	],
+	"lt": [
+		{
+			"id": "lt_lsdp",
+			"short": "LSDP",
+			"long": "Lietuvos socialdemokratų partija",
+			"group": "sd"
+		},
+		{
+			"id": "lt_tslkd",
+			"short": "TS-LKD",
+			"long": "Tėvynės sąjunga - Lietuvos krikščionys demokratai",
+			"group": "epp"
+		},
+		{
+			"id": "lt_lrls",
+			"short": "LRLS",
+			"long": "Lietuvos Respublikos liberalų sąjūdis",
+			"group": "alde"
+		},
+		{
+			"id": "lt_tt",
+			"short": "TT",
+			"long": "Partija Tvarka ir teisingumas",
+			"group": "efd"
+		},
+		{
+			"id": "lt_dp",
+			"short": "DP",
+			"long": "Darbo partija",
+			"group": "alde"
+		},
+		{
+			"id": "lt_llra",
+			"short": "LLRA",
+			"long": "Lietuvos lenkų rinkimų akcija",
+			"group": "ecr"
+		}
+	],
+	"sk": [
+		{
+			"id": "sk_kdh",
+			"short": "KDH",
+			"long": "Kresťanskodemokratické hnutie",
+			"group": "epp"
+		},
+		{
+			"id": "sk_smer",
+			"short": "SMER",
+			"long": "SMER-Sociálna demokracia",
+			"group": "sd"
+		},
+		{
+			"id": "sk_lshzds",
+			"short": "LS-HZDS",
+			"long": "Ľudová strana - Hnutie za demokratické Slovensko",
+			"group": "alde"
+		},
+		{
+			"id": "sk_sdku",
+			"short": "SDKU",
+			"long": "Slovenská demokratická a kresťanská únia - Demokratická strana",
+			"group": "epp"
+		},
+		{
+			"id": "sk_smkmkp",
+			"short": "SMK-MKP",
+			"long": "Strana mad'arskej komunity- Magyar Közösség Pártja",
+			"group": "epp"
+		},
+		{
+			"id": "sk_sns",
+			"short": "SNS",
+			"long": "Slovenská národná strana",
+			"group": "efd"
+		}
+	],
+	"lv": [
+		{
+			"id": "lv_tblnnk",
+			"short": "TB/LNNK",
+			"long": "Tēvzemei un Brīvībai/LNNK",
+			"group": "ecr"
+		},
+		{
+			"id": "lv_lpplc",
+			"short": "LPP/LC",
+			"long": "Latvijas Pirmā Partija/Latvijas Ceļš",
+			"group": "alde"
+		},
+		{
+			"id": "lv_vie",
+			"short": "Vie",
+			"long": "Vienotība",
+			"group": "epp"
+		},
+		{
+			"id": "lv_ps",
+			"short": "PS",
+			"long": "Pilsoniskā Savienība",
+			"group": "epp"
+		},
+		{
+			"id": "lv_ppasc",
+			"short": "PPA/SC",
+			"long": "Politisko partiju apvienība \"Saskaņas centrs\"",
+			"group": "gue-ngl"
+		},
+		{
+			"id": "lv_pctvl",
+			"short": "PCTVL",
+			"long": "Par cilvēka tiesībām vienotā Latvijā",
+			"group": "greens-efa"
+		},
+		{
+			"id": "lv_jl",
+			"short": "JL",
+			"long": "Jaunais laiks",
+			"group": "epp"
+		}
+	],
+	"si": [
+		{
+			"id": "si_sd",
+			"short": "SD",
+			"long": "Socialni demokrati",
+			"group": "sd"
+		},
+		{
+			"id": "si_sds",
+			"short": "SDS",
+			"long": "Slovenska demokratska stranka",
+			"group": "epp"
+		},
+		{
+			"id": "si_lds",
+			"short": "LDS",
+			"long": "Liberalna Demokracija Slovenije",
+			"group": "alde"
+		},
+		{
+			"id": "si_nsikls",
+			"short": "NSi-KLS",
+			"long": "Nova Slovenija - Krščanska ljudska stranka",
+			"group": "epp"
+		},
+		{
+			"id": "si_zares",
+			"short": "Zares",
+			"long": "ZARES-Nova Politika",
+			"group": "alde"
+		}
+	],
+	"ee": [
+		{
+			"id": "ee_irl",
+			"short": "IRL",
+			"long": "Erakond Isamaa ja Res Publica Liit",
+			"group": "epp"
+		},
+		{
+			"id": "ee_ref",
+			"short": "REF",
+			"long": "Eesti Reformierakond",
+			"group": "alde"
+		},
+		{
+			"id": "ee_kesk",
+			"short": "KESK",
+			"long": "Eesti Keskerakond",
+			"group": "alde"
+		},
+		{
+			"id": "ee_ersp",
+			"short": "ERSP",
+			"long": "Sõltumatu",
+			"group": "alde"
+		},
+		{
+			"id": "ee_sde",
+			"short": "SDE",
+			"long": "Sotsiaaldemokraatlik Erakond",
+			"group": "sd"
+		}
+	]
+}
