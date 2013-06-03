@@ -189,8 +189,8 @@ var _merge_mep = function (id, _data_parsed) {
 			if (_pmep.Photo) {
 				_mep.urls['photo'] = _pmep.Photo;
 			}
-			if (_pmep.Homepage) {
-				_mep.urls['homepage'] = _pmep.Homepage;
+			if ((_pmep.Homepage) && (_pmep.Homepage.length > 0)) {
+				_mep.urls['homepage'] = _pmep.Homepage[0];
 			}
 			var _groups = _pmep.Groups.filter(function (g) {
 				return g.end === '9999-12-31T00:00:00';
