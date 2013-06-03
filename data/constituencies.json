@@ -772,7 +772,10 @@
 			"id": "bg_sds",
 			"short": "SDS",
 			"long": "Blue Coalition",
-			"alt": ["Union of Democratic Forces","Democratic Party"],
+			"alt": [
+				"Union of Democratic Forces",
+				"Democratic Party"
+			],
 			"group": "epp"
 		},
 		{
@@ -817,7 +820,9 @@
 			"id": "gr_ip",
 			"short": "IP",
 			"long": "Ecologist Greens",
-			"alt": ["Ikologi Prasini"],
+			"alt": [
+				"Ikologi Prasini"
+			],
 			"group": "greens-efa"
 		},
 		{
@@ -1030,14 +1035,16 @@
 			"id": "pt_be",
 			"short": "BE",
 			"long": "Bloco de Esquerda",
-			"alt": "Bloco de Esquerda (Independente)",
+			"alt": ["Bloco de Esquerda (Independente)"],
 			"group": "gue-ngl"
 		},
 		{
 			"id": "pt_ps",
 			"short": "PS",
 			"long": "Partido Socialista",
-			"alt": ["Parti socialiste"],
+			"alt": [
+				"Parti socialiste"
+			],
 			"group": "sd"
 		},
 		{

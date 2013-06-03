@@ -219,12 +219,12 @@ var _merge_mep = function (id, _data_parsed) {
 				if (!_found)
 					console.log('Group ' + _group_ids + ' could no be updated');
 			}
-			_mep.constituencies = _pmep.Constituencies.filter(function (c) {
+			var _constituencies = _pmep.Constituencies.filter(function (c) {
 				return c.end === '9999-12-31T00:00:00';
 			}).map(function (c) {
 					var _cc = _get_countrycode(c.country);
 					constituencies[_cc] = constituencies[_cc] || [];
-					var _party = (!constituencies[_cc].findByLongName(c.party));
+					var _party = constituencies[_cc].findByLongName(c.party);
 					if ((!_party)) {
 						if (c.party !== '-') {
 							_party = {id: _cc + "_", short: "", long: c.party, group: _mep.group};
@@ -236,6 +236,10 @@ var _merge_mep = function (id, _data_parsed) {
 					}
 					return _party.id;
 				});
+			delete _mep.constituencies;
+			if (_constituencies.length > 0) {
+				_mep.constituency = _constituencies[0];
+			}
 
 			_mep.committees = _pmep.Committees.filter(function (c) {
 				return (c.end === '9999-12-31T00:00:00') && (c.committee_id);
