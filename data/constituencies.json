@@ -390,6 +390,7 @@
 			"id": "fr_ump",
 			"short": "UMP",
 			"long": "Union pour un Mouvement Populaire",
+			"alt": ["Liste \"Quand l’Europe veut, l’Europe peut ― Majorité présidentielle ― UMP ― Nouveau Centre ― la Gauche moderne\""],
 			"group": "epp"
 		},
 		{
@@ -400,7 +401,7 @@
 		},
 		{
 			"id": "fr_ump",
-			"short": "UMP",
+			"short": "UMP/PR",
 			"long": "Union pour un Mouvement Populaire - Parti Radical",
 			"group": "epp"
 		},
@@ -415,12 +416,6 @@
 			"short": "MODEM",
 			"long": "Mouvement Démocrate",
 			"group": "alde"
-		},
-		{
-			"id": "fr_umpqv",
-			"short": "UMP",
-			"long": "Liste \"Quand l’Europe veut, l’Europe peut ― Majorité présidentielle ― UMP ― Nouveau Centre ― la Gauche moderne\"",
-			"group": "epp"
 		},
 		{
 			"id": "fr_prudd",
@@ -461,7 +456,8 @@
 		{
 			"id": "fr_adom",
 			"short": "ADOM",
-			"long": "Liste \"Alliance des Outre-Mers\"",
+			"long": "\"Alliance des Outre-Mers\"",
+			"alt": ["Liste \"Alliance des Outre-Mers\""],
 			"group": "gue-ngl"
 		},
 		{
@@ -573,7 +569,8 @@
 		{
 			"id": "at_fdkg",
 			"short": "fDKG",
-			"long": "Liste \"Dr. Martin - für Demokratie, Kontrolle, Gerechtigkeit\"",
+			"long": "Dr. Martin - für Demokratie, Kontrolle, Gerechtigkeit",
+			"alt": ["Liste \"Dr. Martin - für Demokratie, Kontrolle, Gerechtigkeit\""],
 			"group": "ni"
 		},
 		{
