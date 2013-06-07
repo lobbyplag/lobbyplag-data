@@ -3690,6 +3690,11 @@
 		"group": "greens-efa",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/96699/",
 		"agw": null,
+		"email": "jean-paul.besset@europarl.europa.eu",
+		"firstname": "Jean-Paul",
+		"surname": "Besset",
+		"title": "Mr",
+		"salutation": "Monsieur l'eurodéputé,",
 		"parltrack_id": 96699,
 		"active": true,
 		"committees": [
@@ -6878,6 +6883,11 @@
 		"agw": null,
 		"parltrack_id": 96751,
 		"active": true,
+		"email": "nick.griffin@europarl.europa.eu",
+		"firstname": "Nick",
+		"surname": "Griffin",
+		"title": "Mr",
+		"salutation": "Dear Mr Griffin,",
 		"committees": [
 			{
 				"id": "envi",
@@ -10284,6 +10294,11 @@
 		"agw": null,
 		"parltrack_id": 96695,
 		"active": true,
+		"email": "radvile.morkunaite-mikuleniene@europarl.europa.eu",
+		"firstname": "Radvilė",
+		"surname": "Morkūnaitė-Mikulėnienė",
+		"title": "Mrs",
+		"salutation": "Dear Mrs Morkūnaitė-Mikulėnienė,",
 		"committees": [
 			{
 				"id": "envi",
@@ -13557,6 +13572,11 @@
 		"agw": null,
 		"parltrack_id": 116816,
 		"active": true,
+		"email": "preslav.borissov@europarl.europa.eu",
+		"firstname": "Preslav",
+		"surname": "Borissov",
+		"title": "Mr",
+		"salutation": "Dear Mr Borissov",
 		"committees": [
 			{
 				"id": "imco",
@@ -13616,6 +13636,11 @@
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/117477/",
 		"agw": null,
 		"parltrack_id": 117477,
+		"email": "mark.demesmaeker@europarl.europa.eu",
+		"firstname": "Mark",
+		"surname": "Demesmaeker",
+		"title": "Mr",
+		"salutation": "Dear Mr Demesmaeker,",
 		"active": true,
 		"committees": [
 			{
@@ -13640,6 +13665,11 @@
 		"country": "ro",
 		"group": "ni",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/117119/",
+		"email": "dandumitru.zamfirescu@europarl.europa.eu",
+		"firstname": "Dan Dumitru",
+		"surname": "Zamfirescu",
+		"title": "Mr",
+		"salutation": "Dear Mr Zamfirescu,",
 		"agw": null,
 		"parltrack_id": 117119,
 		"active": true,
@@ -13731,6 +13761,11 @@
 		"group": "epp",
 		"lqdn": "https://memopol.lqdn.fr/europe/parliament/deputy_from_ep_id/118144/",
 		"agw": null,
+		"email": "andreas.pitsillides@europarl.europa.eu",
+		"firstname": "Andreas",
+		"surname": "Pitsillides",
+		"title": "Mr",
+		"salutation": "Dear Mr Pitsillides,",
 		"parltrack_id": 118144,
 		"active": true,
 		"committees": [
@@ -13924,6 +13959,11 @@
 		"agw": null,
 		"parltrack_id": 37312,
 		"active": true,
+		"firstname": "Christel",
+		"surname": "Schaldemose",
+		"title": "Ms",
+		"salutation": "Dear Ms Schaldemose,",
+		"email": "christel.schaldemose@europarl.europa.eu",
 		"committees": [
 			{
 				"id": "imco",
@@ -18816,6 +18856,11 @@
 		"agw": null,
 		"parltrack_id": 96790,
 		"active": true,
+		"email": "marekjozef.grobarczyk@europarl.europa.eu",
+		"firstname": "Marek Józef",
+		"surname": "Gróbarczyk",
+		"title": "Mr",
+		"salutation": "Dear Mr Gróbarczyk,",
 		"committees": [
 			{
 				"id": "pech",
@@ -23618,6 +23663,11 @@
 		"agw": null,
 		"parltrack_id": 96749,
 		"active": true,
+		"email": "andrew.brons@europarl.europa.eu",
+		"firstname": "Andrew Henry William",
+		"surname": "Brons",
+		"title": "Mr",
+		"salutation": "Dear Mr Brons,",
 		"committees": [
 			{
 				"id": "afco",
