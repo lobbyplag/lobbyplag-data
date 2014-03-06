@@ -12,8 +12,8 @@ JSON.parse(fs.readFileSync(path.resolve(__dirname, '../../data/directive.json'))
 
 var fails = [];
 
-var ptrel = function(_loc) {
-	var _relp = ptloc(_loc);
+var ptrel = function(_loc, _doc_id) {
+	var _relp = ptloc(_loc, _doc_id);
 	var _relations = [];
 
 	if (_relp === "") return [];
@@ -51,7 +51,7 @@ var ptrel = function(_loc) {
 	
 }
 
-var ptloc = function(_loc) {
+var ptloc = function(_loc, _doc_id) {
 	var _m = false;
 	var _id = [];
 	_loc = _loc.toLowerCase().replace(/[^a-z0-9]+/g,' ').replace(/^\s+|\s+$/,'');
@@ -207,9 +207,8 @@ var ptloc = function(_loc) {
 			// not in our scope. irrellevant?
 			return 'x';
 		}
-		
-		console.error("stopped with:", _loc);
-		console.error("found so far:", _id.join(''));
+
+		console.error(_doc_id + " found so far: " +  _id.join('') + " stopped with: " +  _loc);
 		process.exit(1);
 		break;
 	}
